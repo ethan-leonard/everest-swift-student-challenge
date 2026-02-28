@@ -92,27 +92,17 @@ private struct NavBar: View {
     }
     
     private func loadShareImage() {
-        guard let url = URL(string: courseImageURL), !courseImageURL.isEmpty else { return }
+        guard !courseImageURL.isEmpty else { return }
         
-        Task {
-            if let cached = await ImageCacheService.shared.get(forKey: courseImageURL) {
-                shareImage = cached
-                return
-            }
-            
-            do {
-                let (data, _) = try await URLSession.shared.data(from: url)
-                if let image = UIImage(data: data) {
-                    await ImageCacheService.shared.set(image, forKey: courseImageURL)
-                    await MainActor.run {
-                        shareImage = image
-                    }
-                }
-            } catch {
-                #if DEBUG
-                print("[CourseDetail] Share image load failed: \(error.localizedDescription)")
-                #endif
-            }
+        // Use local asset in playground instead of network download
+        let assetName = courseImageURL
+            .components(separatedBy: "/").last?
+            .replacingOccurrences(of: ".png", with: "")
+            .replacingOccurrences(of: ".jpg", with: "")
+            .components(separatedBy: "?").first ?? courseImageURL
+        
+        if let image = UIImage(named: assetName) {
+            shareImage = image
         }
     }
     

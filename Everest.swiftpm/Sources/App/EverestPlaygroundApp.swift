@@ -43,7 +43,7 @@ struct EverestPlaygroundApp: App {
                 if hasCompletedOnboarding {
                     MainTabView()
                 } else {
-                    OnboardingCalculatingView()
+                    OnboardingFlowView()
                 }
             }
             .preferredColorScheme(.light) // Force light mode for consistent demo view
