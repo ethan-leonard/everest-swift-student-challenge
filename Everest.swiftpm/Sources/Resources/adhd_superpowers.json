@@ -1,0 +1,2376 @@
+{
+    "id": "adhd_superpowers",
+    "title": "ADHD Superpowers",
+    "description": "Turn your distraction into hyperfocus. Discover how the ADHD brain works and leverage its unique strengths.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/adhd_superpowers.png",
+    "coverImagePrompt": "",
+    "altitude": 4200,
+    "durationMinutes": 95,
+    "whatsInside": [
+        "Understand the neuroscience behind ADHD and dopamine regulation",
+        "Harness hyperfocus for deep productive sprints",
+        "Build external systems that compensate for working memory",
+        "Transform perceived weaknesses into competitive advantages"
+    ],
+    "expertReview": {
+        "quote": "Finally, a resource that celebrates the ADHD brain rather than pathologizing it. Practical strategies grounded in real neuroscience.",
+        "name": "Dr. Edward Hallowell",
+        "title": "Psychiatrist & Author, Driven to Distraction"
+    },
+    "chapters": [
+        {
+            "id": "adhd_superpowers-ch1",
+            "title": "ADHD Superpowers Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "adhd_superpowers-1-1",
+                    "title": "Understanding Your ADHD Brain",
+                    "order": 1,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Brain Works Differently",
+                            "body": "ADHD brains are wired for creativity, innovation, and thinking outside the box. While neurotypical brains follow predictable patterns, yours takes unique pathways that often lead to breakthrough insights.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Dopamine Connection",
+                            "body": "Your brain produces less dopamine naturally, making you seek more stimulating experiences. This isn't a deficit - it's why you're drawn to novel ideas and can think in ways others cannot.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p3",
+                            "pageType": "question",
+                            "headline": "What makes ADHD brains unique?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower baseline dopamine levels",
+                                    "Smaller prefrontal cortex size",
+                                    "Faster processing speeds",
+                                    "Higher stress hormone production"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Hyperfocus vs Hypofocus",
+                            "body": "You experience two distinct states: intense concentration on interesting tasks and complete inability to focus on boring ones. This isn't inconsistent - it's how your interest-driven attention system works.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Executive Function Differences",
+                            "body": "Working memory, task switching, and planning work differently in your brain. These aren't weaknesses to fix but patterns to understand and work with strategically.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Creativity Advantage",
+                            "body": "Studies show ADHD brains excel at divergent thinking - generating multiple solutions to problems. Your scattered attention allows you to make connections others miss.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Interest-Based Nervous System",
+                            "body": "Your brain operates on interest, challenge, novelty, and urgency rather than importance alone. Understanding this helps you design systems that work with your natural wiring.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Time Blindness Explained",
+                            "body": "You experience time differently - minutes can feel like hours or hours like minutes. This isn't poor time management but a neurological difference in how your brain processes temporal information.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Rejection Sensitive Dysphoria",
+                            "body": "Many with ADHD experience intense emotional responses to perceived rejection or criticism. This heightened sensitivity also makes you more empathetic and attuned to others' emotions.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Stimulation Seeking Drive",
+                            "body": "Your brain constantly seeks optimal stimulation levels. Too little leads to boredom and distraction, too much causes overwhelm - finding the sweet spot is key.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What drives ADHD attention patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Personal discipline levels",
+                                    "Environmental distractions",
+                                    "Emotional state fluctuations",
+                                    "Interest and stimulation needs"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Strengths in Crisis",
+                            "body": "ADHD brains often perform exceptionally under pressure. The urgency and high stakes provide the stimulation needed to access your full cognitive abilities.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Pattern Recognition Skills",
+                            "body": "Your divergent thinking style makes you excellent at spotting patterns and making unexpected connections. This ability drives innovation and creative problem-solving.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Embracing Your Neurotype",
+                            "body": "ADHD isn't a disorder to overcome but a different operating system to optimize. The key is building systems that amplify your strengths while supporting your challenges.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Your Unique Superpowers",
+                            "body": "Creativity, adaptability, enthusiasm, hyperfocus, and out-of-the-box thinking are your natural gifts. The journey ahead will show you how to harness these powers intentionally.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-2",
+                    "title": "The Science of Hyperfocus",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-2-p1",
+                            "pageType": "content",
+                            "headline": "What Is Hyperfocus?",
+                            "body": "Hyperfocus is your ability to become completely absorbed in interesting tasks for hours. It's not lack of attention - it's intensely focused attention that can produce exceptional results.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Neurochemistry Behind It",
+                            "body": "During hyperfocus, your brain releases dopamine and norepinephrine, creating a flow state similar to what athletes experience. This neurochemical cocktail enhances performance dramatically.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Triggering Hyperfocus States",
+                            "body": "Hyperfocus typically emerges with high interest, clear challenge level, immediate feedback, and minimal distractions. You can't force it, but you can create conditions that invite it.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p4",
+                            "pageType": "content",
+                            "headline": "The Double-Edged Sword",
+                            "body": "Hyperfocus can lead to incredible productivity and creativity, but it can also cause you to lose track of time, skip meals, and neglect other responsibilities.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p5",
+                            "pageType": "question",
+                            "headline": "What conditions best trigger hyperfocus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "High stress and tight deadlines",
+                                    "Quiet environment and routine",
+                                    "High interest and clear challenge",
+                                    "External rewards and recognition"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Different Types of Hyperfocus",
+                            "body": "Productive hyperfocus advances your goals, while destructive hyperfocus pulls you into activities that don't serve you. Learning to distinguish between them is crucial.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p7",
+                            "pageType": "content",
+                            "headline": "The Flow State Connection",
+                            "body": "Hyperfocus and flow states share similar characteristics: time distortion, effortless concentration, and peak performance. Your ADHD brain has natural access to these powerful states.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Managing the Transition Out",
+                            "body": "Emerging from hyperfocus can feel jarring. Build transition rituals that help you gradually shift attention and integrate your intense work session back into normal life.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p9",
+                            "pageType": "question",
+                            "headline": "How should you handle hyperfocus transitions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stop abruptly when time is up",
+                                    "Use gradual transition rituals",
+                                    "Continue until natural exhaustion",
+                                    "Set multiple interrupting alarms"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Scheduling Around Hyperfocus",
+                            "body": "Block out longer time periods for important projects when you expect to enter hyperfocus. Protect these sessions from interruptions and prepare everything in advance.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p11",
+                            "pageType": "content",
+                            "headline": "The Interest Requirement",
+                            "body": "You cannot hyperfocus on boring tasks - your brain simply won't cooperate. Instead, find ways to make necessary tasks more engaging or pair them with interesting elements.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p12",
+                            "pageType": "question",
+                            "headline": "What's essential for sustainable hyperfocus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect environmental conditions",
+                                    "Genuine interest in the task",
+                                    "Complete elimination of stress",
+                                    "Maximum available free time"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Hyperfocus as Career Asset",
+                            "body": "Many successful entrepreneurs and innovators with ADHD credit hyperfocus for their achievements. It allows deep work that produces breakthroughs others can't achieve through regular focus alone.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-3",
+                    "title": "Building External Memory Systems",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Your Brain's Storage Challenge",
+                            "body": "Working memory difficulties mean your brain struggles to hold multiple pieces of information simultaneously. External systems become your cognitive extensions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p2",
+                            "pageType": "content",
+                            "headline": "The Second Brain Concept",
+                            "body": "Build external systems that capture, organize, and retrieve information for you. These digital and physical tools become a reliable extension of your memory and thinking.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Capture Everything Immediately",
+                            "body": "The moment you have an idea, task, or commitment, capture it in your external system. Don't trust your brain to remember - it has more important creative work to do.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Digital vs Physical Systems",
+                            "body": "Choose tools that match your preferences and lifestyle. Some people need the tactile feedback of paper, while others benefit from searchable digital systems with automated reminders.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p5",
+                            "pageType": "question",
+                            "headline": "When should you capture information?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "At the end of each day",
+                                    "During weekly planning sessions",
+                                    "When you have free time",
+                                    "Immediately when it occurs"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p6",
+                            "pageType": "question",
+                            "headline": "What makes an external system effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Easy capture and reliable retrieval",
+                                    "Complex categorization options",
+                                    "Integration with social media",
+                                    "Extensive customization features"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p7",
+                            "pageType": "content",
+                            "headline": "The One-Minute Rule",
+                            "body": "If something takes less than one minute to capture or do, handle it immediately. This prevents small tasks from accumulating into overwhelming mental clutter.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p8",
+                            "pageType": "question",
+                            "headline": "How should you handle one-minute tasks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Save them for batch processing",
+                                    "Add them to your task list",
+                                    "Handle them immediately",
+                                    "Schedule them for later"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Visual Organization Strategies",
+                            "body": "Use colors, symbols, and visual hierarchies to organize information in ways your brain can quickly process. Visual systems often work better than pure text for ADHD minds.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Regular System Maintenance",
+                            "body": "Schedule weekly reviews to clean up and organize your external systems. Without maintenance, even the best systems become cluttered and lose effectiveness.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p11",
+                            "pageType": "question",
+                            "headline": "What's most important for system maintenance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Regular weekly reviews",
+                                    "Daily detailed organization",
+                                    "Monthly complete overhauls",
+                                    "Real-time constant updates"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Integration Across Platforms",
+                            "body": "Choose systems that work across all your devices and contexts. Information should be accessible whether you're at home, work, or on the go.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Trust Your System Completely",
+                            "body": "Once built, you must trust your external system entirely. Stop trying to remember things your system handles - this frees your mental energy for creative and strategic thinking.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-4",
+                    "title": "Designing Your Ideal Environment",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Environment as External Brain",
+                            "body": "Your physical environment profoundly impacts your mental state and productivity. Design spaces that support your ADHD brain rather than fighting against it constantly.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Stimulation Level Management",
+                            "body": "Find your optimal stimulation level - enough input to keep your brain engaged but not so much that it becomes overwhelming. This balance point varies by person and task.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Visual Clarity Principles",
+                            "body": "Clear surfaces and organized visual fields help your brain focus. Clutter competes for attention and drains mental energy even when you're not consciously noticing it.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p4",
+                            "pageType": "content",
+                            "headline": "The Power of Designated Spaces",
+                            "body": "Create specific areas for specific activities. When your brain learns to associate certain spaces with certain behaviors, it automatically shifts into the appropriate mode.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p5",
+                            "pageType": "question",
+                            "headline": "What helps ADHD brains focus in environments?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximum visual stimulation",
+                                    "Complete sensory deprivation",
+                                    "Optimal stimulation balance",
+                                    "Constantly changing conditions"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Lighting and Energy Levels",
+                            "body": "Natural light and bright, full-spectrum lighting support attention and mood regulation. Dim lighting can trigger sluggishness and make focus even more challenging.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Sound Environment Strategies",
+                            "body": "Experiment with different audio environments - some need complete silence, others focus better with background music or white noise. Find what works for your unique brain.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Technology Boundaries",
+                            "body": "Create physical barriers between you and distracting technology. Put your phone in another room, use website blockers, and design friction between you and digital distractions.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Movement and Positioning",
+                            "body": "Your body position affects your brain state. Some people focus better standing, others need to pace or fidget. Honor your body's need for movement rather than forcing stillness.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Temperature and Comfort",
+                            "body": "Physical discomfort hijacks attention. Ensure your environment maintains comfortable temperature, ergonomic seating, and adequate ventilation to support sustained focus.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Transition Zones",
+                            "body": "Create buffer spaces between different activities. These transition zones help your brain shift gears and prepare for the next task or context change.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Personalization Matters",
+                            "body": "Include meaningful objects, colors, and elements that energize you. Your environment should reflect your personality and support your motivation, not just follow generic productivity advice.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Flexibility Over Perfection",
+                            "body": "Build environments that can adapt to your changing needs and energy levels. Rigid spaces that only work under perfect conditions will ultimately fail to support you.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p14",
+                            "pageType": "question",
+                            "headline": "What's key to effective environment design?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Following all productivity rules",
+                                    "Expensive professional setup",
+                                    "Perfect organization systems",
+                                    "Personal adaptation and flexibility"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-4-p15",
+                            "pageType": "content",
+                            "headline": "Continuous Optimization",
+                            "body": "Your environment needs will change as you grow and your circumstances shift. Regularly assess and adjust your spaces to maintain their effectiveness and support.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-5",
+                    "title": "Mastering Dopamine Triggers",
+                    "order": 5,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Dopamine: Your Motivation Fuel",
+                            "body": "Dopamine drives motivation, reward-seeking, and task initiation. ADHD brains produce less baseline dopamine, making it crucial to understand how to generate and maintain healthy levels.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Natural vs Artificial Hits",
+                            "body": "Distinguish between healthy dopamine sources like accomplishment and exercise versus artificial hits from social media and sugar. Natural sources create sustainable motivation patterns.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p3",
+                            "pageType": "question",
+                            "headline": "Which provides healthier dopamine stimulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Social media notifications",
+                                    "Sugary snacks and caffeine",
+                                    "Video games and entertainment",
+                                    "Exercise and task completion"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p4",
+                            "pageType": "content",
+                            "headline": "The Anticipation Factor",
+                            "body": "Dopamine peaks during anticipation, not just achievement. Build excitement for upcoming tasks by visualizing completion, planning rewards, or sharing goals with others.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p5",
+                            "pageType": "question",
+                            "headline": "When does dopamine peak most strongly?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During task completion",
+                                    "After receiving rewards",
+                                    "While anticipating success",
+                                    "When sharing achievements"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Micro-Rewards Strategy",
+                            "body": "Break large tasks into smaller chunks and celebrate each completion. These frequent dopamine hits maintain motivation throughout long projects instead of waiting for final completion.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Movement and Dopamine",
+                            "body": "Physical exercise naturally increases dopamine production. Even short walks or stretching sessions can provide the neurochemical boost needed to tackle challenging tasks.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Novelty as Dopamine Source",
+                            "body": "Your brain craves new experiences and information. Incorporate variety into routine tasks by changing locations, methods, or adding interesting elements to maintain engagement.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Social Connection Boost",
+                            "body": "Sharing goals, working alongside others, or even just having someone check in on your progress can provide powerful dopamine motivation. Leverage social accountability systems.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p10",
+                            "pageType": "question",
+                            "headline": "What naturally increases dopamine levels?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Completing challenging tasks",
+                                    "Consuming caffeine regularly",
+                                    "Checking notifications frequently",
+                                    "Avoiding difficult situations"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p11",
+                            "pageType": "question",
+                            "headline": "How should you structure task rewards?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Large rewards for big projects",
+                                    "Rewards only after perfection",
+                                    "Random unpredictable rewards",
+                                    "Frequent small celebrations"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Dopamine Conservation",
+                            "body": "Avoid depleting your dopamine reserves with endless scrolling, notification checking, or other cheap thrills. Save your neurochemical energy for meaningful activities that advance your goals.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-6",
+                    "title": "Breaking Through Task Paralysis",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Understanding Task Paralysis",
+                            "body": "Task paralysis occurs when your brain knows what needs doing but cannot initiate action. This isn't laziness or procrastination - it's a neurological challenge requiring specific strategies.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The Activation Energy Barrier",
+                            "body": "Every task has an invisible startup cost - the mental energy required to begin. ADHD brains often need extra activation energy, especially for uninteresting or complex tasks.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Breaking Tasks Into Atoms",
+                            "body": "Divide overwhelming tasks into the smallest possible steps. Instead of \"clean house,\" try \"pick up 10 items from living room floor.\" Tiny actions build momentum.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What causes ADHD task paralysis?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lack of personal discipline",
+                                    "Too many available distractions",
+                                    "Fear of making mistakes",
+                                    "High activation energy barriers"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p5",
+                            "pageType": "question",
+                            "headline": "How should you approach overwhelming tasks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Wait for perfect conditions",
+                                    "Set aside entire days",
+                                    "Break into smallest steps",
+                                    "Work under extreme pressure"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p6",
+                            "pageType": "content",
+                            "headline": "The Two-Minute Trick",
+                            "body": "Commit to working on something for just two minutes. This removes pressure while often creating enough momentum to continue naturally once you've started.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p7",
+                            "pageType": "question",
+                            "headline": "What makes the two-minute rule effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates artificial urgency",
+                                    "Removes pressure and builds momentum",
+                                    "Forces complete task completion",
+                                    "Eliminates need for planning"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Environmental Preparation",
+                            "body": "Set up everything needed before you need motivation. When paralysis hits, decision-making becomes harder, so eliminate as many choices as possible in advance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Body Doubling Power",
+                            "body": "Work alongside another person, either in person or virtually. Their presence provides accountability and social energy that can help overcome initiation barriers.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p10",
+                            "pageType": "content",
+                            "headline": "The Pomodoro Adaptation",
+                            "body": "Use time-based work sessions but adjust the intervals to match your attention span. Some need 15-minute bursts, others can handle 45-minute focused periods.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p11",
+                            "pageType": "question",
+                            "headline": "What's most helpful for task initiation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect planning and preparation",
+                                    "Environmental setup and body doubling",
+                                    "Maximum available free time",
+                                    "Complete elimination of distractions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Momentum Preservation",
+                            "body": "Once you start moving, keep the momentum going by transitioning smoothly between related tasks. Stopping completely means having to overcome activation energy again.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-7",
+                    "title": "Emotional Regulation Strategies",
+                    "order": 7,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-7-p1",
+                            "pageType": "content",
+                            "headline": "ADHD Emotional Intensity",
+                            "body": "ADHD brains experience emotions more intensely and have difficulty regulating emotional responses. This isn't a character flaw - it's a neurological difference requiring specific strategies.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Amygdala Hijack",
+                            "body": "Strong emotions can overwhelm your prefrontal cortex, making rational thinking temporarily impossible. Recognize when this happens and have predetermined coping strategies ready.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Creating Emotional Space",
+                            "body": "Build a gap between feeling and reacting by using breathing techniques, counting, or physical movement. This space allows your thinking brain to come back online.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Naming Your Emotions",
+                            "body": "Research shows that labeling emotions reduces their intensity. Practice identifying and naming what you're feeling - this simple act engages your prefrontal cortex and promotes regulation.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p5",
+                            "pageType": "question",
+                            "headline": "What helps regulate emotional intensity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignoring difficult feelings",
+                                    "Expressing emotions immediately",
+                                    "Creating space before reacting",
+                                    "Analyzing emotions logically"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Physical Release Techniques",
+                            "body": "Intense emotions create physical tension. Use exercise, stretching, or other movement to release this energy constructively before it builds into overwhelming stress.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Rejection Sensitivity Management",
+                            "body": "Many with ADHD experience rejection sensitive dysphoria - extreme emotional pain from perceived criticism or rejection. Develop strategies to reality-check these intense reactions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Emotional Support Networks",
+                            "body": "Build relationships with people who understand ADHD emotional patterns. Having supportive friends or family who can provide perspective during difficult moments is invaluable.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Stress Prevention Strategies",
+                            "body": "Identify your emotional triggers and early warning signs. Prevention is easier than regulation - build systems that help you avoid overwhelming situations when possible.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Medication and Emotional Stability",
+                            "body": "ADHD medications often improve emotional regulation by strengthening prefrontal cortex function. This isn't masking emotions but providing better access to your regulatory abilities.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p11",
+                            "pageType": "question",
+                            "headline": "What's most effective for long-term emotional health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoiding all stressful situations",
+                                    "Building prevention and coping systems",
+                                    "Relying solely on medication",
+                                    "Suppressing emotional responses"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Emotional Sensitivity as Strength",
+                            "body": "Your emotional intensity also brings empathy, passion, and deep connections with others. Learning to regulate doesn't mean eliminating - it means channeling your emotional gifts constructively.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-8",
+                    "title": "ADHD in Relationships",
+                    "order": 8,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-8-p1",
+                            "pageType": "content",
+                            "headline": "ADHD's Relationship Impact",
+                            "body": "ADHD affects how you communicate, show affection, manage time, and handle conflict. Understanding these patterns helps both you and your loved ones navigate relationships more successfully.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Hyperfocus vs Relationships",
+                            "body": "During hyperfocus periods, you may unintentionally neglect relationships. Partners and friends need to understand this isn't personal rejection but a neurological state.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p3",
+                            "pageType": "question",
+                            "headline": "How should partners understand hyperfocus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As deliberate relationship neglect",
+                                    "As neurological state, not rejection",
+                                    "As lack of care or commitment",
+                                    "As poor relationship priorities"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Time Blindness Challenges",
+                            "body": "You may lose track of time and arrive late or miss important events. Build external systems and communicate with loved ones about your time management challenges.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Intensity in Love",
+                            "body": "Your emotional intensity can create passionate, deep connections but may also overwhelm partners during conflict. Learn to communicate your emotional needs clearly and calmly.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Rejection Sensitivity in Conflict",
+                            "body": "Criticism or disagreement may trigger intense rejection sensitivity. Practice distinguishing between relationship feedback and personal attacks to respond more proportionally.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Listening and Attention Challenges",
+                            "body": "Difficulty sustaining attention during conversations can make partners feel unheard. Develop active listening strategies and communicate when you're struggling to focus.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Forgetfulness and Follow-Through",
+                            "body": "Forgetting commitments or struggling with follow-through can damage trust. Use external reminder systems and be honest about your challenges while working to improve.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p9",
+                            "pageType": "question",
+                            "headline": "How can ADHD individuals improve relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Hide ADHD symptoms from partners",
+                                    "Use external systems and communicate openly",
+                                    "Expect others to accommodate everything",
+                                    "Avoid close relationships entirely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p10",
+                            "pageType": "content",
+                            "headline": "ADHD Relationship Strengths",
+                            "body": "Your creativity, spontaneity, passion, and unique perspective enrich relationships. Partners often appreciate your ability to think differently and bring excitement to their lives.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p11",
+                            "pageType": "question",
+                            "headline": "What do ADHD individuals bring to relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creativity and unique perspectives",
+                                    "Perfect attention and organization",
+                                    "Consistent emotional regulation",
+                                    "Reliable time management"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p12",
+                            "pageType": "question",
+                            "headline": "What's essential for ADHD relationship success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect symptom management",
+                                    "Open communication and understanding",
+                                    "Avoiding all relationship conflicts",
+                                    "Suppressing ADHD traits entirely"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Building Understanding Together",
+                            "body": "Educate your loved ones about ADHD while taking responsibility for managing your symptoms. Successful relationships require both accommodation and accountability from all parties.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-9",
+                    "title": "Workplace Success with ADHD",
+                    "order": 9,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-9-p1",
+                            "pageType": "content",
+                            "headline": "ADHD Career Advantages",
+                            "body": "ADHD traits like creativity, adaptability, and ability to think outside the box are valuable in many careers. The key is finding roles that leverage your strengths.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Choosing ADHD-Friendly Careers",
+                            "body": "Look for careers with variety, creativity, problem-solving, and flexibility. Avoid roles requiring sustained attention to repetitive tasks unless you can modify the work structure.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p3",
+                            "pageType": "question",
+                            "headline": "What career elements suit ADHD brains?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Repetitive routine tasks",
+                                    "Variety and creative challenges",
+                                    "Highly structured environments",
+                                    "Minimal social interaction"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Workplace Accommodations",
+                            "body": "Many workplaces can provide accommodations like flexible schedules, noise-canceling headphones, or modified workspaces. Know your rights and communicate your needs professionally.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p5",
+                            "pageType": "question",
+                            "headline": "How should you approach workplace needs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Hide ADHD and struggle silently",
+                                    "Communicate needs professionally",
+                                    "Demand extensive accommodations",
+                                    "Change jobs frequently"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Managing Meetings and Deadlines",
+                            "body": "Use external systems to track meetings and deadlines. Set multiple reminders, use visual calendars, and consider body doubling or accountability partners for important projects.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Email and Communication Systems",
+                            "body": "Develop systems for managing workplace communication. Process emails at set times, use templates for common responses, and create folders for organization and follow-up.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Hyperfocus at Work",
+                            "body": "Learn to recognize when hyperfocus might emerge and protect those periods for your most important work. Communicate boundaries to colleagues during these productive sessions.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Managing Workplace Relationships",
+                            "body": "ADHD traits can sometimes create friction with colleagues. Be proactive about communication, follow through on commitments, and address any relationship issues directly and promptly.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Entrepreneurship and ADHD",
+                            "body": "Many successful entrepreneurs have ADHD. The variety, creativity, and ability to see opportunities others miss can be tremendous advantages in starting and running businesses.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Performance Reviews and Growth",
+                            "body": "Prepare for performance reviews by documenting your achievements and contributions. Focus on your unique value and how your ADHD traits benefit the organization.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Stress Management at Work",
+                            "body": "Workplace stress can exacerbate ADHD symptoms. Develop stress management techniques, take regular breaks, and maintain boundaries between work and personal life.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Building on Your Strengths",
+                            "body": "Identify your unique contributions and find ways to leverage them more. Your ADHD brain brings valuable perspectives and abilities that neurotypical colleagues may lack.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-10",
+                    "title": "Time Management That Actually Works",
+                    "order": 10,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Time Blindness Reality",
+                            "body": "ADHD brains struggle to perceive time accurately. Minutes feel like hours during boring tasks, while hours disappear during interesting activities. This isn't poor discipline - it's neurological.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p2",
+                            "pageType": "content",
+                            "headline": "External Time Anchors",
+                            "body": "Use timers, alarms, and visual cues to create external time awareness. Your internal time sense is unreliable, so build systems that provide objective temporal feedback.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Task Time Estimation",
+                            "body": "ADHD brains consistently underestimate how long tasks take. Track actual completion times for common activities to build more accurate planning abilities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Buffer Time Strategy",
+                            "body": "Always add buffer time between scheduled activities. Travel, transitions, and unexpected delays will happen - planning for them prevents cascading schedule disasters.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p5",
+                            "pageType": "content",
+                            "headline": "The Power of Routines",
+                            "body": "Consistent daily routines reduce decision fatigue and create automatic time structures. Build routines around key transition points like morning, evening, and work start times.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Deadline Pressure Management",
+                            "body": "Some ADHD brains perform best under deadline pressure, but relying solely on last-minute panic is unsustainable. Create artificial deadlines to harness this energy productively.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Transition Time Planning",
+                            "body": "Build transition time into your schedule for switching between tasks or locations. ADHD brains need extra time to mentally shift gears between different activities.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Energy-Based Scheduling",
+                            "body": "Schedule demanding tasks during your peak energy periods and easier tasks when energy is low. Work with your natural rhythms rather than fighting against them.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p9",
+                            "pageType": "question",
+                            "headline": "What's most effective for ADHD time management?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Strict rigid scheduling",
+                                    "External time anchors and buffers",
+                                    "Relying on natural time sense",
+                                    "Eliminating all time constraints"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p10",
+                            "pageType": "question",
+                            "headline": "How should you handle task duration planning?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always use minimum time estimates",
+                                    "Plan based on ideal conditions",
+                                    "Double your initial time estimates",
+                                    "Track actual times and add buffers"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Hyperfocus Time Management",
+                            "body": "When hyperfocus emerges, protect it but set boundaries. Use timers to ensure you take breaks, eat, and don't miss important commitments during extended focus sessions.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p12",
+                            "pageType": "question",
+                            "headline": "What's crucial for sustainable scheduling?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximizing every available minute",
+                                    "Working with natural energy patterns",
+                                    "Maintaining perfect consistency",
+                                    "Eliminating all flexibility"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Time Awareness Tools",
+                            "body": "Experiment with visual timers, time-tracking apps, and scheduling tools designed for ADHD brains. Find the combination that provides helpful feedback without becoming overwhelming.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Flexibility Within Structure",
+                            "body": "Build structured frameworks that include flexibility. Rigid schedules often break under real-world pressure, while complete lack of structure leads to time chaos.",
+                            "imageURL": "minimal",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-11",
+                    "title": "Building Sustainable Habits",
+                    "order": 11,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-11-p1",
+                            "pageType": "content",
+                            "headline": "ADHD Habit Challenges",
+                            "body": "ADHD brains struggle with habit formation because consistency requires sustained attention and working memory. Traditional habit advice often fails without ADHD-specific adaptations.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Start Impossibly Small",
+                            "body": "Begin with habits so small they feel almost silly - one pushup, reading one page, organizing one item. Small wins build confidence and neurological pathways without overwhelming your system.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Habit Stacking Strategy",
+                            "body": "Link new habits to existing routines rather than creating isolated behaviors. After you brush teeth, do one minute of meditation. Use established patterns as anchors for new ones.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Environmental Design for Habits",
+                            "body": "Make desired behaviors easier and undesired ones harder through environmental changes. Place workout clothes by your bed, remove junk food from easy reach.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p5",
+                            "pageType": "content",
+                            "headline": "The Two-Day Rule",
+                            "body": "Never allow yourself to miss the same habit two days in a row. One day off is recovery, two days is the beginning of habit extinction. This rule prevents perfectionism while maintaining momentum.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p6",
+                            "pageType": "question",
+                            "headline": "What's most important for ADHD habit formation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Starting with tiny, manageable actions",
+                                    "Setting ambitious long-term goals",
+                                    "Maintaining perfect consistency",
+                                    "Using willpower and discipline"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p7",
+                            "pageType": "question",
+                            "headline": "How should you handle missed habit days?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Start completely over from beginning",
+                                    "Never allow two consecutive misses",
+                                    "Abandon habits that aren't perfect",
+                                    "Wait for next Monday to restart"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Dopamine and Habit Formation",
+                            "body": "Build immediate rewards into new habits since ADHD brains struggle with delayed gratification. Track progress visually, celebrate small wins, and create satisfying completion rituals.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Identity-Based Habits",
+                            "body": "Focus on who you want to become rather than what you want to achieve. Instead of \"I want to exercise,\" think \"I am someone who moves their body daily.\" Identity drives consistent behavior.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Habit Maintenance Systems",
+                            "body": "Build systems that remind you of your habits and track your progress. Visual charts, phone reminders, and accountability partners help maintain habits when motivation wavers.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Seasonal Habit Adjustments",
+                            "body": "Recognize that your habit capacity changes with seasons, stress levels, and life circumstances. Build flexibility into your systems rather than abandoning habits during difficult periods.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Social Accountability Power",
+                            "body": "Share your habit goals with supportive friends or family. External accountability provides the motivation and structure that ADHD brains often need for consistency.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Recovery Over Perfection",
+                            "body": "Expect setbacks and plan for them. The key to sustainable habits isn't never failing but quickly recovering from failures. Resilience matters more than perfection.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Habit Evolution",
+                            "body": "Allow your habits to evolve as you grow and change. What works today may need adjustment tomorrow. Flexibility and self-awareness prevent habit systems from becoming rigid prisons.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-11-p15",
+                            "pageType": "content",
+                            "headline": "Celebrating Progress",
+                            "body": "Acknowledge and celebrate your habit successes, no matter how small they seem. ADHD brains need positive reinforcement to maintain motivation and build lasting behavioral changes.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-12",
+                    "title": "Managing Overwhelm and Burnout",
+                    "order": 12,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-12-p1",
+                            "pageType": "content",
+                            "headline": "ADHD Overwhelm Patterns",
+                            "body": "ADHD brains are more susceptible to overwhelm due to executive function challenges and heightened sensitivity to stimulation. Recognizing early warning signs prevents full burnout.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Stimulation Overload Signs",
+                            "body": "Watch for irritability, difficulty making decisions, physical tension, or increased distractibility. These signals indicate your nervous system is reaching its processing limits.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p3",
+                            "pageType": "question",
+                            "headline": "What are early signs of ADHD overwhelm?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increased focus and productivity",
+                                    "Irritability and decision paralysis",
+                                    "Enhanced creative thinking",
+                                    "Improved time management"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p4",
+                            "pageType": "content",
+                            "headline": "The Power of Saying No",
+                            "body": "ADHD brains often struggle with boundaries and overcommit to activities. Practice saying no to preserve your mental energy for truly important priorities.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Sensory Break Strategies",
+                            "body": "Build regular sensory breaks into your day - quiet spaces, dim lighting, or noise-canceling headphones. These micro-recoveries prevent stimulation from accumulating to overwhelming levels.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p6",
+                            "pageType": "question",
+                            "headline": "How can you prevent sensory overwhelm?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Regular sensory breaks",
+                                    "Increasing stimulation gradually",
+                                    "Avoiding all sensory input",
+                                    "Pushing through discomfort"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p7",
+                            "pageType": "question",
+                            "headline": "What's essential for preventing ADHD burnout?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working harder and longer",
+                                    "Ignoring stress signals",
+                                    "Maintaining strict boundaries",
+                                    "Accepting every opportunity"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p8",
+                            "pageType": "question",
+                            "headline": "How should you handle overwhelm recovery?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Push through with more effort",
+                                    "Reduce stimulation and rest actively",
+                                    "Increase caffeine and stimulants",
+                                    "Add more activities for distraction"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Active Recovery Techniques",
+                            "body": "Recovery doesn't mean complete inactivity. Gentle movement, creative hobbies, or time in nature can restore your nervous system while keeping you engaged.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Sleep and Recovery",
+                            "body": "Quality sleep is crucial for ADHD brain restoration. Poor sleep amplifies all ADHD symptoms and makes overwhelm more likely. Prioritize sleep hygiene and consistent schedules.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Social Energy Management",
+                            "body": "Social interactions, while valuable, can be draining for ADHD brains. Balance social time with solitude and recharge periods to maintain your social battery.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Building Resilience",
+                            "body": "Develop your capacity to handle stress through regular exercise, mindfulness practices, and strong support networks. Resilience is a skill that grows with practice.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-13",
+                    "title": "Social Skills and Communication",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-13-p1",
+                            "pageType": "content",
+                            "headline": "ADHD Communication Strengths",
+                            "body": "ADHD brains often bring enthusiasm, creativity, and unique perspectives to conversations. Your ability to make unexpected connections can lead to fascinating and memorable interactions.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Managing Conversation Impulsivity",
+                            "body": "ADHD can lead to interrupting or changing topics abruptly. Practice pausing before speaking and asking clarifying questions to ensure you're following conversation flow.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Active Listening Challenges",
+                            "body": "Maintaining attention during conversations requires extra effort. Use techniques like summarizing what you heard, asking questions, and making eye contact to stay engaged.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What helps ADHD individuals in conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Speaking as quickly as possible",
+                                    "Avoiding all social interactions",
+                                    "Pausing and asking clarifying questions",
+                                    "Dominating conversation topics"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Reading Social Cues",
+                            "body": "ADHD can make it challenging to notice nonverbal communication and social signals. Pay attention to facial expressions, body language, and tone of voice for deeper understanding.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Managing Social Anxiety",
+                            "body": "Fear of saying the wrong thing or appearing different can create social anxiety. Remember that your unique perspective is valuable and most people appreciate authentic interactions.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Time Awareness in Social Settings",
+                            "body": "It's easy to lose track of time during engaging conversations or forget about social commitments. Set discrete reminders and practice polite exit strategies.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Hyperfocus in Social Situations",
+                            "body": "You might become intensely focused on specific conversation topics or miss social transition cues. Practice awareness of group dynamics and others' engagement levels.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p9",
+                            "pageType": "question",
+                            "headline": "How can you improve social awareness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus only on your own interests",
+                                    "Avoid reading nonverbal cues",
+                                    "Pay attention to group dynamics",
+                                    "Interrupt when you have ideas"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p10",
+                            "pageType": "question",
+                            "headline": "What's important for ADHD social success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect social skill execution",
+                                    "Authentic interactions and awareness",
+                                    "Avoiding all social mistakes",
+                                    "Completely suppressing ADHD traits"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Building Strong Friendships",
+                            "body": "Your enthusiasm and loyalty make you a wonderful friend. Focus on finding people who appreciate your authentic self and can understand your ADHD-related quirks.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p12",
+                            "pageType": "question",
+                            "headline": "What makes ADHD friendships successful?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Finding people who appreciate authenticity",
+                                    "Hiding all ADHD characteristics",
+                                    "Only befriending other ADHD individuals",
+                                    "Avoiding close emotional connections"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Professional Communication",
+                            "body": "In work settings, your creativity and problem-solving abilities shine through communication. Practice structuring your thoughts before important meetings and follow up in writing when needed.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Conflict Resolution Skills",
+                            "body": "ADHD emotional intensity can complicate conflicts. Take time to process before responding, focus on specific behaviors rather than character judgments, and seek win-win solutions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Embracing Your Social Style",
+                            "body": "Your ADHD traits bring energy, creativity, and fresh perspectives to social interactions. Instead of trying to be neurotypical, develop your unique social strengths and find your tribe.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-14",
+                    "title": "Financial Management with ADHD",
+                    "order": 14,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-14-p1",
+                            "pageType": "content",
+                            "headline": "ADHD Financial Challenges",
+                            "body": "Impulsivity, difficulty with delayed gratification, and problems with routine tasks can create financial difficulties. Understanding these patterns is the first step toward better money management.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Impulse Buying Strategies",
+                            "body": "ADHD brains struggle with impulse control, especially during dopamine-seeking moments. Create barriers between you and purchases - remove saved payment methods and implement waiting periods.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Automated Financial Systems",
+                            "body": "Set up automatic transfers for savings, bills, and investments. Automation removes the need for sustained attention and reduces the risk of late payments or forgotten contributions.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Visual Money Management",
+                            "body": "Use visual tools like charts, apps with graphs, or envelope systems to make money more concrete and visible. ADHD brains often respond better to visual financial information.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p5",
+                            "pageType": "content",
+                            "headline": "The ADHD Tax",
+                            "body": "Late fees, missed opportunities, and impulse purchases create an \"ADHD tax\" that costs money over time. Build systems to minimize these expensive symptoms.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p6",
+                            "pageType": "question",
+                            "headline": "What's most effective for ADHD money management?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Automated systems and visual tools",
+                                    "Complex budgeting spreadsheets",
+                                    "Manual tracking of every expense",
+                                    "Relying on memory for all bills"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Emergency Fund Importance",
+                            "body": "ADHD individuals benefit enormously from emergency funds because unexpected expenses or impulsive decisions are more likely. Even small emergency funds provide crucial financial stability.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Credit and Debt Management",
+                            "body": "ADHD can lead to credit problems through missed payments or impulse spending. Use credit monitoring services, set up automatic payments, and consider having a trusted person help with oversight.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Investment Strategies",
+                            "body": "ADHD brains may be tempted by get-rich-quick schemes or complex trading. Simple, automated index fund investments often work better than active management strategies.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Partner Financial Communication",
+                            "body": "If you share finances with a partner, communicate openly about your ADHD-related money challenges and strengths. Divide financial responsibilities based on each person's abilities.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Professional Help",
+                            "body": "Consider working with fee-only financial planners who understand ADHD. Professional guidance can help you build systems that work with your brain rather than against it.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p12",
+                            "pageType": "content",
+                            "headline": "ADHD Financial Strengths",
+                            "body": "Your creativity and adaptability can lead to innovative income streams and financial solutions. Many successful entrepreneurs with ADHD have built wealth through their unique thinking patterns.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Regular Financial Check-ins",
+                            "body": "Schedule monthly money meetings with yourself or your partner to review progress and adjust systems. Regular attention to finances prevents small problems from becoming major crises.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p14",
+                            "pageType": "question",
+                            "headline": "What's key to long-term ADHD financial success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Simple, automated systems that work with your brain",
+                                    "Complex investment strategies",
+                                    "Perfect budget adherence",
+                                    "Eliminating all discretionary spending"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Building Financial Confidence",
+                            "body": "Start with small, manageable financial goals and celebrate victories. Building confidence with money takes time, but each success creates positive momentum for bigger financial achievements.",
+                            "imageURL": "minimal",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-15",
+                    "title": "Exercise and ADHD Brain Health",
+                    "order": 15,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Exercise as ADHD Medicine",
+                            "body": "Physical exercise acts like medication for ADHD brains, increasing dopamine, norepinephrine, and BDNF. Regular movement can be as effective as stimulant medications for some symptoms.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Neurochemical Benefits",
+                            "body": "Exercise increases production of neurotransmitters that ADHD brains need. The effects can last for hours after exercise, improving focus, mood, and executive function throughout the day.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Movement for Focus",
+                            "body": "Many with ADHD find that fidgeting or movement actually improves concentration. Standing desks, fidget tools, or walking meetings can enhance rather than distract from mental performance.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Finding Your Exercise Style",
+                            "body": "The best exercise is the one you'll actually do consistently. Experiment with different activities - some prefer intense cardio, others yoga, dance, or team sports.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Morning Movement Magic",
+                            "body": "Exercise early in the day provides sustained benefits for attention and mood. Even 10-15 minutes of morning movement can improve focus for several hours afterward.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Exercise Breaks for Productivity",
+                            "body": "Short movement breaks throughout the day can reset your attention and energy levels. Use exercise as a transition between tasks or when you feel your focus fading.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p7",
+                            "pageType": "question",
+                            "headline": "What makes exercise effective for ADHD?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only high-intensity workouts",
+                                    "Perfect workout technique",
+                                    "Expensive gym memberships",
+                                    "Consistency over intensity"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Social Exercise Benefits",
+                            "body": "Group activities, team sports, or workout partners provide social motivation and accountability that ADHD brains often need for consistency. The social element makes exercise more engaging.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p9",
+                            "pageType": "question",
+                            "headline": "When does exercise most benefit ADHD symptoms?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only late in the evening",
+                                    "Early morning for sustained benefits",
+                                    "During work hours only",
+                                    "Timing doesn't matter"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Overcoming Exercise Barriers",
+                            "body": "ADHD can create obstacles to consistent exercise - boredom, time management, or perfectionism. Start small, make it convenient, and focus on how movement makes you feel rather than perfect form.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Stress Release Through Movement",
+                            "body": "Physical activity provides a healthy outlet for the restless energy and emotional intensity that ADHD brains often experience. Movement can prevent overwhelm and reduce anxiety.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Building Exercise Habits",
+                            "body": "Link exercise to existing routines and start with activities you genuinely enjoy. The goal is consistency, not perfection - any movement is better than no movement.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-16",
+                    "title": "Technology Tools for ADHD",
+                    "order": 16,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Technology as ADHD Ally",
+                            "body": "Digital tools can serve as external executive function support, helping with organization, time management, and attention regulation. The key is choosing tools that simplify rather than complicate your life.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Task Management Apps",
+                            "body": "Look for apps with simple capture, visual organization, and reliable reminders. The best task manager is the one you'll actually use consistently, not the one with the most features.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Calendar and Scheduling Tools",
+                            "body": "Use calendar apps with location-based reminders, travel time calculations, and multiple alert options. Visual calendars often work better for ADHD brains than simple text lists.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Focus and Productivity Apps",
+                            "body": "Website blockers, pomodoro timers, and focus apps can help manage digital distractions. Experiment with different approaches to find what works for your attention patterns.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Note-Taking and Capture Systems",
+                            "body": "Choose note-taking apps that work across all your devices and allow quick capture. Voice-to-text features can be particularly helpful for capturing ideas when typing isn't convenient.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p6",
+                            "pageType": "question",
+                            "headline": "What's most important in ADHD technology tools?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximum feature complexity",
+                                    "Simplicity and consistent use",
+                                    "Latest technological innovations",
+                                    "Expensive premium versions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Automation and Smart Devices",
+                            "body": "Smart home devices, automated bill payments, and recurring reminders can handle routine tasks that ADHD brains often forget. Let technology manage the mundane so you can focus on what matters.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Avoiding Technology Overwhelm",
+                            "body": "Too many apps and tools can create more chaos than organization. Start with one tool at a time, master it, then gradually add others if needed. Quality over quantity.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Digital Distraction Management",
+                            "body": "The same devices that help can also harm. Turn off non-essential notifications, use airplane mode during focus time, and create physical separation from distracting devices.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Voice Assistants and AI",
+                            "body": "Voice assistants can help with reminders, timers, and quick information capture. AI tools are becoming increasingly helpful for organizing thoughts and managing complex information.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p11",
+                            "pageType": "question",
+                            "headline": "How should you approach ADHD tech tools?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Adopt every new productivity tool",
+                                    "Start with one tool and master it",
+                                    "Use only the most complex options",
+                                    "Avoid all digital solutions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Backup and Sync Systems",
+                            "body": "Ensure your digital tools sync across devices and have backup systems. Losing important information due to technical problems can be devastating for ADHD organization systems.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Body Doubling Apps",
+                            "body": "Virtual co-working apps and body doubling platforms provide social accountability and presence that helps many with ADHD focus and complete tasks. Technology can create community.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-16-p14",
+                            "pageType": "content",
+                            "headline": "Regular Tool Evaluation",
+                            "body": "Periodically assess whether your digital tools are still serving you well. Technology needs change as life circumstances change - be willing to adapt your tool stack accordingly.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "adhd_superpowers-1-17",
+                    "title": "Long-term Success and Growth",
+                    "order": 17,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "adhd_superpowers-1-17-p1",
+                            "pageType": "content",
+                            "headline": "ADHD as Lifelong Journey",
+                            "body": "Managing ADHD effectively is not a destination but an ongoing process of growth, adaptation, and self-discovery. Your needs and strategies will evolve as you do.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Embracing Your Neurodivergence",
+                            "body": "True success comes from working with your ADHD brain rather than against it. Celebrate your unique strengths while compassionately addressing your challenges.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Building Your Support Network",
+                            "body": "Surround yourself with people who understand and appreciate your neurotype. Whether friends, family, or ADHD communities, strong support networks are essential for long-term success.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Continuous Learning and Adaptation",
+                            "body": "Stay curious about new ADHD research, strategies, and tools. What works today may need adjustment tomorrow, and new solutions are constantly being developed.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p5",
+                            "pageType": "question",
+                            "headline": "What's most important for long-term ADHD success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working with your brain's natural patterns",
+                                    "Achieving perfect symptom control",
+                                    "Hiding ADHD from others",
+                                    "Following rigid productivity systems"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Regular System Reviews",
+                            "body": "Schedule periodic reviews of your systems and strategies. Life changes, and what worked in one season may need adjustment for the next. Stay flexible and adaptive.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Contributing to Others",
+                            "body": "Sharing your experiences and insights with other ADHD individuals creates meaning and connection. Your journey can inspire and help others navigate their own challenges.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p8",
+                            "pageType": "question",
+                            "headline": "How should you view your ADHD journey?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As a problem to solve once",
+                                    "As ongoing growth and adaptation",
+                                    "As something to overcome completely",
+                                    "As a limitation to accept passively"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Professional Growth",
+                            "body": "Your ADHD traits can be tremendous career assets when properly channeled. Continue developing your unique strengths and finding environments where they can flourish.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Self-Compassion Practice",
+                            "body": "Treat yourself with the same kindness you'd show a good friend. ADHD comes with challenges, but harsh self-criticism only makes them worse. Practice gentle self-encouragement.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Celebrating Your Wins",
+                            "body": "Acknowledge and celebrate your successes, both big and small. ADHD brains need positive reinforcement to maintain motivation and build confidence for future challenges.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Your Unique Contribution",
+                            "body": "The world needs what your ADHD brain brings - creativity, passion, innovative thinking, and fresh perspectives. Your neurological differences are not bugs, they're features.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "adhd_superpowers-1-17-p13",
+                            "pageType": "content",
+                            "headline": "The Path Forward",
+                            "body": "You now have tools, strategies, and understanding to thrive with ADHD. The journey continues, but you're equipped to navigate it with confidence, compassion, and your unique superpowers fully activated.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.2,
+    "tag": "Popular"
+}

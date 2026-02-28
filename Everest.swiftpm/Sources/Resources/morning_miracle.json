@@ -1,0 +1,2418 @@
+{
+    "id": "morning_miracle",
+    "title": "The Morning Miracle",
+    "description": "Win the first hour, win the day. Design a morning routine that sets you up for peak performance and lasting energy.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/morning_miracle.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract sunrise with geometric rays expanding outward, sage green dawn light with charcoal night receding, new beginnings energy aesthetic",
+    "altitude": 3400,
+    "durationMinutes": 114,
+    "whatsInside": [
+        "Understand why the first hour determines the rest of your day",
+        "Design a personalized morning stack using the SAVERS framework",
+        "Build sustainable wake-up habits that do not require willpower",
+        "Protect your morning from common saboteurs",
+        "Optimize sleep for better mornings",
+        "Create morning routines that stick long-term"
+    ],
+    "expertReview": {
+        "quote": "The most practical morning routine framework I have encountered. Start here and customize to your life.",
+        "name": "Hal Elrod",
+        "title": "Author, The Miracle Morning"
+    },
+    "chapters": [
+        {
+            "id": "morning_miracle-ch1",
+            "title": "The Morning Miracle",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "morning_miracle-1-1",
+                    "title": "Why Mornings Matter",
+                    "order": 1,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Day's First Decision",
+                            "body": "The moment you wake up, you face a critical choice. You can either react to the day or create it. Most people choose reaction - hitting snooze, checking phones, rushing through chaos. But peak performers understand a secret: the first hour determines everything that follows.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Compound Effect",
+                            "body": "Small morning actions create massive life changes. A focused morning routine compounds daily, building momentum that carries through every area of your life. Research shows that people with intentional mornings report 73% higher life satisfaction and achieve goals 3x faster than those who start reactively.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p3",
+                            "pageType": "question",
+                            "headline": "What percentage of high performers have a structured morning routine?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Over 90% have morning routines",
+                                    "About 50% have morning routines",
+                                    "Less than 30% have routines",
+                                    "Only 10% use morning routines"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Willpower is Highest",
+                            "body": "Your brain has limited decision-making energy each day. By morning, this mental fuel tank is full, giving you peak willpower and focus. Studies show cognitive performance drops 40% throughout the day, making morning your prime window for important activities.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Stress-Free Zone",
+                            "body": "Mornings offer natural quiet before the world demands your attention. No emails, calls, or urgent requests. This protected time allows deep work on your most important goals without interruption. You control the agenda completely.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Hormonal Advantage",
+                            "body": "Cortisol naturally peaks 30-45 minutes after waking, creating optimal alertness. Growth hormone remains elevated from sleep, supporting learning and recovery. Your body is biologically primed for peak performance in the first hour.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p7",
+                            "pageType": "question",
+                            "headline": "When is cortisol naturally highest in healthy individuals?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Late evening before sleep",
+                                    "Afternoon around 3 PM",
+                                    "Morning within first hour",
+                                    "During lunch time hours"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Identity Reinforcement",
+                            "body": "How you start reinforces who you become. A structured morning routine programs your subconscious with success patterns. You begin each day proving to yourself that you're someone who follows through on commitments and priorities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation",
+                            "body": "Morning routines create emotional stability throughout your day. When you start with intention rather than reaction, you build resilience against stress and maintain steadier moods. This emotional foundation affects every relationship and decision.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Breaking Reactive Patterns",
+                            "body": "Most people wake up and immediately check phones, consuming other people's priorities. This trains your brain to be reactive rather than proactive. A morning routine breaks this pattern, establishing you as the author of your day.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What is the primary benefit of avoiding phones first thing in the morning?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Saves battery life throughout day",
+                                    "Reduces exposure to blue light",
+                                    "Maintains proactive mindset",
+                                    "Prevents social media addiction"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p12",
+                            "pageType": "question",
+                            "headline": "Research shows intentional mornings increase life satisfaction by what percentage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "25% higher satisfaction rates",
+                                    "50% higher satisfaction rates",
+                                    "63% higher satisfaction rates",
+                                    "73% higher satisfaction rates"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Your Morning Investment",
+                            "body": "The time you invest in morning routines pays exponential returns. Every minute spent intentionally in the morning saves hours of scattered effort later. You're not adding time to your day - you're multiplying the effectiveness of every hour that follows.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-2",
+                    "title": "The Science Behind Morning Routines",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Neuroplasticity in Action",
+                            "body": "Your brain physically changes based on morning habits. Consistent routines strengthen neural pathways, making positive behaviors automatic. Within 21-66 days, these patterns become embedded in your brain structure, requiring less willpower to maintain.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Dopamine Connection",
+                            "body": "Morning accomplishments trigger dopamine release, creating natural motivation for the rest of your day. This neurochemical reward system makes you crave more achievement. Starting with small wins programs your brain to seek larger successes throughout the day.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p3",
+                            "pageType": "question",
+                            "headline": "What neurotransmitter is released when you complete morning tasks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Serotonin for mood regulation",
+                                    "Cortisol for stress response",
+                                    "Dopamine for reward motivation",
+                                    "Melatonin for sleep cycles"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Circadian Rhythm Mastery",
+                            "body": "Morning light exposure synchronizes your internal clock, improving sleep quality and daytime alertness. Your circadian rhythm controls hormone release, body temperature, and cognitive performance. Consistent morning timing strengthens this biological foundation.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Stress Hormone Optimization",
+                            "body": "Cortisol follows a natural rhythm, peaking in early morning to create alertness. Structured routines help regulate this pattern, preventing chronic stress and maintaining healthy cortisol cycling throughout your day.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Prefrontal Cortex Activation",
+                            "body": "Morning activities engage your brain's executive center, strengthening decision-making abilities. This mental training transfers to all areas of life, improving focus, planning, and impulse control throughout your day.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Memory Consolidation",
+                            "body": "Sleep processes information from the previous day, and morning reflection helps consolidate these insights. This creates a learning loop where each day's experiences become wisdom for future decisions and actions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Habit Loop Formation",
+                            "body": "Morning routines create powerful habit loops: cue (alarm), routine (your activities), reward (accomplishment feeling). This psychological pattern becomes self-reinforcing, making positive behaviors feel natural and effortless over time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Attention Restoration Theory",
+                            "body": "Quiet morning activities restore your attention capacity after sleep. Unlike stimulating inputs that drain focus, calming routines replenish cognitive resources. This mental restoration improves concentration for hours afterward.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Flow State Preparation",
+                            "body": "Morning routines prime your brain for flow states later in the day. The focused attention and present-moment awareness you practice creates neural conditions for deep work and peak performance experiences.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Hormonal Balance",
+                            "body": "Consistent wake times regulate hormones beyond cortisol. Growth hormone, insulin sensitivity, and reproductive hormones all follow circadian patterns. Morning routines support optimal hormonal function throughout your entire day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p12",
+                            "pageType": "question",
+                            "headline": "How long does it typically take for morning routines to become automatic?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "3-7 days of consistent practice",
+                                    "14-21 days of daily repetition",
+                                    "21-66 days depending on complexity",
+                                    "90-120 days for permanent change"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Stress Resilience Building",
+                            "body": "Regular morning routines increase stress resilience by training your nervous system. You practice staying calm and focused during your routine, building capacity to maintain composure under pressure throughout your day.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Your Brain's Operating System",
+                            "body": "Think of morning routines as updating your brain's operating system daily. Just like software updates improve performance, morning practices optimize your mental and emotional functioning. You're literally rewiring yourself for success each morning.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-3",
+                    "title": "The SAVERS Framework",
+                    "order": 3,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Six Life-Changing Practices",
+                            "body": "The SAVERS framework combines six evidence-based practices into one powerful morning routine. Each element targets different aspects of human development: mental, physical, emotional, and spiritual. Together, they create comprehensive personal growth in just 30-60 minutes.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p2",
+                            "pageType": "content",
+                            "headline": "S - Silence",
+                            "body": "Silence includes meditation, prayer, breathing exercises, or quiet reflection. This practice calms your mind, reduces stress, and creates mental clarity. Just 5-10 minutes of silence can significantly improve focus and emotional regulation throughout your day.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p3",
+                            "pageType": "content",
+                            "headline": "A - Affirmations",
+                            "body": "Affirmations are positive statements that program your subconscious mind for success. They help overcome limiting beliefs and reinforce your goals and values. When repeated consistently, affirmations literally rewire your brain for confidence and achievement.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p4",
+                            "pageType": "content",
+                            "headline": "V - Visualization",
+                            "body": "Visualization involves mentally rehearsing your goals and ideal life. Athletes use this technique to improve performance, and research shows visualization activates the same brain regions as actual experiences. You're training your mind for success before it happens.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p5",
+                            "pageType": "content",
+                            "headline": "E - Exercise",
+                            "body": "Morning exercise doesn't require a gym membership or hours of time. Even 5-10 minutes of movement boosts endorphins, improves circulation, and enhances mental clarity. Physical activity in the morning energizes you for 8-12 hours afterward.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p6",
+                            "pageType": "content",
+                            "headline": "R - Reading",
+                            "body": "Reading for 10-20 minutes each morning feeds your mind with new ideas and perspectives. Choose books that inspire, educate, or challenge you. This daily learning compounds over time, making you more knowledgeable and creative.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p7",
+                            "pageType": "question",
+                            "headline": "Which SAVERS practice involves mental rehearsal of goals?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Silence through meditation",
+                                    "Affirmations for confidence",
+                                    "Visualization of success",
+                                    "Reading for knowledge"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p8",
+                            "pageType": "question",
+                            "headline": "What is the minimum effective time for morning silence practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "5-10 minutes daily",
+                                    "15-20 minutes daily",
+                                    "30-45 minutes daily",
+                                    "60 minutes for benefits"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p9",
+                            "pageType": "question",
+                            "headline": "Morning exercise provides energy for approximately how long?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2-4 hours after exercise",
+                                    "4-6 hours of sustained energy",
+                                    "6-8 hours throughout morning",
+                                    "8-12 hours of enhanced energy"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p10",
+                            "pageType": "content",
+                            "headline": "S - Scribing (Journaling)",
+                            "body": "Scribing means writing down thoughts, goals, gratitude, or insights. This practice clarifies thinking, processes emotions, and tracks progress. Writing by hand activates different brain regions than typing, enhancing memory and creativity.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Flexible Implementation",
+                            "body": "SAVERS is adaptable to your schedule and preferences. You might spend 10 minutes total or spread it across an hour. Some days you'll do all six practices, others you might focus on three. Consistency matters more than perfection.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p12",
+                            "pageType": "content",
+                            "headline": "The Compound Effect",
+                            "body": "Each SAVERS practice amplifies the others. Silence prepares you for visualization, affirmations reinforce what you visualize, exercise energizes your reading, and scribing captures insights from all practices. They work synergistically for maximum impact.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Personal Development Accelerator",
+                            "body": "SAVERS addresses every aspect of growth: mental (reading), physical (exercise), emotional (affirmations), spiritual (silence), creative (visualization), and reflective (scribing). This comprehensive approach accelerates development faster than any single practice alone.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Your Success Foundation",
+                            "body": "SAVERS creates a foundation for success by developing the internal qualities that drive external results. As you strengthen your mindset, energy, knowledge, and self-awareness, you become capable of achieving any goal you set.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Start Your Transformation",
+                            "body": "You now understand the six practices that can transform your mornings and your life. In the following lessons, you'll learn exactly how to implement each element of SAVERS effectively. Your morning miracle begins with this knowledge.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-4",
+                    "title": "Mastering Silence",
+                    "order": 4,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Power of Stillness",
+                            "body": "In our noisy world, silence has become a rare commodity. Yet this simple practice offers profound benefits: reduced stress, enhanced creativity, improved emotional regulation, and deeper self-awareness. Silence is where transformation begins.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Types of Silence Practice",
+                            "body": "Silence takes many forms: meditation, deep breathing, prayer, or simple quiet reflection. Choose what resonates with you. The goal isn't perfection but presence - creating space between you and the mental chatter that usually dominates your thoughts.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Simple Breathing Technique",
+                            "body": "Try the 4-7-8 breathing pattern: inhale for 4 counts, hold for 7, exhale for 8. This activates your parasympathetic nervous system, naturally calming your mind and body. Repeat this cycle 4-6 times to feel immediate relaxation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Meditation for Beginners",
+                            "body": "Start with just 3-5 minutes of focused attention on your breath. When thoughts arise, gently return focus to breathing. Don't fight thoughts - observe them like clouds passing through the sky. This builds mental muscle for concentration.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p5",
+                            "pageType": "question",
+                            "headline": "What is the 4-7-8 breathing pattern?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Inhale 4, hold 7, exhale 8",
+                                    "Inhale 4, exhale 7, hold 8",
+                                    "Hold 4, inhale 7, exhale 8",
+                                    "Exhale 4, hold 7, inhale 8"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Prayer and Reflection",
+                            "body": "If meditation feels foreign, try prayer or gratitude reflection. Spend time acknowledging what you're thankful for or connecting with your spiritual beliefs. This practice centers your mind and heart before the day begins.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Creating Your Sacred Space",
+                            "body": "Designate a quiet corner for silence practice. This could be a chair by a window, a cushion on the floor, or even your bed. Having a consistent location signals to your brain that it's time for stillness and introspection.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Common Obstacles",
+                            "body": "Your mind will resist silence initially. Expect restlessness, racing thoughts, or feeling like you're wasting time. This is normal. The goal isn't to stop thinking but to observe your thoughts without getting caught up in them.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Progressive Training",
+                            "body": "Start with 2-3 minutes and gradually increase duration. Like physical exercise, mental training requires progressive overload. Building from 3 minutes to 10-20 minutes over weeks creates sustainable practice without overwhelming yourself.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Apps and Guidance",
+                            "body": "Guided meditation apps like Headspace, Calm, or Insight Timer can provide structure for beginners. These tools offer various techniques and durations, helping you find your preferred style of silence practice.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p11",
+                            "pageType": "question",
+                            "headline": "When starting meditation, what should beginners expect?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediate calm and clarity",
+                                    "Perfect focus from day one",
+                                    "Complete absence of thoughts",
+                                    "Restlessness and racing thoughts"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Benefits You'll Notice",
+                            "body": "After consistent practice, you'll experience: reduced anxiety, improved focus throughout the day, better emotional regulation, enhanced creativity, and greater self-awareness. These benefits compound, making silence one of the highest-leverage morning activities.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Integration Tips",
+                            "body": "Link silence to another morning habit - after brushing teeth or before coffee. This creates a natural trigger. Don't aim for perfect meditation; aim for consistent showing up. Five minutes of imperfect practice beats zero minutes of perfect intention.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Your Silence Journey",
+                            "body": "Silence is deeply personal. Some prefer complete quiet, others like nature sounds or soft music. Experiment to find what brings you peace and presence. The key is creating space for inner wisdom to emerge before outer demands take over.",
+                            "imageURL": "minimal",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-5",
+                    "title": "Powerful Affirmations",
+                    "order": 5,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Rewiring Your Inner Voice",
+                            "body": "Your inner dialogue shapes your reality. Most people have 60,000 thoughts daily, and 80% are negative or repetitive. Affirmations intentionally replace limiting beliefs with empowering statements, literally rewiring your brain for success and confidence.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Science of Self-Talk",
+                            "body": "Neuroscience shows that repeated thoughts strengthen neural pathways. When you consistently affirm positive beliefs, these pathways become dominant, making confident thinking automatic. Your brain can't distinguish between what you imagine vividly and what you experience.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What percentage of daily thoughts are typically negative or repetitive?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 50% of daily thoughts",
+                                    "Around 80% of daily thoughts",
+                                    "Nearly 90% of daily thoughts",
+                                    "Close to 95% of daily thoughts"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Elements of Effective Affirmations",
+                            "body": "Powerful affirmations are present tense, positive, personal, and specific. Instead of 'I will be successful,' say 'I am confident and capable in all my endeavors.' This creates immediate mental and emotional alignment with your desired state.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Creating Your Personal Affirmations",
+                            "body": "Write affirmations that address your specific goals and challenges. Focus on who you're becoming, what you're achieving, and how you're showing up. Make them emotionally compelling - they should inspire and energize you when spoken aloud.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Sample Affirmations",
+                            "body": "Career: 'I attract opportunities that align with my purpose and values.' Health: 'I treat my body with respect and make choices that energize me.' Relationships: 'I communicate with clarity, compassion, and confidence.'",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p7",
+                            "pageType": "content",
+                            "headline": "The Emotion Component",
+                            "body": "Affirmations work best when combined with genuine emotion. Feel the confidence, joy, or determination as you speak them. This emotional charge creates stronger neural connections and makes the affirmations more believable to your subconscious mind.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Overcoming Resistance",
+                            "body": "Your mind may initially resist positive affirmations, especially if they contradict current beliefs. This is normal. Start with statements that feel believable and gradually make them more ambitious as your confidence grows.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Written vs Spoken",
+                            "body": "Both writing and speaking affirmations have benefits. Writing engages different brain regions and helps clarify thinking. Speaking aloud adds auditory reinforcement and emotional intensity. Try both methods to discover what resonates most with you.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Mirror Work",
+                            "body": "Looking into your own eyes while stating affirmations creates powerful connection with yourself. This might feel uncomfortable initially, but it builds self-acceptance and makes the affirmations more personal and meaningful.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Timing and Frequency",
+                            "body": "Morning affirmations prime your mindset for the entire day. Repeat each affirmation 3-10 times with intention and feeling. Consistency matters more than duration - five minutes of focused affirmations daily outweighs occasional longer sessions.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Tracking Progress",
+                            "body": "Notice how your inner dialogue changes over weeks of consistent affirmation practice. You'll catch negative self-talk earlier and replace it more quickly with empowering thoughts. This shift in mental patterns transforms how you approach challenges and opportunities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p13",
+                            "pageType": "question",
+                            "headline": "Effective affirmations should be written in which tense?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Future tense (I will be)",
+                                    "Present tense (I am)",
+                                    "Past tense (I was)",
+                                    "Conditional tense (I could be)"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Your Affirmation Practice",
+                            "body": "Start with 3-5 affirmations that address your most important goals and growth areas. Write them down, speak them with conviction, and feel the emotions they evoke. This daily practice will gradually reshape your self-concept and expand what you believe possible.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-5-p15",
+                            "pageType": "content",
+                            "headline": "Programming Success",
+                            "body": "Affirmations are mental programming for success. Just as athletes visualize perfect performance, you're training your mind for optimal thinking patterns. With consistency, these empowering thoughts become your default mental response to any situation.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-6",
+                    "title": "Victory Through Visualization",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Mental Rehearsal for Success",
+                            "body": "Visualization is mental rehearsal of your desired outcomes. Olympic athletes, top performers, and successful entrepreneurs use this technique to program their minds for success. Your brain treats vividly imagined experiences as real, creating neural pathways for achievement.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p2",
+                            "pageType": "content",
+                            "headline": "How Visualization Works",
+                            "body": "When you visualize, your brain activates the same neural networks used in actual performance. This mental practice improves real-world execution by strengthening the connections between intention and action. You're literally training yourself for success.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Two Types of Visualization",
+                            "body": "Outcome visualization involves seeing your end goals achieved - your ideal life, career success, or personal growth. Process visualization focuses on the specific actions and behaviors that lead to success. Both types are powerful when used together.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Engaging All Senses",
+                            "body": "Effective visualization engages all five senses, not just sight. Feel the emotions of achievement, hear the sounds of success, smell and taste the environment. The more sensory details you include, the more real and powerful the visualization becomes.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Visualizing Your Ideal Day",
+                            "body": "Start by visualizing your perfect day from morning to evening. See yourself moving through activities with confidence, energy, and purpose. Feel the satisfaction of accomplishing your goals and the positive interactions with others throughout the day.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Long-Term Vision",
+                            "body": "Visualize your life 1, 5, and 10 years from now. See yourself having achieved your most important goals. What does your ideal future look like? Who have you become? This long-term vision provides direction and motivation for daily actions.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p7",
+                            "pageType": "question",
+                            "headline": "What happens in your brain when you visualize vividly?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Same networks activate as real performance",
+                                    "Only imagination centers are engaged",
+                                    "Memory areas become completely inactive",
+                                    "Logical thinking areas shut down completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Overcoming Challenges",
+                            "body": "Include potential obstacles in your visualization and see yourself overcoming them with grace and determination. This mental preparation builds confidence and resilience for when real challenges arise. You're training your mind to find solutions rather than focus on problems.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Visualization Techniques",
+                            "body": "First-person visualization (seeing through your own eyes) builds confidence and self-efficacy. Third-person visualization (watching yourself like a movie) helps with technique refinement and perspective. Use both approaches for maximum benefit.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Creating Vision Boards",
+                            "body": "Visual aids like vision boards or goal pictures can support your visualization practice. Having images of your goals visible creates daily reminders and makes the visualization process more concrete and inspiring.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p11",
+                            "pageType": "question",
+                            "headline": "Which approach combines outcome and process visualization?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus only on end results achieved",
+                                    "Visualize only daily action steps",
+                                    "See yourself overcoming specific obstacles",
+                                    "Combine seeing goals plus action steps"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Emotional Connection",
+                            "body": "The most powerful visualizations evoke strong positive emotions. Feel the pride, joy, gratitude, and excitement of achieving your goals. These emotions create motivation and make the visualization more memorable and impactful for your subconscious mind.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Daily Practice",
+                            "body": "Spend 5-10 minutes each morning visualizing your goals and ideal day. Consistency creates stronger neural pathways and maintains focus on what matters most. This daily mental rehearsal programs your reticular activating system to notice opportunities.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Your Visualization Blueprint",
+                            "body": "Create a clear mental blueprint of your success. The more detailed and emotionally compelling your visualization, the more your brain treats it as important and worth pursuing. You're creating a magnetic pull toward your desired outcomes through daily mental rehearsal.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-7",
+                    "title": "Energizing Exercise",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Movement Creates Energy",
+                            "body": "Morning exercise doesn't require gym memberships or hour-long workouts. Even 10 minutes of movement triggers endorphin release, improves circulation, and enhances mental clarity for the entire day. Physical energy creates mental and emotional energy.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Exercise Paradox",
+                            "body": "Many people avoid morning exercise because they feel tired, but movement actually creates energy rather than depleting it. Exercise increases mitochondrial function, boosts oxygen circulation, and releases natural stimulants that energize you for hours.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Neurological Benefits",
+                            "body": "Exercise increases BDNF (brain-derived neurotrophic factor), which promotes new brain cell growth and protects existing neurons. Morning movement also improves focus, memory, and learning capacity throughout the day by optimizing brain chemistry.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Simple Movement Options",
+                            "body": "Your morning exercise can be as simple as stretching, yoga poses, push-ups, jumping jacks, or a brief walk. The key is consistency rather than intensity. Choose activities you enjoy and can maintain regardless of weather, schedule, or location.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p5",
+                            "pageType": "content",
+                            "headline": "The 7-Minute Workout",
+                            "body": "High-intensity interval training can provide maximum benefits in minimal time. A 7-minute circuit of bodyweight exercises activates multiple muscle groups, elevates heart rate, and triggers the same metabolic benefits as longer workouts.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Yoga and Stretching",
+                            "body": "Gentle yoga or stretching routines improve flexibility, reduce muscle tension, and create mental calm. These activities bridge the gap between sleep and full wakefulness, gradually preparing your body and mind for the day ahead.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p7",
+                            "pageType": "question",
+                            "headline": "What brain chemical increases with morning exercise?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "BDNF (Brain-derived neurotrophic factor)",
+                                    "Cortisol (Stress hormone)",
+                                    "Insulin (Blood sugar regulator)",
+                                    "Melatonin (Sleep hormone)"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Outdoor Benefits",
+                            "body": "Exercising outdoors provides additional benefits: natural light exposure helps regulate circadian rhythms, fresh air improves oxygen intake, and nature contact reduces stress hormones. Even a 10-minute walk outside can significantly impact your mood and energy.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Indoor Alternatives",
+                            "body": "Bad weather shouldn't stop your movement practice. Create an indoor routine with bodyweight exercises, yoga videos, or dance. Having backup options ensures consistency regardless of external conditions.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Gradual Progression",
+                            "body": "Start with 5 minutes of gentle movement and gradually increase duration and intensity. Building slowly prevents injury and makes the habit sustainable. Your future self will thank you for starting small rather than burning out with excessive initial enthusiasm.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Equipment-Free Options",
+                            "body": "Effective morning exercise requires no equipment. Push-ups, squats, lunges, planks, and jumping jacks provide full-body workouts using only your body weight. This eliminates barriers and excuses that might derail your morning routine.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Metabolic Awakening",
+                            "body": "Morning exercise kickstarts your metabolism, leading to increased calorie burn throughout the day. This metabolic boost, combined with improved insulin sensitivity, supports healthy weight management and sustained energy levels.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p13",
+                            "pageType": "question",
+                            "headline": "High-intensity morning exercise provides benefits equivalent to longer workouts in how much time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "3-5 minutes of intense activity",
+                                    "7-10 minutes of circuit training",
+                                    "15-20 minutes of steady activity",
+                                    "30-45 minutes of moderate exercise"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Mood Enhancement",
+                            "body": "Exercise triggers endorphin release, often called 'runner's high,' which improves mood and reduces anxiety. This natural mood elevation lasts for hours, making you more resilient to stress and more positive in your interactions with others.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-7-p15",
+                            "pageType": "content",
+                            "headline": "Your Movement Practice",
+                            "body": "Choose 2-3 simple exercises you can do consistently. Focus on movements that make you feel energized and strong. Remember, the best exercise is the one you'll actually do. Start tomorrow morning with just 5 minutes of intentional movement.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-8",
+                    "title": "Reading for Growth",
+                    "order": 8,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Feed Your Mind Daily",
+                            "body": "Reading for just 20 minutes each morning exposes you to new ideas, perspectives, and knowledge that compound over time. This daily mental nutrition builds wisdom, creativity, and understanding that enhances every area of your life.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Compound Learning Effect",
+                            "body": "Warren Buffett reads 500+ pages daily because knowledge compounds. Twenty minutes of morning reading equals approximately 7,300 minutes or 120 hours per year - equivalent to reading 20-30 books annually. This consistent learning creates exponential personal growth.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Choosing Your Reading Material",
+                            "body": "Select books that align with your goals and interests: personal development, biographies of successful people, industry-specific knowledge, or inspiring stories. Mix educational content with occasional fiction to maintain engagement and enjoy the process.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Digital vs Physical Books",
+                            "body": "Both formats have benefits. Physical books reduce screen exposure and may improve retention for some people. Digital books offer convenience, portability, and features like highlighting and note-taking. Choose based on your preferences and lifestyle.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p5",
+                            "pageType": "question",
+                            "headline": "How many books can you read annually with 20 minutes of daily morning reading?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "5-10 books per year",
+                                    "20-30 books per year",
+                                    "40-50 books per year",
+                                    "Over 100 books per year"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p6",
+                            "pageType": "question",
+                            "headline": "What type of reading material should you prioritize in the morning?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Content aligned with goals and interests",
+                                    "Only fiction for entertainment value",
+                                    "Exclusively technical or academic books",
+                                    "Whatever is most popular currently"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Active Reading Strategies",
+                            "body": "Engage actively with the material: take notes, highlight key passages, ask questions, and connect new information to your existing knowledge. This active approach improves comprehension and retention significantly compared to passive reading.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Creating a Reading List",
+                            "body": "Maintain a list of books you want to read, organized by priority and category. This prevents decision fatigue and ensures you always have your next book ready. Include recommendations from mentors, experts in your field, and successful people you admire.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p9",
+                            "pageType": "content",
+                            "headline": "The 5-Page Minimum",
+                            "body": "Commit to reading at least 5 pages each morning, regardless of time constraints. This minimum ensures consistency even on busy days. Often, you'll find yourself reading more once you start, but the small commitment removes resistance.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Learning from Biographies",
+                            "body": "Biographies of successful people provide valuable insights into mindsets, strategies, and habits that lead to achievement. You gain wisdom from their experiences, mistakes, and breakthroughs without having to learn everything through trial and error.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p11",
+                            "pageType": "question",
+                            "headline": "What is the recommended minimum pages to read each morning for consistency?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "At least 2 pages daily",
+                                    "At least 5 pages daily",
+                                    "At least 10 pages daily",
+                                    "At least 20 pages daily"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Audiobooks as Alternative",
+                            "body": "Audiobooks count as reading and can be especially useful during morning routines like exercise or commuting. Many people retain information better through auditory learning, and audiobooks allow multitasking without compromising comprehension.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Knowledge Application",
+                            "body": "The goal isn't just consumption but application. After reading, identify 1-3 key insights you can implement immediately. This transforms passive learning into active growth, making your reading practice more valuable and practical.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Building Your Library",
+                            "body": "Invest in books as investments in yourself. Build a personal library of references you can revisit. Many successful concepts become more valuable upon re-reading as your experience and understanding deepen over time.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-9",
+                    "title": "Scribing Success",
+                    "order": 9,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-9-p1",
+                            "pageType": "content",
+                            "headline": "The Power of Writing",
+                            "body": "Scribing, or journaling, is the final element of SAVERS that captures insights, clarifies thinking, and tracks progress. Writing by hand activates different brain regions than typing, enhancing memory, creativity, and emotional processing.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Types of Morning Journaling",
+                            "body": "Gratitude journaling focuses on appreciation and positive emotions. Goal journaling tracks progress and plans action steps. Stream-of-consciousness writing clears mental clutter and promotes creativity. Choose the style that resonates most with your needs.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Gratitude Journaling",
+                            "body": "Write down 3-5 things you're grateful for each morning. This simple practice rewires your brain to notice positive aspects of life, improving mood and life satisfaction. Research shows gratitude journaling increases happiness by 25% within just 3 weeks.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Goal Progress Tracking",
+                            "body": "Document daily actions toward your goals, obstacles encountered, and lessons learned. This creates accountability and helps identify patterns in your behavior. Tracking progress visually motivates continued effort and celebrates small wins.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Morning Pages Technique",
+                            "body": "Julia Cameron's 'Morning Pages' involves writing three pages of stream-of-consciousness thoughts. This brain dump clears mental clutter, reduces anxiety, and often reveals insights about problems you're facing. It's mental decluttering through writing.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Problem-Solving Through Writing",
+                            "body": "Use journaling to work through challenges by writing about the situation, exploring possible solutions, and clarifying your thoughts. The act of writing often reveals insights that remain hidden when problems stay in your head.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p7",
+                            "pageType": "question",
+                            "headline": "Research shows gratitude journaling can increase happiness by what percentage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "25% increase within 3 weeks",
+                                    "15% increase within 3 weeks",
+                                    "35% increase within 3 weeks",
+                                    "45% increase within 3 weeks"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Daily Intention Setting",
+                            "body": "Write your intentions for the day: how you want to show up, what you want to accomplish, and how you want to feel. This creates focus and purpose, making your day more intentional rather than reactive to whatever happens.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p9",
+                            "pageType": "question",
+                            "headline": "What is the 'Morning Pages' technique?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Reading three pages of inspirational text",
+                                    "Writing goals on three separate pages",
+                                    "Writing three pages of stream-of-consciousness",
+                                    "Creating three-page daily planning documents"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Emotional Processing",
+                            "body": "Writing about emotions helps process and release them rather than carrying emotional baggage throughout the day. This emotional clearing creates space for more positive feelings and reduces the likelihood of emotional reactivity later.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Digital vs Handwritten",
+                            "body": "Both methods have benefits, but handwriting often provides greater benefits for memory and emotional processing. The slower pace of handwriting allows deeper reflection, while the physical act creates stronger neural pathways for retention.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p12",
+                            "pageType": "question",
+                            "headline": "Why is handwriting often more beneficial than typing for journaling?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It's faster and more efficient",
+                                    "Creates stronger memory and processing",
+                                    "Requires less mental effort overall",
+                                    "Produces more organized thoughts"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Building the Habit",
+                            "body": "Start with just 2-3 minutes of writing each morning. Focus on consistency over quantity. Even a few sentences of gratitude or intention-setting can provide benefits and establish the habit foundation for longer sessions later.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Privacy and Freedom",
+                            "body": "Your journal is for you alone, so write freely without concern for grammar, spelling, or judgment. This privacy allows honest self-expression and authentic exploration of thoughts and feelings without social filtering.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-9-p15",
+                            "pageType": "content",
+                            "headline": "Your Scribing Practice",
+                            "body": "Choose one journaling approach to start: gratitude, goal tracking, or morning pages. Keep a notebook by your bed or morning routine space. Remember, the goal is consistent practice, not perfect entries. Your future self will appreciate the insights and progress documented.",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-10",
+                    "title": "Customizing Your SAVERS",
+                    "order": 10,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Your Unique Formula",
+                            "body": "SAVERS isn't a rigid prescription but a flexible framework. Your morning routine should reflect your goals, preferences, schedule, and season of life. The key is finding the right combination and duration for each practice that fits your lifestyle.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Time Allocation Options",
+                            "body": "You might spend 30 minutes total (5 minutes each practice) or extend to 60-90 minutes for deeper sessions. Some people prefer longer meditation with shorter exercise, others balance all six equally. Experiment to find what energizes you most.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Personality-Based Customization",
+                            "body": "Introverts often prefer longer silence and reflection periods, while extroverts might enjoy energetic exercise and verbal affirmations. Visual learners benefit from reading and vision boards, while kinesthetic learners prefer movement and hands-on journaling.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Goal-Focused Adaptation",
+                            "body": "Adjust SAVERS based on your current priorities. If you're working on confidence, emphasize affirmations and visualization. For stress management, extend silence practice. For learning new skills, increase reading time. Let your goals guide your emphasis.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p5",
+                            "pageType": "question",
+                            "headline": "How should you customize SAVERS based on your personality?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Follow the exact same formula for everyone",
+                                    "Adjust based on learning style and preferences",
+                                    "Always prioritize exercise over other practices",
+                                    "Only focus on practices you already enjoy"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Seasonal Adjustments",
+                            "body": "Your routine may shift with life seasons. During busy periods, focus on shorter, high-impact versions. When you have more time, expand practices for deeper development. The routine serves you, not the other way around.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Minimum Viable SAVERS",
+                            "body": "On extremely busy days, practice a 6-minute version: 1 minute of silence, 1 minute of affirmations, 1 minute of visualization, 1 minute of exercise, 1 minute of reading, 1 minute of scribing. This maintains consistency without overwhelming your schedule.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p8",
+                            "pageType": "question",
+                            "headline": "What is the minimum time recommended for maintaining SAVERS consistency?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "30 minutes for full benefits",
+                                    "15 minutes for basic practice",
+                                    "6 minutes for busy days",
+                                    "60 minutes is always required"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Order Flexibility",
+                            "body": "While SAVERS provides a helpful sequence, you can rearrange practices to fit your energy patterns and preferences. Some prefer exercise first for energy, others start with silence for centeredness. Find the flow that feels most natural to you.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Location Adaptations",
+                            "body": "Your routine should work at home, while traveling, or in different environments. Identify which practices are most location-dependent and create portable alternatives. This flexibility prevents routine disruption during life changes.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Progressive Development",
+                            "body": "Start with shorter versions of each practice and gradually extend duration as habits solidify. You might begin with 2-3 practices and add others weekly. This progressive approach prevents overwhelm and builds sustainable routines.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Your SAVERS Blueprint",
+                            "body": "Create your personalized SAVERS plan: choose duration for each practice, preferred order, and backup options for busy days. Write this blueprint down and refine it based on experience. Your morning routine should evolve as you do.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-11",
+                    "title": "Optimizing Your Sleep",
+                    "order": 11,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Sleep Fuels Morning Success",
+                            "body": "Great mornings begin the night before. Quality sleep provides the energy, focus, and willpower needed for effective morning routines. Poor sleep makes everything harder, while optimized sleep makes mornings feel effortless and energizing.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The 90-Minute Sleep Cycles",
+                            "body": "Sleep occurs in 90-minute cycles, moving through light sleep, deep sleep, and REM sleep. Waking at the end of a cycle (after 6, 7.5, or 9 hours) feels more natural than interrupting mid-cycle. Time your sleep to complete full cycles.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Evening Wind-Down Routine",
+                            "body": "Create a consistent bedtime routine that signals your brain it's time to sleep. This might include dimming lights, avoiding screens, reading, gentle stretching, or meditation. Consistency helps regulate your circadian rhythm for easier morning wake-ups.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Screen Light Management",
+                            "body": "Blue light from screens suppresses melatonin production, making it harder to fall asleep. Use blue light filters on devices after sunset, or better yet, avoid screens 1-2 hours before bedtime. This improves both sleep quality and morning alertness.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Bedroom Environment",
+                            "body": "Optimize your sleep environment: cool temperature (65-68\u00b0F), complete darkness, minimal noise, and comfortable bedding. Small environmental improvements can significantly impact sleep quality and morning energy levels.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Consistent Sleep Schedule",
+                            "body": "Go to bed and wake up at the same time daily, including weekends. This consistency strengthens your circadian rhythm, making it easier to fall asleep and wake up naturally. Your body thrives on predictable patterns.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p7",
+                            "pageType": "question",
+                            "headline": "How long are typical sleep cycles?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "60 minutes per cycle",
+                                    "75 minutes per cycle",
+                                    "90 minutes per cycle",
+                                    "120 minutes per cycle"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p8",
+                            "pageType": "question",
+                            "headline": "What is the recommended bedroom temperature for optimal sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "70-73\u00b0F for comfort",
+                                    "65-68\u00b0F for optimal sleep",
+                                    "60-63\u00b0F for deep sleep",
+                                    "68-72\u00b0F for most people"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Caffeine and Alcohol Impact",
+                            "body": "Caffeine has a 6-8 hour half-life, so afternoon coffee can disrupt nighttime sleep. Alcohol may help you fall asleep initially but reduces sleep quality and REM sleep. Limit caffeine after 2 PM and alcohol close to bedtime.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Morning Light Exposure",
+                            "body": "Get natural light within 30 minutes of waking to regulate circadian rhythms and suppress daytime melatonin. This morning light exposure also makes it easier to fall asleep at night by maintaining your body's natural sleep-wake cycle.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p11",
+                            "pageType": "question",
+                            "headline": "When should you avoid caffeine to protect nighttime sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After 6 PM only",
+                                    "After 2 PM daily",
+                                    "After dinner time",
+                                    "Only avoid before bed"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Sleep Tracking Benefits",
+                            "body": "Track your sleep patterns to identify what improves or hinders your rest. Notice how different evening activities, foods, or stress levels affect your sleep quality and morning energy. This data helps optimize your personal sleep formula.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Power Nap Strategy",
+                            "body": "If you occasionally have poor nighttime sleep, a 10-20 minute power nap can restore alertness without interfering with nighttime sleep. Avoid naps after 3 PM or longer than 30 minutes, which can disrupt your evening sleep schedule.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Your Sleep Foundation",
+                            "body": "Treat sleep as the foundation of your morning routine, not an afterthought. When you prioritize quality sleep, your morning SAVERS practice becomes more enjoyable, effective, and sustainable. Great days start with great nights.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-12",
+                    "title": "Defeating the Snooze Button",
+                    "order": 12,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-12-p1",
+                            "pageType": "content",
+                            "headline": "The Snooze Trap",
+                            "body": "The snooze button seems harmless but creates a cycle of sleep inertia and decision fatigue. Each snooze hit reinforces the identity of someone who doesn't follow through on commitments - starting with the first decision of your day.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Sleep Inertia Science",
+                            "body": "Snoozing puts you back into deep sleep phases that are harder to wake from. This creates grogginess and mental fog that can last hours. Waking once at your target time, even if tired, actually creates more energy throughout your day.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p3",
+                            "pageType": "content",
+                            "headline": "The Identity Connection",
+                            "body": "How you wake up reinforces who you believe yourself to be. Snoozing tells your subconscious you're someone who avoids discomfort and doesn't keep commitments. Rising immediately programs success patterns and builds self-trust.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p4",
+                            "pageType": "question",
+                            "headline": "What negative effect does snoozing have on your brain?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increases alertness immediately",
+                                    "Reduces memory formation",
+                                    "Creates sleep inertia and grogginess",
+                                    "Improves decision-making ability"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Physical Strategies",
+                            "body": "Place your alarm across the room so you must get up to turn it off. Use a sunrise alarm clock that gradually increases light. Set the thermostat to cool overnight and warm before your wake time. Make staying in bed less comfortable than getting up.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p6",
+                            "pageType": "content",
+                            "headline": "The 5-Second Rule",
+                            "body": "When your alarm rings, count backwards from 5 and immediately get up. This interrupts the mental negotiation that leads to snoozing. The countdown creates urgency and bypasses the part of your brain that wants to stay comfortable.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p7",
+                            "pageType": "question",
+                            "headline": "According to the 5-Second Rule, what should you do when your alarm rings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Think about your day for 5 seconds",
+                                    "Count backwards from 5 then get up",
+                                    "Stretch for 5 seconds before rising",
+                                    "Take 5 deep breaths while lying down"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Mental Preparation",
+                            "body": "Before bed, visualize yourself waking up immediately when the alarm sounds. See yourself moving from bed to your morning routine smoothly. This mental rehearsal programs your subconscious for the behavior you want.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p9",
+                            "pageType": "content",
+                            "headline": "The Minute Movement",
+                            "body": "As soon as you're upright, move your body for 60 seconds. Do jumping jacks, stretch, or walk around. Movement increases circulation and alertness, making it nearly impossible to return to bed. This minute of movement commits you to being awake.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Accountability Systems",
+                            "body": "Tell someone about your wake-up goal and ask them to check on you. Use apps that require you to scan a QR code in another room to turn off the alarm. Create consequences for snoozing that make it more painful than getting up.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Gradual Training",
+                            "body": "If you're a chronic snoozer, practice getting up immediately during the day. Set random alarms and practice the immediate wake-up sequence. This trains the behavior when you're already alert, making it automatic in the morning.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Creating Motivation",
+                            "body": "Have something exciting waiting for you in your morning routine - special coffee, inspiring reading, or energizing music. When you're motivated to start your day, getting up becomes easier because you're moving toward something positive rather than away from sleep.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Your Anti-Snooze Plan",
+                            "body": "Choose 2-3 strategies to eliminate snoozing: physical placement of alarm, the 5-second rule, and immediate movement. Start implementing tomorrow morning. Remember, this is about building the identity of someone who follows through on commitments.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-12-p14",
+                            "pageType": "content",
+                            "headline": "Victory Over Snooze",
+                            "body": "Defeating the snooze button is your first victory of each day. This early win creates momentum and confidence that carries through every subsequent decision. You're not just waking up - you're choosing to become someone who honors their commitments.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-13",
+                    "title": "Creating Your Morning Environment",
+                    "order": 13,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Environment Shapes Behavior",
+                            "body": "Your physical environment either supports or sabotages your morning routine. Small changes in your space can make good habits feel effortless and bad habits more difficult. Design your environment to make success the path of least resistance.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Preparation the Night Before",
+                            "body": "Set up your morning success before bed. Lay out workout clothes, prepare your journal and pen, have your book ready, and clear a space for morning activities. This removes friction and decision fatigue from your morning routine.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Designated Sacred Space",
+                            "body": "Create a specific area for your morning routine, even if it's just a corner of a room. This space signals to your brain that it's time for focused self-development. Having a consistent location builds the habit faster through environmental cues.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Minimizing Distractions",
+                            "body": "Remove or hide distracting elements from your morning space. Keep phones in another room, turn off notifications, and create visual calm. Your morning routine competes with countless distractions - give it every advantage by controlling your environment.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p5",
+                            "pageType": "question",
+                            "headline": "What is the benefit of preparing your morning routine the night before?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Removes friction and decision fatigue",
+                                    "Guarantees you'll wake up earlier",
+                                    "Makes the routine take less time",
+                                    "Eliminates the need for willpower"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Lighting Optimization",
+                            "body": "Use bright lights or natural light during your morning routine to signal wakefulness to your brain. Good lighting improves mood, increases alertness, and helps regulate circadian rhythms. Darkness makes you want to return to sleep.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Temperature Control",
+                            "body": "Cooler temperatures promote alertness while warmth encourages sleepiness. Set your morning space to be slightly cool to maintain energy and focus. You can always warm up with movement or clothing adjustments.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Sound Environment",
+                            "body": "Control audio distractions and add supportive sounds if helpful. Some people prefer complete silence for meditation and reflection, others enjoy soft instrumental music or nature sounds. Avoid stimulating music or talk shows that fragment attention.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Visual Motivation",
+                            "body": "Place visual reminders of your goals, values, or inspiration in your morning space. This might include vision boards, motivational quotes, or photos that represent your ideal future. These visual cues reinforce your commitment and purpose.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p10",
+                            "pageType": "question",
+                            "headline": "What type of temperature promotes alertness during morning routines?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Very warm for comfort",
+                                    "Slightly cool for alertness",
+                                    "Hot to increase energy",
+                                    "Temperature doesn't matter"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Technology Boundaries",
+                            "body": "Keep phones and tablets out of your morning routine space if possible. If you need devices for guided meditation or reading, put them in airplane mode to avoid notifications. Your morning is for you, not for responding to others' demands.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p12",
+                            "pageType": "question",
+                            "headline": "Why should you minimize technology during morning routines?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Technology is always harmful",
+                                    "Your morning is for you, not others' demands",
+                                    "Devices drain too much battery power",
+                                    "Technology makes you less creative"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Your Environmental Design",
+                            "body": "Audit your current morning environment and identify three changes that would support your routine better. Start with simple modifications tonight: prepare materials, adjust lighting, and minimize distractions. Your environment is your silent partner in success.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-14",
+                    "title": "Building Unbreakable Habits",
+                    "order": 14,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-14-p1",
+                            "pageType": "content",
+                            "headline": "The Habit Formation Process",
+                            "body": "Habits form through consistent repetition of behavior loops: cue, routine, reward. Your morning routine becomes automatic when these loops are well-established. Understanding this process helps you build sustainable practices that require less willpower over time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Starting Impossibly Small",
+                            "body": "Begin with habits so small they seem trivial: 2 minutes of meditation, 5 push-ups, reading one page. Small starts overcome resistance and build momentum. Once the pattern is established, you can naturally expand duration and intensity.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p3",
+                            "pageType": "content",
+                            "headline": "The Two-Day Rule",
+                            "body": "Never allow yourself to skip your routine two days in a row. Missing one day is life happening; missing two days is the beginning of a broken habit. This rule maintains momentum while allowing for realistic flexibility.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p4",
+                            "pageType": "question",
+                            "headline": "What is the key principle of the Two-Day Rule?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Never skip your routine at all",
+                                    "Never skip two consecutive days",
+                                    "Only practice every other day",
+                                    "Take two days off each week"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Habit Stacking",
+                            "body": "Link your new morning practices to existing habits. After brushing your teeth, meditate for 5 minutes. After making coffee, write in your journal. This stacking technique uses established routines as triggers for new behaviors.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Identity-Based Change",
+                            "body": "Focus on who you're becoming rather than what you're doing. Instead of 'I want to exercise,' think 'I am someone who prioritizes my health.' This identity shift creates intrinsic motivation and makes behaviors feel more natural and sustainable.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p7",
+                            "pageType": "question",
+                            "headline": "What is more effective than focusing on what you want to do?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Setting bigger goals",
+                                    "Focusing on who you're becoming",
+                                    "Planning more detailed schedules",
+                                    "Finding better motivation sources"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Progress Tracking",
+                            "body": "Use a simple habit tracker to mark daily completion of your routine. Visual progress creates motivation and accountability. Seeing a streak of completed days makes you less likely to break the chain. Track consistency, not perfection.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Handling Setbacks",
+                            "body": "Expect occasional missed days and plan your comeback strategy in advance. When you skip a day, don't spiral into guilt or abandon the routine. Simply return the next day with your minimum viable version. Resilience matters more than perfection.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Environmental Design",
+                            "body": "Make good habits obvious and easy while making bad habits invisible and difficult. Prepare your morning materials the night before. Remove barriers to your routine and add barriers to behaviors that compete with it.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Reward Systems",
+                            "body": "Celebrate small wins to reinforce positive behaviors. This might be checking off completed practices, treating yourself to special coffee after your routine, or sharing progress with a supportive friend. Rewards strengthen the habit loop.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p12",
+                            "pageType": "content",
+                            "headline": "The 21-Day Foundation",
+                            "body": "Focus intensely on consistency for your first 21 days. This period establishes the foundational neural pathways for your new routine. After three weeks, the practices begin feeling more natural and require less conscious effort to maintain.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Your Habit Blueprint",
+                            "body": "Choose your minimum viable routine, identify your habit stack triggers, and prepare your environment. Start tomorrow with the smallest possible version of your morning routine. Remember: consistency builds habits, not intensity.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-15",
+                    "title": "Overcoming Common Obstacles",
+                    "order": 15,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Expecting Obstacles",
+                            "body": "Every person building morning routines faces predictable challenges. Recognizing these obstacles in advance and having strategies prepared prevents them from derailing your progress. Obstacles are not failures - they're normal parts of building any new habit.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p2",
+                            "pageType": "content",
+                            "headline": "The Motivation Myth",
+                            "body": "Many people quit when initial motivation wanes, but motivation is unreliable. Successful habit builders rely on systems and consistency rather than feelings. Your routine should work even when you don't feel like doing it - especially then.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What should you rely on instead of motivation for building habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Systems and consistency",
+                                    "Willpower and determination",
+                                    "External rewards and pressure",
+                                    "Inspiration from others"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p4",
+                            "pageType": "question",
+                            "headline": "How should you view obstacles when building morning routines?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Normal parts of building habits",
+                                    "Signs you should quit trying",
+                                    "Evidence you're not cut out for it",
+                                    "Reasons to start over completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p5",
+                            "pageType": "question",
+                            "headline": "What is the most effective approach when you don't feel motivated?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Follow your system anyway",
+                                    "Wait until motivation returns",
+                                    "Skip the routine completely",
+                                    "Do double the next day"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Time Scarcity Solutions",
+                            "body": "The most common excuse is 'not having time.' Start with your 6-minute minimum viable routine or wake up just 10 minutes earlier. Most people waste more time than this on social media. Prioritizing your morning is about values, not time availability.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Travel and Disruption",
+                            "body": "Create portable versions of your routine for travel days. Pack essential items, research your hotel environment, and prepare modified practices. Disruption doesn't eliminate your routine - it adapts it. Flexibility prevents perfectionist thinking that kills habits.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Family and Living Situations",
+                            "body": "Not everyone has ideal living situations for morning routines. Early risers in shared spaces can practice quietly or find alternative locations. Communicate your commitment to family members and ask for support. Most obstacles have creative solutions when you're determined.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Energy and Health Challenges",
+                            "body": "Chronic fatigue or health issues require routine modifications, not abandonment. Adapt practices to your energy levels: gentle stretching instead of intense exercise, shorter meditation sessions, or audio books when reading is difficult. Progress matters more than perfection.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p10",
+                            "pageType": "content",
+                            "headline": "The Perfectionism Trap",
+                            "body": "All-or-nothing thinking kills more habits than lack of motivation. Missing one day doesn't ruin everything. Doing a shortened version is better than doing nothing. Perfectionism is procrastination disguised as high standards.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Social Pressure and Judgment",
+                            "body": "Some people may not understand your morning routine commitment. You might face comments about being 'too serious' or 'obsessive.' Remember that most people's opinions about your growth aren't worth considering. Surround yourself with supporters when possible.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Seasonal Adjustments",
+                            "body": "Routines may need modification for different seasons, work schedules, or life phases. Dark winter mornings might require different lighting strategies. Busy periods might necessitate shorter practices. Adaptation ensures sustainability rather than seasonal abandonment.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Technology Distractions",
+                            "body": "Phones, notifications, and digital temptations compete for your morning attention. Create technology boundaries: phones in another room, airplane mode during routines, and apps that block distracting websites during morning hours. Protect your sacred time fiercely.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Boredom and Staleness",
+                            "body": "Eventually, your routine might feel repetitive. This is normal and actually indicates habit formation success. Combat boredom by rotating reading materials, trying new exercise variations, or adjusting practice durations. Minor changes prevent staleness while maintaining consistency.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-15-p15",
+                            "pageType": "content",
+                            "headline": "Your Obstacle Strategy",
+                            "body": "Identify your top three potential obstacles and create specific action plans for each. When challenges arise - and they will - you'll have predetermined responses rather than making decisions under pressure. Preparation prevents abandonment.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-16",
+                    "title": "Maintaining Long-Term Success",
+                    "order": 16,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Beyond the Honeymoon Phase",
+                            "body": "Initial enthusiasm for morning routines eventually fades, revealing whether you've built a sustainable system or relied on temporary motivation. Long-term success requires different strategies than getting started. Consistency becomes more important than intensity.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p2",
+                            "pageType": "content",
+                            "headline": "The Maintenance Mindset",
+                            "body": "Shift from building habits to maintaining systems. This means focusing on consistency over optimization, progress over perfection, and adaptation over rigidity. Maintenance requires less energy than creation but demands ongoing attention and care.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Periodic Review and Refresh",
+                            "body": "Schedule monthly reviews of your morning routine: what's working, what isn't, and what needs adjustment. This prevents staleness and ensures your practices continue serving your evolving goals. Growth requires both consistency and conscious evolution.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Variety Within Structure",
+                            "body": "Maintain the core framework while introducing small variations. Rotate reading materials, try different meditation techniques, or alternate exercise routines. This variety prevents boredom while preserving the habit structure that creates consistency.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p5",
+                            "pageType": "question",
+                            "headline": "What becomes more important than intensity for long-term success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Consistency and regular practice",
+                                    "Perfect execution every time",
+                                    "Increasing duration continuously",
+                                    "Adding more complex practices"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Tracking Long-Term Benefits",
+                            "body": "Document how your morning routine impacts other areas of life: energy levels, productivity, mood, relationships, and goal achievement. This broader perspective reinforces the value of your investment when daily motivation wanes.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Community and Accountability",
+                            "body": "Connect with others who value morning routines, whether online communities, workout partners, or accountability buddies. Sharing challenges and successes with like-minded people provides support and motivation during difficult periods.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p8",
+                            "pageType": "question",
+                            "headline": "How often should you review and potentially adjust your morning routine?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Monthly review sessions",
+                                    "Weekly check-ins only",
+                                    "Daily micro-adjustments",
+                                    "Yearly major overhauls"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p9",
+                            "pageType": "question",
+                            "headline": "What role should variety play in maintaining morning routines?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Change everything frequently for excitement",
+                                    "Never change anything once established",
+                                    "Small variations within stable structure",
+                                    "Complete routine overhauls monthly"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Life Phase Adaptations",
+                            "body": "Your routine will need to evolve as your life changes: new job schedules, family responsibilities, health changes, or shifting goals. The key is adapting rather than abandoning. Core principles remain while specific practices may change.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Creating Rituals and Meaning",
+                            "body": "Transform routine practices into meaningful rituals by adding intention and mindfulness. This deeper connection makes activities feel less mechanical and more purposeful. Rituals have emotional significance that transcends habit mechanics.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Your Success Legacy",
+                            "body": "Consider how your morning routine contributes to the person you're becoming and the legacy you're creating. This long-term perspective provides motivation that goes beyond daily benefits to encompass your overall life direction and impact.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "morning_miracle-1-17",
+                    "title": "Your Morning Transformation Begins",
+                    "order": 17,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "morning_miracle-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Knowledge to Action",
+                            "body": "You now understand the science, strategies, and systems for creating transformative morning routines. But knowledge without action is merely entertainment. Your morning miracle begins the moment you implement what you've learned, starting tomorrow morning.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Your Personal SAVERS Design",
+                            "body": "Create your customized morning routine using the SAVERS framework. Choose duration for each practice based on your schedule and goals. Remember: start small and build gradually. A 10-minute routine practiced consistently beats a 60-minute routine attempted occasionally.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p3",
+                            "pageType": "content",
+                            "headline": "The First Week Challenge",
+                            "body": "Commit to practicing your routine for seven consecutive days, even if it's just the minimum viable version. This initial week establishes the neural pathways and proves to yourself that change is possible. Focus on consistency, not perfection.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Measuring Your Success",
+                            "body": "Track both process and outcome metrics. Process: days completed, practices performed. Outcomes: energy levels, mood, productivity, goal progress. This dual tracking system helps you see both immediate habit formation and longer-term life improvements.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Preparing for Resistance",
+                            "body": "Your brain will resist change initially. Expect thoughts like 'this is stupid,' 'I don't have time,' or 'this isn't working.' These thoughts are normal and temporary. Push through the first 21 days - resistance decreases as neural pathways strengthen.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p6",
+                            "pageType": "question",
+                            "headline": "What should be your primary focus during the first week?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect execution of each practice",
+                                    "Maximizing duration of routines",
+                                    "Consistency over perfection",
+                                    "Impressing others with commitment"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p7",
+                            "pageType": "question",
+                            "headline": "How many consecutive days should you commit to initially?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Three days to test it out",
+                                    "Seven days for initial establishment",
+                                    "Fourteen days for habit formation",
+                                    "Thirty days for permanent change"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p8",
+                            "pageType": "question",
+                            "headline": "What should you expect during the first 21 days?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediate easy automation",
+                                    "Constant high motivation",
+                                    "Mental resistance that decreases",
+                                    "Perfect execution every day"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p9",
+                            "pageType": "question",
+                            "headline": "What type of metrics should you track for comprehensive success measurement?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only habit completion rates",
+                                    "Both process and outcome metrics",
+                                    "Only mood and energy levels",
+                                    "Just goal achievement progress"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p10",
+                            "pageType": "content",
+                            "headline": "The Compound Effect Begins",
+                            "body": "Small morning improvements compound exponentially. A 1% daily improvement in energy, focus, and intentionality creates massive changes over months and years. You're not just changing your mornings - you're upgrading your entire life trajectory.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Sharing Your Commitment",
+                            "body": "Tell someone about your morning routine commitment. This external accountability increases your likelihood of success. Choose someone supportive who understands the importance of personal development. Public commitment creates positive pressure for consistency.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Your Future Self",
+                            "body": "Imagine yourself one year from now, having maintained consistent morning routines. See the increased confidence, energy, goal achievement, and life satisfaction. This future version of yourself is cheering you on and grateful for the decision you're making today.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p13",
+                            "pageType": "content",
+                            "headline": "The First Decision",
+                            "body": "Tomorrow morning, you'll face the first decision that determines your trajectory: snooze button or immediate rise, reactive phone checking or intentional routine. This decision sets the tone for everything that follows. Choose transformation.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "morning_miracle-1-17-p14",
+                            "pageType": "content",
+                            "headline": "Your Morning Miracle Awaits",
+                            "body": "The morning miracle isn't a distant dream - it's tomorrow's reality if you choose to claim it. You have all the knowledge, strategies, and tools necessary for success. The only remaining step is to begin. Your transformed life starts with tomorrow's alarm.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 3.8,
+    "tag": "Popular"
+}
