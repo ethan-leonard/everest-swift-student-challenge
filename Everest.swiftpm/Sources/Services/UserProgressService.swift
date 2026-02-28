@@ -33,8 +33,8 @@ final class UserProgressService {
                 dailyScreenTimeMinutes: [180, 160, 145, 120, 110, 95, 0], // Empty today
                 lessonsCompletedThisWeek: [1, 0, 1, 2, 1, 1, 0], // Empty today
                 courseProgress: [
-                    "deep_work_mastery": CourseProgress(courseId: "deep_work_mastery", completedLessonIds: ["c1_l1", "c1_l2"], unlockedLessonIds: ["c1_l1", "c1_l2", "c1_l3"]),
-                    "morning_miracle": CourseProgress(courseId: "morning_miracle", completedLessonIds: ["c1_l1"], unlockedLessonIds: ["c1_l1", "c1_l2"])
+                    "deep_work_mastery": CourseProgress(courseId: "deep_work_mastery", completedLessonIds: ["c1_l1", "c1_l2"]),
+                    "morning_miracle": CourseProgress(courseId: "morning_miracle", completedLessonIds: ["c1_l1"])
                 ],
                 totalXP: 450,
                 currentLevel: 2,
