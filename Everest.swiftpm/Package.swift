@@ -7,7 +7,7 @@ let package = Package(
         .iOS(.v17)
     ],
     products: [
-        .library(
+        .executable(
             name: "Everest",
             targets: ["AppModule"]
         )
