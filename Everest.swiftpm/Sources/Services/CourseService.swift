@@ -27,7 +27,7 @@ final class CourseService {
             var loadedCourses: [Course] = []
             
             for fileName in fileNames {
-                if let url = Bundle.main.url(forResource: fileName, withExtension: "json") {
+                if let url = Bundle.module.url(forResource: fileName, withExtension: "json") {
                     let data = try Data(contentsOf: url)
                     let decoder = JSONDecoder()
                     // Assuming DateDecodingStrategy if necessary, though original didn't specify

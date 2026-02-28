@@ -74,7 +74,7 @@ struct ScreenTimePlaceholderView: View {
                     .font(.system(size: 16, weight: .medium))
                     .foregroundStyle(textPrimary)
                 
-                Text("Loading...")
+                Text("This week")
                     .font(.caption)
                     .foregroundStyle(textSecondary)
             }

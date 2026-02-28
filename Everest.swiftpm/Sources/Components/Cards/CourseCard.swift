@@ -12,19 +12,15 @@ struct CourseCard: View {
         VStack(alignment: .leading, spacing: 8) {
             // Image with category badge and progress
             ZStack(alignment: .topLeading) {
-                // Background fallback
+                // Background with category-themed gradient
                 RoundedRectangle(cornerRadius: 20, style: .continuous)
                     .fill(Color.appCardBackground)
-                    .aspectRatio(1, contentMode: .fill)
-                
-                // Actual Course Thumbnail (Loaded directly from Assets)
-                Image(imageURL, bundle: .module)
-                    .resizable()
-                    .aspectRatio(1, contentMode: .fill)
-                    .frame(maxWidth: .infinity)
-            }
-            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
-            .overlay(alignment: .topLeading) {
+                    .aspectRatio(1, contentMode: .fit)
+                    .overlay {
+                        // Category-themed visual since we don't have local image assets
+                        CourseIcon(category: category)
+                    }
+                    .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
                 
                 // Category badge
                 CategoryBadge(text: category)
@@ -92,14 +88,14 @@ struct ProgressBadge: View {
     LazyVGrid(columns: [.init(.flexible()), .init(.flexible())], spacing: 16) {
         CourseCard(
             title: "Deep Work Mastery",
-            category: "Productivity",
+            category: "Focus",
             imageURL: "deep_work",
             progress: 75
         )
         CourseCard(
-            title: "Meditation Essentials",
-            category: "Mindfulness",
-            imageURL: "meditation",
+            title: "ADHD Superpowers",
+            category: "Focus",
+            imageURL: "adhd",
             progress: nil
         )
     }

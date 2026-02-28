@@ -94,10 +94,7 @@ struct ProfileView: View {
                     
                     bentoGrid
                     
-                    ZStack {
-                        ScreenTimePlaceholderView()
-                    }
-                    .frame(height: 180)
+                    ScreenTimePlaceholderView()
                     
                     WeeklyBarChart(
                         dailyCounts: knowledgeData,

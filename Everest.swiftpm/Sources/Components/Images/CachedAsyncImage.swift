@@ -36,23 +36,19 @@ struct CachedAsyncImage<Content: View, Placeholder: View>: View {
         guard !isLoading else { return }
         isLoading = true
         
-        // Use local assets in playground instead of network downloads
+        // Extract asset name from URL path
         let assetName = url.lastPathComponent
             .replacingOccurrences(of: ".png", with: "")
             .replacingOccurrences(of: ".jpg", with: "")
-        
-        // Strip query params if they exist (common in firebase urls)
         let cleanName = assetName.components(separatedBy: "?").first ?? assetName
         
-        if let uiImage = UIImage(named: cleanName) {
+        // Try Bundle.module first (Swift Package resources), then main bundle
+        if let uiImage = UIImage(named: cleanName, in: Bundle.module, compatibleWith: nil) {
             self.image = uiImage
-        } else if let uiImage = UIImage(named: url.absoluteString) {
-             self.image = uiImage
-        } else {
-            #if true
-            print("[CachedAsyncImage] Failed to find local asset: \(cleanName)")
-            #endif
+        } else if let uiImage = UIImage(named: cleanName) {
+            self.image = uiImage
         }
+        // If not found, silently fall through to placeholder — no spammy logging
         self.isLoading = false
     }
 }
