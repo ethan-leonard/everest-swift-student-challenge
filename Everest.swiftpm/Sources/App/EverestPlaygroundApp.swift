@@ -13,15 +13,6 @@ struct EverestPlaygroundApp: App {
     @State private var authService = AuthenticationService.shared
     
     init() {
-        // ALWAYS clear progress on cold start for Playgrounds judging
-        if UserDefaults.standard.bool(forKey: "HAS_LAUNCHED_ONCE") == false {
-            UserDefaults.standard.set(true, forKey: "HAS_LAUNCHED_ONCE")
-        } else {
-            // Reset to onboarding on every fresh launch for the judges
-            UserDefaults.standard.removeObject(forKey: StorageKey.hasCompletedOnboarding)
-            UserDefaults.standard.removeObject(forKey: "PlaygroundUserProgress")
-        }
-        
         authService.configure()
         
         // Define Custom Fonts for NavigationBar/TabBar globally
@@ -61,6 +52,17 @@ struct EverestPlaygroundApp: App {
             .environment(userProgressService)
             .environment(screenTimeService)
             .environment(breakService)
+            .onAppear {
+                // FORCE RESET for Playgrounds judging on every cold start
+                UserDefaults.standard.removeObject(forKey: StorageKey.hasCompletedOnboarding)
+                UserDefaults.standard.removeObject(forKey: "PlaygroundUserProgress")
+                
+                // Instantly update UI State to kick back to onboarding
+                hasCompletedOnboarding = false
+                
+                // Clear the singleton memory cache
+                userProgressService.clearAllData()
+            }
             .onReceive(NotificationCenter.default.publisher(for: UserDefaults.didChangeNotification)) { _ in
                 hasCompletedOnboarding = UserDefaults.standard.bool(forKey: StorageKey.hasCompletedOnboarding)
             }

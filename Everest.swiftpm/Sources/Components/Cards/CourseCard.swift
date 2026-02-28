@@ -18,7 +18,7 @@ struct CourseCard: View {
                     .aspectRatio(1, contentMode: .fill)
                 
                 // Actual Course Thumbnail (Loaded directly from Assets)
-                Image(imageURL)
+                Image(imageURL, bundle: .module)
                     .resizable()
                     .aspectRatio(1, contentMode: .fill)
                     .frame(maxWidth: .infinity)

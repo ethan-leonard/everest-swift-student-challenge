@@ -75,6 +75,7 @@ struct ProfileView: View {
                         }
                         Spacer()
                     }
+                    .padding(.top, 24)
                     
                     ProfileFocusCard(onTakeBreak: {
                         appState.selectedTab = .journey
