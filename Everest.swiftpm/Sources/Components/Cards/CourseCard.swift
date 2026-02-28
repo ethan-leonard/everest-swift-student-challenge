@@ -17,27 +17,11 @@ struct CourseCard: View {
                     .fill(Color.appCardBackground)
                     .aspectRatio(1, contentMode: .fill)
                 
-                // Actual Course Thumbnail
-                if let url = URL(string: imageURL) {
-                    CachedAsyncImage(url: url) { phase in
-                        switch phase {
-                        case .success(let image):
-                            image
-                                .resizable()
-                                .aspectRatio(1, contentMode: .fill)
-                                .frame(maxWidth: .infinity)
-                        case .failure(_), .empty:
-                            // Fallback gradient
-                            LinearGradient(
-                                colors: [.appBrand.opacity(0.3), .appBrand.opacity(0.1)],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
-                            )
-                        @unknown default:
-                            EmptyView()
-                        }
-                    }
-                }
+                // Actual Course Thumbnail (Loaded directly from Assets)
+                Image(imageURL)
+                    .resizable()
+                    .aspectRatio(1, contentMode: .fill)
+                    .frame(maxWidth: .infinity)
             }
             .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
             .overlay(alignment: .topLeading) {
