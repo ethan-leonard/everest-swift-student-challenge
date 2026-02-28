@@ -9,9 +9,7 @@ struct ProfileView: View {
     @State private var knowledgeRange: WeeklyBarChart.TimeRange = .week
     @State private var showBreakPrompt = false
     
-    private var userName: String {
-        return "Student"
-    }
+    @AppStorage("userName") private var userName: String = "Student"
     
     private var progress: UserProgress? {
         progressService.userProgress

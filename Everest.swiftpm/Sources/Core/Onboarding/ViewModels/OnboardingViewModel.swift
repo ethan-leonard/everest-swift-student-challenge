@@ -86,6 +86,9 @@ final class OnboardingViewModel {
     }
     
     func saveOnboardingData() async throws {
+        // Save the user's first name
+        UserDefaults.standard.set(firstName, forKey: "userName")
+        
         // Just update the user progress service screen time goals
         await UserProgressService.shared.fetchProgress()
         await UserProgressService.shared.updateScreenTimeGoals(

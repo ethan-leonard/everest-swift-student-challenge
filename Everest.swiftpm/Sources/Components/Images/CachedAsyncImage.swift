@@ -36,19 +36,22 @@ struct CachedAsyncImage<Content: View, Placeholder: View>: View {
         guard !isLoading else { return }
         isLoading = true
         
-        // Extract asset name from URL path
-        let assetName = url.lastPathComponent
-            .replacingOccurrences(of: ".png", with: "")
-            .replacingOccurrences(of: ".jpg", with: "")
-        let cleanName = assetName.components(separatedBy: "?").first ?? assetName
-        
-        // Try Bundle.module first (Swift Package resources), then main bundle
-        if let uiImage = UIImage(named: cleanName, in: Bundle.module, compatibleWith: nil) {
-            self.image = uiImage
-        } else if let uiImage = UIImage(named: cleanName) {
-            self.image = uiImage
+        Task {
+            do {
+                let (data, _) = try await URLSession.shared.data(from: url)
+                if let downloadedImage = UIImage(data: data) {
+                    await MainActor.run {
+                        self.image = downloadedImage
+                    }
+                }
+            } catch {
+                #if DEBUG
+                print("[CachedAsyncImage] Failed to load: \(error.localizedDescription)")
+                #endif
+            }
+            await MainActor.run {
+                self.isLoading = false
+            }
         }
-        // If not found, silently fall through to placeholder — no spammy logging
-        self.isLoading = false
     }
 }

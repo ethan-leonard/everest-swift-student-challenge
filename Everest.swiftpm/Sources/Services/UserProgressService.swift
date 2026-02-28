@@ -24,19 +24,24 @@ final class UserProgressService {
            let savedProgress = try? JSONDecoder().decode(UserProgress.self, from: data) {
             userProgress = savedProgress
         } else {
-            // Seed the playground with a clean slate for the onboarding flow
+            // Seed the playground with a realistic demo slate requested by the user
+            let yesterday = Calendar.current.date(byAdding: .day, value: -1, to: Date()) ?? Date()
+            
             let mockProgress = UserProgress(
-                hoursReclaimed: 0,
-                currentStreak: 0,
-                dailyScreenTimeMinutes: [0, 0, 0, 0, 0, 0, 0], // Empty week
-                lessonsCompletedThisWeek: [0, 0, 0, 0, 0, 0, 0],
-                courseProgress: [:],
-                totalXP: 0,
-                currentLevel: 1,
-                activeCourseId: nil,
-                lastActivityDate: Date(),
-                baselineScreenTimeMinutes: 0,
-                screenTimeGoalMinutes: 0
+                hoursReclaimed: 12.5,
+                currentStreak: 3,
+                dailyScreenTimeMinutes: [180, 160, 145, 120, 110, 95, 0], // Empty today
+                lessonsCompletedThisWeek: [1, 0, 1, 2, 1, 1, 0], // Empty today
+                courseProgress: [
+                    "deep_work_mastery": CourseProgress(courseId: "deep_work_mastery", completedLessonIds: ["c1_l1", "c1_l2"], unlockedLessonIds: ["c1_l1", "c1_l2", "c1_l3"]),
+                    "morning_miracle": CourseProgress(courseId: "morning_miracle", completedLessonIds: ["c1_l1"], unlockedLessonIds: ["c1_l1", "c1_l2"])
+                ],
+                totalXP: 450,
+                currentLevel: 2,
+                activeCourseId: "deep_work_mastery",
+                lastActivityDate: yesterday, // So the streak isn't lost, but today is a fresh opportunity
+                baselineScreenTimeMinutes: 240, // 4 hours baseline
+                screenTimeGoalMinutes: 120 // 2 hours goal
             )
             userProgress = mockProgress
             await saveProgress()
