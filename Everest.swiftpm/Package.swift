@@ -1,15 +1,36 @@
 // swift-tools-version: 5.9
+
 import PackageDescription
+import AppleProductTypes
 
 let package = Package(
     name: "Everest",
     platforms: [
-        .iOS(.v17)
+        .iOS("17.0")
     ],
     products: [
-        .executable(
+        .iOSApplication(
             name: "Everest",
-            targets: ["AppModule"]
+            targets: ["AppModule"],
+            bundleIdentifier: "com.everest.playground",
+            teamIdentifier: "",
+            displayVersion: "1.0",
+            bundleVersion: "1",
+            appIcon: .asset("AppIcon"),
+            accentColor: .presetColor(.green),
+            supportedDeviceFamilies: [
+                .pad,
+                .phone
+            ],
+            supportedInterfaceOrientations: [
+                .portrait,
+                .landscapeRight,
+                .landscapeLeft,
+                .portraitUpsideDown(.when(deviceFamilies: [.pad]))
+            ],
+            capabilities: [
+                .localNetwork(purposeString: "Local Network Not Used By Everest Challenge App", bonjourServiceTypes: [])
+            ]
         )
     ],
     targets: [
