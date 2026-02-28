@@ -12,19 +12,35 @@ struct CourseCard: View {
         VStack(alignment: .leading, spacing: 8) {
             // Image with category badge and progress
             ZStack(alignment: .topLeading) {
-                // Thumbnail
+                // Background fallback
                 RoundedRectangle(cornerRadius: 20, style: .continuous)
                     .fill(Color.appCardBackground)
-                    .aspectRatio(1, contentMode: .fit)
-                    .overlay {
-                        // Placeholder gradient for demo
-                        LinearGradient(
-                            colors: [.appBrand.opacity(0.3), .appBrand.opacity(0.1)],
-                            startPoint: .topLeading,
-                            endPoint: .bottomTrailing
-                        )
-                        .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+                    .aspectRatio(1, contentMode: .fill)
+                
+                // Actual Course Thumbnail
+                if let url = URL(string: imageURL) {
+                    CachedAsyncImage(url: url) { phase in
+                        switch phase {
+                        case .success(let image):
+                            image
+                                .resizable()
+                                .aspectRatio(1, contentMode: .fill)
+                                .frame(maxWidth: .infinity)
+                        case .failure(_), .empty:
+                            // Fallback gradient
+                            LinearGradient(
+                                colors: [.appBrand.opacity(0.3), .appBrand.opacity(0.1)],
+                                startPoint: .topLeading,
+                                endPoint: .bottomTrailing
+                            )
+                        @unknown default:
+                            EmptyView()
+                        }
                     }
+                }
+            }
+            .clipShape(RoundedRectangle(cornerRadius: 20, style: .continuous))
+            .overlay(alignment: .topLeading) {
                 
                 // Category badge
                 CategoryBadge(text: category)

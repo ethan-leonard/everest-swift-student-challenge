@@ -24,19 +24,19 @@ final class UserProgressService {
            let savedProgress = try? JSONDecoder().decode(UserProgress.self, from: data) {
             userProgress = savedProgress
         } else {
-            // Seed the playground with some impressive demo data
+            // Seed the playground with a clean slate for the onboarding flow
             let mockProgress = UserProgress(
-                hoursReclaimed: 42,
-                currentStreak: 12,
-                dailyScreenTimeMinutes: [120, 110, 95, 105, 80, 90, 85],
-                lessonsCompletedThisWeek: [1, 2, 0, 3, 1, 4, 2],
+                hoursReclaimed: 0,
+                currentStreak: 0,
+                dailyScreenTimeMinutes: [0, 0, 0, 0, 0, 0, 0], // Empty week
+                lessonsCompletedThisWeek: [0, 0, 0, 0, 0, 0, 0],
                 courseProgress: [:],
-                totalXP: 3450,
-                currentLevel: 8,
-                activeCourseId: "deep_work_mastery",
+                totalXP: 0,
+                currentLevel: 1,
+                activeCourseId: nil,
                 lastActivityDate: Date(),
-                baselineScreenTimeMinutes: 300,
-                screenTimeGoalMinutes: 120
+                baselineScreenTimeMinutes: 0,
+                screenTimeGoalMinutes: 0
             )
             userProgress = mockProgress
             await saveProgress()

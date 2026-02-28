@@ -93,6 +93,7 @@ struct ProfileFocusCard: View {
                 .padding(20)
             }
         }
+        .frame(minHeight: 120) // Prevents squishing bug in ScrollView
         .glassCardStyle()
     }
 }

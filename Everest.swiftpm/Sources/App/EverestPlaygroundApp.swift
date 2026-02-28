@@ -13,6 +13,15 @@ struct EverestPlaygroundApp: App {
     @State private var authService = AuthenticationService.shared
     
     init() {
+        // ALWAYS clear progress on cold start for Playgrounds judging
+        if UserDefaults.standard.bool(forKey: "HAS_LAUNCHED_ONCE") == false {
+            UserDefaults.standard.set(true, forKey: "HAS_LAUNCHED_ONCE")
+        } else {
+            // Reset to onboarding on every fresh launch for the judges
+            UserDefaults.standard.removeObject(forKey: StorageKey.hasCompletedOnboarding)
+            UserDefaults.standard.removeObject(forKey: "PlaygroundUserProgress")
+        }
+        
         authService.configure()
         
         // Define Custom Fonts for NavigationBar/TabBar globally
