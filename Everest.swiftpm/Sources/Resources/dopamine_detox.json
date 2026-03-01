@@ -1,0 +1,2458 @@
+{
+    "id": "dopamine_detox",
+    "title": "Dopamine Detox",
+    "description": "Reset your brain's reward system and reclaim your capacity for joy. Learn the neuroscience behind cravings and build a sustainable protocol for balance.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/dopamine_detox.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract brain with radiating waves becoming calmer from chaotic to peaceful, sage green serene core with charcoal turbulent outer edges, reset and renewal aesthetic",
+    "altitude": 4100,
+    "durationMinutes": 104,
+    "whatsInside": [
+        "Understand why your brain craves constant stimulation and novelty",
+        "Learn the science behind dopamine tolerance and baseline reset",
+        "Follow a 7-day protocol to recalibrate your reward sensitivity",
+        "Build sustainable low-dopamine habits that restore natural pleasure",
+        "Navigate modern temptations without relapsing",
+        "Create a personalized dopamine management system"
+    ],
+    "expertReview": {
+        "quote": "A neuroscience-backed approach to understanding and resetting your reward circuitry. Essential reading for anyone feeling numb to life's simple pleasures.",
+        "name": "Dr. Anna Lembke",
+        "title": "Psychiatrist, Stanford University"
+    },
+    "chapters": [
+        {
+            "id": "dopamine_detox-ch1",
+            "title": "Dopamine Detox Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "dopamine_detox-1-1",
+                    "title": "Understanding Your Brain's Reward System",
+                    "order": 1,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Brain's Ancient Programming",
+                            "body": "Your brain operates on a 300,000-year-old reward system designed for survival. This system releases dopamine when you find food, shelter, or potential mates. Modern technology has hijacked these ancient pathways, creating artificial cravings that never existed in nature.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Dopamine: The Seeking Chemical",
+                            "body": "Dopamine isn't the pleasure chemical\u2014it's the wanting chemical. It drives you to seek rewards before you get them. The anticipation of pleasure often feels better than the actual experience. This creates endless loops of craving and temporary satisfaction.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Tolerance Problem",
+                            "body": "Your brain adapts to high dopamine levels by becoming less sensitive. What once felt exciting now feels normal. You need increasingly intense stimulation to feel the same satisfaction. This tolerance effect drives addictive behaviors.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Modern Dopamine Overload",
+                            "body": "Social media, junk food, gaming, and endless entertainment flood your brain with dopamine hits. Your ancestors might have experienced 5-10 dopamine spikes per day. You now experience hundreds. This overwhelms your reward system.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p5",
+                            "pageType": "content",
+                            "headline": "The Baseline Drop",
+                            "body": "Constant stimulation lowers your baseline dopamine levels. Simple pleasures like conversation, nature walks, or reading become boring. You lose the ability to find joy in basic human experiences. This is the price of overstimulation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p6",
+                            "pageType": "question",
+                            "headline": "What is dopamine's primary function in the brain?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Driving the anticipation and seeking of rewards",
+                                    "Creating feelings of pleasure and satisfaction",
+                                    "Regulating sleep and wake cycles naturally",
+                                    "Managing stress responses and anxiety levels"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p7",
+                            "pageType": "content",
+                            "headline": "The Addiction Cycle",
+                            "body": "High stimulation creates a crash when dopamine levels drop. You feel restless, bored, or anxious during normal activities. Your brain craves another hit to feel normal again. This cycle strengthens with repetition.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p8",
+                            "pageType": "question",
+                            "headline": "What happens when your brain develops tolerance to dopamine?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "You feel satisfied with smaller rewards over time",
+                                    "Your sleep patterns improve and stabilize naturally",
+                                    "You lose interest in social activities completely",
+                                    "You need stronger stimulation for the same satisfaction"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Natural vs. Artificial Rewards",
+                            "body": "Natural rewards like exercise, learning, and social connection build long-term satisfaction. Artificial rewards like notifications, sugar, and entertainment provide instant gratification but leave you empty. Understanding this difference is crucial for recovery.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p10",
+                            "pageType": "question",
+                            "headline": "Why do simple pleasures feel boring after dopamine overload?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your brain chemistry has permanently changed structure",
+                                    "Overstimulation has lowered your baseline dopamine levels",
+                                    "You have developed a serious mental health disorder",
+                                    "Natural activities don't provide any dopamine release"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p11",
+                            "pageType": "content",
+                            "headline": "The Recovery Path",
+                            "body": "Your brain can heal from dopamine overload through neuroplasticity. Reducing high-stimulation activities allows your reward system to recalibrate. Simple pleasures gradually become satisfying again. This process requires patience and consistency.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Signs of Dopamine Dysregulation",
+                            "body": "You constantly seek entertainment or stimulation. Boredom feels unbearable and anxiety-inducing. You struggle to focus on single tasks. Small daily activities feel overwhelming or meaningless.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p13",
+                            "pageType": "content",
+                            "headline": "The Reset Promise",
+                            "body": "A dopamine detox isn't about permanent restriction\u2014it's about recalibrating your reward system. You'll rediscover satisfaction in simple experiences. Productivity increases when distractions lose their power. Relationships deepen when you're fully present.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Your Starting Point",
+                            "body": "Awareness is the first step toward freedom. You now understand why certain activities feel compulsive and others feel boring. This knowledge gives you power over your behavior. The journey to balance begins with understanding.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Building Toward Balance",
+                            "body": "Recovery happens gradually through consistent small changes. Each day of reduced stimulation helps your brain heal. You're not breaking bad habits\u2014you're building a healthy relationship with pleasure. The goal is sustainable balance, not perfect restriction.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-2",
+                    "title": "The Science Behind Dopamine Addiction",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The Neuroscience of Wanting",
+                            "body": "Dopamine neurons fire strongest during uncertainty and anticipation. A slot machine is more addictive than winning guaranteed money because your brain craves the unknown. This explains why intermittent rewards create stronger addictions than consistent ones.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Variable Reward Schedules",
+                            "body": "Social media uses variable reward schedules just like casinos. Sometimes you get likes, sometimes you don't. Your brain releases more dopamine during uncertainty than certainty. This creates powerful psychological dependency on unpredictable rewards.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p3",
+                            "pageType": "content",
+                            "headline": "The Prediction Error Signal",
+                            "body": "Your brain constantly predicts rewards and measures actual outcomes against expectations. When reality exceeds predictions, you get a dopamine surge. When reality falls short, you experience a dopamine crash. This system drives learning and motivation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p4",
+                            "pageType": "question",
+                            "headline": "Why are variable reward schedules more addictive than fixed rewards?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They require less energy to maintain over time",
+                                    "They create predictable patterns your brain enjoys",
+                                    "Uncertainty triggers stronger dopamine responses than certainty",
+                                    "They provide more consistent satisfaction and fulfillment"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Downregulation and Tolerance",
+                            "body": "Repeated dopamine spikes cause receptor downregulation\u2014your brain produces fewer dopamine receptors. This biological adaptation makes you less sensitive to natural rewards. You need increasingly intense stimulation to feel normal, not just to feel good.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p6",
+                            "pageType": "content",
+                            "headline": "The Pleasure Trap",
+                            "body": "Modern society is engineered to hijack your dopamine system. Apps use red notification badges because red triggers urgency. Autoplay features remove friction between rewards. Every design element maximizes engagement by exploiting your brain's vulnerabilities.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Neuroplasticity and Recovery",
+                            "body": "Your brain can rewire itself through neuroplasticity at any age. Dopamine receptors can upregulate when overstimulation decreases. New neural pathways form when you practice delayed gratification. Recovery is possible but requires consistent effort over time.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p8",
+                            "pageType": "question",
+                            "headline": "What happens during dopamine receptor downregulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your brain produces more dopamine than usual",
+                                    "You become more sensitive to natural rewards",
+                                    "Your brain creates fewer dopamine receptor sites",
+                                    "Dopamine travels faster between neurons in brain"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p9",
+                            "pageType": "question",
+                            "headline": "Why do apps use red notification badges?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Red is easier to see in bright lighting",
+                                    "Red reduces eye strain during extended usage",
+                                    "Red appears more professional and trustworthy",
+                                    "Red triggers urgency and immediate attention"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p10",
+                            "pageType": "question",
+                            "headline": "What enables dopamine recovery in the brain?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Taking dopamine supplements regularly for several months",
+                                    "Neuroplasticity allows receptor upregulation through lifestyle changes",
+                                    "Complete elimination of all pleasurable activities permanently",
+                                    "Genetic therapy to modify dopamine production capabilities"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p11",
+                            "pageType": "content",
+                            "headline": "The Salience Network",
+                            "body": "Your brain's salience network determines what captures your attention. Repeated exposure to high-dopamine stimuli makes these experiences more salient than natural rewards. Your attention system becomes biased toward artificial pleasures over meaningful activities.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Stress and Dopamine Sensitivity",
+                            "body": "Chronic stress reduces dopamine sensitivity and increases craving intensity. Stress hormones interfere with dopamine signaling pathways. This explains why you seek more stimulation when anxious or overwhelmed. Managing stress is essential for dopamine recovery.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Individual Differences Matter",
+                            "body": "Genetic variations affect dopamine sensitivity and addiction vulnerability. Some people have naturally lower baseline dopamine levels. Others process dopamine more quickly. Understanding your unique brain chemistry helps you create personalized recovery strategies.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p14",
+                            "pageType": "content",
+                            "headline": "The Motivation Paradox",
+                            "body": "Overstimulation doesn't increase motivation\u2014it destroys it. High dopamine spikes from artificial sources make natural rewards feel inadequate. You lose drive for activities that require sustained effort. Real motivation comes from balanced dopamine levels, not peak experiences.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-2-p15",
+                            "pageType": "content",
+                            "headline": "Science-Based Recovery",
+                            "body": "Understanding the neuroscience of addiction empowers your recovery journey. You're not weak or lacking willpower\u2014you're dealing with powerful biological forces. Knowledge of these mechanisms helps you make informed choices about which activities to embrace or avoid.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-3",
+                    "title": "Identifying Your Dopamine Triggers",
+                    "order": 3,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Awareness Before Change",
+                            "body": "You cannot change what you don't acknowledge. Most dopamine-seeking behaviors happen automatically, below conscious awareness. The first step is identifying your personal triggers and patterns. Self-awareness creates space between stimulus and response.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p2",
+                            "pageType": "content",
+                            "headline": "The Big Four Categories",
+                            "body": "Modern dopamine triggers fall into four main categories: digital stimulation, processed foods, instant entertainment, and social validation. Each category exploits different aspects of your reward system. Most people have one dominant category that drives their strongest cravings.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Digital Dopamine Hits",
+                            "body": "Every notification, like, comment, or message triggers a small dopamine release. Your phone becomes a portable slot machine delivering variable rewards throughout the day. Social media platforms are specifically designed to create checking compulsions and endless scrolling behaviors.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p4",
+                            "pageType": "question",
+                            "headline": "Which category represents the strongest modern dopamine trigger for most people?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Processed foods and sugar consumption patterns",
+                                    "Digital stimulation from phones and social media",
+                                    "Instant entertainment through streaming and gaming",
+                                    "Social validation through workplace achievements"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Processed Food Addiction",
+                            "body": "Ultra-processed foods combine sugar, salt, and fat in ratios that don't exist in nature. These combinations trigger stronger dopamine responses than whole foods. Food manufacturers employ teams of scientists to create the perfect \"bliss point\" that maximizes craving and consumption.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Entertainment Overload",
+                            "body": "Streaming services, gaming, and short-form video content provide instant gratification with zero effort. Binge-watching triggers dopamine through narrative anticipation and resolution. Gaming uses progression mechanics and achievement systems to maintain engagement for hours.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p7",
+                            "pageType": "question",
+                            "headline": "What makes ultra-processed foods particularly addictive?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They contain natural sugars found in fruits",
+                                    "They provide essential nutrients your body requires",
+                                    "They combine sugar, salt, and fat in unnatural ratios",
+                                    "They require significant energy to digest properly"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Social Validation Seeking",
+                            "body": "Humans evolved in small tribes where social approval meant survival. Modern platforms exploit this need through likes, followers, and comments. Each positive social signal releases dopamine, creating addiction to external validation rather than internal satisfaction.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p9",
+                            "pageType": "question",
+                            "headline": "Why do humans crave social validation so intensely?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Social approval was essential for survival in ancestral environments",
+                                    "Modern society requires constant networking for career success",
+                                    "Social media algorithms specifically target insecure personalities",
+                                    "Extroverted people naturally need more social interaction daily"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Environmental Cues and Context",
+                            "body": "Your environment shapes your behavior more than willpower does. Visual cues like app icons, food packaging, or entertainment setups trigger automatic responses. Location-based triggers make certain behaviors more likely in specific contexts like bed, kitchen, or office.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Emotional Trigger Patterns",
+                            "body": "Negative emotions amplify dopamine-seeking behaviors. Stress, loneliness, boredom, and anxiety create vulnerability windows for impulsive choices. Understanding your emotional patterns helps you predict when you'll be most susceptible to unhealthy dopamine hits.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p12",
+                            "pageType": "question",
+                            "headline": "What role do environmental cues play in dopamine-seeking behavior?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They have minimal impact compared to personal willpower",
+                                    "They trigger automatic responses stronger than conscious control",
+                                    "They only affect people with addictive personalities",
+                                    "They can be easily ignored through mental discipline"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Creating Your Trigger Map",
+                            "body": "Map your personal dopamine triggers by tracking behavior for one week. Note what you reach for during stress, boredom, or celebration. Identify your highest-frequency and highest-intensity triggers. This data becomes your roadmap for targeted intervention strategies.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p14",
+                            "pageType": "content",
+                            "headline": "The Hierarchy of Difficulty",
+                            "body": "Not all triggers are equally difficult to change. Some require complete elimination, others need moderation, and some can be replaced with healthier alternatives. Understanding this hierarchy helps you prioritize your efforts and set realistic expectations for change.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-3-p15",
+                            "pageType": "content",
+                            "headline": "From Awareness to Action",
+                            "body": "Identifying triggers is just the beginning. True change requires replacing destructive patterns with constructive ones. You now have the awareness needed to make conscious choices about your dopamine sources. The next step is creating a structured plan for change.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-4",
+                    "title": "The Complete 7-Day Reset Protocol",
+                    "order": 4,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Reset Philosophy",
+                            "body": "A dopamine reset isn't about permanent deprivation\u2014it's about recalibrating your reward system. Seven days of reduced stimulation allows your brain to remember what normal feels like. This creates a clean slate for rebuilding healthy dopamine patterns.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Preparation is Everything",
+                            "body": "Success depends on thorough preparation before starting your reset. Remove high-dopamine triggers from your environment. Stock healthy foods and plan low-stimulation activities. Inform friends and family about your temporary boundaries. Preparation prevents impulsive failures.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p3",
+                            "pageType": "content",
+                            "headline": "What to Eliminate",
+                            "body": "Remove social media, entertainment streaming, video games, processed foods, and non-essential phone use. Eliminate shopping for pleasure, casual internet browsing, and high-stimulation music. These activities flood your brain with artificial dopamine and prevent natural recalibration.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p4",
+                            "pageType": "content",
+                            "headline": "What to Embrace",
+                            "body": "Focus on reading, walking, meditation, journaling, and face-to-face conversations. Engage in cooking, cleaning, organizing, and manual hobbies. These activities provide gentle stimulation while allowing your reward system to reset. Boredom is not your enemy\u2014it's medicine.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Day 1-2: The Withdrawal Phase",
+                            "body": "Expect restlessness, irritability, and strong cravings during the first 48 hours. Your brain will resist the sudden decrease in stimulation. These symptoms are normal and temporary. They indicate your reset is working\u2014your reward system is beginning to recalibrate.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Day 3-4: The Adjustment Period",
+                            "body": "Acute withdrawal symptoms begin to fade as your brain adapts to lower stimulation levels. You might notice increased awareness of your environment and thoughts. Boredom becomes more tolerable. This is when many people experience their first glimpse of mental clarity.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p7",
+                            "pageType": "question",
+                            "headline": "What should you expect during the first 48 hours of a dopamine reset?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediate feelings of peace and mental clarity",
+                                    "Increased energy and motivation for all activities",
+                                    "Restlessness, irritability, and strong cravings for stimulation",
+                                    "Complete indifference to previously enjoyable activities"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Day 5-6: Finding Balance",
+                            "body": "Simple activities begin to feel more satisfying as your dopamine sensitivity increases. Reading becomes engaging, conversations feel deeper, and natural beauty seems more vivid. Your brain is remembering how to find pleasure in basic experiences without artificial enhancement.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Day 7: Integration Day",
+                            "body": "The final day focuses on reflection and planning your post-reset lifestyle. Notice which activities brought genuine satisfaction versus those you missed out of habit. This awareness guides your long-term strategy for maintaining balanced dopamine levels.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Managing Withdrawal Symptoms",
+                            "body": "When cravings hit, use the RAIN technique: Recognize the urge, Allow it to exist without resistance, Investigate the physical sensations, and Non-attachment to the experience. Remember that discomfort is temporary but transformation is lasting.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p11",
+                            "pageType": "question",
+                            "headline": "What indicates that your dopamine reset is working effectively?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complete absence of any cravings from day one",
+                                    "Immediate increase in productivity and focus levels",
+                                    "Initial withdrawal symptoms followed by gradual improvement",
+                                    "Permanent loss of interest in all entertainment"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Creating Support Systems",
+                            "body": "Share your reset goals with trusted friends or family members who can provide encouragement and accountability. Consider joining online communities focused on dopamine detox and digital minimalism. Having support makes the challenging moments more manageable and sustainable.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Your Reset Roadmap",
+                            "body": "Success comes from following a structured plan while remaining flexible with implementation. Your seven-day reset is not about perfection\u2014it's about progress toward healthier dopamine patterns. Each step forward counts, even if you occasionally step backward. Consistency matters more than intensity.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-5",
+                    "title": "Social Media and Digital Dopamine Hits",
+                    "order": 5,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-5-p1",
+                            "pageType": "content",
+                            "headline": "The Attention Economy",
+                            "body": "Social media platforms make money by capturing and selling your attention. They employ teams of neuroscientists, behavioral psychologists, and data analysts to make their apps as addictive as possible. Your engagement is their product, not their service.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Infinite Scroll Design",
+                            "body": "Endless feeds eliminate natural stopping points that would allow you to disengage. Like pulling a slot machine handle, scrolling provides variable rewards that keep you engaged for hours. Your brain never knows when the next interesting post will appear, so it keeps searching.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Variable Ratio Reinforcement",
+                            "body": "Social media uses the most addictive reward schedule known to psychology. Sometimes your posts get likes, sometimes they don't. This unpredictability creates stronger addiction than consistent rewards. Your brain releases more dopamine during uncertainty than certainty.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p4",
+                            "pageType": "content",
+                            "headline": "The Like Button Psychology",
+                            "body": "Likes, hearts, and reactions hijack your fundamental need for social approval. Each notification triggers a small dopamine release, making you crave more validation. This external validation addiction weakens your capacity for internal self-worth and satisfaction.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Fear of Missing Out",
+                            "body": "FOMO keeps you constantly checking for updates, afraid you'll miss something important. This anxiety-driven checking becomes compulsive behavior. You check your phone not because you want to, but because you fear what might be happening without your knowledge.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Comparison and Envy",
+                            "body": "Social media presents curated highlight reels, not authentic reality. Constant exposure to others' best moments creates feelings of inadequacy and envy. This negative emotional state drives more scrolling as you seek content that might make you feel better.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Notification Addiction",
+                            "body": "Push notifications create artificial urgency around trivial information. Each buzz or beep interrupts your focus and demands immediate attention. Your brain begins anticipating these interruptions, making sustained concentration increasingly difficult.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Shortened Attention Span",
+                            "body": "Rapid-fire content consumption trains your brain to expect constant stimulation. Your ability to focus on single tasks for extended periods weakens. Books become boring, conversations feel slow, and patience for anything requiring sustained attention diminishes.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Breaking the Cycle",
+                            "body": "Recovery requires removing social media apps from your phone and using website blockers on computers. Delete accounts or deactivate them temporarily. Replace mindless scrolling with intentional activities like reading, walking, or face-to-face conversations.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p10",
+                            "pageType": "question",
+                            "headline": "What makes social media more addictive than consistent rewards?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The colorful interface design and visual appeal",
+                                    "The ability to connect with friends and family",
+                                    "The educational value of shared information",
+                                    "Variable rewards create stronger dopamine responses"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p11",
+                            "pageType": "question",
+                            "headline": "How do notifications affect your ability to focus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They improve focus by providing regular brain breaks",
+                                    "They have no significant impact on concentration levels",
+                                    "They help organize thoughts through external reminders",
+                                    "They interrupt focus and train your brain to expect distractions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Digital Minimalism Principles",
+                            "body": "Use technology intentionally rather than compulsively. Choose quality connections over quantity engagement. Schedule specific times for digital communication instead of constant availability. Your relationship with technology should serve your goals, not undermine them.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Reclaiming Real Connection",
+                            "body": "Social media promises connection but often delivers isolation. Real relationships require presence, vulnerability, and time\u2014qualities that digital platforms discourage. Prioritizing face-to-face interactions rebuilds your capacity for genuine intimacy and social satisfaction.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-6",
+                    "title": "Food, Sugar, and Dopamine Spikes",
+                    "order": 6,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Modern Food Environment",
+                            "body": "Ultra-processed foods are engineered to be irresistible. Food scientists combine sugar, salt, and fat in ratios that don't exist in nature. These combinations trigger dopamine releases stronger than any natural food could produce. Your brain evolved for scarcity, not abundance.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Sugar: The Gateway Drug",
+                            "body": "Sugar activates the same reward pathways as cocaine, just less intensely. Regular sugar consumption downregulates dopamine receptors, requiring more sugar to achieve the same satisfaction. This biological process creates genuine food addiction, not just lack of willpower.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p3",
+                            "pageType": "content",
+                            "headline": "The Bliss Point Formula",
+                            "body": "Food manufacturers test thousands of combinations to find the perfect balance of sweet, salty, and fatty that maximizes consumption. This \"bliss point\" creates foods so rewarding that normal appetite regulation fails. Your satiety signals can't compete with artificially enhanced flavors.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Hidden Sugar Everywhere",
+                            "body": "Added sugars hide in seemingly healthy foods like yogurt, bread, salad dressings, and protein bars. Food labels use different names for sugar to avoid detection: corn syrup, dextrose, maltodextrin, and dozens of other terms. Reading ingredient lists becomes essential for avoiding hidden dopamine triggers.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Blood Sugar Rollercoaster",
+                            "body": "Processed foods cause rapid blood sugar spikes followed by crashes. During crashes, you experience irritability, fatigue, and intense cravings for more sugar. This cycle creates physical addiction beyond psychological craving. Stable blood sugar breaks this destructive pattern.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Emotional Eating Patterns",
+                            "body": "Stress, loneliness, and boredom trigger cravings for high-dopamine foods. Emotional eating provides temporary relief but worsens underlying feelings through guilt and energy crashes. Understanding these patterns helps you address root causes instead of symptoms.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p7",
+                            "pageType": "content",
+                            "headline": "The Hyperpalatable Trap",
+                            "body": "Hyperpalatable foods combine multiple taste sensations to overwhelm your pleasure centers. Think pizza (salt, fat, refined carbs), ice cream (sugar, fat, cold), or chips (salt, fat, crunch). These combinations don't exist in nature and hijack normal appetite control mechanisms.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p8",
+                            "pageType": "question",
+                            "headline": "What makes ultra-processed foods more addictive than natural foods?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They contain more essential nutrients per serving",
+                                    "They require less energy to digest completely",
+                                    "They provide more convenient packaging and storage",
+                                    "They combine sugar, salt, and fat in unnatural ratios"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Whole Foods Reset",
+                            "body": "Returning to whole, unprocessed foods allows your taste buds to recalibrate. Natural sweetness from fruits becomes satisfying again. Vegetables develop flavor complexity you never noticed. This reset takes 2-4 weeks as your palate adjusts to natural food flavors.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Meal Timing and Dopamine",
+                            "body": "Frequent snacking maintains constant dopamine stimulation from food. Eating every 2-3 hours prevents your reward system from resetting between meals. Structured meal times with 4-5 hour gaps allow dopamine receptors to recover and natural hunger signals to return.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p11",
+                            "pageType": "question",
+                            "headline": "How long does it typically take for taste preferences to reset when switching to whole foods?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "3-5 days of consistent whole food consumption",
+                                    "1-2 weeks of avoiding processed food completely",
+                                    "2-4 weeks as taste buds adjust to natural flavors",
+                                    "2-3 months of gradual dietary changes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p12",
+                            "pageType": "question",
+                            "headline": "Why is frequent snacking problematic for dopamine regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It provides too many essential nutrients throughout day",
+                                    "It increases metabolism beyond healthy sustainable levels",
+                                    "It maintains constant dopamine stimulation preventing receptor recovery",
+                                    "It causes dangerous fluctuations in body temperature"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Building Food Freedom",
+                            "body": "True food freedom means eating for nourishment, not entertainment. You can enjoy occasional treats without losing control. Cravings become suggestions, not commands. This balance comes from healing your relationship with food through consistent exposure to natural, wholesome options.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Practical Reset Strategies",
+                            "body": "Clean out processed foods from your kitchen and stock whole food alternatives. Prepare meals in advance to avoid impulsive food choices. Learn to cook simple, satisfying meals that nourish your body without overwhelming your reward system. Environment design matters more than willpower.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-7",
+                    "title": "Gaming, Pornography, and Supernormal Stimuli",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Supernormal Stimuli Defined",
+                            "body": "Supernormal stimuli are artificial triggers that activate our reward system more intensely than anything found in nature. They exploit evolutionary mechanisms that once helped us survive but now trap us in cycles of compulsive behavior. Modern technology has perfected these artificial triggers.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Gaming's Addiction Mechanics",
+                            "body": "Video games use variable reward schedules, progression systems, and social competition to maintain engagement. Achievement badges, level-ups, and rare item drops trigger dopamine releases. Game developers employ behavioral psychologists to maximize playing time and in-game spending.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p3",
+                            "pageType": "content",
+                            "headline": "The Pornography Problem",
+                            "body": "Internet pornography provides unlimited sexual novelty that doesn't exist in natural human relationships. This constant novelty seeking damages pair bonding mechanisms and creates unrealistic expectations. Regular consumption desensitizes users to normal sexual experiences and relationships.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Escalation and Tolerance",
+                            "body": "Both gaming and pornography consumption tend to escalate over time. What once felt exciting becomes routine, requiring more intense stimulation. Users gradually seek more extreme content or longer playing sessions to achieve the same dopamine response. This tolerance effect drives addictive behavior.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Real-World Devaluation",
+                            "body": "Supernormal stimuli make real-world activities feel boring and unsatisfying. Gaming makes work feel tedious by comparison. Pornography makes real relationships seem inadequate. Your brain begins preferring artificial experiences over genuine human connections and achievements.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Social and Emotional Consequences",
+                            "body": "Excessive gaming often leads to social isolation, poor academic or work performance, and neglect of relationships. Pornography use can cause intimacy problems, unrealistic expectations, and objectification of others. Both activities provide artificial connection that substitutes for real human interaction.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p7",
+                            "pageType": "content",
+                            "headline": "The Novelty Trap",
+                            "body": "Modern technology provides unlimited novelty through new games, videos, and content. Your brain evolved to seek novelty for survival advantage, but infinite digital novelty prevents satisfaction and completion. You become trapped in endless seeking without ever finding lasting fulfillment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p8",
+                            "pageType": "question",
+                            "headline": "What makes video games particularly addictive compared to other entertainment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They provide educational value through problem-solving",
+                                    "They use variable rewards and progression systems",
+                                    "They offer social connection with like-minded people",
+                                    "They require physical coordination and mental skills"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p9",
+                            "pageType": "question",
+                            "headline": "How do supernormal stimuli affect real-world satisfaction?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They enhance appreciation for simple pleasures",
+                                    "They have no impact on everyday activities",
+                                    "They make real-world experiences feel boring and inadequate",
+                                    "They increase motivation for personal achievement"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Breaking Free from Gaming",
+                            "body": "Uninstall games and block gaming websites during recovery. Find alternative activities that provide achievement and social connection\u2014sports, creative hobbies, or learning new skills. Address underlying needs that gaming fulfilled: achievement, social connection, escape, or competition.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p11",
+                            "pageType": "question",
+                            "headline": "What is the most effective approach for overcoming gaming addiction?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Limiting gaming to only weekends and holidays",
+                                    "Complete removal plus finding alternative achievement sources",
+                                    "Switching to less addictive single-player games only",
+                                    "Using gaming as reward for completing other tasks"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Recovery from Pornography",
+                            "body": "Complete abstinence is typically necessary for recovery due to the addictive nature of the content. Install blocking software and accountability apps. Focus on building real relationships and addressing underlying emotional issues. Professional counseling can provide additional support for recovery.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Rebuilding Natural Rewards",
+                            "body": "Recovery requires replacing supernormal stimuli with activities that provide natural satisfaction\u2014exercise, creative pursuits, learning, and meaningful relationships. These activities rebuild your capacity for delayed gratification and genuine achievement. Progress is gradual but sustainable.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-8",
+                    "title": "The Neuroscience of Craving and Withdrawal",
+                    "order": 8,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Understanding Craving Biology",
+                            "body": "Cravings aren't psychological weakness\u2014they're biological responses to neurochemical imbalances. When dopamine drops below baseline, your brain activates seeking behaviors to restore balance. These urges feel urgent and necessary because your brain interprets low dopamine as a survival threat.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Anticipation Circuit",
+                            "body": "Cravings activate your brain's anticipation circuit, releasing stress hormones and creating physical discomfort. Your heart rate increases, attention narrows, and decision-making becomes impaired. This biological cascade makes resisting cravings feel like fighting your own survival instinct.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Withdrawal Symptom Timeline",
+                            "body": "Physical withdrawal symptoms peak within 24-72 hours but psychological cravings can persist for weeks or months. You may experience irritability, restlessness, anxiety, difficulty concentrating, and sleep disturbances. These symptoms are temporary evidence that your brain is healing and recalibrating.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p4",
+                            "pageType": "content",
+                            "headline": "The Stress Response Connection",
+                            "body": "Stress amplifies cravings by disrupting dopamine regulation and activating your brain's emergency response system. Chronic stress keeps your reward system dysregulated, making recovery more difficult. Managing stress through exercise, sleep, and relaxation techniques supports dopamine healing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Neuroplasticity and Recovery",
+                            "body": "Your brain can rewire itself through neuroplasticity, creating new neural pathways and strengthening healthier reward circuits. Recovery involves both eliminating harmful patterns and actively building beneficial ones. This dual approach accelerates healing and prevents relapse.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p6",
+                            "pageType": "content",
+                            "headline": "The Kindling Effect",
+                            "body": "Repeated cycles of overstimulation and withdrawal make your brain more sensitive to future addictive behaviors. Each relapse episode can trigger stronger cravings and more severe withdrawal symptoms. This kindling effect emphasizes the importance of sustained recovery efforts.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Craving Management Techniques",
+                            "body": "When cravings hit, use the HALT check: Are you Hungry, Angry, Lonely, or Tired? Address basic needs first. Practice deep breathing, physical exercise, or cold exposure to shift your physiological state. Remember that cravings are temporary\u2014they peak and pass within 10-20 minutes.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Sleep and Recovery",
+                            "body": "Quality sleep is essential for dopamine recovery because most neurotransmitter restoration happens during rest. Poor sleep perpetuates cravings and impairs decision-making. Prioritize 7-9 hours of consistent sleep as a cornerstone of your recovery strategy.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Exercise as Medicine",
+                            "body": "Regular exercise naturally boosts dopamine production and creates healthy reward pathways. Physical activity provides natural highs that can replace artificial stimulation. Even moderate exercise like walking significantly improves mood and reduces cravings during recovery.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p10",
+                            "pageType": "content",
+                            "headline": "The Recovery Timeline",
+                            "body": "Acute withdrawal lasts 3-7 days, but full dopamine recovery takes 30-90 days depending on the severity and duration of your overstimulation. Post-acute withdrawal symptoms like mood swings and cravings can persist for months. Understanding this timeline helps maintain realistic expectations.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Medication Considerations",
+                            "body": "Some people benefit from professional medical support during severe withdrawal. Certain supplements like tyrosine, magnesium, or omega-3 fatty acids may support dopamine production. Always consult healthcare providers before making medication decisions during your recovery process.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Social Support Systems",
+                            "body": "Recovery is easier with social support from people who understand your journey. Consider joining support groups, working with counselors, or connecting with friends and family who respect your goals. Isolation intensifies cravings while connection provides natural dopamine boosts.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p13",
+                            "pageType": "question",
+                            "headline": "How long do cravings typically last when they occur?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2-5 minutes before naturally subsiding",
+                                    "10-20 minutes before peaking and passing",
+                                    "30-45 minutes of consistent intensity",
+                                    "1-2 hours with gradual decline"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p14",
+                            "pageType": "question",
+                            "headline": "What is the most important factor for supporting dopamine recovery?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Getting 7-9 hours of consistent quality sleep",
+                                    "Taking dopamine-boosting supplements daily",
+                                    "Avoiding all sources of stress completely",
+                                    "Exercising for at least 2 hours daily"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Patience with the Process",
+                            "body": "Dopamine recovery is a gradual process that requires patience and self-compassion. Your brain is healing from years or decades of overstimulation. Celebrate small victories and remember that temporary discomfort leads to lasting freedom. Every day of recovery strengthens your natural reward system.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-9",
+                    "title": "Relapse Prevention and Recovery Strategies",
+                    "order": 9,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Relapse as Learning Opportunity",
+                            "body": "Relapse doesn't mean failure\u2014it means you need to adjust your strategy. Most people require multiple attempts before achieving lasting change. Each relapse provides valuable data about your triggers, weaknesses, and what needs strengthening. Use setbacks as stepping stones, not roadblocks.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Identifying High-Risk Situations",
+                            "body": "Certain situations consistently trigger relapse: stress, boredom, social pressure, or specific locations and times. Map your personal high-risk scenarios and develop specific action plans for each. Preparation prevents impulsive decisions during vulnerable moments.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p3",
+                            "pageType": "content",
+                            "headline": "The HALT Framework",
+                            "body": "Before engaging in potentially harmful behavior, check if you're Hungry, Angry, Lonely, or Tired. These basic needs often drive dopamine-seeking behavior. Address physical and emotional needs directly rather than medicating them with artificial stimulation.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p4",
+                            "pageType": "question",
+                            "headline": "What should be your primary response to a relapse episode?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept complete failure and abandon recovery efforts",
+                                    "Increase restriction and punishment to prevent future relapses",
+                                    "Minimize the episode and pretend it didn't happen",
+                                    "Analyze what triggered the relapse and adjust your strategy"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Building Your Defense System",
+                            "body": "Create multiple layers of protection: environmental changes, accountability systems, alternative activities, and emergency action plans. Remove high-risk triggers from your environment. Install blocking software. Share your goals with trusted friends who can provide support during difficult moments.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p6",
+                            "pageType": "content",
+                            "headline": "The Surfing Technique",
+                            "body": "When cravings hit, imagine yourself surfing the wave rather than fighting it. Cravings build, peak, and naturally subside if you don't act on them. Observe the physical sensations without judgment. Remember that urges are temporary visitors, not permanent residents.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Emergency Action Plans",
+                            "body": "Create specific protocols for crisis moments: call a friend, take a cold shower, go for a walk, or practice breathing exercises. Write these plans down and keep them easily accessible. Having predetermined responses reduces the cognitive load during high-stress decision moments.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p8",
+                            "pageType": "question",
+                            "headline": "What does the HALT framework help you identify?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The specific dopamine triggers in your environment",
+                                    "Whether you need social support or professional help",
+                                    "How long your recovery process will actually take",
+                                    "Basic needs that might be driving your cravings"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Progress Tracking Systems",
+                            "body": "Track your progress with objective measures: days without engaging in problem behaviors, quality of sleep, mood ratings, and productivity levels. Visual progress tracking maintains motivation during difficult periods and provides evidence of improvement when you feel discouraged.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Building Identity Change",
+                            "body": "Shift from \"I'm trying to quit X\" to \"I'm someone who doesn't do X.\" Identity-based change is more sustainable than behavior-based change. See yourself as someone who values long-term well-being over short-term pleasure. Your actions should align with your desired identity.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Social Environment Design",
+                            "body": "Surround yourself with people who support your recovery goals. Distance yourself from those who encourage unhealthy behaviors. Join communities focused on personal development, health, or similar recovery journeys. Your social environment strongly influences your behavior choices.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Sustainability",
+                            "body": "Recovery is not about perfect execution\u2014it's about consistent progress over time. Allow for occasional setbacks while maintaining overall forward momentum. Focus on building systems and habits that naturally support your goals rather than relying solely on willpower and motivation.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-10",
+                    "title": "Building a Low-Dopamine Lifestyle",
+                    "order": 10,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-10-p1",
+                            "pageType": "content",
+                            "headline": "The Philosophy of Less",
+                            "body": "A low-dopamine lifestyle doesn't mean a joyless life\u2014it means finding satisfaction in simpler pleasures. You're trading artificial highs for sustainable contentment. This approach builds resilience against modern overstimulation while maintaining access to genuine happiness and fulfillment.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Environmental Design Principles",
+                            "body": "Your environment shapes your behavior more than willpower. Remove high-dopamine triggers from your living space and replace them with calm, natural elements. Create spaces that encourage reflection, reading, and relaxation rather than stimulation and entertainment.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Slow Food Philosophy",
+                            "body": "Eat whole, unprocessed foods prepared with intention and consumed without distraction. Take time to taste, chew, and appreciate your meals. This practice restores natural satiety signals and reduces the need for hyperpalatable foods that spike dopamine unnaturally.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Single-Tasking Renaissance",
+                            "body": "Modern life demands multitasking, but your brain performs better with focused attention. Do one thing at a time with full presence. This practice strengthens your attention span, increases satisfaction from activities, and reduces the need for constant stimulation.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Digital Boundaries",
+                            "body": "Establish clear boundaries around technology use. Create phone-free zones and times. Use physical alarm clocks instead of phones. Read physical books and newspapers. These boundaries protect your attention and prevent unconscious dopamine-seeking behaviors.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p6",
+                            "pageType": "question",
+                            "headline": "What is the primary goal of environmental design in dopamine regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creating the most visually appealing living space possible",
+                                    "Making your home completely isolated from outside influences",
+                                    "Removing high-dopamine triggers while adding calming elements",
+                                    "Organizing everything for maximum efficiency and productivity"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Nature Connection",
+                            "body": "Regular exposure to nature provides gentle dopamine stimulation without the artificial intensity of modern entertainment. Spend time outdoors without devices. Garden, hike, or simply sit in natural settings. Nature naturally regulates your nervous system and provides perspective on modern life's intensity.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Mindful Movement Practices",
+                            "body": "Choose physical activities that require presence and focus: walking, yoga, swimming, or martial arts. Avoid exercise that relies on external stimulation like loud music or screens. Movement becomes meditation, providing natural endorphins while strengthening your mind-body connection.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Creative Expression",
+                            "body": "Engage in creative activities that provide internal satisfaction: writing, drawing, music, crafts, or cooking. Create for the joy of creation, not for external validation or social media sharing. These activities rebuild your capacity for intrinsic motivation and self-directed pleasure.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Social Connection Quality",
+                            "body": "Prioritize deep, meaningful relationships over superficial social networks. Have longer, less frequent conversations. Practice active listening without distractions. Quality relationships provide sustainable dopamine through genuine human connection rather than artificial social validation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Work and Purpose",
+                            "body": "Find meaning in your work beyond external rewards. Focus on craftsmanship, service to others, and personal growth. Set intrinsic goals based on values rather than external validation. Meaningful work provides sustainable satisfaction that doesn't require constant dopamine hits.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Seasonal Rhythms",
+                            "body": "Align your lifestyle with natural rhythms rather than artificial stimulation patterns. Wake with sunlight, eat with hunger, rest when tired. This alignment supports healthy dopamine production and reduces dependence on artificial mood and energy boosters.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p13",
+                            "pageType": "question",
+                            "headline": "How does connecting with nature support dopamine regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Nature provides unlimited entertainment and stimulation options",
+                                    "Outdoor activities burn calories and improve physical fitness",
+                                    "Nature exposure eliminates all stress from modern life",
+                                    "Nature provides gentle stimulation while regulating your nervous system"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Embracing Simplicity",
+                            "body": "Simplicity isn't about deprivation\u2014it's about clarity. When you remove artificial complexity and stimulation, you discover what truly matters. Simple pleasures become profound. Basic activities provide deep satisfaction. This clarity guides better decisions about how to spend your time and attention.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-11",
+                    "title": "Digital Minimalism for Dopamine Balance",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Digital Minimalism Defined",
+                            "body": "Digital minimalism means using technology intentionally to support your values rather than being used by technology for others' profit. It's about quality over quantity in your digital life. You choose tools that genuinely add value while eliminating those that simply capture your attention.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Economy Problem",
+                            "body": "Tech companies make billions by capturing and selling your attention. Their business model requires keeping you engaged, not helping you live better. Understanding this economic reality helps you recognize that resistance to digital tools is often resistance to exploitation, not progress.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p3",
+                            "pageType": "question",
+                            "headline": "What is the primary goal of digital minimalism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Using technology intentionally to support your personal values",
+                                    "Avoiding all digital technology and returning to analog life",
+                                    "Maximizing productivity through efficient digital tool usage",
+                                    "Staying current with the latest technological developments"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p4",
+                            "pageType": "content",
+                            "headline": "The Digital Declutter Process",
+                            "body": "Start with a 30-day break from all optional technologies. This includes social media, news sites, entertainment streaming, and casual web browsing. Keep only essential tools for work and communication. This break allows you to rediscover what you actually miss versus what you habitually use.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Reintroduction with Intention",
+                            "body": "After your digital sabbatical, carefully reintroduce only the technologies that serve a clear purpose aligned with your values. Define specific rules for when, where, and how you'll use each tool. This intentional reintroduction prevents sliding back into mindless usage patterns.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p6",
+                            "pageType": "question",
+                            "headline": "How long should a digital declutter period typically last?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "30 days of breaking from all optional technologies",
+                                    "One week of complete technology avoidance",
+                                    "3-5 days to reset your digital habits",
+                                    "2-3 months of gradual technology reduction"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Phone Optimization Strategies",
+                            "body": "Transform your phone from an entertainment device into a tool. Remove all social media apps and games. Turn off non-essential notifications. Use grayscale mode to reduce visual appeal. Keep your phone in another room while sleeping and working. These changes reduce unconscious phone checking.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p8",
+                            "pageType": "question",
+                            "headline": "What is the most effective way to reduce unconscious phone checking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Setting specific times for phone use throughout day",
+                                    "Removing entertainment apps and keeping phone in another room",
+                                    "Using phone tracking apps to monitor usage patterns",
+                                    "Replacing smartphone with basic phone for calls only"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Creating Technology-Free Zones",
+                            "body": "Designate specific areas and times as technology-free: bedrooms, dining tables, first hour of morning, last hour before sleep. These boundaries create space for reflection, conversation, and rest. Your brain needs regular breaks from digital stimulation to maintain healthy dopamine levels.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p10",
+                            "pageType": "question",
+                            "headline": "Why are technology-free zones important for dopamine regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They completely eliminate dopamine production in the brain",
+                                    "They provide regular breaks from digital stimulation for brain recovery",
+                                    "They increase productivity by removing all potential distractions",
+                                    "They force social interaction with family members"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Analog Alternatives",
+                            "body": "Replace digital habits with analog alternatives: physical books instead of e-readers, paper notebooks instead of note-taking apps, physical maps instead of GPS, board games instead of video games. These alternatives provide similar functions without the dopamine manipulation of digital platforms.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Social Media Alternatives",
+                            "body": "Replace social media connection with real-world community involvement. Join clubs, volunteer organizations, or hobby groups. Schedule regular phone calls or in-person meetings with friends. These activities provide genuine social connection without the artificial validation cycles of online platforms.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Sustainable Digital Habits",
+                            "body": "Digital minimalism is a long-term lifestyle choice, not a temporary detox. Regularly audit your digital tools and eliminate those that no longer serve you. Stay vigilant against feature creep and new addictive apps. Your relationship with technology should evolve as your values and priorities change.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-12",
+                    "title": "Morning Routines for Dopamine Regulation",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Morning as Foundation",
+                            "body": "How you start your day sets the tone for your entire dopamine regulation. A calm, intentional morning builds resilience against later temptations. Rushing into high-stimulation activities immediately upon waking keeps your nervous system activated and craving-prone throughout the day.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Avoiding Morning Stimulation",
+                            "body": "Don't check your phone, news, or emails immediately upon waking. These activities flood your brain with information and artificial urgency before you've had time to center yourself. This early stimulation sets up dopamine dysregulation that persists throughout your day.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p3",
+                            "pageType": "question",
+                            "headline": "Why should you avoid checking your phone immediately upon waking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It wastes time that could be used more productively",
+                                    "It exposes you to negative news that affects mood",
+                                    "It disrupts your natural circadian rhythm patterns",
+                                    "It floods your brain with stimulation before you're centered"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Natural Light Exposure",
+                            "body": "Get bright light within the first hour of waking, preferably from sunlight. This exposure regulates your circadian rhythm and supports healthy dopamine production throughout the day. Even 10-15 minutes of morning light significantly improves mood regulation and sleep quality.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Mindful Movement",
+                            "body": "Incorporate gentle physical movement: stretching, yoga, walking, or basic calisthenics. Movement increases blood flow, releases natural endorphins, and creates a sense of accomplishment early in the day. This natural dopamine boost reduces cravings for artificial stimulation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Meditation and Stillness",
+                            "body": "Spend 5-20 minutes in quiet reflection, meditation, or prayer. This practice builds your tolerance for boredom and strengthens your ability to resist impulses. Regular meditation literally rewires your brain to be less reactive to cravings and more capable of thoughtful responses.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p7",
+                            "pageType": "question",
+                            "headline": "How does morning meditation support dopamine regulation throughout the day?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all dopamine cravings permanently",
+                                    "It builds tolerance for boredom and strengthens impulse control",
+                                    "It increases dopamine production beyond normal levels",
+                                    "It replaces the need for any other dopamine sources"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p8",
+                            "pageType": "question",
+                            "headline": "What is the recommended timing for bright light exposure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Within the first hour of waking for 10-15 minutes",
+                                    "At least 2 hours after waking for maximum effectiveness",
+                                    "Only during specific seasons when vitamin D is low",
+                                    "Continuously throughout the morning hours for best results"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Journaling Practice",
+                            "body": "Write morning pages: three pages of stream-of-consciousness writing or structured gratitude journaling. This practice clears mental clutter, identifies emotional patterns, and builds self-awareness. Regular journaling creates a healthy outlet for processing thoughts without external stimulation.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Nutritious Morning Fuel",
+                            "body": "Start with whole foods that stabilize blood sugar: protein, healthy fats, and complex carbohydrates. Avoid processed foods, excess caffeine, or sugar that create energy crashes later. Stable blood sugar supports stable mood and reduces cravings for quick dopamine hits throughout the day.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Intention Setting",
+                            "body": "Spend a few minutes setting clear intentions for your day. What do you want to accomplish? How do you want to feel? Which behaviors will you prioritize? This practice creates internal direction that reduces susceptibility to external distractions and impulsive choices.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Gradual Routine Building",
+                            "body": "Start with one or two morning practices and gradually add others as they become habitual. Attempting to change everything at once leads to overwhelm and failure. Choose the practices that resonate most strongly with you and build consistency before adding complexity.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Protecting Your Morning",
+                            "body": "Guard your morning routine against external demands and distractions. Wake up 30-60 minutes earlier if necessary to create space for your routine. Communicate boundaries with family members or roommates. Your morning routine is an investment in your entire day's success and well-being.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-13",
+                    "title": "Evening Routines and Sleep Optimization",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Evening as Recovery Time",
+                            "body": "Your evening routine determines the quality of your sleep and next day's dopamine regulation. Late-night stimulation disrupts natural wind-down processes and perpetuates craving cycles. Creating calm, predictable evenings supports both immediate rest and long-term brain health.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Digital Sunset Protocol",
+                            "body": "Stop using screens 1-2 hours before bedtime. Blue light suppresses melatonin production and keeps your brain in an activated state. The mental stimulation from content consumption makes it difficult to transition into rest mode. Create a clear boundary between day and night activities.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Creating Environmental Cues",
+                            "body": "Dim lights, lower room temperature, and eliminate noise distractions. These environmental changes signal to your body that sleep time is approaching. Your nervous system responds to consistent environmental cues by naturally preparing for rest and recovery.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p4",
+                            "pageType": "question",
+                            "headline": "When should you stop using screens before bedtime for optimal sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "30 minutes before bed to allow basic wind-down",
+                                    "1 hour before bed for adequate melatonin production",
+                                    "1-2 hours before bed to allow proper brain transition",
+                                    "3-4 hours before bed for complete digital detox"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Reflection and Processing",
+                            "body": "Use evening time to process the day's experiences through journaling, meditation, or quiet contemplation. This mental processing prevents thoughts from racing when you try to sleep. Unresolved thoughts and emotions often drive late-night dopamine-seeking behaviors.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Gratitude Practice",
+                            "body": "End each day by identifying three things you're grateful for. This practice shifts your brain toward positive reflection rather than problem-solving or worry. Gratitude naturally increases baseline happiness and reduces the need for external dopamine sources.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Reading as Wind-Down",
+                            "body": "Replace screen time with physical books, preferably fiction or calming non-fiction. Reading requires focused attention without the stimulation of multimedia content. This practice naturally tires your eyes and mind while providing gentle entertainment that doesn't spike dopamine levels.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Gentle Physical Activities",
+                            "body": "Engage in light stretching, yoga, or slow walking. These activities help release physical tension while signaling to your body that it's time to rest. Avoid intense exercise within 3-4 hours of bedtime as it can interfere with natural sleepiness.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Sleep Environment Optimization",
+                            "body": "Keep your bedroom cool, dark, and quiet. Use blackout curtains, eye masks, or earplugs if necessary. Remove all electronic devices from the bedroom. Your sleep environment should be associated only with rest and recovery, not stimulation or entertainment.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p10",
+                            "pageType": "question",
+                            "headline": "What is the primary benefit of evening reflection or journaling?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It improves writing skills and creative expression abilities",
+                                    "It processes daily experiences and prevents racing thoughts",
+                                    "It increases productivity by planning tomorrow's activities",
+                                    "It provides entertainment without using digital devices"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Consistent Sleep Schedule",
+                            "body": "Go to bed and wake up at the same time every day, including weekends. This consistency strengthens your circadian rhythm and improves sleep quality. Irregular sleep schedules disrupt dopamine regulation and increase vulnerability to cravings and impulsive behaviors.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p12",
+                            "pageType": "question",
+                            "headline": "Why is maintaining a consistent sleep schedule important for dopamine regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It strengthens circadian rhythm and improves overall sleep quality",
+                                    "It allows more time for productive activities during day",
+                                    "It reduces the total amount of sleep needed nightly",
+                                    "It eliminates the need for any evening routine practices"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Recovery During Sleep",
+                            "body": "Quality sleep is when your brain clears metabolic waste, consolidates memories, and restores neurotransmitter levels including dopamine. Poor sleep perpetuates cravings and impairs decision-making. Prioritizing sleep quality is one of the most important investments you can make in your dopamine recovery.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-14",
+                    "title": "Deep Work and Sustained Focus Practices",
+                    "order": 14,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Deep Work Defined",
+                            "body": "Deep work is the ability to focus on cognitively demanding tasks without distraction for extended periods. This skill has become rare in our hyperconnected world, yet it's essential for meaningful productivity and satisfaction. Deep work provides natural dopamine through genuine achievement.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Residue Problem",
+                            "body": "When you switch between tasks, part of your attention remains stuck on the previous task. This \"attention residue\" reduces your cognitive capacity for the current task. Constant task-switching makes deep work impossible and increases the need for external stimulation to feel engaged.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Single-Tasking Training",
+                            "body": "Train your brain to focus on one task at a time by eliminating all potential distractions. Close unnecessary browser tabs, silence notifications, and remove your phone from sight. Your attention is like a muscle\u2014it strengthens with focused practice and weakens with scattered use.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p4",
+                            "pageType": "question",
+                            "headline": "What is the most important element for successful deep work sessions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working for at least 4 hours without any breaks",
+                                    "Eliminating all potential distractions from your environment",
+                                    "Using background music to maintain engagement levels",
+                                    "Multitasking to accomplish more in less time"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p5",
+                            "pageType": "question",
+                            "headline": "What happens when you frequently switch between tasks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your brain becomes more efficient at processing information",
+                                    "Attention residue reduces your cognitive capacity for each task",
+                                    "You develop better time management and organizational skills",
+                                    "Your ability to multitask improves with regular practice"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p6",
+                            "pageType": "content",
+                            "headline": "The Pomodoro Technique",
+                            "body": "Work in focused 25-minute blocks followed by 5-minute breaks. This structure makes deep work feel manageable while building your attention span gradually. The time constraint creates urgency that helps maintain focus, and regular breaks prevent mental fatigue.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p7",
+                            "pageType": "question",
+                            "headline": "How long should each focused work block be in the Pomodoro Technique?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "25 minutes of focused work followed by 5-minute breaks",
+                                    "45 minutes of work followed by 15-minute rest periods",
+                                    "60 minutes of continuous work with 10-minute breaks",
+                                    "90 minutes of deep work followed by 20-minute breaks"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Creating Ritual and Routine",
+                            "body": "Develop consistent rituals that signal the start of deep work: specific location, time of day, music or silence, and preparation activities. These cues help your brain transition into focused mode more easily. Ritualization reduces the cognitive load of starting difficult tasks.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Progressive Difficulty Training",
+                            "body": "Start with shorter focus sessions and gradually increase duration as your attention span strengthens. Begin with 15-20 minutes if longer periods feel impossible. Like physical exercise, attention training requires progressive overload to build capacity without overwhelming your current abilities.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p10",
+                            "pageType": "content",
+                            "headline": "The Flow State Connection",
+                            "body": "Deep work can lead to flow states\u2014periods of effortless concentration where time seems to disappear. Flow provides natural reward through intrinsic motivation rather than external validation. Regular flow experiences reduce dependence on artificial dopamine sources.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Measuring Progress",
+                            "body": "Track your deep work sessions: duration, quality of focus, and sense of accomplishment. This measurement provides objective feedback on your improving attention span. Visible progress creates motivation to continue building this crucial skill.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Workplace Deep Work Strategy",
+                            "body": "Schedule specific deep work blocks in your calendar and protect them like important meetings. Communicate your focused work times to colleagues. Use signals like closed doors or noise-canceling headphones to indicate unavailability. Your productivity and job satisfaction will improve dramatically.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Long-term Cognitive Benefits",
+                            "body": "Regular deep work practice strengthens your prefrontal cortex and improves overall cognitive function. You become better at resisting distractions, making complex decisions, and thinking creatively. These skills transfer to all areas of life, not just work.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-15",
+                    "title": "Boredom as Medicine for Your Brain",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Reframing Boredom",
+                            "body": "Boredom isn't a problem to solve\u2014it's medicine for an overstimulated brain. Modern society has taught us to fear boredom and immediately seek entertainment. This avoidance prevents your dopamine receptors from recovering and your mind from developing resilience to unstimulating periods.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p2",
+                            "pageType": "content",
+                            "headline": "The Default Mode Network",
+                            "body": "When you're not actively focused on tasks, your brain enters default mode\u2014a state of internal processing and reflection. This network consolidates memories, processes emotions, and generates creative insights. Constant stimulation prevents access to this crucial mental state.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Creativity Through Understimulation",
+                            "body": "Your most creative ideas often emerge during unstimulating activities like walking, showering, or lying in bed. Boredom creates space for your subconscious mind to make connections between disparate ideas. Constant entertainment blocks this natural creative process.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p4",
+                            "pageType": "question",
+                            "headline": "When do your most creative insights typically occur?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During intense brainstorming sessions with clear objectives",
+                                    "While consuming educational content and learning new information",
+                                    "When multitasking and managing several projects simultaneously",
+                                    "During unstimulating activities like walking or showering"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Building Boredom Tolerance",
+                            "body": "Start with short periods of deliberate boredom: five minutes sitting without any stimulation. Gradually increase duration as your tolerance builds. Notice the physical sensations and mental resistance. This practice teaches you that uncomfortable feelings are temporary and manageable.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p6",
+                            "pageType": "content",
+                            "headline": "The Fidgeting Trap",
+                            "body": "When boredom hits, avoid immediately reaching for your phone, snacks, or other distractions. Sit with the discomfort without trying to fix it. This discomfort is your brain healing\u2014learning to find satisfaction in less stimulating experiences.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Productive Boredom Activities",
+                            "body": "Channel boredom into gentle activities: organizing your space, taking walks without podcasts, cooking simple meals, or practicing basic crafts. These activities provide minimal stimulation while keeping your hands busy and allowing your mind to wander productively.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Meditation as Structured Boredom",
+                            "body": "Meditation is essentially practicing boredom in a structured way. You sit with minimal stimulation, observing thoughts and sensations without reacting. This practice builds exceptional tolerance for understimulation and strengthens your ability to resist impulses.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p9",
+                            "pageType": "question",
+                            "headline": "What is the primary benefit of building boredom tolerance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It increases your productivity during work hours",
+                                    "It strengthens your ability to resist impulses and find satisfaction in less",
+                                    "It improves your social skills and relationship quality",
+                                    "It enhances your physical fitness and energy levels"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p10",
+                            "pageType": "content",
+                            "headline": "The Waiting Game",
+                            "body": "Use everyday waiting periods as boredom practice: standing in line, waiting for appointments, or sitting in traffic. Instead of immediately reaching for entertainment, practice being present with the experience. These micro-doses of boredom build tolerance throughout your day.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Solitude vs. Loneliness",
+                            "body": "Learn to distinguish between solitude and loneliness. Solitude is chosen time alone for reflection and restoration. Loneliness is the feeling that you need external connection or stimulation. Building comfort with solitude reduces dependence on others for entertainment and validation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p12",
+                            "pageType": "question",
+                            "headline": "How should you approach everyday waiting periods for maximum benefit?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Use them efficiently by catching up on emails and messages",
+                                    "Always carry books or podcasts to make waiting productive",
+                                    "Practice being present without reaching for entertainment",
+                                    "Plan detailed schedules to minimize all waiting time"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p13",
+                            "pageType": "question",
+                            "headline": "What is the difference between solitude and loneliness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Solitude requires complete isolation while loneliness allows some contact",
+                                    "Solitude is chosen reflection time while loneliness craves external stimulation",
+                                    "Solitude lasts longer periods while loneliness is brief emotional state",
+                                    "Solitude improves creativity while loneliness improves social skills"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p14",
+                            "pageType": "content",
+                            "headline": "The Paradox of Satisfaction",
+                            "body": "The more you chase stimulation, the less satisfied you become. The more you practice boredom tolerance, the more you can find joy in simple experiences. This paradox explains why wealthy, entertained people often feel empty while those with less can experience profound contentment.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-15-p15",
+                            "pageType": "content",
+                            "headline": "Embracing the Uncomfortable",
+                            "body": "Boredom feels uncomfortable because your brain interprets low stimulation as potential danger. This discomfort is not a sign that something's wrong\u2014it's evidence that healing is happening. Trust the process and remember that temporary discomfort leads to lasting freedom from compulsive stimulation-seeking.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-16",
+                    "title": "Creating Sustainable Dopamine Systems",
+                    "order": 16,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Systems Over Goals",
+                            "body": "Sustainable dopamine regulation requires systems, not just goals. Systems are repeatable processes that naturally lead to desired outcomes. Instead of \"I will avoid social media,\" create a system: \"I charge my phone outside my bedroom and check it only after completing morning routines.\"",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Environment Design",
+                            "body": "Your environment shapes behavior more than willpower. Design spaces that make healthy choices easier and unhealthy choices harder. Remove junk food, install website blockers, and create appealing spaces for reading and reflection. Small environmental changes produce large behavioral shifts.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p3",
+                            "pageType": "content",
+                            "headline": "The 80/20 Principle",
+                            "body": "Focus on the 20% of changes that will produce 80% of your results. For most people, this means addressing phone use, sleep habits, and one major trigger category. Perfectionism across all areas leads to overwhelm and failure. Strategic focus creates sustainable transformation.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Habit Stacking",
+                            "body": "Link new behaviors to existing habits: \"After I brush my teeth, I will write three gratitudes.\" This technique leverages established neural pathways to build new ones. Existing habits serve as anchors for desired changes, making them more likely to stick long-term.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p5",
+                            "pageType": "question",
+                            "headline": "What is the most effective way to implement new dopamine-regulating behaviors?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Set ambitious goals and rely on motivation to achieve them",
+                                    "Change everything at once to maximize results quickly",
+                                    "Focus on willpower and mental discipline techniques only",
+                                    "Link new behaviors to existing habits through habit stacking"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p6",
+                            "pageType": "question",
+                            "headline": "According to the 80/20 principle, what should be your primary focus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect execution across all areas of dopamine regulation",
+                                    "The 20% of changes that will produce 80% of results",
+                                    "Gradual improvement in every aspect of your lifestyle",
+                                    "Complete elimination of all potentially addictive substances"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Flexibility Within Structure",
+                            "body": "Create flexible guidelines rather than rigid rules. Instead of \"never use social media,\" try \"check social media only on weekends for maximum 30 minutes.\" Flexibility prevents the all-or-nothing thinking that leads to relapse after minor slip-ups.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Measuring What Matters",
+                            "body": "Track leading indicators (behaviors) rather than lagging indicators (outcomes). Monitor daily meditation minutes, phone-free hours, or books read per week. These metrics predict long-term success better than mood or productivity measurements, which fluctuate naturally.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Social Accountability Systems",
+                            "body": "Share your goals with trusted friends or family members who will support your efforts. Join online communities focused on digital minimalism or dopamine regulation. Regular check-ins and shared experiences provide motivation and reduce the isolation of behavior change.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Regular System Reviews",
+                            "body": "Schedule monthly reviews of your systems: what's working, what isn't, and what needs adjustment. Your life circumstances change, so your systems must evolve accordingly. Regular evaluation prevents gradual drift back toward old patterns.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p11",
+                            "pageType": "question",
+                            "headline": "What type of metrics should you track for long-term success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Mood and energy levels throughout each day",
+                                    "Leading indicators like behaviors and daily practices",
+                                    "Productivity output and achievement milestones",
+                                    "Social media likes and external validation metrics"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Handling Setbacks",
+                            "body": "Plan for inevitable setbacks by creating comeback protocols. What will you do after binge-watching Netflix or falling into a social media spiral? Having predetermined responses prevents single mistakes from becoming extended relapses. Recovery is about getting back on track quickly, not perfection.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p13",
+                            "pageType": "question",
+                            "headline": "How should you approach inevitable setbacks in your dopamine regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept them as signs that the system isn't working",
+                                    "Increase restrictions to prevent future setbacks",
+                                    "Create predetermined comeback protocols to get back on track",
+                                    "Take extended breaks from all regulation efforts"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-16-p14",
+                            "pageType": "content",
+                            "headline": "Your Personal Operating System",
+                            "body": "Think of your dopamine regulation practices as your personal operating system\u2014the background processes that keep your life running smoothly. Like computer software, this system needs regular updates and maintenance. Invest time in optimizing these systems because they determine your daily experience and long-term outcomes.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "dopamine_detox-1-17",
+                    "title": "Long-Term Maintenance and Life Integration",
+                    "order": 17,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "dopamine_detox-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Beyond the Reset",
+                            "body": "Completing a dopamine detox is just the beginning. Long-term success requires integrating healthy dopamine patterns into your lifestyle permanently. This isn't about living in restriction\u2014it's about finding sustainable balance that allows you to enjoy life without losing control.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p2",
+                            "pageType": "content",
+                            "headline": "The Three Phases of Recovery",
+                            "body": "Phase 1: Elimination and reset (weeks 1-4). Phase 2: Rebuilding healthy patterns (weeks 5-12). Phase 3: Long-term maintenance and refinement (ongoing). Each phase requires different strategies and expectations. Understanding this timeline helps maintain realistic expectations.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Seasonal Adjustments",
+                            "body": "Your dopamine regulation needs change with life circumstances, stress levels, and seasons. Be prepared to tighten restrictions during high-stress periods and allow more flexibility during stable times. Adaptation, not rigidity, ensures long-term success.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Identity Integration",
+                            "body": "Integrate dopamine awareness into your identity: \"I'm someone who values deep work,\" \"I prioritize real connection over digital distraction,\" \"I find joy in simple pleasures.\" Identity-based changes are more durable than behavior-based restrictions because they become part of who you are.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Teaching Others",
+                            "body": "Share your knowledge and experience with family, friends, and colleagues. Teaching reinforces your own understanding and commitment while helping others. You become part of the solution to society's dopamine dysregulation problem.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Technology Evolution",
+                            "body": "New apps, platforms, and devices will continue emerging with increasingly sophisticated addiction mechanisms. Stay informed about these developments and maintain critical thinking about new technologies. Your awareness is your defense against future manipulation.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Building Resilience",
+                            "body": "Resilience comes from consistently choosing long-term well-being over short-term pleasure. Each time you resist a craving or choose a healthy alternative, you strengthen your resilience. This accumulated strength helps you handle future challenges and temptations.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p8",
+                            "pageType": "question",
+                            "headline": "What is the most important factor for long-term dopamine regulation success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect execution of all strategies without any lapses",
+                                    "Integration of dopamine awareness into your personal identity",
+                                    "Complete elimination of all potentially addictive activities",
+                                    "Following the same rigid routine regardless of circumstances"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p9",
+                            "pageType": "question",
+                            "headline": "How should you approach new technologies and apps?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Adopt all new technologies to stay current with trends",
+                                    "Maintain critical thinking about potential addiction mechanisms",
+                                    "Avoid all new technology to prevent any possible relapse",
+                                    "Let others test new technologies before trying them yourself"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p10",
+                            "pageType": "question",
+                            "headline": "What builds resilience against future dopamine-seeking behaviors?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Consistently choosing long-term wellbeing over short-term pleasure",
+                                    "Avoiding all situations that might trigger cravings",
+                                    "Relying on others for accountability and decision-making",
+                                    "Following the same routine without any variation"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Continuous Learning",
+                            "body": "Stay informed about neuroscience research, behavioral psychology, and addiction science. Your understanding will deepen over time, providing new insights and strategies. Continuous learning keeps you engaged with the process and prevents complacency.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p12",
+                            "pageType": "content",
+                            "headline": "The Ripple Effect",
+                            "body": "Your transformation will positively influence others around you. Family members, friends, and colleagues notice your increased presence, focus, and contentment. You become a living example of what's possible when someone reclaims control over their dopamine system.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p13",
+                            "pageType": "question",
+                            "headline": "How do your personal changes typically affect those around you?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Others become resistant to your new lifestyle choices",
+                                    "Your transformation positively influences family and friends",
+                                    "People generally don't notice changes in your behavior",
+                                    "Your changes create conflict in existing relationships"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "dopamine_detox-1-17-p14",
+                            "pageType": "content",
+                            "headline": "Your New Life",
+                            "body": "You now have the knowledge and tools to maintain healthy dopamine balance for life. You can enjoy modern pleasures without being enslaved by them. You've reclaimed your ability to find satisfaction in simple experiences and meaning in deeper pursuits. This is true freedom in the modern world.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.1,
+    "tag": "Top Rated"
+}

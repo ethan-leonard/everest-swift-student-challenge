@@ -1,0 +1,2096 @@
+{
+    "id": "digital_minimalism",
+    "title": "Digital Minimalism",
+    "description": "Reclaim your attention from Big Tech. Learn Cal Newport's philosophy for choosing a focused life in a noisy world.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/digital_minimalism.png",
+    "coverImagePrompt": "",
+    "altitude": 5100,
+    "durationMinutes": 97,
+    "whatsInside": [
+        "Understand how tech companies engineer addiction",
+        "Implement a 30-day digital declutter protocol",
+        "Build high-quality leisure activities that replace scrolling",
+        "Create personal rules for sustainable technology use"
+    ],
+    "expertReview": {
+        "quote": "Digital Minimalism provides a much-needed framework for reclaiming our attention in an age of constant distraction.",
+        "name": "Cal Newport",
+        "title": "Author & Computer Science Professor"
+    },
+    "chapters": [
+        {
+            "id": "digital_minimalism-ch1",
+            "title": "Digital Minimalism Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "digital_minimalism-1-1",
+                    "title": "The Hijacked Mind",
+                    "order": 1,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Attention Under Attack",
+                            "body": "Tech companies employ teams of neuroscientists, behavioral economists, and persuasion experts to make their products irresistible. They've turned your smartphone into a slot machine, designed to trigger dopamine hits and keep you checking constantly. Your mind didn't evolve to resist these sophisticated manipulation techniques.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Economy Trap",
+                            "body": "You are not the customer of free digital services - you are the product being sold. Your attention is harvested and sold to advertisers for billions of dollars annually. The more distracted and engaged you are, the more valuable you become to these platforms.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Intermittent Variable Rewards",
+                            "body": "Social media notifications work like gambling machines, using intermittent variable reinforcement to maximize addiction. You never know when you'll get that satisfying like, comment, or message, so your brain stays in a constant state of anticipation and craving.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p4",
+                            "pageType": "question",
+                            "headline": "What psychological principle do social media notifications exploit?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Classical conditioning patterns",
+                                    "Cognitive dissonance theory",
+                                    "Social proof mechanisms",
+                                    "Intermittent variable rewards"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p5",
+                            "pageType": "content",
+                            "headline": "The Fragmented Mind",
+                            "body": "Constant digital switching destroys your ability to think deeply. Research shows it takes an average of 23 minutes to regain focus after a digital interruption. Most people never experience sustained attention anymore, living in a perpetual state of mental fragmentation.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Phantom Vibration Syndrome",
+                            "body": "Your brain has been rewired to constantly expect digital stimulation. Studies show 89% of people experience phantom vibrations from their phone even when it's not buzzing. This reveals how deeply technology has penetrated your neural pathways.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p7",
+                            "pageType": "content",
+                            "headline": "The Comparison Trap",
+                            "body": "Social media triggers constant social comparison, leading to increased anxiety and decreased life satisfaction. You're comparing your behind-the-scenes reality with everyone else's highlight reel, creating an impossible standard that leaves you feeling inadequate.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p8",
+                            "pageType": "question",
+                            "headline": "How long does it typically take to regain focus after digital interruption?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "5 minutes on average",
+                                    "12 minutes on average",
+                                    "23 minutes on average",
+                                    "35 minutes on average"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Digital Dependency Signs",
+                            "body": "You check your phone within minutes of waking up and right before sleep. You feel anxious when separated from your device. You multitask constantly but accomplish less. These are clear indicators that technology has moved from serving you to controlling you.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p10",
+                            "pageType": "question",
+                            "headline": "What percentage of people experience phantom phone vibrations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "67% of smartphone users",
+                                    "89% of smartphone users",
+                                    "45% of smartphone users",
+                                    "76% of smartphone users"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What makes you the 'product' in free digital services?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your personal data storage",
+                                    "Your device processing power",
+                                    "Your attention being sold",
+                                    "Your content contributions"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Reclaiming Your Agency",
+                            "body": "Recognition is the first step toward freedom. You now understand how your attention has been systematically hijacked by design. The next step is learning how to take back control and use technology intentionally rather than compulsively.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-2",
+                    "title": "Understanding Digital Addiction",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Addiction vs Dependency",
+                            "body": "Digital addiction shares key characteristics with substance addiction: tolerance, withdrawal, and loss of control. You need increasing amounts of stimulation to feel satisfied, experience anxiety when disconnected, and struggle to moderate usage despite negative consequences.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Dopamine Connection",
+                            "body": "Every notification, like, and message triggers a small dopamine release in your brain's reward center. Over time, your baseline dopamine levels drop, requiring more digital stimulation to achieve the same satisfaction. This creates a cycle of dependency.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p3",
+                            "pageType": "question",
+                            "headline": "What neurotransmitter drives digital addiction patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Dopamine reward signals",
+                                    "Serotonin mood levels",
+                                    "Norepinephrine arousal",
+                                    "Acetylcholine focus"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p4",
+                            "pageType": "question",
+                            "headline": "Which characteristic is NOT typical of digital addiction?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Improved focus abilities",
+                                    "Tolerance requiring more",
+                                    "Withdrawal when absent",
+                                    "Loss of usage control"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Behavioral Addiction Markers",
+                            "body": "You experience restlessness without your device, check it compulsively throughout the day, and feel FOMO when offline. Sleep quality decreases, real-world relationships suffer, and productivity plummets despite feeling busy. These patterns indicate behavioral addiction.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p6",
+                            "pageType": "content",
+                            "headline": "The Attention Residue Effect",
+                            "body": "When you switch between digital tasks, part of your attention remains stuck on the previous task. This 'attention residue' accumulates throughout the day, leaving you mentally exhausted and cognitively impaired without understanding why.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Breaking the Cycle",
+                            "body": "Digital addiction is treatable through awareness, environmental design, and intentional practices. Understanding these mechanisms gives you power to interrupt the automatic patterns and make conscious choices about your technology use.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p8",
+                            "pageType": "question",
+                            "headline": "What is 'attention residue' in digital contexts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Memory of past tasks",
+                                    "Difficulty task switching",
+                                    "Partial attention on previous tasks",
+                                    "Reduced cognitive capacity"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Neuroplasticity and Recovery",
+                            "body": "Your brain retains the ability to rewire itself throughout life. Digital addiction changes neural pathways, but these changes are reversible. With consistent practice, you can restore your capacity for sustained attention and deep thinking.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p10",
+                            "pageType": "question",
+                            "headline": "What gives hope for recovery from digital addiction?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Brain neuroplasticity",
+                                    "Genetic predisposition",
+                                    "Age-related factors",
+                                    "Cultural influences"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Environmental Triggers",
+                            "body": "Your physical environment contains countless digital triggers that prompt compulsive checking. The mere presence of your smartphone reduces cognitive performance, even when it's turned off. Recognizing and removing these environmental cues is crucial for recovery.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Building Awareness",
+                            "body": "The first step is developing metacognitive awareness of your digital habits. Start tracking when, where, and why you reach for devices. This consciousness creates space between trigger and response, allowing intentional choice rather than automatic reaction.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-3",
+                    "title": "The Philosophy of Digital Minimalism",
+                    "order": 3,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Less But Better",
+                            "body": "Digital minimalism is not about rejecting technology entirely. It's about being more selective and intentional with the digital tools you allow into your life. Focus intensely on a small number of carefully chosen online activities that strongly support things you value.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p2",
+                            "pageType": "content",
+                            "headline": "The Maximalist Trap",
+                            "body": "Our culture promotes digital maximalism - the idea that more connectivity is always better. This leads to an overwhelming array of digital tools that fragment attention and dilute focus. Minimalists recognize that optimization requires subtraction, not addition.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Technology as Tool",
+                            "body": "Digital minimalists view technology as tools to serve specific purposes, not as sources of entertainment or connection. Every digital service must earn its place by providing substantial value aligned with your core values and goals.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p4",
+                            "pageType": "question",
+                            "headline": "What is the core principle of digital minimalism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoid all digital technology",
+                                    "Focus on few valuable tools",
+                                    "Use the latest applications",
+                                    "Balance all digital options"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Value-Based Decision Making",
+                            "body": "Before adopting any digital tool, ask: Does this directly support something I deeply value? Will the benefits substantially outweigh the costs? Can I use this in a way that serves my goals without being served by it?",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Clutter Costs More",
+                            "body": "Digital clutter isn't neutral - it actively harms your well-being. Every app, notification, and account demands cognitive resources, fragments attention, and reduces satisfaction. The small benefits of many tools rarely justify the cumulative cost.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Intentional Technology Use",
+                            "body": "Digital minimalists approach technology with intention. They determine the benefits they seek before engaging, specify when and how they'll use each tool, and regularly evaluate whether their technology use aligns with their values.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "A small number of high-quality digital interactions beat countless shallow engagements. Minimalists prefer meaningful conversations over endless scrolling, deep work over constant connection, and presence over digital distraction.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p9",
+                            "pageType": "content",
+                            "headline": "The Freedom Philosophy",
+                            "body": "Digital minimalism is ultimately about freedom - freedom from compulsive checking, freedom from algorithmic manipulation, and freedom to direct your attention toward what matters most. It's about reclaiming agency over your mental life.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Systematic Approach",
+                            "body": "This philosophy requires systematic implementation. You can't simply will yourself to use technology differently. You need concrete practices, environmental changes, and alternative activities that support your values and provide meaning.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Cultural Resistance",
+                            "body": "Embracing digital minimalism means swimming against cultural currents that promote constant connectivity. You'll need to resist social pressure, challenge assumptions about necessity, and sometimes appear 'behind the times' to others.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p12",
+                            "pageType": "question",
+                            "headline": "What question should you ask before adopting digital tools?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Is this tool popular?",
+                                    "Is this tool free?",
+                                    "Does this support my values?",
+                                    "Is this tool convenient?"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Digital minimalism isn't a quick fix but a life philosophy that compounds over time. The benefits - deeper relationships, sustained focus, and authentic satisfaction - emerge gradually but transform how you experience modern life.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Personal Experimentation",
+                            "body": "Everyone's optimal digital life looks different. The philosophy provides principles, not rigid rules. You must experiment to discover which technologies serve your specific values and which create harmful distraction in your unique situation.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Starting Your Journey",
+                            "body": "Understanding the philosophy is just the beginning. Real change requires action - specifically, a systematic process of removing digital clutter, rediscovering meaningful activities, and deliberately rebuilding your relationship with technology.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-4",
+                    "title": "The 30-Day Digital Declutter",
+                    "order": 4,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Radical Digital Detox",
+                            "body": "The digital declutter is a 30-day break from all optional digital technologies. This isn't about permanent abstinence, but creating space to break compulsive habits and rediscover what technologies actually add value to your life.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Define Optional Technologies",
+                            "body": "Optional technologies are digital tools that you could avoid for 30 days without significant professional or personal harm. Social media, news websites, YouTube, gaming, and most smartphone apps qualify. Work email and essential communication tools may not.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Operating Procedures",
+                            "body": "For each technology you keep, define specific operating procedures. When will you use it? For what purpose? Under what conditions? These procedures prevent casual, mindless usage and maintain intentionality throughout the declutter.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p4",
+                            "pageType": "question",
+                            "headline": "What defines an 'optional' digital technology?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Any paid subscription service",
+                                    "Tools used daily for work",
+                                    "Apps avoiding won't cause harm",
+                                    "Technologies used by others"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Explore Meaningful Activities",
+                            "body": "The declutter isn't just about what you avoid, but what you pursue instead. Rediscover activities that provide genuine satisfaction: reading books, exercising, learning skills, spending time in nature, having real conversations.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Expect Withdrawal Symptoms",
+                            "body": "The first week will be uncomfortable. You'll experience boredom, anxiety, and strong urges to check your devices. This discomfort is evidence of how dependent you've become. Push through - it gets easier after day 10.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Fill the Void Purposefully",
+                            "body": "Digital technologies consumed significant time and mental energy. You must intentionally fill this void with meaningful activities, or you'll inevitably return to mindless consumption. Plan your newfound free time deliberately.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p8",
+                            "pageType": "question",
+                            "headline": "When do withdrawal symptoms typically improve during declutter?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After day 3",
+                                    "After day 7",
+                                    "After day 10",
+                                    "After day 21"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p9",
+                            "pageType": "question",
+                            "headline": "What must you do with the time freed by digital declutter?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Let it remain unplanned",
+                                    "Use it for more work",
+                                    "Return to old habits",
+                                    "Fill with meaningful activities"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Track Your Experience",
+                            "body": "Keep a simple journal during the declutter. Note your mood, energy levels, productivity, and insights. This record will provide valuable data when you decide which technologies deserve reintroduction into your life.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p11",
+                            "pageType": "question",
+                            "headline": "Why should you journal during the digital declutter?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Track data for reintroduction decisions",
+                                    "Maintain writing skills during break",
+                                    "Share experiences with others online",
+                                    "Document withdrawal symptoms only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Prepare for Reintroduction",
+                            "body": "As day 30 approaches, resist the urge to immediately return to old patterns. Plan your reintroduction process carefully. Most technologies that felt essential 30 days ago will now seem obviously unnecessary. Trust this clarity.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-5",
+                    "title": "High-Quality Leisure Activities",
+                    "order": 5,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Passive Consumption",
+                            "body": "Most digital entertainment is passive consumption that leaves you feeling depleted rather than energized. High-quality leisure activities require active engagement, skill development, and often creation rather than consumption.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Craft Connection",
+                            "body": "Humans find deep satisfaction in creating things with their hands. Woodworking, knitting, cooking, gardening, and other physical crafts provide tangible results and engage your mind in ways that screen-based activities cannot match.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What characterizes high-quality leisure according to digital minimalism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Expensive entertainment options",
+                                    "Popular social activities only",
+                                    "Passive consumption patterns",
+                                    "Active engagement and creation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Physical World Engagement",
+                            "body": "Meaningful leisure often involves physical interaction with the real world. Hiking, sports, board games, cooking, and face-to-face socializing provide richer sensory experiences and deeper satisfaction than digital alternatives.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p5",
+                            "pageType": "question",
+                            "headline": "Why do physical crafts provide deeper satisfaction than screen activities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They cost more to pursue",
+                                    "They require special equipment",
+                                    "They take much longer",
+                                    "They engage hands and mind"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Skill Development Activities",
+                            "body": "Activities that challenge you to develop new skills provide lasting satisfaction. Learning a musical instrument, studying languages, practicing art, or mastering a sport creates a sense of progress and competence that passive entertainment cannot match.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Social Connection Activities",
+                            "body": "Face-to-face social activities strengthen relationships and provide emotional nourishment. Board game nights, dinner parties, team sports, and group hobbies create memories and bonds that online interactions cannot replicate.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Nature Immersion",
+                            "body": "Spending time in natural environments has proven psychological and physical benefits. Hiking, camping, gardening, or simply walking in parks provides mental restoration and perspective that indoor, digital activities cannot offer.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Reading and Learning",
+                            "body": "Books offer sustained, deep engagement that builds concentration and knowledge. Unlike fragmented digital content, books require and develop sustained attention while providing profound insights and expanded perspectives.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Structured Pursuits",
+                            "body": "Joining clubs, taking classes, or participating in organized activities provides structure and social connection. These pursuits offer accountability, community, and clear progression that self-directed digital entertainment lacks.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Creating vs Consuming",
+                            "body": "The most satisfying activities involve creation rather than consumption. Writing, drawing, building, composing, or making anything engages your creative faculties and produces something of lasting value beyond the moment of activity.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Building Your Portfolio",
+                            "body": "Develop a personal portfolio of 3-5 high-quality leisure activities that align with your values and interests. These activities should challenge you, connect you with others or nature, and provide genuine satisfaction rather than mere distraction.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-6",
+                    "title": "The Power of Solitude",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Defining True Solitude",
+                            "body": "Solitude is not about being physically alone, but about freeing your mind from input from other minds. True solitude requires disconnection from devices, books, podcasts, and any external content that influences your thinking.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The Solitude Deficit",
+                            "body": "Modern life provides almost no opportunities for solitude. We wake to smartphones, consume media all day, and fall asleep to screens. This constant input overwhelms your mind and prevents the deep self-reflection that solitude enables.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Cognitive Benefits",
+                            "body": "Solitude allows your mind to process experiences, consolidate memories, and generate insights. Without this processing time, experiences remain fragmented and learning stays shallow. Solitude is essential for wisdom and self-knowledge.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation",
+                            "body": "Regular solitude helps you understand and regulate your emotions. When constantly distracted by external input, you lose touch with your internal emotional landscape. Solitude creates space for emotional awareness and processing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Creative Breakthroughs",
+                            "body": "Your most creative insights emerge during unstimulated mental downtime. When your mind isn't occupied with input, it can make novel connections and generate original ideas. Constant stimulation blocks this creative process.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Practical Solitude Practices",
+                            "body": "Take regular walks without devices or podcasts. Schedule device-free time blocks for thinking. Practice meditation or simple breathing exercises. Spend time in nature without entertainment. These practices cultivate comfort with mental quietude.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p7",
+                            "pageType": "question",
+                            "headline": "What defines true solitude in the digital age?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Being physically alone always",
+                                    "Freedom from other minds' input",
+                                    "Complete silence at all times",
+                                    "Avoiding all social contact"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Overcoming Discomfort",
+                            "body": "Initial solitude feels uncomfortable because you're addicted to stimulation. Boredom, anxiety, and restlessness are normal. These feelings indicate how much you need solitude - your mind is craving the processing time it's been denied.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Start Small",
+                            "body": "Begin with short periods of solitude - even 5-10 minutes daily makes a difference. Gradually extend these periods as you become more comfortable with mental quietude. Consistency matters more than duration initially.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Solitude and Relationships",
+                            "body": "Paradoxically, solitude improves relationships. When you understand yourself better through regular self-reflection, you bring more authenticity and emotional clarity to your interactions with others. Solitude enhances rather than replaces social connection.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p11",
+                            "pageType": "question",
+                            "headline": "How does solitude benefit your relationships with others?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It replaces social connection",
+                                    "It increases self-understanding",
+                                    "It creates emotional distance",
+                                    "It reduces empathy for others"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Making Solitude Sacred",
+                            "body": "Treat solitude as a sacred practice rather than empty time to fill. Protect these moments from digital intrusion. View them as investments in your mental health, creativity, and self-understanding. Quality solitude is a cornerstone of a well-lived life.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Historical Perspective",
+                            "body": "Throughout history, great thinkers and creators have valued solitude. Philosophers, artists, and innovators understood that breakthrough insights require mental space free from constant input. We've abandoned this ancient wisdom for constant connectivity.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Building Solitude Habits",
+                            "body": "Integrate solitude into your daily routine. Walk to work without podcasts. Eat meals without entertainment. Spend morning minutes in thought before checking devices. These small practices accumulate into significant mental clarity and self-awareness.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-7",
+                    "title": "Reclaiming Real Conversation",
+                    "order": 7,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Connection vs Communication",
+                            "body": "Digital communication creates an illusion of connection while actually weakening relationships. Texts, likes, and comments provide low-quality social interaction that crowds out meaningful face-to-face conversation. Quality relationships require rich, real-time communication.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Conversation Crisis",
+                            "body": "Research shows dramatic declines in face-to-face conversation, especially among young people. Digital natives report feeling lonely despite constant online connection. The capacity for sustained, meaningful conversation is atrophying from lack of practice.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Rich Communication Benefits",
+                            "body": "Face-to-face conversation provides nonverbal cues, emotional nuance, and real-time feedback that digital communication cannot match. These elements are crucial for deep understanding, empathy development, and relationship building.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p4",
+                            "pageType": "question",
+                            "headline": "What crucial elements does face-to-face conversation provide?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Faster message delivery",
+                                    "Written record keeping",
+                                    "Multi-person broadcasting",
+                                    "Nonverbal cues and nuance"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p5",
+                            "pageType": "question",
+                            "headline": "What does research show about modern conversation patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Face-to-face conversation declining",
+                                    "Digital natives less lonely",
+                                    "Online connection sufficient",
+                                    "Text communication improving"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Phone Call Renaissance",
+                            "body": "Voice calls provide richer communication than text while remaining convenient. The human voice conveys emotion, urgency, and personality that text cannot capture. Rediscover the power of actually talking to people.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Conversation Office Hours",
+                            "body": "Establish regular 'office hours' when friends and family can reach you for real conversation. This creates predictable availability while protecting focused time. People appreciate knowing when you're genuinely available for meaningful interaction.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p8",
+                            "pageType": "question",
+                            "headline": "Why are phone calls better than text messages?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They cost less money",
+                                    "They save more time",
+                                    "Voice conveys more emotion",
+                                    "They work without internet"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Device-Free Social Time",
+                            "body": "When spending time with others, put devices away completely. Visible phones reduce conversation quality even when not actively used. Create phone-free zones and times to ensure full presence and attention during social interactions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p10",
+                            "pageType": "question",
+                            "headline": "How do visible phones affect in-person conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They improve multitasking ability",
+                                    "They reduce conversation quality",
+                                    "They help remember topics",
+                                    "They increase social comfort"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Conversation Skills Practice",
+                            "body": "Like any skill, conversation improves with practice. Ask open-ended questions, listen actively, and resist the urge to check devices during dialogue. The ability to engage in meaningful conversation is crucial for personal and professional success.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Digital Boundaries",
+                            "body": "Set clear boundaries around digital communication. Don't feel obligated to respond to every message immediately. Use text for logistics and coordination, but shift important conversations to voice calls or in-person meetings.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Building Deeper Relationships",
+                            "body": "Prioritize fewer, deeper relationships over many shallow connections. Invest time in meaningful conversations with people who matter most. Quality relationships require consistent, rich communication that digital tools alone cannot provide.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-8",
+                    "title": "Practical Phone and Device Rules",
+                    "order": 8,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Your Phone Operating System",
+                            "body": "Treat your phone like a tool with specific functions, not an entertainment device. Develop clear rules about when, where, and how you use it. Without operating procedures, you'll default to compulsive, mindless checking.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Phone-Free Bedroom",
+                            "body": "Never keep your phone in your bedroom overnight. Charging devices in bedrooms disrupts sleep, creates bedtime scrolling habits, and makes your phone the first thing you see upon waking. Use an analog alarm clock instead.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Morning and Evening Routines",
+                            "body": "Don't check your phone for the first hour after waking or within two hours of bedtime. These transition periods are crucial for mental clarity and quality sleep. Protect them from digital stimulation.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Notification Purge",
+                            "body": "Turn off all non-essential notifications. Most apps don't deserve to interrupt your attention. Keep only critical notifications like calls and messages from important people. Everything else can wait until you choose to check.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Batch Communication",
+                            "body": "Check messages and emails at predetermined times rather than continuously throughout the day. Batch processing is more efficient and prevents constant interruption. Three scheduled check-ins daily typically suffice for most people.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p6",
+                            "pageType": "question",
+                            "headline": "Where should you avoid keeping your phone overnight?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "In the living room area",
+                                    "In your bedroom space",
+                                    "In the kitchen counter",
+                                    "In your office desk"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Single-Purpose Device Rules",
+                            "body": "Use devices for specific purposes at specific times. Your phone is for communication, not entertainment. Your laptop is for work, not endless browsing. Define clear boundaries to prevent mission creep and mindless usage.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Physical Barriers",
+                            "body": "Create physical separation between you and your devices during focused work or social time. Keep phones in another room, use app blockers during work hours, and create device-free zones in your home.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p9",
+                            "pageType": "content",
+                            "headline": "The 20-20-20 Rule",
+                            "body": "Every 20 minutes, look at something 20 feet away for 20 seconds. This reduces eye strain and creates natural breaks from screen focus. Digital eye strain is a real phenomenon that affects both vision and mental fatigue.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p10",
+                            "pageType": "question",
+                            "headline": "How often should most people check messages and emails?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Three times daily typically",
+                                    "Every hour continuously",
+                                    "Once per day maximum",
+                                    "Every few minutes always"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Weekend Digital Sabbath",
+                            "body": "Consider implementing a weekly digital sabbath - 24 hours without optional digital technologies. This practice provides regular breaks from constant connectivity and helps maintain perspective on technology's proper role in your life.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Analog Alternatives",
+                            "body": "Replace digital functions with analog alternatives where possible. Use paper notebooks, analog clocks, physical books, and printed maps. These alternatives eliminate the temptation to get distracted by other digital functions.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Social Protocol Rules",
+                            "body": "Establish clear social rules for device usage. Don't use phones during meals, conversations, or family time. Communicate these boundaries to others so they understand and respect your commitment to digital minimalism.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p14",
+                            "pageType": "question",
+                            "headline": "What does the 20-20-20 rule help prevent?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Social media addiction",
+                                    "Email overload problems",
+                                    "Poor posture development",
+                                    "Digital eye strain effects"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Enforcement Strategies",
+                            "body": "Rules without enforcement mechanisms fail. Use app timers, website blockers, and accountability partners to maintain your digital boundaries. Make breaking your rules difficult and following them easier through environmental design.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-9",
+                    "title": "Social Media Strategy and Limits",
+                    "order": 9,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Social Media's True Cost",
+                            "body": "Social media platforms are designed to maximize engagement, not user wellbeing. They profit from your attention and emotional investment, often at the expense of your mental health, productivity, and real-world relationships.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Comparison Engine",
+                            "body": "Social media transforms normal life into a performance and comparison contest. Everyone else appears more successful, attractive, and happy because you only see carefully curated highlights. This constant comparison breeds dissatisfaction and inadequacy.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Algorithmic Manipulation",
+                            "body": "Recommendation algorithms are optimized to keep you scrolling, not to improve your life. They promote content that generates strong emotional reactions - often outrage, envy, or fear - because these emotions drive engagement and ad revenue.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p4",
+                            "pageType": "question",
+                            "headline": "What are social media algorithms primarily optimized for?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximizing user engagement",
+                                    "Improving mental health",
+                                    "Providing accurate news",
+                                    "Building real relationships"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p5",
+                            "pageType": "question",
+                            "headline": "Why does social media create feelings of inadequacy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Users post too frequently",
+                                    "Content loads too slowly",
+                                    "Platforms cost too much",
+                                    "You see curated highlights"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Total Abstinence Option",
+                            "body": "Many digital minimalists find complete social media abstinence the most effective approach. If platforms don't provide substantial value aligned with your core values, eliminating them entirely removes temptation and reclaims significant time and mental energy.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Targeted Usage Strategy",
+                            "body": "If you must use social media for professional reasons, define specific purposes and strict usage protocols. Log in only for defined tasks, use scheduling tools for posts, and avoid browsing feeds. Treat it like any other work tool.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Time and Attention Audit",
+                            "body": "Track how much time you spend on social media and what you get in return. Most people discover they invest hours daily for minimal genuine value. This awareness often motivates significant usage reduction or complete elimination.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Real Connection Alternatives",
+                            "body": "Replace social media with actual social connection. Call friends, meet for coffee, join clubs, or engage in community activities. These interactions provide deeper satisfaction and stronger relationships than digital engagement.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p10",
+                            "pageType": "content",
+                            "headline": "FOMO to JOMO",
+                            "body": "Shift from Fear of Missing Out to Joy of Missing Out. Most social media content is noise, not signal. Missing viral trends, drama, and endless updates actually improves your mental clarity and allows focus on what truly matters.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Professional Networking",
+                            "body": "If professional networking is essential, use platforms intentionally and strategically. Update profiles periodically, respond to important messages, but avoid casual browsing. LinkedIn can be valuable when used as a tool, not entertainment.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Gradual Elimination Process",
+                            "body": "If complete elimination feels overwhelming, reduce usage gradually. Start by removing apps from your phone, then reduce check-in frequency, finally delete accounts you don't truly need. Progress matters more than perfection.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p13",
+                            "pageType": "content",
+                            "headline": "News vs Social Media",
+                            "body": "Don't use social media as your news source. Algorithms promote sensationalized, emotionally provocative content rather than important, accurate information. Use dedicated news sources with editorial standards instead.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Identity Beyond Platforms",
+                            "body": "Your identity shouldn't depend on digital platform validation. Likes, followers, and comments provide artificial metrics of worth that don't reflect your actual value or achievements. Build identity through real accomplishments and relationships.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-9-p15",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Consider the long-term impact of social media usage on your life goals, relationships, and mental health. Most heavy users report feeling worse after extended sessions. Trust this feedback and adjust accordingly for your long-term wellbeing.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-10",
+                    "title": "Information Diet and News Consumption",
+                    "order": 10,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Information Overload Crisis",
+                            "body": "We consume more information in a day than previous generations processed in weeks. This constant stream of news, updates, and content overwhelms cognitive resources and prevents deep processing of truly important information.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p2",
+                            "pageType": "content",
+                            "headline": "News vs Understanding",
+                            "body": "Breaking news culture prioritizes speed over accuracy and sensationalism over significance. Constant news consumption creates anxiety without increasing actual understanding of important issues. Less frequent, more thoughtful news consumption is more informative.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p3",
+                            "pageType": "content",
+                            "headline": "The Attention Merchants",
+                            "body": "News organizations compete for attention using increasingly dramatic headlines and emotionally provocative content. They profit from your engagement, not from improving your understanding or wellbeing. Recognize this business model to resist manipulation.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p4",
+                            "pageType": "question",
+                            "headline": "What does constant news consumption typically create?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Better decision making",
+                                    "Increased productivity",
+                                    "Enhanced social skills",
+                                    "Anxiety without understanding"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Curated Information Sources",
+                            "body": "Choose 2-3 high-quality information sources rather than consuming from dozens of outlets. Quality newspapers, magazines, and newsletters provide deeper analysis than social media feeds or breaking news alerts. Depth beats breadth.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Scheduled Information Consumption",
+                            "body": "Consume news at predetermined times rather than continuously throughout the day. Once or twice daily is sufficient for most people. Morning news can set a negative tone for the entire day - consider evening or weekly news consumption instead.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p7",
+                            "pageType": "question",
+                            "headline": "How many high-quality news sources should you typically choose?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2-3 quality sources maximum",
+                                    "10+ diverse sources daily",
+                                    "Every available news outlet",
+                                    "Social media feeds only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Local vs Global Focus",
+                            "body": "Prioritize local news over global drama. You can actually influence local issues through voting, volunteering, and community involvement. Global events rarely require your immediate attention or emotional investment, but they consume mental energy unnecessarily.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p9",
+                            "pageType": "question",
+                            "headline": "Why should you prioritize local news over global news?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Local news is more accurate",
+                                    "Global news costs more money",
+                                    "You can influence local issues",
+                                    "Local news loads faster"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Books vs Articles",
+                            "body": "Replace article-skimming with book reading for deeper understanding of important topics. Books provide context, nuance, and thorough analysis that articles cannot match. One quality book teaches more than hundreds of articles on the same subject.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Information Action Gap",
+                            "body": "Most information you consume doesn't lead to action - it's merely entertainment disguised as education. Before consuming any information, ask: Will this help me make better decisions or take meaningful action? If not, skip it.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p12",
+                            "pageType": "question",
+                            "headline": "What question should you ask before consuming information?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Is this information free?",
+                                    "Will this help me act?",
+                                    "Is this information recent?",
+                                    "Do others read this?"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Digital Sabbath for Information",
+                            "body": "Take regular breaks from all information consumption - no news, podcasts, articles, or updates for 24 hours. This practice reveals how little you actually miss and how much mental clarity you gain from information fasting.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-11",
+                    "title": "Building Sustainable Digital Habits",
+                    "order": 11,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Systems Over Willpower",
+                            "body": "Sustainable digital minimalism requires systems and environment design, not just willpower. Relying on self-control alone inevitably fails when you're tired, stressed, or distracted. Build systems that make good choices automatic and bad choices difficult.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Environmental Design",
+                            "body": "Your environment shapes your behavior more than your intentions. Remove digital temptations from your immediate environment and add friction to access problematic technologies. Make healthy alternatives more convenient than unhealthy options.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p3",
+                            "pageType": "question",
+                            "headline": "What is more effective than willpower for sustainable habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Personal motivation alone",
+                                    "Systems and environment design",
+                                    "Peer pressure techniques",
+                                    "Financial incentives only"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Habit Stacking",
+                            "body": "Attach new digital minimalism behaviors to existing strong habits. After your morning coffee, spend 10 minutes in solitude. Before checking email, write in a journal. This technique leverages established routines to build new practices.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Weekly Reviews",
+                            "body": "Conduct weekly reviews of your digital habits. What worked well? What needs adjustment? Which technologies crept back into your life unnecessarily? Regular assessment prevents gradual drift away from your minimalist principles.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Accountability Partners",
+                            "body": "Share your digital minimalism goals with friends or family who can provide accountability. Ask them to notice when you're using devices mindlessly and gently point it out. External accountability strengthens internal motivation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Gradual Implementation",
+                            "body": "Implement changes gradually rather than attempting a complete transformation overnight. Start with one device rule or eliminate one digital distraction at a time. Sustainable change happens slowly but steadily over months, not days.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Flexibility Within Structure",
+                            "body": "Build flexibility into your digital minimalism rules to accommodate life's realities. Allow exceptions for emergencies, travel, or special circumstances while maintaining your overall framework. Rigid rules often lead to complete abandonment.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Identity-Based Changes",
+                            "body": "Frame changes in terms of identity rather than behavior. Instead of 'I don't check social media,' think 'I am someone who values deep relationships over digital distraction.' Identity-based habits are more durable than behavior-based rules.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Continuous Learning",
+                            "body": "Stay informed about digital minimalism principles and practices. Read books, listen to podcasts, and connect with others pursuing similar goals. Continuous learning reinforces your commitment and provides new strategies for challenges.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p11",
+                            "pageType": "question",
+                            "headline": "Why are identity-based habit changes more effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They cost less money",
+                                    "They are more durable",
+                                    "They require less time",
+                                    "They need fewer tools"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Digital minimalism is a lifelong practice, not a temporary fix. Technology continues evolving, creating new challenges and temptations. Maintain vigilance and adapt your practices as needed while staying true to core principles.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-12",
+                    "title": "Attention and Deep Focus",
+                    "order": 12,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Attention as Currency",
+                            "body": "Your attention is your most valuable resource in the modern economy. Deep, sustained focus enables learning, creativity, and meaningful work. Digital distractions fragment this attention, reducing your ability to create value and find satisfaction.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Span Myth",
+                            "body": "Human attention spans haven't shortened - they've been trained to expect constant stimulation. With practice, you can rebuild the ability to focus for extended periods. Deep focus is a skill that strengthens with deliberate practice.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p3",
+                            "pageType": "question",
+                            "headline": "What is your most valuable resource in the modern economy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Financial capital only",
+                                    "Social network connections",
+                                    "Technical skills knowledge",
+                                    "Sustained attention ability"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Deep Work Principles",
+                            "body": "Deep work - cognitively demanding activities performed without distraction - produces the most valuable outcomes. This requires eliminating digital interruptions, scheduling focused time blocks, and training your attention like a muscle.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p5",
+                            "pageType": "question",
+                            "headline": "What characterizes 'deep work' activities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Multitasking multiple projects",
+                                    "Checking email frequently",
+                                    "Social media engagement",
+                                    "Cognitively demanding without distraction"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Attention Restoration",
+                            "body": "Digital overconsumption depletes your attentional resources. Nature exposure, meditation, and solitude help restore these capabilities. Regular attention restoration practices are essential for maintaining peak cognitive performance.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Single-Tasking Practice",
+                            "body": "Multitasking is actually rapid task-switching that reduces efficiency and increases errors. Practice single-tasking: focus completely on one activity at a time. This improves both quality of work and quality of experience.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p8",
+                            "pageType": "question",
+                            "headline": "What activities help restore depleted attention resources?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "More digital stimulation",
+                                    "Faster task switching",
+                                    "Nature exposure and meditation",
+                                    "Increased multitasking practice"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p9",
+                            "pageType": "question",
+                            "headline": "What is multitasking actually doing to your brain?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Improving processing speed",
+                                    "Rapid task-switching reducing efficiency",
+                                    "Building cognitive flexibility",
+                                    "Strengthening working memory"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Focus Training Exercises",
+                            "body": "Practice deliberate focus training through meditation, reading without interruption, and time-blocked work sessions. Start with short periods and gradually extend duration. Like physical fitness, attention fitness requires consistent training.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Environmental Controls",
+                            "body": "Design your environment to support deep focus. Remove digital distractions, use website blockers, and create dedicated spaces for concentrated work. Your environment should make focus easy and distraction difficult.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p12",
+                            "pageType": "content",
+                            "headline": "The Flow State",
+                            "body": "Deep focus enables flow states - periods of effortless concentration and peak performance. These states produce the most satisfying work experiences and best outcomes. Digital interruptions make flow states nearly impossible.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Attention Investment",
+                            "body": "Treat attention like any valuable resource - invest it wisely and protect it carefully. Every notification you allow and every digital distraction you engage with represents an investment choice. Choose investments that align with your values and goals.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-12-p14",
+                            "pageType": "content",
+                            "headline": "Measuring Focus Quality",
+                            "body": "Track your deep focus sessions to identify patterns and improvements. Note duration, quality, and external interruptions. This data helps optimize your environment and scheduling for maximum cognitive performance.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-13",
+                    "title": "Digital Minimalism and Relationships",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Presence Over Connection",
+                            "body": "Real relationships require presence, not just connection. Being physically present while mentally absorbed in devices damages relationships. Full presence - giving complete attention to the person in front of you - is increasingly rare and precious.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Quality vs Quantity",
+                            "body": "Digital minimalists prioritize fewer, deeper relationships over numerous shallow connections. Maintaining meaningful relationships requires time and attention that gets diluted across too many digital connections. Choose relationship quality over quantity.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Device-Free Social Time",
+                            "body": "Create sacred device-free time with important people. Meals, conversations, and shared activities should happen without digital interruption. This practice deepens intimacy and demonstrates that relationships matter more than notifications.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What do real relationships primarily require?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Full presence and attention",
+                                    "Constant digital messaging",
+                                    "Social media interactions",
+                                    "Expensive shared experiences"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Modeling Healthy Behavior",
+                            "body": "Your digital minimalism practices influence others, especially family members. Children learn more from what they observe than what they're told. Modeling intentional technology use teaches others that alternatives to digital dependency exist.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Conversation Over Consumption",
+                            "body": "Replace parallel digital consumption with actual conversation. Instead of sitting together while scrolling phones, engage in dialogue. Share thoughts, feelings, and experiences. This builds intimacy and understanding that digital co-presence cannot create.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p7",
+                            "pageType": "question",
+                            "headline": "How do children primarily learn about technology use?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "From school curricula only",
+                                    "By observing adult behavior",
+                                    "Through explicit instructions",
+                                    "From peer group pressure"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Handling Social Pressure",
+                            "body": "Others may resist your digital minimalism choices because they highlight their own problematic usage. Stay kind but firm in maintaining boundaries. Don't let social pressure compromise practices that improve your relationships and wellbeing.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p9",
+                            "pageType": "question",
+                            "headline": "Why might others resist your digital minimalism practices?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It highlights their problematic usage",
+                                    "They find it too expensive",
+                                    "It requires special equipment",
+                                    "They lack technical skills"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p10",
+                            "pageType": "question",
+                            "headline": "What should replace parallel digital consumption in relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "More expensive entertainment",
+                                    "Actual dialogue and conversation",
+                                    "Different digital platforms",
+                                    "Scheduled alone time"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Long-Distance Relationships",
+                            "body": "Even long-distance relationships benefit from digital minimalism principles. Schedule specific times for meaningful conversation rather than constant low-level contact. Quality interactions strengthen bonds more than frequent shallow exchanges.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Building Digital Agreements",
+                            "body": "Create explicit agreements with family about technology use during shared time. Everyone puts devices away during meals, family activities, or important conversations. These agreements protect relationships from digital intrusion.",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-14",
+                    "title": "Mental Health and Digital Wellbeing",
+                    "order": 14,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-14-p1",
+                            "pageType": "content",
+                            "headline": "The Mental Health Crisis",
+                            "body": "Rising rates of anxiety, depression, and attention disorders correlate strongly with increased digital technology usage, especially among young people. While technology isn't the sole cause, it significantly contributes to mental health challenges.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Dopamine and Depression",
+                            "body": "Constant digital stimulation disrupts natural dopamine regulation, leading to decreased baseline mood and increased need for external stimulation. This creates cycles of digital dependency and emotional instability that mimic depression symptoms.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Social Comparison Impact",
+                            "body": "Digital platforms promote unhealthy social comparison that damages self-esteem and life satisfaction. Constant exposure to others' highlight reels creates unrealistic standards and feelings of inadequacy that contribute to anxiety and depression.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Sleep Disruption",
+                            "body": "Screen exposure, especially before bedtime, disrupts circadian rhythms and sleep quality. Poor sleep directly impacts mental health, cognitive function, and emotional regulation. Protecting sleep from digital interference is crucial for wellbeing.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Attention and Anxiety",
+                            "body": "Fragmented attention from digital interruption creates a state of continuous partial attention that mimics anxiety disorders. Your nervous system stays activated, making relaxation and calm states increasingly difficult to achieve.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Digital Detox Benefits",
+                            "body": "Taking breaks from digital technology often produces immediate mental health improvements. Reduced anxiety, better sleep, improved mood, and increased life satisfaction are common outcomes of even short digital detox periods.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Mindfulness and Presence",
+                            "body": "Digital minimalism naturally promotes mindfulness and present-moment awareness. When you're not constantly distracted by devices, you become more aware of your thoughts, feelings, and surroundings, improving emotional regulation.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Real World Engagement",
+                            "body": "Increased engagement with the physical world - nature, exercise, face-to-face socializing - provides mental health benefits that digital activities cannot match. These activities offer genuine satisfaction and stress relief.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p9",
+                            "pageType": "question",
+                            "headline": "What mental health improvements often result from digital detox?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increased digital skills",
+                                    "Reduced anxiety and better sleep",
+                                    "Higher income potential",
+                                    "Enhanced multitasking ability"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Building Resilience",
+                            "body": "Digital minimalism builds psychological resilience by reducing dependence on external validation and artificial stimulation. You develop internal sources of satisfaction and learn to tolerate boredom, uncertainty, and solitude - crucial life skills.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Professional Mental Health",
+                            "body": "If you experience persistent mental health challenges, seek professional help alongside digital minimalism practices. Therapy, counseling, or medical treatment may be necessary. Digital minimalism supports but doesn't replace professional mental healthcare.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p12",
+                            "pageType": "question",
+                            "headline": "What should you do for persistent mental health challenges?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Seek professional help support",
+                                    "Increase digital minimalism only",
+                                    "Wait for natural improvement",
+                                    "Try more social media"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Long-term Wellbeing",
+                            "body": "Digital minimalism is an investment in long-term mental health and life satisfaction. The practices may feel restrictive initially, but they lead to greater freedom, authentic happiness, and sustainable wellbeing over time.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "digital_minimalism-1-15",
+                    "title": "Your Digital Minimalist Life Plan",
+                    "order": 15,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "digital_minimalism-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Personal Values Assessment",
+                            "body": "Begin by identifying your core values - what matters most deeply to you. These values should guide every digital tool decision. Technology that doesn't support your values has no place in a minimalist digital life.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Technology Audit",
+                            "body": "List every digital tool, app, and service you currently use. For each item, ask: Does this substantially support something I value? Could I accomplish the same goal with less digital involvement? Eliminate everything that fails this test.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What should guide every digital tool decision?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your core personal values",
+                                    "Popular technology trends",
+                                    "Cost and convenience factors",
+                                    "Social media recommendations"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Operating Procedures",
+                            "body": "For each technology you keep, define specific operating procedures: when you'll use it, for what purpose, and under what conditions. These procedures prevent casual, mindless usage and maintain intentionality in your digital interactions.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p5",
+                            "pageType": "question",
+                            "headline": "What do operating procedures prevent in digital tool usage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Technical malfunctions",
+                                    "Software updates needed",
+                                    "Security breach problems",
+                                    "Casual mindless usage"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p6",
+                            "pageType": "question",
+                            "headline": "What should you eliminate during a technology audit?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Most expensive applications",
+                                    "Everything failing value test",
+                                    "Newest software updates",
+                                    "All work-related tools"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Alternative Activities Portfolio",
+                            "body": "Develop a portfolio of high-quality activities to replace digital time: physical hobbies, social activities, learning pursuits, and creative projects. These alternatives must provide genuine satisfaction or you'll inevitably return to digital distraction.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Implementation Timeline",
+                            "body": "Create a realistic timeline for implementing changes. Start with the digital declutter, then gradually introduce new practices and refine your approach. Sustainable change happens over months, not weeks. Be patient with the process.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Support System",
+                            "body": "Build a support system of family, friends, or online communities who understand and support your digital minimalism journey. Share your goals, challenges, and successes. Accountability and encouragement increase your likelihood of long-term success.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p10",
+                            "pageType": "question",
+                            "headline": "What increases likelihood of long-term digital minimalism success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Expensive tracking software",
+                                    "Accountability and encouragement",
+                                    "Complete social isolation",
+                                    "Avoiding all planning"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Regular Review Process",
+                            "body": "Schedule monthly reviews of your digital minimalism practice. What's working? What needs adjustment? Which new technologies are tempting you? Regular assessment prevents gradual drift and helps you adapt to changing circumstances.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "digital_minimalism-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Your Digital Mission Statement",
+                            "body": "Write a personal digital mission statement that summarizes your values, goals, and commitment to intentional technology use. Refer to this statement when facing digital decisions or feeling tempted to abandon your minimalist principles.",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.5,
+    "tag": "Popular"
+}

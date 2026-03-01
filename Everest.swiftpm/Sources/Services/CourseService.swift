@@ -21,7 +21,12 @@ final class CourseService {
             let fileNames = [
                 "adhd_superpowers",
                 "deep_work_mastery",
-                "morning_miracle"
+                "morning_miracle",
+                "digital_minimalism",
+                "dopamine_detox",
+                "atomic_habits_screen_time",
+                "flow_state_science",
+                "psychology_of_money"
             ]
             
             var loadedCourses: [Course] = []

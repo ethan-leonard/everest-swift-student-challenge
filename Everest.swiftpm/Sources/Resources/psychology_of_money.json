@@ -1,0 +1,2346 @@
+{
+    "id": "psychology_of_money",
+    "title": "Psychology of Money",
+    "description": "Understand why we behave badly with cash. Learn the mental models that separate wealthy thinkers from everyone else.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/psychology_of_money.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract coin transforming into brain neural pattern, sage green wealth elements with charcoal psychological depth, money meets mind aesthetic",
+    "altitude": 4800,
+    "durationMinutes": 103,
+    "whatsInside": [
+        "Discover why your financial decisions are driven by emotion, not logic",
+        "Learn the difference between getting wealthy and staying wealthy",
+        "Understand compounding and why patience beats intelligence",
+        "Build a healthier relationship with money and risk",
+        "Master the psychology behind saving and spending",
+        "Create wealth-building mental models"
+    ],
+    "expertReview": {
+        "quote": "The most important finance book of the decade. It is not about spreadsheets. It is about behavior.",
+        "name": "Morgan Housel",
+        "title": "Author, The Psychology of Money"
+    },
+    "chapters": [
+        {
+            "id": "psychology_of_money-ch1",
+            "title": "Psychology of Money",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "psychology_of_money-1-1",
+                    "title": "No One Is Crazy",
+                    "order": 1,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Everyone Makes Sense",
+                            "body": "Your financial decisions make perfect sense to you. They're based on your unique experiences, upbringing, and the economic conditions you've lived through. What seems irrational to others feels completely logical from your perspective.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Different Experiences Shape Us",
+                            "body": "Someone who lived through the Great Depression will view money differently than someone who grew up during an economic boom. Your generation, social class, and family history all create your unique financial worldview.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Personal Finance Is Personal",
+                            "body": "What works for your neighbor might not work for you. Your risk tolerance, goals, and circumstances are uniquely yours. There's no universal right answer to most financial questions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Emotions Drive Decisions",
+                            "body": "Fear, greed, hope, and pride influence your money choices more than spreadsheets and calculations. Understanding these emotional drivers is key to making better financial decisions.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p5",
+                            "pageType": "content",
+                            "headline": "We're All Winging It",
+                            "body": "Even financial experts are making educated guesses about an uncertain future. Nobody has all the answers, and that's okay. The goal is to make reasonable decisions with incomplete information.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Your Story Matters",
+                            "body": "Your financial behavior tells a story about your values, fears, and dreams. Understanding your own story helps you make choices aligned with who you are and what you want.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p7",
+                            "pageType": "question",
+                            "headline": "What primarily drives financial behavior?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Personal experiences and emotions",
+                                    "Mathematical calculations only",
+                                    "Expert financial advice alone",
+                                    "Universal investment principles"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p8",
+                            "pageType": "question",
+                            "headline": "Why do people make different money choices?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Some people are naturally better",
+                                    "Education levels vary significantly",
+                                    "Different life experiences shape views",
+                                    "Genetic factors determine behavior"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Respect Different Approaches",
+                            "body": "Instead of judging others' financial choices, try to understand their perspective. What seems foolish might be perfectly rational given their background and goals.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Learn From Others",
+                            "body": "While everyone's situation is unique, you can still learn from others' experiences. Listen to different perspectives and adapt insights to your own circumstances.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Be Humble",
+                            "body": "Recognize that your way isn't the only way. Stay open to new ideas and be willing to adjust your approach as you learn and grow.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p12",
+                            "pageType": "question",
+                            "headline": "What's the best approach to personal finance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Follow proven investment formulas",
+                                    "Copy successful wealthy people",
+                                    "Use the same strategy for everyone",
+                                    "Adapt principles to your situation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p13",
+                            "pageType": "question",
+                            "headline": "How should you view others' financial choices?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Judge them based on results",
+                                    "Assume they're making mistakes",
+                                    "Ignore them completely always",
+                                    "Try to understand their perspective"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Your Journey Begins",
+                            "body": "Understanding that everyone's financial journey is different is the first step to making peace with money. Focus on your own path and what makes sense for your unique situation.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-2",
+                    "title": "Getting vs Keeping Wealth",
+                    "order": 2,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Two Different Skills",
+                            "body": "Making money and keeping money require completely different approaches. Getting rich demands optimism, risk-taking, and being right about something others are wrong about. Staying rich requires humility, fear of loss, and financial survival skills.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Getting Rich Needs Risk",
+                            "body": "Building wealth often requires taking big bets, being aggressive, and pushing boundaries. You need to be willing to fail and try again. Success comes from being right when others are wrong.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p3",
+                            "pageType": "question",
+                            "headline": "What does building wealth typically require?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Conservative investment strategies only",
+                                    "Following conventional wisdom exactly",
+                                    "Taking calculated risks and chances",
+                                    "Avoiding all potential losses always"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Staying Rich Needs Defense",
+                            "body": "Preserving wealth requires a defensive mindset. You need to protect what you have, plan for unexpected events, and avoid catastrophic mistakes. It's about survival, not hitting home runs.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Paranoia Can Help",
+                            "body": "Wealthy people who stay wealthy are often paranoid about losing money. They prepare for market crashes, economic downturns, and personal emergencies. This paranoia protects their wealth.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What mindset helps preserve wealth?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Being cautious about potential losses",
+                                    "Taking bigger risks for more returns",
+                                    "Ignoring market volatility completely",
+                                    "Following aggressive growth strategies"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p7",
+                            "pageType": "question",
+                            "headline": "Why do some wealthy people lose everything?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They didn't work hard enough initially",
+                                    "Markets always punish successful people",
+                                    "They used getting-rich tactics to stay rich",
+                                    "They invested in the wrong industries"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Survival Is Key",
+                            "body": "The most important thing for long-term wealth is simply not going broke. You can't compound money you don't have. Avoiding catastrophic loss is more important than maximizing gains.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Plan for Setbacks",
+                            "body": "Expect that you'll be wrong sometimes and face unexpected challenges. Build buffers, maintain emergency funds, and never bet everything on a single outcome.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Different Seasons",
+                            "body": "Your financial strategy should evolve with your circumstances. Young people can take more risks because they have time to recover. Older people should focus more on preservation.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Balance Both Approaches",
+                            "body": "The best financial strategy combines elements of both getting and keeping wealth. Take calculated risks while protecting your downside. Be optimistic about opportunities but prepared for setbacks.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Know Your Phase",
+                            "body": "Honestly assess whether you're in the wealth-building phase or the wealth-preserving phase. This determines which skills and strategies you should prioritize.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Respect Both Skills",
+                            "body": "Don't dismiss either approach as inferior. Both getting rich and staying rich are valuable skills that serve different purposes at different times in your financial journey.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Your Strategy Evolution",
+                            "body": "As your wealth grows, gradually shift from offense to defense. Start with growth-focused strategies when young, then progressively emphasize preservation as you accumulate assets.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-3",
+                    "title": "The Power of Compounding",
+                    "order": 3,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Eighth Wonder",
+                            "body": "Albert Einstein allegedly called compound interest the eighth wonder of the world. Small amounts of money, given enough time, can grow into fortunes through the magic of compounding returns.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Time Is Everything",
+                            "body": "Starting early matters more than investing large amounts. A 25-year-old investing $200 monthly will likely have more at retirement than a 35-year-old investing $400 monthly. Those extra ten years are incredibly powerful.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Patience Pays",
+                            "body": "Most of compounding's magic happens in the later years. The first decade might seem slow and disappointing. But wealth accelerates dramatically in the final years as your money earns returns on previous returns.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Warren Buffett's Secret",
+                            "body": "Warren Buffett made 99% of his wealth after his 50th birthday. His secret wasn't just smart investing\u2014it was starting young and never stopping. He's been compounding for over 80 years.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Consistency Beats Perfection",
+                            "body": "You don't need exceptional returns to build wealth through compounding. Steady, consistent returns over long periods will beat brilliant returns over short periods. Staying in the game is more important than hitting home runs.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Don't Interrupt",
+                            "body": "The biggest enemy of compounding is interruption. Taking money out early, switching strategies frequently, or stopping contributions breaks the compounding chain. Consistency and patience are crucial.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Small Changes Matter",
+                            "body": "A 1% difference in annual returns might seem insignificant, but over 30 years it can mean hundreds of thousands of dollars difference in your final wealth. Every percentage point counts when compounding.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Start Where You Are",
+                            "body": "Even if you're not young anymore, compounding can still work for you. The second-best time to start investing is now. Every year you delay makes the mountain steeper to climb.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p9",
+                            "pageType": "question",
+                            "headline": "What's the most important factor in compounding?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having a large initial investment",
+                                    "Starting early and staying consistent",
+                                    "Finding the highest return investments",
+                                    "Timing the market perfectly always"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p10",
+                            "pageType": "question",
+                            "headline": "When does most wealth accumulation happen?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "In the later years of compounding",
+                                    "In the first five years only",
+                                    "Evenly throughout all time periods",
+                                    "Only during market boom years"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Your Compounding Plan",
+                            "body": "Create a simple, sustainable investment plan you can stick with for decades. Automate your contributions, choose low-cost investments, and resist the urge to make frequent changes.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Embrace Boring",
+                            "body": "Successful compounding is boring. It's the same consistent actions repeated for years. Embrace this boredom\u2014it's the price of long-term wealth building.",
+                            "imageURL": "minimal",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-4",
+                    "title": "Wealth vs Riches",
+                    "order": 4,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Not the Same Thing",
+                            "body": "Being rich and being wealthy are completely different. Rich means having a high income. Wealthy means having assets that don't require your labor to maintain. You can be rich but not wealthy, or wealthy but not rich.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Rich Is Income",
+                            "body": "Rich people have high-paying jobs, successful businesses, or other sources of current income. They can afford expensive things and live luxurious lifestyles as long as their income continues.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Wealthy Is Assets",
+                            "body": "Wealthy people own assets that generate money without their direct involvement. These might be stocks, real estate, businesses, or other investments that produce passive income streams.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p4",
+                            "pageType": "question",
+                            "headline": "What primarily defines being wealthy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having a high-paying job position",
+                                    "Earning a large annual salary",
+                                    "Owning income-producing assets today",
+                                    "Spending money on luxury items"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p5",
+                            "pageType": "content",
+                            "headline": "The Appearance Problem",
+                            "body": "Rich people are visible\u2014they buy expensive cars, clothes, and houses. Wealthy people are often invisible because they're busy saving and investing rather than spending on status symbols.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Rich Can Go Broke",
+                            "body": "High earners who spend everything they make are financially fragile. If their income stops, they have no assets to fall back on. Many celebrities and athletes who seemed rich ended up broke.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Wealth Provides Security",
+                            "body": "Wealthy people have financial security even if their income drops. Their assets continue generating money, providing a buffer against economic uncertainty and life's unexpected events.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p8",
+                            "pageType": "content",
+                            "headline": "The Spending Trap",
+                            "body": "Many high earners fall into the trap of lifestyle inflation. As their income grows, their spending grows proportionally or faster, preventing them from building real wealth through saving and investing.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Building Wealth Takes Discipline",
+                            "body": "Wealth building requires saying no to immediate gratification in favor of long-term financial security. It means living below your means and investing the difference consistently over time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p10",
+                            "pageType": "question",
+                            "headline": "What's the key to building wealth?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Living below your means consistently",
+                                    "Earning the highest possible salary",
+                                    "Buying appreciating luxury goods only",
+                                    "Following the latest investment trends"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Stealth Wealth",
+                            "body": "Many truly wealthy people live modestly and drive ordinary cars. They understand that displaying wealth and having wealth are different things. They choose assets over status symbols.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Freedom vs Status",
+                            "body": "Rich people often trade their money for status and lifestyle upgrades. Wealthy people trade their money for freedom and financial independence. The wealthy prioritize options over appearances.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Your Wealth Strategy",
+                            "body": "Focus on building assets rather than increasing spending with every raise. Pay yourself first by investing before you're tempted to spend. Choose wealth over the appearance of wealth.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p14",
+                            "pageType": "content",
+                            "headline": "The Real Goal",
+                            "body": "True financial success isn't about having enough money to buy anything you want. It's about having enough money that you don't have to think about money at all.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-4-p15",
+                            "pageType": "content",
+                            "headline": "Start Today",
+                            "body": "Whether your income is high or modest, you can start building wealth today. Every dollar you save and invest is a step toward financial freedom and true wealth.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-5",
+                    "title": "Psychology of Saving",
+                    "order": 5,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Saving Is Powerful",
+                            "body": "Saving money is one of the few things in finance you can control completely. You can't control market returns or economic conditions, but you can control how much you save.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p2",
+                            "pageType": "content",
+                            "headline": "It's About Control",
+                            "body": "Saving gives you control over your time and options. When you have savings, you can take risks, wait for opportunities, and say no to things you don't want to do.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Emergency Fund First",
+                            "body": "Your first savings goal should be an emergency fund covering 3-6 months of expenses. This fund protects you from life's unexpected events and prevents you from going into debt during crises.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Start Small",
+                            "body": "Don't wait until you can save large amounts. Start with whatever you can\u2014even $25 per week adds up over time. The habit of saving is more important initially than the amount.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p5",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of having savings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Getting the highest investment returns",
+                                    "Buying more expensive luxury items",
+                                    "Having control and options in life",
+                                    "Impressing others with your wealth"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Automate Your Savings",
+                            "body": "Set up automatic transfers from your checking to savings accounts. When saving happens automatically, you don't have to rely on willpower or remember to do it manually each month.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Pay Yourself First",
+                            "body": "Save money before you pay other bills or spend on discretionary items. Treat your savings like a non-negotiable bill that must be paid to your future self every month.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p8",
+                            "pageType": "content",
+                            "headline": "The Flexibility Premium",
+                            "body": "Money in the bank is worth more than its face value because of the flexibility it provides. Having options is valuable, even if you never use them. Flexibility has a real economic value.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p9",
+                            "pageType": "question",
+                            "headline": "When should you start saving money?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only after paying off all debt",
+                                    "As soon as you start earning income",
+                                    "When you can save large amounts",
+                                    "After buying everything you need first"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p10",
+                            "pageType": "question",
+                            "headline": "What's the best way to save consistently?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Save whatever's left at month-end",
+                                    "Set up automatic savings transfers",
+                                    "Only save during high-income months",
+                                    "Wait for motivation to save more"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p11",
+                            "pageType": "question",
+                            "headline": "How much should an emergency fund cover?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One month of expenses only",
+                                    "Exactly one year of expenses",
+                                    "Three to six months expenses",
+                                    "Two weeks of expenses maximum"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Your Savings Rate Matters",
+                            "body": "Your savings rate (percentage of income saved) is more important than your income level for building wealth. Someone earning $50,000 and saving 20% is in better financial shape than someone earning $100,000 and saving 5%.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-6",
+                    "title": "Managing Risk and Uncertainty",
+                    "order": 6,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Risk Is Unavoidable",
+                            "body": "Every financial decision involves risk. Even keeping money in cash carries the risk of inflation. The goal isn't to eliminate risk but to manage it intelligently and understand the tradeoffs you're making.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Diversification Helps",
+                            "body": "Don't put all your eggs in one basket. Spread your investments across different asset classes, industries, and geographies. When one area struggles, others might perform well.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Plan for Disasters",
+                            "body": "Expect that something will go wrong at some point\u2014market crashes, job losses, health problems, or economic recessions. Build buffers and margin of safety into your financial plan.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What's the best approach to financial risk?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Eliminate all risks completely always",
+                                    "Take maximum risks for returns",
+                                    "Ignore risks and hope for best",
+                                    "Understand and manage risks wisely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Time Reduces Risk",
+                            "body": "The longer your investment timeline, the more risk you can typically handle. Short-term volatility becomes less important when you're investing for decades rather than years.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Know Your Limits",
+                            "body": "Understand your personal risk tolerance. Don't take on more risk than you can emotionally handle, even if it seems mathematically optimal. Staying invested is more important than perfect optimization.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Unexpected Events",
+                            "body": "The biggest risks often come from unexpected events that no one predicted. Black swan events, pandemics, or technological disruptions can't be predicted but their possibility can be planned for.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Conservative Core",
+                            "body": "Keep the majority of your wealth in boring, diversified investments. You can take bigger risks with a small portion, but your core holdings should be stable and predictable.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Insurance Matters",
+                            "body": "Proper insurance protects you from catastrophic financial losses. Health insurance, disability insurance, and adequate coverage protect your wealth-building plan from derailment.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Stay Flexible",
+                            "body": "Build flexibility into your financial plans. Economic conditions change, personal circumstances evolve, and opportunities arise. Rigid plans often break under pressure.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p11",
+                            "pageType": "question",
+                            "headline": "Why is financial flexibility important?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It guarantees higher investment returns",
+                                    "Markets are predictable and stable",
+                                    "Economic conditions never change much",
+                                    "Circumstances and opportunities change often"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Your Risk Strategy",
+                            "body": "Create a balanced approach to risk that you can stick with through good times and bad. Prepare for setbacks, diversify your holdings, and maintain emergency reserves for unexpected events.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-7",
+                    "title": "Freedom and Time",
+                    "order": 7,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Money Buys Freedom",
+                            "body": "The greatest benefit of money isn't the ability to buy expensive things\u2014it's the ability to control your time. Financial independence means having choices about how you spend your days.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Time Is Precious",
+                            "body": "Time is your most valuable asset because it can't be earned back, saved up, or borrowed. Money that buys you more time or better use of your time is money well spent.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Control Your Schedule",
+                            "body": "Having money allows you to work by choice rather than necessity. You can say no to jobs or clients you don't like, take time off when needed, and pursue meaningful work.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Reduce Stress",
+                            "body": "Financial security reduces stress and anxiety about the future. When you have savings and investments, you worry less about unexpected expenses or economic downturns affecting your life.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Family Time",
+                            "body": "Money can buy you more time with family and friends. Whether it's hiring help for household tasks or taking vacations together, money invested in relationships often provides the highest returns.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p6",
+                            "pageType": "question",
+                            "headline": "What's money's greatest benefit?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The ability to control your time",
+                                    "Buying expensive luxury goods today",
+                                    "Impressing other people with wealth",
+                                    "Getting the highest investment returns"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Early Retirement",
+                            "body": "Financial independence doesn't necessarily mean stopping work\u2014it means working becomes optional. You can retire early, switch careers, or work part-time without worrying about money.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Pursue Your Passions",
+                            "body": "When money isn't a constraint, you can pursue work you're passionate about even if it doesn't pay as much. Financial freedom enables you to follow your interests and values.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p9",
+                            "pageType": "question",
+                            "headline": "What does financial independence enable?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Guaranteed high investment returns always",
+                                    "Buying everything you want immediately",
+                                    "Never having to think about money",
+                                    "Working by choice rather than necessity"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p10",
+                            "pageType": "question",
+                            "headline": "How does money reduce stress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It provides security and options",
+                                    "It guarantees future market returns",
+                                    "It prevents all possible problems",
+                                    "It eliminates work requirements completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Health and Happiness",
+                            "body": "Financial stress contributes to health problems and relationship difficulties. Having adequate savings and financial security improves your physical and mental well-being, which is invaluable.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Define Your Freedom",
+                            "body": "Think about what freedom means to you personally. Is it early retirement, flexible work, travel opportunities, or simply peace of mind? Let your definition guide your financial decisions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Your Freedom Plan",
+                            "body": "Create a financial plan focused on buying back your time and increasing your options. Every dollar saved is a step toward greater control over your schedule and choices.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-8",
+                    "title": "Comparison and Envy",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Comparison Kills Contentment",
+                            "body": "Nothing will destroy your financial well-being faster than comparing yourself to others. There will always be someone with more money, a bigger house, or a fancier car. Comparison is the enemy of contentment.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Hedonic Treadmill",
+                            "body": "People quickly adapt to improvements in their lifestyle and return to baseline happiness levels. The new car that thrilled you for weeks becomes ordinary. Chasing lifestyle upgrades is often futile.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p3",
+                            "pageType": "question",
+                            "headline": "What's the main problem with lifestyle comparison?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It motivates you to work harder",
+                                    "It helps set realistic financial goals",
+                                    "It provides useful spending guidance daily",
+                                    "It destroys contentment and happiness"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Social Media Lies",
+                            "body": "Social media amplifies comparison by showing everyone's highlight reels. People share their successes and purchases but hide their debt, stress, and financial struggles. Don't believe the curated version of others' lives.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Your Only Competition",
+                            "body": "The only person you should compare yourself to is who you were yesterday. Focus on your own progress, your own goals, and your own definition of success. Run your own race.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Different Circumstances",
+                            "body": "Everyone has different starting points, advantages, and challenges. Someone might have inherited money, received family support, or had different opportunities. Their financial situation doesn't reflect their worth or yours.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Hidden Costs",
+                            "body": "What looks like success often comes with hidden costs. The colleague with the expensive car might be stressed about payments, working 80-hour weeks, or sacrificing health and relationships for money.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Gratitude Practice",
+                            "body": "Regularly practice gratitude for what you have. Keep a gratitude journal, appreciate small pleasures, and remember how far you've come. Gratitude is the antidote to envy and comparison.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p9",
+                            "pageType": "question",
+                            "headline": "Who should you compare yourself to financially?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your wealthiest friends and colleagues",
+                                    "Your past self and personal progress",
+                                    "People in your same income bracket",
+                                    "Celebrities and public figures online"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Define Success Yourself",
+                            "body": "Don't let society or social media define success for you. Maybe success is having enough to feel secure, time with family, or work you enjoy. Your definition is the only one that matters.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Enough Is Enough",
+                            "body": "Learn to recognize when you have enough. There's no point in the game of money where someone announces you've won. You have to decide for yourself when enough is enough.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Focus Inward",
+                            "body": "Turn your attention from what others have to what you need and want. Spend time understanding your own values, goals, and priorities rather than envying others' choices.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Celebrate Others",
+                            "body": "When you see others succeed, celebrate with them instead of feeling envious. Their success doesn't diminish yours. There's enough prosperity to go around for everyone.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p14",
+                            "pageType": "question",
+                            "headline": "What's the best response to others' financial success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Feel envious and try to compete",
+                                    "Celebrate their success genuinely today",
+                                    "Ignore their achievements completely always",
+                                    "Criticize their spending choices publicly"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Your Path Forward",
+                            "body": "Free yourself from the comparison trap by focusing on your own journey. Define success for yourself, practice gratitude, and remember that everyone's path to financial well-being looks different.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-9",
+                    "title": "Mistakes and Lessons",
+                    "order": 9,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Everyone Makes Mistakes",
+                            "body": "Financial mistakes are inevitable and universal. Even the most successful investors and financial experts have made costly errors. The key is learning from mistakes rather than being paralyzed by them.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Expensive Education",
+                            "body": "Think of financial mistakes as expensive education. Each error teaches you something valuable about risk, human nature, or market behavior. The lessons learned from mistakes often prove more valuable than the money lost.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p3",
+                            "pageType": "question",
+                            "headline": "How should you view financial mistakes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As signs you're not smart enough",
+                                    "As reasons to avoid investing entirely",
+                                    "As proof the system is rigged",
+                                    "As expensive but valuable education"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Common Early Mistakes",
+                            "body": "Young investors often chase hot stocks, try to time the market, or put all their money in one investment. These mistakes are part of the learning process\u2014most successful long-term investors made similar errors early on.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Decisions",
+                            "body": "Most financial mistakes stem from emotional decisions\u2014buying high when excited about gains or selling low when panicked about losses. Understanding your emotional triggers helps prevent repeated errors.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p6",
+                            "pageType": "content",
+                            "headline": "The Hindsight Trap",
+                            "body": "It's easy to look back and see what you should have done differently. But remember, you made decisions based on the information available at the time. Don't be too hard on yourself for not predicting the unpredictable.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Learn and Adapt",
+                            "body": "The most successful people adapt their strategies based on experience. They don't keep making the same mistakes repeatedly. Each error becomes a data point that improves future decision-making.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Small Stakes Learning",
+                            "body": "Make your mistakes with small amounts of money when possible. Use play money or small positions to experiment and learn. It's better to lose $100 learning a lesson than $10,000.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Document Your Decisions",
+                            "body": "Keep a journal of your financial decisions and the reasoning behind them. This helps you learn from both successes and failures, and prevents you from rewriting history in your mind.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Recovery Is Possible",
+                            "body": "Even major financial setbacks can be overcome with time and smart decisions. Many successful investors have stories of significant losses that taught them valuable lessons and improved their future results.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p11",
+                            "pageType": "question",
+                            "headline": "What causes most financial mistakes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lack of mathematical knowledge always",
+                                    "Emotional decisions during stress periods",
+                                    "Following expert advice too closely",
+                                    "Not having enough money to invest"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p12",
+                            "pageType": "question",
+                            "headline": "How can you minimize costly mistakes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoid investing until you're older",
+                                    "Only follow guaranteed investment strategies",
+                                    "Start with small amounts while learning",
+                                    "Copy exactly what successful people do"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p13",
+                            "pageType": "question",
+                            "headline": "What's the best response to financial losses?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediately try to make money back",
+                                    "Stop investing completely for safety",
+                                    "Learn lessons and adjust your strategy",
+                                    "Blame external factors and continue unchanged"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Your Learning Journey",
+                            "body": "Embrace the fact that mistakes are part of your financial education. Each error makes you wiser and more experienced. The goal isn't perfection\u2014it's continuous improvement and learning from experience.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-10",
+                    "title": "Your Money Philosophy",
+                    "order": 10,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Philosophy Matters",
+                            "body": "Your beliefs about money\u2014what it represents, how it should be used, and what role it plays in your life\u2014shape every financial decision you make. These beliefs matter more than any specific strategy or technique.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Money Is a Tool",
+                            "body": "Money is neither good nor evil\u2014it's a tool that amplifies who you already are. It can buy freedom, security, and opportunities, but it can also create stress, comparison, and temptation. How you use it reflects your values.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Values Drive Decisions",
+                            "body": "Your financial decisions should align with your personal values. If you value security, prioritize savings and stable investments. If you value experiences, budget for travel and adventures. Let your values guide your money choices.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Long-term Thinking",
+                            "body": "Adopt a long-term perspective on money and investing. Short-term fluctuations and setbacks are normal, but long-term trends favor those who stay disciplined and patient. Think in decades, not months.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p5",
+                            "pageType": "question",
+                            "headline": "What should guide your financial decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your personal values and priorities",
+                                    "What wealthy people are doing",
+                                    "The latest investment trends only",
+                                    "Complex mathematical formulas always"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Simplicity Wins",
+                            "body": "Simple financial strategies often outperform complex ones. Automatic savings, diversified index funds, and consistent contributions beat trying to time markets or pick individual stocks. Embrace boring but effective approaches.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p7",
+                            "pageType": "question",
+                            "headline": "What type of strategy often works best?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The most complex mathematical models",
+                                    "Frequently changing investment approaches",
+                                    "Following the latest market trends",
+                                    "Simple, consistent, long-term strategies"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p8",
+                            "pageType": "question",
+                            "headline": "How should you view money itself?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As a tool to achieve your goals",
+                                    "As the ultimate measure of success",
+                                    "As something evil to be avoided",
+                                    "As a source of happiness itself"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Behavioral Awareness",
+                            "body": "Understand your own behavioral tendencies around money. Are you naturally optimistic or pessimistic? Risk-seeking or risk-averse? Impulsive or deliberate? Build strategies that work with your nature, not against it.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p10",
+                            "pageType": "question",
+                            "headline": "Why is self-awareness important in finance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It helps you choose suitable strategies",
+                                    "It guarantees higher investment returns",
+                                    "It eliminates all financial risks",
+                                    "It makes you immune to market changes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Your Money Story",
+                            "body": "Everyone has a unique money story shaped by family, culture, and personal experiences. Understanding your story helps you make conscious choices rather than unconscious reactions. You can rewrite your money story if needed.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Continuous Evolution",
+                            "body": "Your money philosophy will evolve as you gain experience and your life circumstances change. What works at 25 might not work at 45. Stay flexible and adapt your approach as you learn and grow.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-11",
+                    "title": "The Role of Luck",
+                    "order": 11,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Luck Plays a Role",
+                            "body": "Success in money and investing involves more luck than most people want to admit. Being born in the right country, at the right time, to the right family gives enormous advantages. Market timing, economic conditions, and random events all matter.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Good and Bad Luck",
+                            "body": "Everyone experiences both good and bad financial luck. The key is recognizing when you've been lucky and preparing for when luck turns against you. Don't attribute all success to skill or all failures to bad luck.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p3",
+                            "pageType": "question",
+                            "headline": "How should you view your financial success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It's entirely due to your skill",
+                                    "It's completely random and meaningless",
+                                    "It's only because of good luck",
+                                    "It's a combination of skill and luck"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Timing Matters",
+                            "body": "When you start investing can dramatically impact your results. Someone who started investing in 1999 had a much different experience than someone who started in 2009. You can't control timing, but you can control consistency.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Stay Humble",
+                            "body": "Acknowledging luck's role keeps you humble during success and hopeful during setbacks. It prevents overconfidence and reckless decisions when things go well, and despair when they go poorly.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Focus on Process",
+                            "body": "Since you can't control outcomes completely, focus on having a good process. Make decisions based on sound principles, manage risk appropriately, and stay consistent. Good processes improve your odds over time.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Prepare for Setbacks",
+                            "body": "Bad luck is inevitable\u2014market crashes, economic recessions, job losses, or health problems can derail financial plans. Build buffers and maintain flexibility to handle whatever luck throws your way.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Don't Judge Others",
+                            "body": "Understanding luck's role makes you less judgmental of others' financial situations. Someone struggling might have faced bad luck, while someone successful might have had advantages. Show compassion for different circumstances.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Make Your Own Luck",
+                            "body": "While you can't control all luck, you can position yourself to benefit from good luck and minimize damage from bad luck. Save money, invest consistently, and stay flexible to take advantage of opportunities.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Learning From Others",
+                            "body": "When studying successful investors or wealthy individuals, remember that luck played a role in their success. Learn from their principles and processes, but don't expect to replicate their exact results.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p11",
+                            "pageType": "question",
+                            "headline": "What's the best way to handle luck?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignore it completely and focus skills",
+                                    "Rely entirely on luck for success",
+                                    "Acknowledge it and prepare for both",
+                                    "Assume all outcomes are predetermined"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Your Luck Strategy",
+                            "body": "Accept that luck will influence your financial journey. Focus on what you can control\u2014your savings rate, investment process, and risk management\u2014while preparing for the unexpected twists that luck brings.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Stay in the Game",
+                            "body": "The best way to handle luck is to make sure you can survive both good and bad streaks. Don't bet everything on one outcome. Build a sustainable approach that keeps you in the game long enough for luck to even out.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-12",
+                    "title": "Emotional Money Decisions",
+                    "order": 12,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Emotions Drive Decisions",
+                            "body": "Most financial decisions are emotional, not rational. Fear, greed, pride, and hope influence your choices more than spreadsheets and calculations. Understanding these emotions is key to making better money decisions.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Fear of Loss",
+                            "body": "People hate losing money more than they enjoy gaining it. This loss aversion can lead to overly conservative investing or selling investments during temporary downturns instead of staying the course.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Greed and FOMO",
+                            "body": "Fear of missing out drives people to chase hot investments, buy at market peaks, or take excessive risks. Greed makes rational people do irrational things when they see others getting rich quickly.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p4",
+                            "pageType": "question",
+                            "headline": "What emotion most influences poor financial decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Logical analysis of data only",
+                                    "Careful mathematical calculations always",
+                                    "Following expert recommendations exactly",
+                                    "Fear of missing out on opportunities"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Pride and Overconfidence",
+                            "body": "Success can breed overconfidence, leading to bigger risks and less diversification. Pride makes it hard to admit mistakes or change strategies. Stay humble even when your investments are performing well.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Panic Selling",
+                            "body": "During market downturns, fear overwhelms logic and people sell investments at the worst possible time. Emotional decisions during crisis moments often prove costly in hindsight. Prepare mentally for volatility.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p7",
+                            "pageType": "question",
+                            "headline": "When do investors typically make the worst decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During calm, stable market periods",
+                                    "When following their written plan",
+                                    "During high stress and volatility",
+                                    "After consulting with financial advisors"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Automate Decisions",
+                            "body": "Remove emotions from financial decisions by automating them. Set up automatic savings transfers, regular investment contributions, and rebalancing schedules. Automation prevents emotional interference with good financial habits.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Cool-Down Periods",
+                            "body": "Before making major financial decisions, especially during emotional times, institute a cooling-off period. Sleep on it, discuss with trusted advisors, or wait 24-48 hours before acting. Emotions cloud judgment.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Written Investment Policy",
+                            "body": "Create a written investment policy during calm moments that outlines your strategy, risk tolerance, and rules for different market conditions. Refer to this document during emotional times to stay on track.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Expect Volatility",
+                            "body": "Markets go up and down\u2014that's normal and expected. Prepare mentally for volatility by understanding that temporary losses are part of long-term investing. Don't let normal market behavior surprise you.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p12",
+                            "pageType": "question",
+                            "headline": "How can you reduce emotional financial decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Make all decisions during stress",
+                                    "Automate your key financial habits",
+                                    "Follow your emotions completely always",
+                                    "Check your investments multiple times daily"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Your Emotional Strategy",
+                            "body": "Acknowledge that emotions will influence your financial decisions. Build systems and processes that work with your emotions rather than against them. Create barriers between your emotions and your money when possible.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-13",
+                    "title": "Social Pressure and Money",
+                    "order": 13,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Money Is Social",
+                            "body": "Money decisions are often social decisions. We buy things to signal status, fit in with groups, or meet others' expectations. Understanding these social pressures helps you make more intentional financial choices.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Status Symbol Spending",
+                            "body": "Much of our spending is driven by the desire to display status or success to others. Expensive cars, clothes, and gadgets often serve as social signals rather than practical tools. Be honest about your motivations.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p3",
+                            "pageType": "question",
+                            "headline": "Why do people buy expensive status symbols?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They always provide better functionality",
+                                    "To signal success and status to others",
+                                    "They guarantee higher investment returns",
+                                    "They last significantly longer than alternatives"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Peer Pressure",
+                            "body": "Friends, family, and colleagues influence your spending habits. If everyone in your social circle drives luxury cars, you feel pressure to do the same. Choose your peer group carefully\u2014their financial habits will influence yours.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Family Expectations",
+                            "body": "Family gatherings, holidays, and celebrations can create pressure to spend money you don't have. Gift-giving, expensive dinners, and lavish events can strain budgets. Set boundaries and communicate your limits clearly.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Social Media Influence",
+                            "body": "Social media amplifies spending pressure by constantly showing others' purchases, vacations, and lifestyle upgrades. Remember that people share their highlights, not their financial struggles or debt payments.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p7",
+                            "pageType": "content",
+                            "headline": "The Keeping Up Game",
+                            "body": "Trying to keep up with others' spending is a losing game. There will always be someone with more money who can afford things you can't. Focus on your own goals rather than matching others' lifestyles.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Set Your Own Standards",
+                            "body": "Define success and wealth for yourself rather than letting society define it for you. Maybe success is having time with family, work you enjoy, or simply feeling financially secure. Your definition matters most.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Find Like-Minded People",
+                            "body": "Surround yourself with people who share your financial values and goals. If you're trying to save money, spend time with others who value financial security over status symbols. Community support matters.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Practice Saying No",
+                            "body": "Learn to politely decline social activities or purchases that don't align with your budget or values. You don't need to justify every financial decision to others. Your money, your choice.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p11",
+                            "pageType": "question",
+                            "headline": "How should you handle spending pressure from others?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always spend to maintain relationships",
+                                    "Set boundaries based on your values",
+                                    "Avoid all social activities entirely",
+                                    "Go into debt to meet expectations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Your Social Money Strategy",
+                            "body": "Recognize how social pressures influence your spending. Make conscious choices about which social expectations you'll meet and which you'll politely decline. Your financial well-being is more important than others' opinions.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-14",
+                    "title": "Money and Happiness",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Money and Happiness",
+                            "body": "Money can buy happiness, but not in the way most people think. Research shows money improves happiness up to a point by providing security and options. Beyond that point, more money doesn't reliably increase happiness.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Security Brings Peace",
+                            "body": "Having enough money to cover basic needs and emergencies reduces stress and anxiety. Financial security allows you to focus on relationships, health, and personal growth rather than worrying about paying bills.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p3",
+                            "pageType": "question",
+                            "headline": "How does money most effectively increase happiness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By buying expensive luxury goods",
+                                    "By providing security and reducing stress",
+                                    "By enabling comparison with others",
+                                    "By maximizing investment returns only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Time Over Things",
+                            "body": "Money spent on experiences and time often provides more lasting happiness than money spent on material possessions. Vacations, meals with friends, and activities create memories while objects quickly become ordinary.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Helping Others",
+                            "body": "Research consistently shows that spending money on others increases happiness more than spending it on yourself. Charitable giving, helping family, or treating friends creates lasting satisfaction and stronger relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p6",
+                            "pageType": "content",
+                            "headline": "The Hedonic Treadmill",
+                            "body": "People quickly adapt to lifestyle improvements and return to baseline happiness levels. The new house or car that initially brought joy becomes normal. Chasing lifestyle upgrades for happiness is often futile.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Autonomy and Control",
+                            "body": "Money's greatest contribution to happiness is the autonomy it provides. Having control over your time, choices, and circumstances is strongly linked to well-being. Financial independence equals personal freedom.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Health and Relationships",
+                            "body": "Money can't buy health or love, but it can reduce barriers to both. Having money for healthcare, stress reduction, and quality time with loved ones indirectly supports the things that matter most.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Enough Is Enough",
+                            "body": "Learning to recognize \"enough\" is crucial for happiness. More money beyond your needs doesn't automatically mean more happiness. Focus on having enough to feel secure and free rather than maximizing wealth.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Purpose Beyond Money",
+                            "body": "The happiest wealthy people have purposes beyond accumulating money. They use their resources to make a difference, support causes they care about, or leave a legacy for others.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Gratitude Practice",
+                            "body": "Cultivating gratitude for what you already have increases happiness more than earning more money. Regular gratitude practice helps you appreciate your current situation while working toward future goals.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p12",
+                            "pageType": "question",
+                            "headline": "What should be your primary financial goal?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having enough for security and freedom",
+                                    "Maximizing wealth at all costs always",
+                                    "Keeping up with others' spending",
+                                    "Buying the most expensive things possible"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Your Happiness Strategy",
+                            "body": "Use money as a tool for security, freedom, and meaningful experiences rather than status or comparison. Focus on having enough rather than having the most. Let money serve your happiness, not the other way around.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-15",
+                    "title": "Building Wealth Habits",
+                    "order": 15,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Habits Create Wealth",
+                            "body": "Wealth is built through consistent daily habits rather than occasional big wins. Small actions repeated over time create dramatic results. Focus on building sustainable financial habits that you can maintain for decades.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Automate Good Decisions",
+                            "body": "Remove willpower from wealth building by automating good financial decisions. Set up automatic savings transfers, investment contributions, and bill payments. When good choices happen automatically, they become effortless habits.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Start Ridiculously Small",
+                            "body": "Begin with amounts so small they feel insignificant\u2014$25 per week, $1 per day, or 1% of income. The goal initially is building the habit, not the amount. You can always increase later as the habit solidifies.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p4",
+                            "pageType": "question",
+                            "headline": "What's most important when starting financial habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Starting with large amounts immediately",
+                                    "Waiting until you can afford more",
+                                    "Beginning with small, sustainable amounts",
+                                    "Only starting during high-income periods"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Track Your Progress",
+                            "body": "Monitor your wealth-building progress regularly. Check account balances monthly, celebrate milestones, and track your savings rate. Visible progress reinforces good habits and motivates continued effort.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Make It Easy",
+                            "body": "Reduce friction around good financial habits. Use apps that round up purchases and invest the change, set up direct deposits to separate accounts, or use automatic rebalancing. The easier it is, the more likely you'll stick with it.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p7",
+                            "pageType": "question",
+                            "headline": "How can you make good financial habits stick?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Rely entirely on motivation and willpower",
+                                    "Make decisions manually each time",
+                                    "Create complex tracking systems always",
+                                    "Automate and reduce friction consistently"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Link to Existing Habits",
+                            "body": "Attach new financial habits to existing routines. Check investments when you drink morning coffee, transfer money to savings every Friday, or review expenses during weekly planning. Habit stacking works.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p9",
+                            "pageType": "question",
+                            "headline": "What's habit stacking in financial planning?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creating many new habits simultaneously",
+                                    "Linking new habits to existing routines",
+                                    "Building complex financial systems only",
+                                    "Avoiding all automation in favor of choice"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Focus on Systems",
+                            "body": "Don't just set financial goals\u2014build systems to achieve them. Instead of \"save $10,000,\" create a system that automatically saves $400 monthly. Systems are more reliable than goals because they focus on process over outcome.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p11",
+                            "pageType": "question",
+                            "headline": "Why are systems better than goals?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Goals require too much motivation",
+                                    "Systems focus on sustainable processes",
+                                    "Systems guarantee specific outcomes always",
+                                    "Goals are impossible to measure properly"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Be Patient",
+                            "body": "Good financial habits take time to show dramatic results. The first year might feel slow and unrewarding. Trust the process, stay consistent, and remember that compound growth accelerates over time.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Your Habit Blueprint",
+                            "body": "Identify 2-3 simple financial habits you can start immediately. Automate them, track your progress, and be patient with the results. Small habits consistently applied create extraordinary wealth over time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Start Today",
+                            "body": "The best time to start building wealth habits was 10 years ago. The second-best time is today. Choose one habit and implement it this week. Your future self will thank you for starting now.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-16",
+                    "title": "Financial Independence",
+                    "order": 16,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-16-p1",
+                            "pageType": "content",
+                            "headline": "True Independence",
+                            "body": "Financial independence isn't about being rich\u2014it's about having enough assets to cover your living expenses without depending on employment income. It's the point where work becomes optional rather than necessary.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p2",
+                            "pageType": "content",
+                            "headline": "The 4% Rule",
+                            "body": "A common guideline suggests you can safely withdraw 4% of your investment portfolio annually. If you need $40,000 per year to live, you'd need $1 million invested. This provides a target for financial independence.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p3",
+                            "pageType": "question",
+                            "headline": "What defines financial independence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having enough assets to cover expenses",
+                                    "Earning the highest possible salary",
+                                    "Owning expensive luxury possessions only",
+                                    "Following the latest investment trends"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Reduce Expenses",
+                            "body": "Every dollar you don't need to spend reduces the amount you need for financial independence. Living below your means accelerates the path to independence by requiring a smaller portfolio to sustain your lifestyle.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Multiple Income Streams",
+                            "body": "Diversify your income sources to reduce dependence on any single source. This might include investment income, rental properties, business ownership, or side hustles. Multiple streams provide security and flexibility.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Geographic Arbitrage",
+                            "body": "Consider living in areas with lower costs of living to stretch your money further. Your independence number decreases dramatically if you can live comfortably on less money in a different location.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Health Care Planning",
+                            "body": "Factor healthcare costs into your independence calculations. Medical expenses can be a major expense, especially before qualifying for Medicare. Include health insurance premiums and potential medical costs in your planning.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Flexibility Matters",
+                            "body": "Build flexibility into your independence plan. You might work part-time, reduce expenses during market downturns, or find ways to earn money from hobbies. Rigid plans often break under pressure.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p9",
+                            "pageType": "question",
+                            "headline": "What accelerates the path to financial independence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increasing income only without saving",
+                                    "Buying expensive appreciating assets immediately",
+                                    "Focusing solely on investment returns",
+                                    "Reducing expenses and increasing savings rate"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Start Early",
+                            "body": "Time is your greatest asset for achieving financial independence. Starting in your 20s or 30s gives compound growth decades to work. Even small amounts invested early can grow into independence-level wealth.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Purpose After Independence",
+                            "body": "Consider what you'll do with your time after achieving financial independence. Many people continue working at jobs they enjoy or pursue meaningful projects. Independence is about having choices, not necessarily stopping all work.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p12",
+                            "pageType": "content",
+                            "headline": "The Journey Matters",
+                            "body": "Building toward financial independence teaches valuable lessons about money, discipline, and priorities. The habits and mindset you develop during the journey are as valuable as reaching the destination.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Your Independence Plan",
+                            "body": "Calculate your financial independence number based on your desired lifestyle. Create a plan to reach that target through saving, investing, and possibly reducing expenses. Start taking steps toward independence today.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-16-p14",
+                            "pageType": "content",
+                            "headline": "Freedom to Choose",
+                            "body": "Financial independence isn't really about money\u2014it's about freedom. The freedom to choose how you spend your time, what work you do, and what risks you take. That freedom is worth the effort required to achieve it.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "psychology_of_money-1-17",
+                    "title": "Your Personal Money Story",
+                    "order": 17,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "psychology_of_money-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Your Money Story",
+                            "body": "Everyone has a personal money story shaped by family, culture, and life experiences. This story influences every financial decision you make, often unconsciously. Understanding your story is the first step to changing it if needed.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Early Money Messages",
+                            "body": "The messages you received about money as a child\u2014whether spoken or unspoken\u2014still influence you today. Maybe you learned that money is scarce, dangerous, or the root of all problems. These early messages shape your adult relationship with money.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p3",
+                            "pageType": "question",
+                            "headline": "What most influences your money beliefs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Current economic news and trends",
+                                    "Early childhood experiences and messages",
+                                    "Mathematical analysis and logic only",
+                                    "Professional financial advice exclusively"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Family Patterns",
+                            "body": "Look at your family's money patterns\u2014were they savers or spenders, optimistic or fearful, generous or stingy? You might find yourself either copying these patterns or rebelling against them. Both responses are normal reactions to your money story.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Money and Identity",
+                            "body": "For many people, money becomes tied to identity and self-worth. They might feel successful when wealthy or worthless when broke. Separating your identity from your net worth is crucial for financial and emotional health.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p6",
+                            "pageType": "question",
+                            "headline": "How should money relate to your identity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Money should define your self-worth",
+                                    "Money should be kept separate from identity",
+                                    "Only wealthy people have value",
+                                    "Poor people are morally superior always"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Rewrite Your Story",
+                            "body": "You're not stuck with the money story you inherited. As an adult, you can examine your beliefs, keep what serves you, and change what doesn't. You have the power to create a healthier relationship with money.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Define Your Values",
+                            "body": "Clarify what money represents to you now. Is it security, freedom, opportunity, or something else? Let your current values guide your financial decisions rather than unconscious patterns from your past.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Practice Self-Compassion",
+                            "body": "Be patient and kind with yourself as you examine your money story. Everyone carries financial baggage and makes money mistakes. Self-compassion helps you learn and grow rather than staying stuck in shame or judgment.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Share Your Story",
+                            "body": "Consider sharing your money story with trusted friends, family, or a therapist. Talking about your financial background and beliefs helps you understand them better and feel less alone in your money struggles.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Create New Patterns",
+                            "body": "Consciously create new money patterns that align with your adult values and goals. This might mean automating savings if you grew up with financial chaos, or learning to enjoy money if you grew up with extreme frugality.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "psychology_of_money-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Your Money Legacy",
+                            "body": "Consider what money story you want to pass on to others. Whether you have children, mentor young people, or simply influence friends, your relationship with money affects others. Make it a positive influence.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 5.0,
+    "tag": "Popular"
+}

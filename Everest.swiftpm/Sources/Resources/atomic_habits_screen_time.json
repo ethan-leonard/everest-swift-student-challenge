@@ -1,0 +1,2410 @@
+{
+    "id": "atomic_habits_screen_time",
+    "title": "Atomic Habits for Screen Time",
+    "description": "Apply James Clear's proven habit framework to break the doomscrolling loop. Small changes, remarkable results.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/atomic_habits_screen_time.png",
+    "coverImagePrompt": "Premium editorial flat vector art, tiny atoms building into larger molecular structure representing habit stacking, sage green and charcoal palette with warm amber accents, scientific yet minimal aesthetic",
+    "altitude": 4500,
+    "durationMinutes": 106,
+    "whatsInside": [
+        "Master the habit loop: cue, craving, response, reward",
+        "Use the Two-Minute Rule to start any behavior change",
+        "Design your environment to make good habits inevitable",
+        "Stack new screen-free habits onto existing routines",
+        "Build identity-based habits that last",
+        "Track progress and maintain streaks"
+    ],
+    "expertReview": {
+        "quote": "A brilliant application of behavioral science to our most pressing modern challenge. These strategies are backed by research and actually work.",
+        "name": "Dr. BJ Fogg",
+        "title": "Behavior Scientist, Stanford University"
+    },
+    "chapters": [
+        {
+            "id": "atomic_habits_screen_time-ch1",
+            "title": "Transform Your Digital Life",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "atomic_habits_screen_time-1-1",
+                    "title": "The Science of Screen Addiction",
+                    "order": 1,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Brain on Screens",
+                            "body": "Every tap, swipe, and notification triggers a dopamine response in your brain. This neurotransmitter creates a powerful feedback loop that makes you crave more screen time. Understanding this mechanism is the first step to regaining control.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Economy",
+                            "body": "Tech companies employ teams of neuroscientists and behavioral economists to make their apps irresistible. They use variable reward schedules, similar to slot machines, to keep you engaged. Your attention has become their most valuable commodity.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Real Cost",
+                            "body": "Excessive screen time fragments your attention span and reduces your ability to focus deeply. Studies show it can impact sleep quality, increase anxiety, and diminish face-to-face social skills. The average person checks their phone 96 times daily.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Willpower Isn't Enough",
+                            "body": "Relying on willpower to resist digital temptation is like trying to hold your breath underwater. It's exhausting and ultimately unsustainable. The solution lies in understanding how habits work and redesigning your environment strategically.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Small Changes, Big Impact",
+                            "body": "James Clear's atomic habits framework proves that tiny adjustments compound into remarkable transformations. A 1% improvement each day leads to being 37 times better after one year. This applies perfectly to digital wellness.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Four Laws",
+                            "body": "Clear identifies four laws that govern all behavior change: make it obvious, attractive, easy, and satisfying. We'll apply these principles specifically to breaking digital addiction and building healthy tech habits.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Identity-Based Change",
+                            "body": "The most profound transformations happen at the identity level. Instead of saying 'I want to use my phone less,' say 'I am someone who values deep focus and meaningful connections.' This shift changes everything.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p8",
+                            "pageType": "question",
+                            "headline": "What triggers dopamine release in your brain?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only social media likes and comments",
+                                    "Every tap, swipe, and notification",
+                                    "Just when receiving text messages",
+                                    "Only during video streaming sessions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Breaking the Cycle",
+                            "body": "Recognition is the first step toward freedom. Once you understand that your devices are designed to be addictive, you can start making conscious choices. Awareness transforms unconscious habits into deliberate decisions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Journey Ahead",
+                            "body": "This course will equip you with practical strategies to reclaim your attention and build a healthier relationship with technology. You'll learn to use your devices intentionally rather than compulsively.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What makes identity-based change so powerful?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It requires more willpower than other methods",
+                                    "It focuses on outcomes rather than processes",
+                                    "It changes how you see yourself fundamentally",
+                                    "It works faster than other approaches"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Your Digital Freedom",
+                            "body": "Technology should serve you, not control you. By applying atomic habits principles to your digital life, you can maintain all the benefits of modern technology while protecting your attention and well-being.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Ready to Transform",
+                            "body": "You now understand the science behind screen addiction and the power of habit-based solutions. The next lesson will dive deeper into how your digital dopamine loop actually works and how to interrupt it.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-2",
+                    "title": "Your Digital Dopamine Loop",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The Dopamine Prediction Error",
+                            "body": "Your brain releases dopamine not just when you receive a reward, but when you anticipate one. This is why the red notification badge is so compelling \u2013 it signals potential reward. The uncertainty makes it even more addictive.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Variable Reward Schedules",
+                            "body": "App developers use intermittent reinforcement to keep you hooked. Sometimes you get exciting content, sometimes you don't. This unpredictability creates the strongest behavioral conditioning \u2013 stronger than consistent rewards.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p3",
+                            "pageType": "content",
+                            "headline": "The Cue-Routine-Reward Loop",
+                            "body": "Every digital habit follows the same pattern: a cue triggers the routine, which provides a reward. The cue might be boredom, the routine is checking Instagram, and the reward is social validation or entertainment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Identifying Your Triggers",
+                            "body": "Common digital cues include notifications, emotions (boredom, anxiety, loneliness), specific times (waiting, before bed), and locations (bathroom, bed, couch). Recognition is the first step to interruption.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p5",
+                            "pageType": "content",
+                            "headline": "The Phantom Vibration",
+                            "body": "Many people experience phantom vibrations \u2013 feeling their phone buzz when it hasn't. This demonstrates how deeply ingrained your digital habits have become. Your brain is constantly anticipating digital rewards.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Tolerance and Escalation",
+                            "body": "Like any addiction, digital habits require increasing stimulation over time. What used to satisfy you for minutes now needs hours. Your dopamine baseline drops, making real-world activities feel less rewarding.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p7",
+                            "pageType": "question",
+                            "headline": "What makes variable reward schedules so addictive?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They provide consistent rewards every time",
+                                    "They require more effort to get rewards",
+                                    "They eliminate all uncertainty about outcomes",
+                                    "The unpredictability creates stronger conditioning"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p8",
+                            "pageType": "content",
+                            "headline": "The Stress Response",
+                            "body": "Constant connectivity keeps your nervous system in a state of chronic arousal. Each notification triggers a micro-stress response, flooding your system with cortisol. This explains why heavy phone users often feel anxious and exhausted.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Breaking the Anticipation",
+                            "body": "The key to breaking digital addiction is interrupting the anticipation phase. Remove visual cues, create friction between you and your device, and establish clear boundaries around when and where you use technology.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p10",
+                            "pageType": "question",
+                            "headline": "When does your brain release dopamine?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only when you actually receive a reward",
+                                    "Just during stressful situations",
+                                    "When anticipating a reward and receiving it",
+                                    "Only during physical exercise activities"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p11",
+                            "pageType": "question",
+                            "headline": "What are phantom vibrations a sign of?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A broken phone that needs repair",
+                                    "Deeply ingrained digital habit patterns",
+                                    "Normal healthy phone usage behavior",
+                                    "The need for a newer phone model"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Reclaiming Your Baseline",
+                            "body": "The good news is that dopamine tolerance is reversible. By reducing digital stimulation, you can restore your brain's natural reward sensitivity. Simple pleasures become satisfying again, and your focus naturally improves.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Understanding Empowers Change",
+                            "body": "Now that you understand your digital dopamine loop, you're equipped to interrupt it strategically. The next lesson will introduce the habit loop framework and show you exactly how to apply it to screen time.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-3",
+                    "title": "The Habit Loop Decoded",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Three Components",
+                            "body": "Every habit has three essential elements: cue, routine, and reward. The cue triggers the behavior, the routine is the behavior itself, and the reward reinforces the loop. Understanding this structure is crucial for change.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Digital Habit Examples",
+                            "body": "Cue: Phone notification sound. Routine: Pick up phone and check app. Reward: Social validation or entertainment. This loop repeats hundreds of times daily, strengthening the neural pathway each time.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p3",
+                            "pageType": "question",
+                            "headline": "What are the three components of a habit loop?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Trigger, action, and consequence sequence",
+                                    "Cue, routine, and reward combination",
+                                    "Stimulus, response, and outcome pattern",
+                                    "Signal, behavior, and satisfaction cycle"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p4",
+                            "pageType": "content",
+                            "headline": "The Craving Bridge",
+                            "body": "James Clear adds a fourth element: craving. This is the motivational force that transforms a cue into action. You don't crave checking your phone \u2013 you crave feeling connected, entertained, or validated.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Automatic vs Conscious",
+                            "body": "Habits are automatic behaviors that conserve mental energy. Your conscious mind doesn't decide to check your phone \u2013 your unconscious mind does. This automation makes habits both powerful and challenging to change.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p6",
+                            "pageType": "question",
+                            "headline": "What drives the transition from cue to routine?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The craving for a specific feeling",
+                                    "External pressure from other people",
+                                    "A conscious decision-making process",
+                                    "The availability of time to act"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Keystone Digital Habits",
+                            "body": "Some habits trigger chains of other behaviors. Picking up your phone often leads to checking multiple apps, then losing track of time. Identifying these keystone habits gives you maximum leverage for change.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p8",
+                            "pageType": "content",
+                            "headline": "The Golden Rule",
+                            "body": "You can't eliminate a bad habit \u2013 you can only replace it. Keep the same cue and reward, but change the routine. This is why going cold turkey often fails while substitution succeeds.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Habit Stacking Basics",
+                            "body": "Link new behaviors to established habits using the formula: 'After I [existing habit], I will [new habit].' After I wake up, I will put my phone in airplane mode for 30 minutes.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Environment Shapes Behavior",
+                            "body": "Your environment is the invisible hand that shapes your behavior. Every object in your space is a cue for some action. Your phone's location determines how often you'll use it.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Timing and Context",
+                            "body": "Habits are context-dependent. You might scroll social media in bed but not at your desk. Understanding the specific contexts that trigger your digital habits helps you intervene more precisely.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Measuring Progress",
+                            "body": "Track your digital habits to make them visible. Use your phone's built-in screen time tools or apps like Moment or RescueTime. What gets measured gets managed.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p13",
+                            "pageType": "question",
+                            "headline": "Why does going cold turkey often fail?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It requires too much initial motivation",
+                                    "You need to replace habits, not eliminate them",
+                                    "The technology is designed to be addictive",
+                                    "Social pressure makes it impossible"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Ready for Application",
+                            "body": "You now understand the fundamental structure of habits and how they apply to digital behavior. The next lesson will teach you how to make good digital habits obvious using the first law of behavior change.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-4",
+                    "title": "Making Good Habits Obvious",
+                    "order": 4,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The First Law",
+                            "body": "Make it obvious. Many behaviors happen unconsciously, so awareness is the starting point. You need to notice your digital habits before you can change them. Consciousness precedes control.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Habits Scorecard",
+                            "body": "List your daily digital habits and rate each as positive (+), negative (-), or neutral (=). Be honest and thorough. Include everything from checking email to late-night scrolling.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p3",
+                            "pageType": "question",
+                            "headline": "What's the purpose of a habits scorecard?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To eliminate all digital device usage",
+                                    "To judge yourself for poor habits",
+                                    "To compete with others' screen time",
+                                    "To increase awareness of your patterns"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Implementation Intentions",
+                            "body": "Specify when and where you'll perform good digital habits. 'I will read for 20 minutes at 7 PM in my living room chair.' Research shows this increases follow-through by 2-3x compared to vague goals.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Visual Cues Work",
+                            "body": "Place objects related to good habits in visible locations. Keep a book on your nightstand instead of your phone charger. Leave your workout clothes laid out. Environment design beats willpower.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Hide the Bad Cues",
+                            "body": "Make bad habits invisible by removing their triggers. Turn off notifications, log out of apps, or put your phone in another room. Increase the number of steps between you and undesired behaviors.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Phone Placement Strategy",
+                            "body": "Where you keep your phone dramatically impacts usage. Keep it in a drawer during work, another room while sleeping, or a basket by the front door when you come home.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p8",
+                            "pageType": "question",
+                            "headline": "How much do implementation intentions increase follow-through?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By about 10-20% compared to goals",
+                                    "They actually decrease success rates",
+                                    "By 2-3 times compared to vague goals",
+                                    "Only marginally better than chance"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p9",
+                            "pageType": "question",
+                            "headline": "What beats willpower in habit formation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Environment design and visual cues",
+                                    "Setting more ambitious goals daily",
+                                    "Relying on motivation and inspiration",
+                                    "Using punishment for bad behaviors"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p10",
+                            "pageType": "content",
+                            "headline": "App Organization",
+                            "body": "Reorganize your phone's home screen to promote good habits. Remove addictive apps from the first screen. Put productive apps like reading, meditation, or fitness tracking in easy-to-access locations.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Digital Decluttering",
+                            "body": "Delete apps that don't serve your goals. Unsubscribe from distracting email lists. Turn off badges and banners for non-essential apps. Less digital clutter means fewer cues for bad habits.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p12",
+                            "pageType": "content",
+                            "headline": "The Power of Defaults",
+                            "body": "Change your device defaults to support good habits. Set your phone to grayscale, enable Do Not Disturb during focused work, or use app timers. Make the right choice the automatic choice.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p13",
+                            "pageType": "question",
+                            "headline": "Why should you remove apps from your home screen?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To reduce visual cues for bad habits",
+                                    "To make your phone look more minimal",
+                                    "To save battery life and storage space",
+                                    "To impress others with your discipline"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Awareness Creates Choice",
+                            "body": "By making your digital habits obvious \u2013 both good and bad \u2013 you regain the power to choose. Consciousness is the first step toward change. You're now ready to learn the second law: making good habits attractive.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-4-p15",
+                            "pageType": "content",
+                            "headline": "From Obvious to Attractive",
+                            "body": "You've learned to make good habits obvious and bad habits invisible. The next lesson will teach you how to make healthy digital habits irresistibly attractive using dopamine to your advantage.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-5",
+                    "title": "Making Good Habits Attractive",
+                    "order": 5,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p1",
+                            "pageType": "content",
+                            "headline": "The Second Law",
+                            "body": "Make it attractive. The more appealing a habit feels, the more likely you are to perform it. We need to make healthy digital behaviors more attractive than mindless scrolling.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Temptation Bundling Basics",
+                            "body": "Pair an action you want to do with an action you need to do. Only watch Netflix while on the treadmill. Only listen to podcasts while doing chores. This leverages your existing desires.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What is temptation bundling?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Pairing wanted actions with needed actions",
+                                    "Completely avoiding all tempting activities",
+                                    "Rewarding yourself after completing tasks",
+                                    "Grouping similar activities together daily"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Digital Temptation Bundling",
+                            "body": "Only check social media after completing a focused work session. Only listen to your favorite playlist while organizing your digital files. Only read interesting articles after meditation.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Join the Right Culture",
+                            "body": "Surround yourself with people who model the digital habits you want. Join communities focused on digital wellness, productivity, or deep work. We adopt behaviors that help us fit in and gain approval.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p6",
+                            "pageType": "question",
+                            "headline": "Why is joining the right culture important?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It provides entertainment during free time",
+                                    "We naturally adopt behaviors that help us fit in",
+                                    "It eliminates the need for personal discipline",
+                                    "Competition motivates better than cooperation"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Reframe Your Mindset",
+                            "body": "Change 'I have to' to 'I get to.' Instead of 'I have to put my phone away,' think 'I get to focus deeply on meaningful work.' This simple shift makes good habits feel like privileges, not burdens.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Highlight the Benefits",
+                            "body": "Focus on what you gain from good digital habits, not what you're giving up. Better sleep, deeper relationships, increased creativity, and enhanced focus. Make the benefits vivid and immediate in your mind.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p9",
+                            "pageType": "question",
+                            "headline": "How should you reframe digital wellness habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on what you're sacrificing",
+                                    "Think of them as privileges, not burdens",
+                                    "Consider them temporary inconveniences",
+                                    "View them as punishment for past behavior"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Create Anticipation",
+                            "body": "Build excitement around your new digital habits. Plan a special reading session with your favorite tea. Schedule phone-free time for activities you truly enjoy. Anticipation creates motivation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p11",
+                            "pageType": "content",
+                            "headline": "The Dopamine Connection",
+                            "body": "Your brain releases more dopamine in anticipation of reward than during the reward itself. Use this by creating rituals around good habits that build excitement and anticipation before you begin.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Attraction Through Action",
+                            "body": "You've learned to make good digital habits attractive through bundling, community, reframing, and anticipation. When combined with obvious cues, attractive habits become much easier to maintain. Next: making habits easy.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-6",
+                    "title": "Making Good Habits Easy",
+                    "order": 6,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Third Law",
+                            "body": "Make it easy. The easier a habit is to perform, the more likely it will stick. We're naturally drawn to behaviors that require minimal effort. Convenience often trumps intention.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Reduce Friction",
+                            "body": "Good habits should have minimal friction. Pre-install meditation apps, keep a book beside your bed, or set your phone to charge in another room. Remove barriers to positive behaviors.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Increase Friction for Bad Habits",
+                            "body": "Make undesired behaviors harder to perform. Log out of social media apps, enable two-factor authentication, or use website blockers during work hours. Every extra step reduces likelihood.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What should you do to bad digital habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Make them easier to track progress",
+                                    "Reduce barriers so you can monitor them",
+                                    "Add friction to make them harder to do",
+                                    "Increase convenience for better awareness"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p5",
+                            "pageType": "content",
+                            "headline": "The Two-Minute Rule",
+                            "body": "When starting a new habit, it should take less than two minutes to complete. 'Read before bed' becomes 'read one page before bed.' Small starts lead to big finishes.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Digital Two-Minute Habits",
+                            "body": "Put phone in airplane mode for two minutes after waking. Check email only twice becomes check email at 10 AM. Delete one unnecessary app per day. Start incredibly small.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p7",
+                            "pageType": "question",
+                            "headline": "Why is the two-minute rule effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Small starts lead to consistent habits",
+                                    "It saves time in your daily schedule",
+                                    "Two minutes is the optimal habit duration",
+                                    "It's easier to track than longer habits"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Automation and Tools",
+                            "body": "Use technology to automate good habits. Schedule Do Not Disturb modes, set app limits, or use Focus apps. Let systems work for you instead of relying on willpower and memory.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Preparation Rituals",
+                            "body": "Prepare your environment to make good habits effortless. Charge your e-reader, queue up educational podcasts, or set out books the night before. Preparation eliminates decision fatigue.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p10",
+                            "pageType": "content",
+                            "headline": "The Path of Least Resistance",
+                            "body": "Humans naturally follow the path of least resistance. Engineer your digital environment so the easiest choice is also the best choice. Make good habits the default option.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Ease Creates Consistency",
+                            "body": "Easy habits are sustainable habits. It's better to meditate for two minutes daily than thirty minutes weekly. Consistency matters more than intensity for long-term behavior change.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-6-p12",
+                            "pageType": "content",
+                            "headline": "From Easy to Satisfying",
+                            "body": "You've learned to make good habits easy by reducing friction, using the two-minute rule, and preparing your environment. The final step is making these habits satisfying so they stick permanently.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-7",
+                    "title": "Making Good Habits Satisfying",
+                    "order": 7,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p1",
+                            "pageType": "content",
+                            "headline": "The Fourth Law",
+                            "body": "Make it satisfying. We repeat behaviors that feel rewarding immediately after completion. The challenge with digital wellness is that benefits often appear days or weeks later, not immediately.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Immediate Rewards Matter",
+                            "body": "Your brain prioritizes immediate rewards over long-term benefits. After putting your phone away for focused work, give yourself an immediate small reward like a favorite tea or brief walk outside.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Digital Reward Ideas",
+                            "body": "Listen to one favorite song after a phone-free hour. Watch a short funny video after completing focused work. Text a friend after successful morning routine. Make good habits feel good immediately.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p4",
+                            "pageType": "question",
+                            "headline": "Why do immediate rewards matter for habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your brain prioritizes immediate over long-term rewards",
+                                    "They cost less money than delayed rewards",
+                                    "Immediate rewards are easier to remember",
+                                    "They require less planning than future rewards"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Visual Progress Tracking",
+                            "body": "Make your progress visible and satisfying. Use a habit tracker app, mark X's on a calendar, or move paper clips from one jar to another. Seeing progress feels rewarding.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p6",
+                            "pageType": "content",
+                            "headline": "The Habit Tracker Effect",
+                            "body": "Tracking itself is motivating. Each checkmark provides a small hit of satisfaction. Choose simple tracking methods \u2013 complexity kills consistency. One number or checkmark per day is enough.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Celebrating Small Wins",
+                            "body": "Celebrate immediately after completing your habit. Say 'Yes!' out loud, do a small fist pump, or take three deep breaths of satisfaction. Your brain remembers how the habit ended.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Social Accountability",
+                            "body": "Share your digital wellness goals with friends or family. Join online communities focused on digital minimalism. Social approval and accountability create powerful immediate rewards for good behavior.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p9",
+                            "pageType": "content",
+                            "headline": "The Identity Reward",
+                            "body": "The most powerful reward is the reinforcement of your desired identity. After avoiding mindless scrolling, tell yourself 'I am someone who values deep focus.' This internal reward builds lasting change.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What makes tracking habits motivating by itself?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Each checkmark provides satisfaction and progress",
+                                    "It eliminates the need for other rewards",
+                                    "Complex tracking systems work better",
+                                    "Tracking prevents you from forgetting habits"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Never Miss Twice",
+                            "body": "When you break a digital wellness habit, get back on track immediately. Missing once is a mistake; missing twice is the start of a new pattern. Recovery, not perfection, determines long-term success.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p12",
+                            "pageType": "question",
+                            "headline": "What's the key principle for maintaining habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Never miss twice - get back immediately",
+                                    "Perfect consistency is absolutely required",
+                                    "Take week-long breaks when you mess up",
+                                    "Start completely over if you miss once"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Satisfaction Breeds Repetition",
+                            "body": "Good habits become automatic when they feel satisfying. By providing immediate rewards, tracking progress, and celebrating wins, you create a positive feedback loop that reinforces digital wellness behaviors.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Four Laws Complete",
+                            "body": "You now understand all four laws: make it obvious, attractive, easy, and satisfying. These principles form the foundation for any lasting behavior change. Next, we'll apply them specifically to screen time reduction.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-7-p15",
+                            "pageType": "content",
+                            "headline": "From Theory to Practice",
+                            "body": "The next lesson introduces the Two-Minute Rule specifically for digital habits. You'll learn how to start incredibly small and build sustainable momentum toward your screen time goals.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-8",
+                    "title": "The Two-Minute Rule for Screens",
+                    "order": 8,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Start Ridiculously Small",
+                            "body": "The Two-Minute Rule states that when starting a new habit, it should take less than two minutes to complete. This rule prevents overwhelm and creates immediate success, building momentum for larger changes.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Digital Habit Scaling",
+                            "body": "'Use phone less' becomes 'put phone in airplane mode for 2 minutes after waking.' 'Read more books' becomes 'read one page before checking any screens.' Small starts, big finishes.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p3",
+                            "pageType": "question",
+                            "headline": "What's the main purpose of the Two-Minute Rule?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To save time in your daily routine",
+                                    "To prevent overwhelm and build momentum",
+                                    "To finish all tasks in two minutes",
+                                    "To compete with others on speed"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Gateway Habits",
+                            "body": "Two-minute habits are gateway behaviors that naturally lead to more. Putting your phone in another room for two minutes often extends to longer periods. The key is starting, not perfection.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Morning Screen Rules",
+                            "body": "Don't check your phone for the first two minutes after waking. This tiny change prevents your day from starting in reactive mode. Your morning sets the tone for everything that follows.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Evening Wind-Down",
+                            "body": "Put all screens away two minutes before your bedtime routine. This small buffer helps your brain transition to sleep mode. Blue light exposure right before bed disrupts sleep quality significantly.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Work Focus Sprints",
+                            "body": "Start with phone-free work sessions of just two minutes. Set a timer, put your phone in another room, and focus completely on one task. Gradually extend as the habit strengthens.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Meal Mindfulness",
+                            "body": "Eat one meal per day without any screens for two minutes. This practice helps you reconnect with your food, improve digestion, and break the habit of mindless consumption while distracted.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p9",
+                            "pageType": "question",
+                            "headline": "Why are two-minute habits called gateway behaviors?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They require special gateway technology to work",
+                                    "They naturally lead to longer, more established habits",
+                                    "They act as barriers to prevent bad habits",
+                                    "They only work for exactly two minutes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p10",
+                            "pageType": "question",
+                            "headline": "What does avoiding screens after waking prevent?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Missing important notifications and messages",
+                                    "Starting your day in reactive mode",
+                                    "Forgetting your scheduled appointments",
+                                    "Losing connection with friends and family"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p11",
+                            "pageType": "content",
+                            "headline": "The Power of Consistency",
+                            "body": "It's better to put your phone away for two minutes every day than for two hours once per week. Consistency beats intensity in habit formation. Daily repetition creates neural pathways.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Scaling Up Gradually",
+                            "body": "After two weeks of consistent two-minute habits, you can gradually increase duration. The foundation of consistency is more important than the length of individual sessions. Build slowly but surely.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Small Starts, Lasting Change",
+                            "body": "The Two-Minute Rule proves that massive transformations begin with tiny actions. Your digital wellness journey starts with impossibly small steps that feel effortless. Next: environment design for digital success.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-9",
+                    "title": "Environment Design for Digital Wellness",
+                    "order": 9,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Environment Is Everything",
+                            "body": "Your physical and digital environments are the invisible forces shaping your behavior. Small changes to your surroundings can produce big changes in your habits without requiring more willpower or motivation.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Phone Placement Principle",
+                            "body": "Where you keep your phone determines how often you use it. Keep it in another room during work, in a drawer while sleeping, or in a basket by the front door when you arrive home.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Create Phone-Free Zones",
+                            "body": "Designate specific areas where phones aren't allowed: the bedroom, dining table, or a specific chair for reading. Physical boundaries create mental boundaries and protect important activities.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Visual Cues for Good Habits",
+                            "body": "Place books on your nightstand instead of chargers. Leave a journal on your kitchen table. Keep exercise clothes visible. Your environment should promote the behaviors you want to see.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p5",
+                            "pageType": "question",
+                            "headline": "What determines how often you use your phone?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Where you keep your phone physically",
+                                    "How many apps you have installed",
+                                    "The brand and model of your device",
+                                    "Your personality type and willpower"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Digital Environment Design",
+                            "body": "Organize your digital spaces to support good habits. Remove social media apps from your home screen. Turn off all non-essential notifications. Use grayscale mode to make your phone less visually appealing.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p7",
+                            "pageType": "question",
+                            "headline": "Why should you create phone-free zones?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To save battery life on your device",
+                                    "Physical boundaries create mental boundaries",
+                                    "To impress visitors with your discipline",
+                                    "To reduce wear and tear on furniture"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p8",
+                            "pageType": "content",
+                            "headline": "The Charging Station Strategy",
+                            "body": "Create a dedicated charging station outside your bedroom and work area. This removes the excuse of needing your phone nearby for alarm or emergencies while creating natural separation from your device.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Workspace Optimization",
+                            "body": "Design your workspace to promote deep work. Remove distracting objects, face away from high-traffic areas, and keep only essential items visible. Your environment should support sustained attention and focus.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p10",
+                            "pageType": "content",
+                            "headline": "The One-Device Rule",
+                            "body": "Use only one screen at a time. No phone while watching TV, no tablet while working on your computer. Multi-screen usage fragments attention and reduces the satisfaction from any single activity.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p11",
+                            "pageType": "question",
+                            "headline": "What's the benefit of the one-device rule?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It saves money on electricity bills",
+                                    "It prevents attention fragmentation and increases satisfaction",
+                                    "It makes devices last longer physically",
+                                    "It reduces the number of notifications received"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p12",
+                            "pageType": "question",
+                            "headline": "How should you design your physical environment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Make it promote the behaviors you want",
+                                    "Keep it exactly as it is currently",
+                                    "Focus only on aesthetic improvements",
+                                    "Remove all technology from your space"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Environment Beats Willpower",
+                            "body": "A well-designed environment makes good choices automatic and bad choices difficult. You've learned to use both physical and digital environment design to support your digital wellness goals effortlessly.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-10",
+                    "title": "Temptation Bundling with Technology",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Linking Want and Need",
+                            "body": "Temptation bundling pairs an action you want to do with an action you need to do. This leverages your existing desires to build new habits without relying on willpower alone.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p2",
+                            "pageType": "content",
+                            "headline": "The Formula",
+                            "body": "After I [NEED TO DO], I will [WANT TO DO]. After I complete one hour of phone-free work, I will watch one YouTube video. This creates positive associations with difficult behaviors.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p3",
+                            "pageType": "question",
+                            "headline": "What does temptation bundling pair together?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Two activities you want to avoid",
+                                    "Actions you need and want to do",
+                                    "Similar activities done at same time",
+                                    "Actions you want and need to do"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Digital Bundling Examples",
+                            "body": "Only listen to podcasts while exercising. Only check social media after completing your most important task. Only watch Netflix while folding laundry. The tempting activity becomes the reward.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p5",
+                            "pageType": "question",
+                            "headline": "In temptation bundling, what becomes the reward?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The activity you need to do",
+                                    "Neither activity serves as reward",
+                                    "Both activities reward each other",
+                                    "The tempting activity you want to do"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Morning Routine Bundling",
+                            "body": "Only check your phone after completing your morning routine. Only read news after meditation and exercise. This prevents reactive mornings while still giving you access to information you enjoy.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p7",
+                            "pageType": "question",
+                            "headline": "How does bundling prevent reactive mornings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all phone usage completely",
+                                    "You complete positive routines before checking devices",
+                                    "It automatically blocks all incoming notifications",
+                                    "It makes phones physically inaccessible"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p8",
+                            "pageType": "question",
+                            "headline": "What's a key benefit of temptation bundling?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It completely eliminates the need for discipline",
+                                    "It creates positive associations with difficult behaviors",
+                                    "It allows unlimited access to tempting activities",
+                                    "It makes all activities equally enjoyable"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Work and Entertainment",
+                            "body": "Only stream music while doing focused work. Only browse interesting websites after completing your daily priorities. This makes productive work more enjoyable while limiting recreational browsing.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Exercise and Screens",
+                            "body": "Only watch your favorite shows while on the treadmill. Only listen to audiobooks during walks. Only scroll social media while doing stationary exercises. Movement becomes more appealing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Social and Productive",
+                            "body": "Only text friends after completing work tasks. Only check Instagram after tidying your space. Only browse Reddit after reading educational content. Social rewards follow productive behaviors.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Creating Your Bundles",
+                            "body": "Identify activities you want to do more of (productive) and activities you want to limit (recreational). Then create specific rules linking them. Write down your bundles and commit to them for at least one week.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Sustainable Motivation",
+                            "body": "Temptation bundling creates sustainable motivation by making difficult behaviors more attractive. You're not eliminating enjoyment \u2013 you're strategically timing it to reinforce positive habits.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Bundle Your Way Forward",
+                            "body": "You now understand how to use temptation bundling to make good digital habits more attractive. The next lesson will tackle the challenge of breaking existing bad habits that resist change.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-11",
+                    "title": "Breaking the Doomscrolling Habit",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Understanding Doomscrolling",
+                            "body": "Doomscrolling is the compulsive consumption of negative news and social media content. It triggers your brain's threat-detection system, creating a feedback loop that's difficult to break through willpower alone.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Negativity Bias",
+                            "body": "Your brain is wired to pay more attention to negative information because it helped our ancestors survive. Social media platforms exploit this bias by promoting content that generates strong emotional reactions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Identify Your Triggers",
+                            "body": "Common doomscrolling triggers include stress, boredom, anxiety, loneliness, and specific times of day. Track when and where you're most likely to fall into endless scrolling patterns.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p4",
+                            "pageType": "content",
+                            "headline": "The Replacement Strategy",
+                            "body": "You can't eliminate a bad habit \u2013 you can only replace it. When you feel the urge to doomscroll, have a prepared alternative: call a friend, take deep breaths, go for a walk, or read a book.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Time Limits and Boundaries",
+                            "body": "Set specific time limits for news consumption. Check news only once daily, for a maximum of 15 minutes. Use app timers to enforce these boundaries automatically rather than relying on self-control.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p6",
+                            "pageType": "question",
+                            "headline": "Why do social media platforms promote negative content?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Negative content is easier to produce",
+                                    "Users prefer sad stories over happy ones",
+                                    "Algorithms randomly select content types",
+                                    "It exploits our brain's negativity bias"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Curate Your Feed",
+                            "body": "Actively manage what you see online. Unfollow accounts that consistently share negative content. Use keywords to filter out triggering topics. Follow accounts that share positive, educational, or inspiring content instead.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p8",
+                            "pageType": "question",
+                            "headline": "What's the most effective way to break bad habits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Use willpower to completely eliminate them",
+                                    "Gradually reduce the frequency over months",
+                                    "Replace them with alternative behaviors",
+                                    "Ignore them until they disappear naturally"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p9",
+                            "pageType": "content",
+                            "headline": "The 20-20-20 Rule",
+                            "body": "Every 20 minutes of screen time, look at something 20 feet away for 20 seconds. This breaks the hypnotic trance of continuous scrolling and gives your eyes and brain a necessary rest.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p10",
+                            "pageType": "question",
+                            "headline": "What does the 20-20-20 rule help break?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The hypnotic trance of continuous scrolling",
+                                    "Your phone's internet connection temporarily",
+                                    "Bad posture from hunching over devices",
+                                    "The urge to purchase things online"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Physical Interventions",
+                            "body": "Put your phone in another room when you feel the urge to doomscroll. Change your body position \u2013 stand up, stretch, or move to a different location. Physical movement disrupts mental loops.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Mindful Awareness Practice",
+                            "body": "Before opening a social media app, pause and ask: 'What am I looking for?' and 'How will I know when I've found it?' This simple practice introduces consciousness into unconscious habit loops.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Breaking Free",
+                            "body": "Doomscrolling thrives on unconscious behavior. By understanding your triggers, creating alternatives, setting boundaries, and practicing awareness, you can break free from this compulsive cycle and reclaim your attention.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-11-p14",
+                            "pageType": "content",
+                            "headline": "From Breaking to Building",
+                            "body": "You've learned to break the doomscrolling habit through replacement and awareness. The next lesson will show you how to track your digital behaviors to maintain awareness and measure progress.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-12",
+                    "title": "Tracking Your Digital Behavior",
+                    "order": 12,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p1",
+                            "pageType": "content",
+                            "headline": "What Gets Measured Gets Managed",
+                            "body": "Tracking your digital habits makes them visible and creates accountability. Most people drastically underestimate their screen time. Awareness through measurement is the first step toward conscious control.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Built-in Screen Time Tools",
+                            "body": "Both iOS and Android have built-in screen time tracking. These tools show daily usage, app breakdowns, and pickup frequency. Check these reports weekly to understand your patterns and progress.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p3",
+                            "pageType": "content",
+                            "headline": "The Power of Simple Tracking",
+                            "body": "Don't overcomplicate tracking. A simple checkmark on a calendar or moving a paper clip from one jar to another can be more effective than complex apps. Consistency matters more than sophistication.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Track Habits, Not Outcomes",
+                            "body": "Focus on tracking behaviors you control, not results you don't. Track 'phone-free morning routine completed' rather than 'felt more productive today.' Inputs are more reliable than outputs.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Daily vs Weekly Tracking",
+                            "body": "Track simple habits daily but review progress weekly. Daily tracking maintains awareness, while weekly reviews provide perspective and allow for course corrections without becoming obsessive.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Multiple Tracking Methods",
+                            "body": "Use different tracking methods for different habits. App limits for social media, calendar checkmarks for morning routines, and screen time reports for overall awareness. Match the method to the habit.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p7",
+                            "pageType": "content",
+                            "headline": "The Tracking Trap",
+                            "body": "Don't let perfect tracking become another source of stress. Missing a day of tracking doesn't ruin your progress. The goal is awareness and improvement, not perfect data collection.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p8",
+                            "pageType": "question",
+                            "headline": "Why should you track behaviors instead of outcomes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Outcomes are too difficult to measure accurately",
+                                    "Behaviors are easier to remember at day's end",
+                                    "You have direct control over behaviors, not outcomes",
+                                    "Tracking outcomes requires expensive tools"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Weekly Review Questions",
+                            "body": "Ask yourself weekly: What digital habits served me well? Which ones held me back? What patterns do I notice? What will I adjust this week? This reflection turns data into insights.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Sharing Your Progress",
+                            "body": "Consider sharing your digital wellness goals and progress with a friend or online community. Social accountability adds motivation and support while making your commitment more real and public.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Celebrate Small Wins",
+                            "body": "Acknowledge progress, no matter how small. Completing a phone-free morning, sticking to app limits, or having a mindful conversation without distractions are all worthy celebrations.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p12",
+                            "pageType": "question",
+                            "headline": "What's the main purpose of weekly reviews?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To punish yourself for missed goals",
+                                    "To turn tracking data into actionable insights",
+                                    "To compete with others' progress",
+                                    "To create more complex tracking systems"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Measurement Empowers Change",
+                            "body": "Tracking transforms unconscious habits into conscious choices. By measuring your digital behaviors simply and consistently, you gain the awareness needed to make intentional changes that stick.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-12-p14",
+                            "pageType": "content",
+                            "headline": "From Tracking to Identity",
+                            "body": "You now know how to track digital habits effectively. The next lesson explores the most powerful level of change: transforming your identity to naturally support digital wellness behaviors.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-13",
+                    "title": "Creating Your New Digital Identity",
+                    "order": 13,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Identity-Based Change",
+                            "body": "The deepest level of change is identity change. Instead of focusing on what you want to achieve, focus on who you wish to become. Your actions flow from your beliefs about who you are.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p2",
+                            "pageType": "content",
+                            "headline": "From Goal to Identity",
+                            "body": "Replace 'I want to use my phone less' with 'I am someone who values deep focus and meaningful connections.' This shift changes your relationship with technology from restriction to alignment with values.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Digital Identity Examples",
+                            "body": "Consider these identity statements: 'I am someone who uses technology intentionally.' 'I am present in conversations.' 'I protect my attention like a valuable resource.' Choose statements that resonate with you.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What's the deepest level of behavior change?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Changing your daily routines completely",
+                                    "Identity change - who you believe you are",
+                                    "Setting more ambitious goals regularly",
+                                    "Using better apps and technology tools"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p5",
+                            "pageType": "content",
+                            "headline": "The Two-Step Process",
+                            "body": "First, decide the type of person you want to be. Second, prove it to yourself with small wins. Each time you put your phone away for focused work, you reinforce the identity of someone who values deep work.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Evidence Accumulation",
+                            "body": "Every action is a vote for the type of person you wish to become. Avoiding your phone during dinner votes for 'I am present with my family.' These small votes add up to identity change.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Internal vs External Motivation",
+                            "body": "External motivation says 'I have to put my phone away.' Internal motivation says 'Phone-free meals aren't something I do, they're who I am.' Internal motivation is more sustainable.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p8",
+                            "pageType": "question",
+                            "headline": "How do you reinforce a new digital identity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By telling others about your goals",
+                                    "Through small wins that prove it to yourself",
+                                    "By completely avoiding all technology",
+                                    "Through punishment for breaking rules"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Identity Conflict Resolution",
+                            "body": "When old identity conflicts with new behaviors, start small. If you see yourself as 'always connected,' begin with 'I value both connection and focus.' Allow identity evolution rather than revolution.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Values-Aligned Technology Use",
+                            "body": "Align your technology use with your deepest values. If you value creativity, use devices for creative projects. If you value relationships, use technology to deepen connections, not replace them.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p11",
+                            "pageType": "content",
+                            "headline": "The Identity Loop",
+                            "body": "Your habits shape your identity, and your identity shapes your habits. As you consistently choose focused attention over distraction, you become someone who naturally values depth over surface-level engagement.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Daily Identity Reinforcement",
+                            "body": "Start each day by asking: 'What would someone with my desired digital identity do today?' End each day by reflecting on how your actions supported or contradicted that identity.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Becoming Who You Choose",
+                            "body": "Identity change through habits is powerful because it's based on evidence you create yourself. Each positive digital choice reinforces your new identity and makes future good choices feel natural.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-13-p14",
+                            "pageType": "content",
+                            "headline": "From Individual to Community",
+                            "body": "You now understand how to create a new digital identity through small, consistent actions. The next lesson will show you how to build a support system that reinforces these positive changes.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-14",
+                    "title": "Building Your Support System",
+                    "order": 14,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p1",
+                            "pageType": "content",
+                            "headline": "The Social Dimension",
+                            "body": "Habits are easier to change when supported by your social environment. The people around you can either reinforce your digital wellness goals or undermine them through their own behaviors and expectations.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Find Your Tribe",
+                            "body": "Seek out others who share your values around intentional technology use. Join online communities, local groups, or book clubs focused on digital wellness. Surrounding yourself with like-minded people makes change easier.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Communicate Your Goals",
+                            "body": "Tell friends and family about your digital wellness journey. Explain why it matters to you and how they can support you. Most people will respect your boundaries once they understand your reasoning.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Create Household Rules",
+                            "body": "If you live with others, establish shared digital wellness practices. Phone-free meals, device-free bedrooms, or specific times for family connection without screens. Collective commitment strengthens individual resolve.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Accountability Partners",
+                            "body": "Find someone who will check on your progress without judgment. Share your weekly goals and results. Knowing someone cares about your success provides extra motivation during difficult moments.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Model the Change",
+                            "body": "Become the example of healthy digital habits you wish to see. Put your phone away first in social situations. Suggest phone-free activities. Your behavior influences others more than your words.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Handle Social Pressure",
+                            "body": "Some people may resist your digital boundaries because they highlight their own unhealthy patterns. Stay committed to your values while remaining compassionate toward others' different choices.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Professional Boundaries",
+                            "body": "Set clear expectations about digital communication at work. Specify response times for emails and messages. Use 'Do Not Disturb' modes during focused work. Professional boundaries protect personal well-being.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p9",
+                            "pageType": "question",
+                            "headline": "How does your behavior influence others?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Others automatically copy everything you do",
+                                    "Your actions influence others more than your words",
+                                    "People only change through direct confrontation",
+                                    "Social influence only works with family members"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p10",
+                            "pageType": "question",
+                            "headline": "Why might some people resist your digital boundaries?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They prefer more complex technology solutions",
+                                    "Digital boundaries are inherently antisocial",
+                                    "They don't understand how technology works",
+                                    "Your boundaries highlight their own unhealthy patterns"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Online Communities",
+                            "body": "Join forums, social media groups, or apps focused on digital wellness. Share your struggles and victories. Learn from others' experiences. Online support can complement offline relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p12",
+                            "pageType": "question",
+                            "headline": "What makes household digital rules effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They eliminate all technology from the home",
+                                    "Everyone must follow exactly the same rules",
+                                    "Collective commitment strengthens individual resolve",
+                                    "They require expensive monitoring technology"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Support Amplifies Success",
+                            "body": "Building a strong support system multiplies your chances of lasting change. When your environment supports your digital wellness goals, maintaining healthy habits becomes easier and more enjoyable.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-15",
+                    "title": "Advanced Habit Stacking",
+                    "order": 15,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Basic Stacking",
+                            "body": "Advanced habit stacking combines multiple behaviors into seamless sequences. Instead of linking just two habits, you create chains of positive behaviors that naturally flow from one to the next.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Morning Stack Example",
+                            "body": "After I wake up, I will leave my phone charging in the kitchen. After I leave my phone in the kitchen, I will do 5 minutes of stretching. After I stretch, I will meditate for 2 minutes. After I meditate, I will make coffee.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What characterizes advanced habit stacking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Using expensive apps to track multiple habits",
+                                    "Doing all habits at exactly the same time",
+                                    "Creating chains of behaviors that flow together",
+                                    "Making each habit more difficult than the last"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Digital Transition Stacks",
+                            "body": "Create stacks around technology transitions. After I close my laptop, I will put it in my bag. After I put my laptop away, I will tidy my workspace. After I tidy my space, I will write down tomorrow's priorities.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p5",
+                            "pageType": "question",
+                            "headline": "When should you use transition stacks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only during major life changes",
+                                    "When you need to break negative patterns",
+                                    "Around shifts between different activities",
+                                    "Just during stressful periods of life"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Evening Wind-Down Stack",
+                            "body": "After dinner, I will put all devices on the charging station. After devices are charging, I will review my day in my journal. After journaling, I will read for 15 minutes. After reading, I will prepare clothes for tomorrow.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Work Focus Stack",
+                            "body": "After I sit at my desk, I will turn my phone to airplane mode. After airplane mode is on, I will write down my top 3 priorities. After writing priorities, I will set a 25-minute timer. After setting the timer, I will begin my first task.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Stack Troubleshooting",
+                            "body": "If your stack breaks down, identify where it failed and simplify. Long stacks are fragile \u2013 one broken link breaks the whole chain. Start with 2-3 habits maximum, then gradually add more.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Contextual Stacks",
+                            "body": "Create different stacks for different contexts. Home stack, work stack, travel stack. Each environment can have its own sequence of habits that makes sense for that specific situation.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p10",
+                            "pageType": "question",
+                            "headline": "What's the maximum recommended stack length when starting?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One habit only for maximum focus",
+                                    "At least 10 habits for maximum impact",
+                                    "2-3 habits maximum, then gradually add more",
+                                    "As many as you can remember"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Timing Considerations",
+                            "body": "Consider the natural flow of time in your stacks. Quick habits can flow seamlessly, but longer activities might need buffers. Allow flexibility in timing while maintaining the sequence.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p12",
+                            "pageType": "content",
+                            "headline": "The Domino Effect",
+                            "body": "Well-designed habit stacks create positive momentum throughout your day. Each completed stack builds confidence and energy for the next sequence. Small chains create big transformations.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p13",
+                            "pageType": "question",
+                            "headline": "What do well-designed habit stacks create?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Positive momentum throughout your day",
+                                    "Stress from too many things to remember",
+                                    "Rigid schedules that can't be changed",
+                                    "Competition with others' habit systems"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Stacks Create Systems",
+                            "body": "Advanced habit stacking transforms individual behaviors into integrated systems. These sequences become automatic routines that support your digital wellness goals without requiring constant decision-making or willpower.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-16",
+                    "title": "Overcoming Setbacks and Plateaus",
+                    "order": 16,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Setbacks Are Normal",
+                            "body": "Every person working on digital wellness will face setbacks. You'll have days when you scroll mindlessly or break your phone-free commitments. These lapses are part of the process, not signs of failure.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p2",
+                            "pageType": "content",
+                            "headline": "The Never Miss Twice Rule",
+                            "body": "The key to resilience is getting back on track immediately after a setback. Missing once is an accident. Missing twice is the start of a new negative pattern. Recovery speed matters more than perfect consistency.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Learn from Lapses",
+                            "body": "When you break a digital habit, analyze what happened without judgment. Were you stressed? Tired? Bored? Understanding your triggers helps you prepare better strategies for similar situations in the future.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p4",
+                            "pageType": "content",
+                            "headline": "The Valley of Disappointment",
+                            "body": "Progress often feels slow because benefits accumulate gradually. You might implement digital wellness habits for weeks before feeling significantly different. Trust the process during these flat periods.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p5",
+                            "pageType": "question",
+                            "headline": "What's the most important factor for habit resilience?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect consistency without any mistakes",
+                                    "Having very ambitious goals from the start",
+                                    "Recovery speed after setbacks occurs",
+                                    "Comparing your progress to others"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Plateau Breakthrough Strategies",
+                            "body": "When progress stagnates, try slight variations to your existing habits. Change the time, location, or method. Add a new element or remove friction. Small adjustments can reignite momentum.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Stress and Digital Habits",
+                            "body": "High stress often triggers relapse into old digital patterns. During difficult periods, focus on maintaining your easiest, most established habits. Don't try to improve \u2013 just maintain what you have.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Environment Reset",
+                            "body": "Sometimes you need to refresh your environment to break through plateaus. Rearrange your workspace, try new locations for reading, or change your phone's wallpaper to remind yourself of your goals.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Social Support During Struggles",
+                            "body": "Reach out to your support network during challenging periods. Share your struggles honestly. Often, others have faced similar challenges and can offer practical advice or simple encouragement.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p10",
+                            "pageType": "question",
+                            "headline": "How should you handle digital habits during high stress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Completely abandon all digital wellness efforts",
+                                    "Focus on maintaining your easiest, established habits",
+                                    "Double down and add more restrictive rules",
+                                    "Take a complete break from all technology"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Measuring Different Metrics",
+                            "body": "If your primary metric isn't improving, look at other indicators. Maybe your screen time hasn't decreased, but your focus during work has improved. Maybe you're more present in conversations. Progress has many forms.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Digital wellness is a lifelong practice, not a destination. Expect ups and downs, periods of progress and maintenance. The goal isn't perfection \u2013 it's developing a sustainable, healthy relationship with technology.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Resilience Builds Strength",
+                            "body": "Each time you recover from a setback, you build psychological resilience. These experiences teach you that temporary lapses don't define you. Your ability to return to good habits matters more than never failing.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "atomic_habits_screen_time-1-17",
+                    "title": "Long-Term Digital Wellness",
+                    "order": 17,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Initial Success",
+                            "body": "Building digital wellness habits is just the beginning. The real challenge is maintaining these behaviors as your life changes and new technologies emerge. Long-term success requires adaptive strategies.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Regular Habit Audits",
+                            "body": "Schedule monthly reviews of your digital habits. What's working well? What needs adjustment? Which habits have become automatic? This reflection prevents drift and maintains intentionality.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p3",
+                            "pageType": "question",
+                            "headline": "Why are regular habit audits important?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To compete with others' progress",
+                                    "They prevent drift and maintain intentionality",
+                                    "To create detailed tracking spreadsheets",
+                                    "To impress others with your discipline"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p4",
+                            "pageType": "question",
+                            "headline": "What's the real challenge with digital wellness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Learning the initial habits correctly",
+                                    "Maintaining behaviors as life and technology change",
+                                    "Finding the right apps and tools to use",
+                                    "Convincing others to adopt similar habits"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Adapting to New Technology",
+                            "body": "New apps, devices, and platforms will constantly emerge. Apply your core principles \u2013 make good habits obvious, attractive, easy, and satisfying \u2013 to evaluate and integrate new technologies thoughtfully.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Life Transitions",
+                            "body": "Major life changes \u2013 new jobs, relationships, moves \u2013 can disrupt established digital habits. Prepare for transitions by identifying your most important habits and planning how to maintain them in new contexts.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Teaching Others",
+                            "body": "One of the best ways to reinforce your own digital wellness is teaching others. Share your strategies with friends, family, or colleagues. Teaching deepens your understanding and creates accountability.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Continuous Learning",
+                            "body": "Stay informed about digital wellness research and new strategies. Read books, listen to podcasts, or join communities focused on technology's impact on well-being. Keep evolving your approach.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p9",
+                            "pageType": "question",
+                            "headline": "How does teaching others help your digital wellness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It makes you feel superior to others",
+                                    "Teaching deepens understanding and creates accountability",
+                                    "You can charge money for your expertise",
+                                    "It eliminates the need for personal practice"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Maintaining Perspective",
+                            "body": "Remember that technology is a tool, not a master. Your goal isn't to eliminate technology but to use it intentionally in service of your values and goals. Maintain this perspective through all changes.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p11",
+                            "pageType": "question",
+                            "headline": "What's the ultimate goal of digital wellness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To eliminate all technology from your life",
+                                    "To use technology intentionally for your values",
+                                    "To have the lowest screen time possible",
+                                    "To convince others to use less technology"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Your Digital Legacy",
+                            "body": "Consider the long-term impact of your digital habits on your relationships, career, health, and personal growth. The habits you build now will compound over decades. Choose wisely.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "atomic_habits_screen_time-1-17-p13",
+                            "pageType": "content",
+                            "headline": "Celebrating the Journey",
+                            "body": "Acknowledge how far you've come in your digital wellness journey. Every moment of conscious choice, every habit maintained, every setback overcome has contributed to your growth and well-being.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.4,
+    "tag": "Bestseller"
+}
