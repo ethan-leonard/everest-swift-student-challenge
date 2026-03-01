@@ -92,7 +92,14 @@ struct ProfileView: View {
                     
                     bentoGrid
                     
-                    ScreenTimePlaceholderView()
+                    ScreenTimeChartView(
+                        hourlyMinutes: [5, 2, 0, 0, 0, 8, 15, 20, 10, 5, 3, 2, 8, 12, 15, 10, 8, 5, 3, 2, 1, 0, 0, 0],
+                        totalMinutes: 312,
+                        formattedTime: "5h 12m Daily Average",
+                        weekMinutes: [120, 95, 83, 110, 75, 45, 30],
+                        monthMinutes: Array(repeating: 90, count: 30),
+                        yearMinutes: [2800, 2600, 2400, 2700, 2500, 2300, 2100, 2000, 2200, 2400, 2600, 83]
+                    )
                     
                     WeeklyBarChart(
                         dailyCounts: knowledgeData,
