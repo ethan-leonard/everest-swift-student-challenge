@@ -21,15 +21,7 @@ struct WeeklyStreakBar: View {
     }
     
     private var displayStreak: Int {
-        actualStreak > 0 ? actualStreak : calculateFromArray()
-    }
-    
-    private func calculateFromArray() -> Int {
-        var count = 0
-        for completed in streakDays.reversed() {
-            if completed { count += 1 } else { break }
-        }
-        return count
+        return actualStreak // For the playground demo, we always want the exact computed integer to sync with the Profile card.
     }
     
     // Identify today's index (0-6) based on current weekday
