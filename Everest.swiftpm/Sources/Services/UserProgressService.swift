@@ -25,7 +25,8 @@ final class UserProgressService {
             userProgress = savedProgress
         } else {
             // Seed the playground with a realistic demo slate requested by the user
-            let yesterday = Calendar.current.date(byAdding: .day, value: -1, to: Date()) ?? Date()
+            let todayStart = Calendar.current.startOfDay(for: Date())
+            let yesterday = Calendar.current.date(byAdding: .day, value: -1, to: todayStart) ?? todayStart
             
             let mockProgress = UserProgress(
                 hoursReclaimed: 12.5,
@@ -40,6 +41,7 @@ final class UserProgressService {
                 currentLevel: 2,
                 activeCourseId: "deep_work_mastery",
                 lastActivityDate: yesterday, // So the streak isn't lost, but today is a fresh opportunity
+                lastStreakDate: yesterday, // Explicitly anchor the streak to yesterday so completing a lesson today counts as day 4
                 baselineScreenTimeMinutes: 240, // 4 hours baseline
                 screenTimeGoalMinutes: 120 // 2 hours goal
             )
@@ -262,9 +264,13 @@ final class UserProgressService {
             let daysDiff = Calendar.current.dateComponents([.day], from: lastStreakDay, to: today).day ?? 0
             
             if daysDiff == 1 {
+                // Legitimate next-day increment
                 progress.currentStreak += 1
                 incremented = true
                 progress.lastStreakDate = today
+            } else if daysDiff == 0 {
+                // Already did a lesson today, prevent dropping streak
+                incremented = false
             } else if daysDiff > 1 {
                 progress.currentStreak = 1
                 incremented = true

@@ -54,10 +54,15 @@ struct JourneyView: View {
         let todayIndex = Calendar.current.component(.weekday, from: Date()) - 1
         var demoStreakDays = Array(repeating: false, count: 7)
         
-        // Light up the 3 days prior to today
+        // Light up the 3 days prior to today consistently
         for offset in 1...3 {
             let index = (todayIndex - offset + 7) % 7
             demoStreakDays[index] = true
+        }
+        
+        // If the user actually completed a lesson today and incremented the streak, light up today as well
+        if let lastStreak = progress.lastStreakDate, Calendar.current.isDateInToday(lastStreak) {
+            demoStreakDays[todayIndex] = true
         }
         
         return demoStreakDays
