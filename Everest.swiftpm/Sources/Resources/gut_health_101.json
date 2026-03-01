@@ -1,0 +1,2050 @@
+{
+    "id": "gut_health_101",
+    "title": "Gut Health 101",
+    "description": "Your second brain lives in your belly. Learn how the gut microbiome affects mood, immunity, and overall health.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/gut_health_101.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract intestinal shape with beneficial bacteria patterns flowing through, sage green healthy microbiome with charcoal balanced structure, digestive wellness aesthetic",
+    "altitude": 2700,
+    "durationMinutes": 81,
+    "whatsInside": [
+        "Understand the gut-brain connection and its impact on mood",
+        "Learn which foods feed beneficial bacteria",
+        "Identify gut disruptors to avoid",
+        "Build a gut-friendly eating pattern for lasting health",
+        "Address common digestive issues",
+        "Navigate supplements and testing"
+    ],
+    "expertReview": {
+        "quote": "The gut is increasingly recognized as the foundation of health. This course translates complex research into practical guidance.",
+        "name": "Dr. Will Bulsiewicz",
+        "title": "Gastroenterologist & Author, Fiber Fueled"
+    },
+    "chapters": [
+        {
+            "id": "gut_health_101-ch1",
+            "title": "Gut Health Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "gut_health_101-1-1",
+                    "title": "Your Inner Ecosystem",
+                    "order": 1,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Meet Your Microscopic City",
+                            "body": "Your gut houses over 100 trillion bacteria - more cells than in your entire body. This complex ecosystem, called your microbiome, weighs about 3 pounds and contains over 1,000 different species. Think of it as a bustling city where different bacterial communities work together to keep you healthy.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Your Second Brain Lives Here",
+                            "body": "Your gut contains more nerve cells than your spinal cord - about 500 million neurons. These cells communicate directly with your brain through the vagus nerve, sending signals that affect your mood, immune system, and decision-making. This gut-brain highway processes information faster than conscious thought.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Immune System Headquarters",
+                            "body": "Nearly 70% of your immune system lives in your gut. The beneficial bacteria act like security guards, identifying friend from foe and training your immune cells. When your microbiome is balanced, it creates a protective barrier against harmful pathogens and inflammation.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p4",
+                            "pageType": "question",
+                            "headline": "What percentage of your immune system is located in your gut?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 50%",
+                                    "About 60%",
+                                    "Nearly 70%",
+                                    "Around 80%"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Chemical Messengers at Work",
+                            "body": "Your gut bacteria produce over 30 different neurotransmitters, including 95% of your body's serotonin. These chemical messengers don't just affect digestion - they influence your mood, sleep patterns, and stress response. A healthy microbiome literally helps you feel better.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Diversity Equals Resilience",
+                            "body": "A diverse microbiome is like a rich ecosystem - it's more stable and resilient to disruption. People with greater bacterial diversity tend to have better health outcomes and stronger immune responses. Modern lifestyle factors can reduce this diversity, making gut health maintenance crucial.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p7",
+                            "pageType": "question",
+                            "headline": "How many different neurotransmitters do gut bacteria produce?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Over 30",
+                                    "About 25",
+                                    "Around 20",
+                                    "Nearly 40"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p8",
+                            "pageType": "content",
+                            "headline": "The Metabolic Powerhouse",
+                            "body": "Your gut bacteria help digest food you can't break down alone, producing short-chain fatty acids that fuel your colon cells. They also synthesize essential vitamins like B12, folate, and vitamin K. This metabolic partnership has evolved over millions of years.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Personal Bacterial Fingerprint",
+                            "body": "Your microbiome is as unique as your fingerprint, shaped by genetics, birth method, diet, and environment. No two people have identical bacterial communities. This uniqueness means personalized approaches to gut health are most effective.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Foundation of Wellness",
+                            "body": "A healthy gut influences virtually every aspect of your health - from nutrient absorption and hormone production to mood regulation and disease prevention. Understanding this inner ecosystem is the first step toward optimizing your overall wellbeing.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What makes each person's microbiome unique?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only genetics",
+                                    "Only diet choices",
+                                    "Genetics, birth method, diet, environment",
+                                    "Only environmental factors"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Your Journey Starts Now",
+                            "body": "Now that you understand the incredible complexity and importance of your gut ecosystem, you're ready to learn how to nurture it. The following lessons will give you practical tools to optimize this vital system. Your gut health journey begins with this knowledge foundation.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-2",
+                    "title": "The Gut-Brain Connection",
+                    "order": 2,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Two-Way Information Highway",
+                            "body": "Your gut and brain communicate constantly through a superhighway called the gut-brain axis. This bidirectional system uses nerves, hormones, and immune signaling to share information. What happens in your gut directly influences your mental state, and stress in your brain affects digestive health.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Vagus Nerve Express",
+                            "body": "The vagus nerve acts like a high-speed internet cable connecting your gut to your brain. This longest cranial nerve carries signals both ways, transmitting information about hunger, fullness, and digestive health upward. It also sends calming signals downward when you're relaxed.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Bacterial Mood Makers",
+                            "body": "Specific bacteria strains directly influence your emotional state. Lactobacillus helveticus reduces anxiety and depression, while Bifidobacterium longum improves stress resilience. These 'psychobiotic' bacteria produce neurotransmitters that travel to your brain via the bloodstream.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Stress Disrupts Digestion",
+                            "body": "When you're stressed, blood flow diverts away from your digestive system to prepare for 'fight or flight.' This reduces stomach acid production, slows gut motility, and can increase intestinal permeability. Chronic stress creates a cycle of digestive dysfunction and mood problems.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p5",
+                            "pageType": "content",
+                            "headline": "The Serotonin Factory",
+                            "body": "Your gut produces 95% of your body's serotonin, the 'happiness hormone.' This neurotransmitter regulates mood, sleep, and appetite. Gut bacteria help convert the amino acid tryptophan into serotonin, making bacterial health crucial for mental wellbeing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What percentage of the body's serotonin is produced in the gut?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "95%",
+                                    "85%",
+                                    "75%",
+                                    "90%"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Inflammation's Mental Impact",
+                            "body": "An unhealthy gut can become 'leaky,' allowing toxins to enter your bloodstream and trigger systemic inflammation. This inflammation reaches your brain, contributing to depression, anxiety, and cognitive fog. Healing gut barrier function often improves mental clarity.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Food Cravings Start Here",
+                            "body": "Your gut bacteria can hijack your food cravings to get the nutrients they prefer. Sugar-loving bacteria send signals that make you crave sweets, while beneficial bacteria promote cravings for fiber-rich foods. Changing your diet changes which bacteria thrive and what you crave.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p9",
+                            "pageType": "question",
+                            "headline": "How do gut bacteria influence food cravings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They send signals for preferred nutrients",
+                                    "They block hunger hormones",
+                                    "They increase metabolism",
+                                    "They reduce appetite completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Sleep and Gut Health Loop",
+                            "body": "Your gut bacteria follow circadian rhythms, with different species becoming active at different times. Disrupted sleep patterns can throw off this bacterial clock, leading to digestive issues. Poor gut health also disrupts sleep by affecting melatonin production.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p11",
+                            "pageType": "question",
+                            "headline": "What connects gut bacteria activity to sleep patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Blood sugar levels",
+                                    "Circadian rhythms",
+                                    "Exercise timing",
+                                    "Meal frequency"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Healing Both Systems Together",
+                            "body": "The gut-brain connection means you can't optimize one without considering the other. Meditation and stress reduction heal your gut, while probiotics and gut-healthy foods improve mental health. This integrated approach delivers the most powerful results for both systems.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-3",
+                    "title": "Meet Your Microbiome",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Bacterial Universe Within",
+                            "body": "Your microbiome contains more genetic material than your human cells - over 3 million bacterial genes compared to about 20,000 human genes. This vast genetic library gives bacteria incredible abilities to adapt, communicate, and perform functions your body cannot do alone.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Major Bacterial Families",
+                            "body": "Five main bacterial families dominate your gut: Firmicutes (energy harvesters), Bacteroidetes (fiber digesters), Proteobacteria (potential troublemakers), Actinobacteria (vitamin producers), and Verrucomicrobia (mucus specialists). Each family has specific roles in maintaining your health.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p3",
+                            "pageType": "content",
+                            "headline": "The Good Guys Team",
+                            "body": "Beneficial bacteria like Lactobacillus and Bifidobacterium act as your body's allies. They produce vitamins, crowd out harmful microbes, strengthen intestinal barriers, and train your immune system. These 'good guys' thrive on fiber and fermented foods.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p4",
+                            "pageType": "question",
+                            "headline": "Which bacterial family specializes in digesting fiber?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Firmicutes",
+                                    "Proteobacteria",
+                                    "Bacteroidetes",
+                                    "Actinobacteria"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p5",
+                            "pageType": "question",
+                            "headline": "How many bacterial genes exist in your microbiome?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Over 3 million",
+                                    "About 1 million",
+                                    "Around 500,000",
+                                    "Nearly 2 million"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Neutral Neighbors",
+                            "body": "Most gut bacteria are commensal - neither helpful nor harmful under normal conditions. These neutral neighbors can tip toward beneficial or pathogenic depending on your diet, stress levels, and overall health. The goal is creating conditions that keep them friendly.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Potential Troublemakers",
+                            "body": "Some bacteria can become problematic when allowed to overgrow. E. coli, certain Clostridium species, and Candida yeast can cause inflammation and digestive issues. These opportunistic microbes thrive on sugar and processed foods while struggling in diverse, fiber-rich environments.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Location Matters",
+                            "body": "Different gut regions house different bacterial communities. Your small intestine has fewer bacteria but more variety, while your colon contains the highest density. The appendix acts as a 'safe house' storing beneficial bacteria to repopulate your gut after disruption.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p9",
+                            "pageType": "question",
+                            "headline": "What role does the appendix play in gut health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Produces digestive enzymes",
+                                    "Filters toxins",
+                                    "Stores beneficial bacteria",
+                                    "Absorbs vitamins"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Bacterial Communication Networks",
+                            "body": "Bacteria communicate through chemical signaling called quorum sensing. They share information about food availability, threats, and population density. This bacterial 'internet' allows coordinated responses and helps maintain community balance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p11",
+                            "pageType": "question",
+                            "headline": "What do bacteria use to communicate with each other?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Quorum sensing",
+                                    "Electrical signals",
+                                    "Physical contact",
+                                    "Sound waves"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Your Microbial Fingerprint Evolves",
+                            "body": "While your core microbiome stays relatively stable, it adapts to changes in diet, environment, and lifestyle. You can influence which bacterial communities thrive through your daily choices. This plasticity means you have significant control over your gut health.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Balance Creates Health",
+                            "body": "A healthy microbiome isn't about having specific bacteria - it's about maintaining balance and diversity. No single 'perfect' microbiome exists, but certain patterns indicate health: high diversity, beneficial bacteria dominance, and stable communities that resist disruption.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-4",
+                    "title": "Fiber: Your Gut's Best Friend",
+                    "order": 4,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Ultimate Gut Food",
+                            "body": "Fiber is the single most important nutrient for gut health, yet 95% of Americans don't get enough. Unlike other nutrients, fiber feeds your bacteria rather than you directly. These bacterial allies transform fiber into powerful compounds that heal and protect your entire digestive system.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Two Types, Different Jobs",
+                            "body": "Soluble fiber dissolves in water, forming a gel that slows digestion and helps control blood sugar. Insoluble fiber adds bulk and speeds waste through your system. Both types feed different bacterial species, so variety in fiber sources creates a more diverse and resilient microbiome.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Short-Chain Fatty Acid Factory",
+                            "body": "When bacteria ferment fiber, they produce short-chain fatty acids (SCFAs) - particularly butyrate, propionate, and acetate. These compounds fuel your colon cells, reduce inflammation, strengthen gut barriers, and even influence brain function. SCFAs are like premium gasoline for your gut.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p4",
+                            "pageType": "content",
+                            "headline": "The Prebiotic Powerhouse",
+                            "body": "Prebiotic fibers selectively feed beneficial bacteria while starving harmful ones. Inulin, oligofructose, and resistant starch are particularly effective prebiotics. Think of them as precision fertilizers that help your gut garden bloom with healthy bacterial diversity.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Fiber's Protective Barrier",
+                            "body": "Adequate fiber intake maintains the mucus layer that protects your intestinal walls. Without enough fiber, this protective barrier thins, allowing harmful substances to contact gut tissue directly. This can trigger inflammation and compromise your immune system's first line of defense.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Blood Sugar Balance",
+                            "body": "Soluble fiber slows glucose absorption, preventing blood sugar spikes that feed harmful bacteria and yeast. Stable blood sugar creates an environment where beneficial bacteria thrive. This connection explains why high-fiber diets reduce diabetes risk and improve metabolic health.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p7",
+                            "pageType": "question",
+                            "headline": "What percentage of Americans get adequate fiber intake?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 15%",
+                                    "Only 5%",
+                                    "Around 25%",
+                                    "Nearly 10%"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p8",
+                            "pageType": "question",
+                            "headline": "Which compounds do bacteria produce when fermenting fiber?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Amino acids",
+                                    "Simple sugars",
+                                    "Vitamins",
+                                    "Short-chain fatty acids"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Fiber-Rich Food Sources",
+                            "body": "Vegetables, fruits, legumes, whole grains, nuts, and seeds provide different types of fiber. Each source feeds different bacterial species, so dietary variety is crucial. Aim for 30+ grams daily from whole food sources rather than supplements when possible.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p10",
+                            "pageType": "question",
+                            "headline": "What's the recommended daily fiber intake for optimal gut health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "30+ grams",
+                                    "20+ grams",
+                                    "40+ grams",
+                                    "25+ grams"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Start Slow, Go Steady",
+                            "body": "Rapidly increasing fiber can cause gas and bloating as your bacteria adjust. Start with 5-10 grams above your current intake and increase gradually over weeks. This allows your microbiome to adapt and produce the enzymes needed to process more fiber efficiently.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Hydration Amplifies Benefits",
+                            "body": "Fiber works best with adequate water intake. Soluble fiber needs water to form beneficial gels, while insoluble fiber needs water to move smoothly through your system. Aim for half your body weight in ounces of water daily when increasing fiber intake.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-5",
+                    "title": "Fermented Foods Power",
+                    "order": 5,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Ancient Wisdom, Modern Science",
+                            "body": "Humans have fermented foods for over 9,000 years, long before understanding bacteria. This ancient preservation method creates beneficial microbes that support gut health. Modern research confirms what our ancestors knew intuitively - fermented foods are medicine for the microbiome.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Live Cultures vs Dead Products",
+                            "body": "True fermented foods contain live, active cultures that can temporarily colonize your gut. Heat-treated or shelf-stable versions like most store-bought pickles lack these beneficial microbes. Look for refrigerated products with 'live cultures' or 'unpasteurized' on labels.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Diversity Through Fermentation",
+                            "body": "Different fermented foods contain unique bacterial strains. Yogurt provides Lactobacillus bulgaricus, kimchi offers Lactobacillus kimchii, and kefir contains over 12 different probiotic species. This diversity gives you a broader range of beneficial effects than any single supplement could provide.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Pre-Digested Nutrition",
+                            "body": "Fermentation partially breaks down proteins, fats, and carbohydrates, making nutrients more bioavailable. This pre-digestion process can help people with sensitive digestive systems absorb nutrients better. Fermented dairy, for example, often works for those with mild lactose intolerance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Vitamin and Enzyme Boost",
+                            "body": "Fermentation increases certain vitamins, particularly B vitamins and vitamin K2. Beneficial bacteria also produce enzymes that help digest food and absorb minerals. Some fermented foods contain 10 times more folate than their fresh counterparts.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Top Fermented Food Champions",
+                            "body": "Yogurt with live cultures, kefir, sauerkraut, kimchi, miso, tempeh, and kombucha top the list. Each provides different bacterial strains and nutrients. Rotate between various fermented foods to maximize microbial diversity and avoid getting bored with flavors.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p7",
+                            "pageType": "question",
+                            "headline": "What should you look for to ensure fermented foods contain live cultures?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Shelf-stable packaging",
+                                    "Heat-treated labels",
+                                    "Room temperature storage",
+                                    "Refrigerated with 'live cultures'"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "A small serving of high-quality fermented food daily beats large amounts occasionally. Start with 1-2 tablespoons of sauerkraut or a small cup of kefir. Consistent intake allows beneficial bacteria to establish temporary residence and provide ongoing benefits.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Making Your Own",
+                            "body": "Homemade fermented foods often contain more diverse bacteria than commercial versions. Simple ferments like sauerkraut require only cabbage and salt. The fermentation process is forgiving, and homemade versions typically cost less while providing superior probiotic content.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p10",
+                            "pageType": "question",
+                            "headline": "How much fermented food should you start with daily?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "1 full cup",
+                                    "1-2 tablespoons",
+                                    "Half a cup",
+                                    "2-3 tablespoons"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Temporary Residents",
+                            "body": "Most probiotic bacteria from fermented foods don't permanently colonize your gut - they're temporary visitors that provide benefits during their stay. This transient nature means consistent consumption is important for ongoing benefits, rather than expecting permanent changes from occasional intake.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Beyond the Gut Benefits",
+                            "body": "Fermented foods reduce inflammation markers, improve immune function, and may even help with weight management. Some studies show they can lower blood pressure and cholesterol levels. These whole-body benefits extend far beyond digestive health alone.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-6",
+                    "title": "Probiotics vs Prebiotics",
+                    "order": 6,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Dynamic Duo Explained",
+                            "body": "Probiotics are live beneficial bacteria you consume, while prebiotics are foods that feed the good bacteria already in your gut. Think of probiotics as seeds and prebiotics as fertilizer. Both are essential, but they work in different ways to optimize your microbiome.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Probiotic Supplement Science",
+                            "body": "Probiotic supplements contain specific bacterial strains in measured doses, typically millions to billions of CFUs (colony forming units). However, many factors affect their survival - stomach acid, timing with meals, and individual gut conditions all influence whether they reach your colon alive.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p3",
+                            "pageType": "question",
+                            "headline": "What's the main difference between probiotics and prebiotics?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Probiotics are synthetic, prebiotics natural",
+                                    "Probiotics cost more than prebiotics",
+                                    "Probiotics are live bacteria, prebiotics feed bacteria",
+                                    "Probiotics work faster than prebiotics"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Strain-Specific Benefits",
+                            "body": "Different probiotic strains provide specific benefits. Lactobacillus rhamnosus GG helps with antibiotic-associated diarrhea, while Bifidobacterium infantis reduces IBS symptoms. This specificity means choosing the right strain for your needs is more important than just taking any probiotic.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Prebiotic Fiber Advantages",
+                            "body": "Prebiotics feed your existing beneficial bacteria, encouraging their growth and activity. This approach can be more effective than probiotics because it works with bacteria already adapted to your unique gut environment. Prebiotics also typically cost less and have longer shelf lives.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Best Prebiotic Sources",
+                            "body": "Jerusalem artichokes, garlic, onions, leeks, asparagus, bananas, and oats contain rich prebiotic fibers. These foods provide inulin, oligofructose, and resistant starch that selectively feed beneficial bacteria. Variety ensures you're feeding different bacterial species.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p7",
+                            "pageType": "question",
+                            "headline": "Why might prebiotics be more effective than probiotics for some people?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They work with existing adapted bacteria",
+                                    "They contain more bacterial strains",
+                                    "They survive stomach acid better",
+                                    "They provide immediate benefits"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Timing and Dosage Matters",
+                            "body": "Take probiotics on an empty stomach or with a small meal to improve survival rates. Consistency matters more than mega-doses - regular smaller amounts often work better than occasional large doses. Most research supports 1-10 billion CFUs daily for general health maintenance.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Quality Control Issues",
+                            "body": "Many probiotic supplements don't contain the bacteria listed on labels due to poor storage, manufacturing, or shelf life. Look for third-party tested products, proper refrigeration when needed, and expiration dates. Reputable brands invest in stability testing and proper storage.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Synbiotic Synergy",
+                            "body": "Synbiotics combine probiotics and prebiotics in one product, providing both the beneficial bacteria and their preferred food. This combination can improve probiotic survival and effectiveness. Some evidence suggests synbiotics work better than either component alone.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Individual Response Varies",
+                            "body": "Your response to probiotics and prebiotics depends on your existing microbiome, genetics, diet, and health status. What works for others might not work for you. Start with small amounts, track symptoms, and adjust based on your body's response rather than following generic recommendations.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Food First Philosophy",
+                            "body": "Whole foods provide probiotics and prebiotics in natural combinations along with other beneficial compounds. Fermented foods offer probiotics with naturally occurring prebiotics, while fiber-rich plants provide diverse prebiotics. This food-first approach often delivers superior results to isolated supplements.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p13",
+                            "pageType": "question",
+                            "headline": "What do synbiotics provide that individual supplements don't?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Both probiotics and prebiotics together",
+                                    "Higher bacterial counts",
+                                    "Better taste",
+                                    "Lower cost per dose"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-6-p14",
+                            "pageType": "content",
+                            "headline": "The Balanced Approach",
+                            "body": "The most effective gut health strategy combines both probiotics from fermented foods and prebiotics from fiber-rich plants. This dual approach feeds existing beneficial bacteria while introducing new beneficial strains. Balance and consistency create the optimal environment for a thriving microbiome.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-7",
+                    "title": "Gut Disruptors to Avoid",
+                    "order": 7,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Modern Life's Hidden Threats",
+                            "body": "Your gut faces daily challenges from substances that didn't exist when your microbiome evolved. Antibiotics, artificial sweeteners, ultra-processed foods, and chronic stress create an environment where harmful bacteria thrive while beneficial ones struggle to survive.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Antibiotic Double-Edge",
+                            "body": "Antibiotics save lives by killing harmful bacteria, but they also destroy beneficial microbes indiscriminately. A single course can reduce gut bacterial diversity by 25-50%, and some populations never fully recover. This collateral damage can persist for years, affecting immunity and digestion.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p3",
+                            "pageType": "question",
+                            "headline": "How much can a single antibiotic course reduce gut bacterial diversity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "25-50%",
+                                    "10-25%",
+                                    "50-75%",
+                                    "5-15%"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Artificial Sweetener Disruption",
+                            "body": "Sugar substitutes like aspartame, sucralose, and saccharin alter gut bacteria composition and can increase glucose intolerance. These compounds selectively kill beneficial bacteria while allowing harmful ones to flourish. Even 'natural' sweeteners like stevia can disrupt microbial balance in some people.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Ultra-Processed Food Damage",
+                            "body": "Foods with long ingredient lists containing preservatives, emulsifiers, and artificial additives harm gut bacteria. These substances strip away the mucus layer protecting your intestinal walls and reduce bacterial diversity. The more processed your diet, the less diverse your microbiome becomes.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Emulsifiers: The Hidden Culprits",
+                            "body": "Common food emulsifiers like polysorbate 80 and carboxymethylcellulose thin the protective mucus barrier and promote inflammatory bacteria. These additives appear in everything from ice cream to salad dressings. Reading labels becomes crucial for identifying these gut disruptors.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Chronic Stress Assault",
+                            "body": "Ongoing stress floods your system with cortisol, reducing beneficial bacteria and increasing harmful ones. Stress also decreases stomach acid production and slows gut motility, creating an environment where pathogenic bacteria can overgrow. The gut-brain axis works both ways.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p8",
+                            "pageType": "content",
+                            "headline": "NSAIDs and Gut Bleeding",
+                            "body": "Non-steroidal anti-inflammatory drugs like ibuprofen can damage the intestinal lining, causing microscopic bleeding and inflammation. Regular use alters gut bacteria composition and increases intestinal permeability. These effects occur even with over-the-counter doses.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Alcohol's Bacterial Imbalance",
+                            "body": "Alcohol acts as an antiseptic in your gut, killing beneficial bacteria while allowing opportunistic ones to overgrow. It also increases intestinal permeability and reduces the production of protective short-chain fatty acids. Even moderate consumption can shift bacterial populations unfavorably.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What effect do emulsifiers have on gut health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They increase beneficial bacteria",
+                                    "They thin the protective mucus barrier",
+                                    "They improve nutrient absorption",
+                                    "They reduce inflammation"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Agricultural Chemical Residues",
+                            "body": "Pesticides and herbicides on conventionally grown produce can disrupt gut bacteria. Glyphosate, the world's most widely used herbicide, may act as an antibiotic in your gut. Choosing organic for the 'Dirty Dozen' produce items reduces exposure to these bacterial disruptors.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Minimizing Unavoidable Damage",
+                            "body": "When antibiotics are medically necessary, take probiotics during and after treatment to help restore bacterial balance. Support your gut with extra fiber and fermented foods. For other disruptors, read labels carefully and choose whole, minimally processed foods whenever possible.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Recovery and Resilience",
+                            "body": "Your gut has remarkable healing abilities when given the right conditions. Removing disruptors while adding beneficial foods, managing stress, and supporting sleep can restore microbial balance. Recovery takes time, but consistent positive changes create lasting improvements in gut health.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-8",
+                    "title": "Common Digestive Issues",
+                    "order": 8,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-8-p1",
+                            "pageType": "content",
+                            "headline": "When Things Go Wrong",
+                            "body": "Digestive issues affect 60-70 million Americans annually, yet many suffer in silence. Understanding common gut problems helps you identify patterns in your own symptoms and know when dietary changes might help versus when medical attention is needed.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p2",
+                            "pageType": "content",
+                            "headline": "IBS: The Most Common Disorder",
+                            "body": "Irritable Bowel Syndrome affects 10-15% of adults, causing abdominal pain, bloating, and altered bowel habits. While the exact cause remains unclear, gut bacteria imbalances, food sensitivities, and stress all play roles. IBS significantly impacts quality of life but isn't life-threatening.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p3",
+                            "pageType": "content",
+                            "headline": "SIBO: Small Intestinal Bacterial Overgrowth",
+                            "body": "SIBO occurs when bacteria overgrow in the small intestine, where numbers should be relatively low. This causes bloating, gas, and malabsorption of nutrients. SIBO often develops after antibiotic use, food poisoning, or conditions that slow gut motility.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Leaky Gut Syndrome",
+                            "body": "Increased intestinal permeability allows toxins, bacteria, and food particles to cross the gut barrier into the bloodstream. This triggers inflammation and immune reactions throughout the body. While controversial in conventional medicine, research increasingly supports the leaky gut concept.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Food Intolerances vs Allergies",
+                            "body": "Food intolerances involve digestive system reactions to specific foods, while allergies involve immune system responses. Lactose intolerance, fructose malabsorption, and histamine intolerance are common examples that can cause gas, bloating, and diarrhea without being true allergies.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p6",
+                            "pageType": "question",
+                            "headline": "What percentage of adults are affected by IBS?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "5-8%",
+                                    "15-20%",
+                                    "20-25%",
+                                    "10-15%"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Inflammatory Bowel Disease",
+                            "body": "IBD includes Crohn's disease and ulcerative colitis - serious autoimmune conditions causing chronic inflammation. Unlike IBS, IBD involves visible tissue damage and requires medical treatment. Symptoms include bloody diarrhea, weight loss, and severe abdominal pain.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Candida Overgrowth",
+                            "body": "Candida yeast naturally exists in small amounts in your gut, but can overgrow after antibiotic use or high-sugar diets. Symptoms may include brain fog, fatigue, sugar cravings, and digestive issues. While overgrowth does occur, systemic candidiasis is rare in healthy individuals.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Gastroparesis: Delayed Emptying",
+                            "body": "Gastroparesis occurs when the stomach muscles don't contract properly, causing food to empty slowly. This can lead to nausea, vomiting, and bacterial overgrowth. Diabetes is the most common cause, though many cases have no identifiable trigger.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p10",
+                            "pageType": "question",
+                            "headline": "What's the main difference between IBS and IBD?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "IBS affects more people than IBD",
+                                    "IBD causes visible tissue damage",
+                                    "IBS requires surgery, IBD doesn't",
+                                    "IBD only affects the colon"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p11",
+                            "pageType": "content",
+                            "headline": "The Elimination Diet Approach",
+                            "body": "Systematic food elimination can identify triggers for digestive symptoms. Remove common culprits like gluten, dairy, and high-FODMAP foods for 3-4 weeks, then reintroduce one at a time. This process requires patience but can reveal specific food sensitivities causing your symptoms.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p12",
+                            "pageType": "content",
+                            "headline": "When to Seek Medical Help",
+                            "body": "Consult a healthcare provider for persistent symptoms lasting over two weeks, blood in stool, unexplained weight loss, or severe abdominal pain. These red flags may indicate conditions requiring medical diagnosis and treatment beyond dietary modifications.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Hope Through Understanding",
+                            "body": "Many digestive issues improve significantly with targeted dietary changes, stress management, and lifestyle modifications. Understanding your specific condition empowers you to make informed decisions about treatment options and work effectively with healthcare providers to find relief.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-9",
+                    "title": "Reading Your Body's Signals",
+                    "order": 9,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Your Body Speaks Constantly",
+                            "body": "Your digestive system sends continuous signals about its health status through symptoms, energy levels, mood changes, and even skin conditions. Learning to interpret these messages helps you make informed decisions about diet and lifestyle before minor issues become major problems.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Bristol Stool Chart",
+                            "body": "Your stool consistency reveals important information about gut health. Types 3 and 4 on the Bristol Stool Chart indicate optimal health - sausage-shaped and smooth or with surface cracks. Hard lumps suggest constipation, while liquid consistency indicates diarrhea or malabsorption.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Transit Time Matters",
+                            "body": "Healthy gut transit time ranges from 12-48 hours from eating to elimination. Too fast suggests poor nutrient absorption, while too slow allows harmful bacteria to overgrow and toxins to accumulate. You can test transit time by eating corn or sesame seeds and tracking their appearance.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Gas and Bloating Patterns",
+                            "body": "Some gas is normal during bacterial fermentation, but excessive bloating indicates imbalance. Bloating immediately after eating suggests insufficient digestive enzymes, while bloating hours later points to bacterial overgrowth or food sensitivities in the small intestine.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p5",
+                            "pageType": "question",
+                            "headline": "What do stool types 3 and 4 on the Bristol Stool Chart indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Severe constipation",
+                                    "Mild diarrhea",
+                                    "Optimal gut health",
+                                    "Bacterial infection"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p6",
+                            "pageType": "question",
+                            "headline": "What's the healthy range for gut transit time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "6-24 hours",
+                                    "12-48 hours",
+                                    "24-72 hours",
+                                    "48-96 hours"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p7",
+                            "pageType": "question",
+                            "headline": "What does bloating immediately after eating typically suggest?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Food allergies",
+                                    "Bacterial overgrowth",
+                                    "Too much fiber",
+                                    "Insufficient digestive enzymes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Energy and Mood Connections",
+                            "body": "Gut health directly impacts energy levels and emotional wellbeing. Post-meal fatigue, brain fog, and mood swings often indicate digestive issues or blood sugar imbalances. Stable energy throughout the day suggests good gut function and nutrient absorption.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Skin as Gut Mirror",
+                            "body": "Your skin reflects internal gut health - acne, eczema, and rashes often improve when digestive issues are addressed. The gut-skin axis involves shared immune pathways and inflammatory responses. Clear, healthy skin often indicates a balanced microbiome.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What does stable energy throughout the day typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "High caffeine intake",
+                                    "Good gut function and nutrient absorption",
+                                    "Low carbohydrate diet",
+                                    "Frequent meal timing"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Food Reaction Tracking",
+                            "body": "Keep a symptom diary linking foods to digestive symptoms, energy changes, and mood shifts. Note timing - reactions can occur immediately or up to 72 hours later. This tracking reveals patterns that help identify problematic foods and optimal eating windows.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Sleep Quality Indicators",
+                            "body": "Poor gut health disrupts sleep through inflammatory signals and neurotransmitter imbalances. Frequent nighttime wakings, difficulty falling asleep, and morning fatigue often improve when gut issues are addressed. Quality sleep, in turn, supports gut healing.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-10",
+                    "title": "Testing Your Gut Health",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Guesswork",
+                            "body": "While symptoms provide valuable clues, specific tests can reveal the precise state of your gut microbiome, identify bacterial imbalances, and guide targeted interventions. Modern gut testing offers unprecedented insights into your digestive health that weren't available even a decade ago.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Comprehensive Stool Analysis",
+                            "body": "Advanced stool tests analyze bacterial diversity, beneficial and harmful microbe levels, digestive markers, and inflammatory indicators. These tests can identify specific pathogens, measure short-chain fatty acid production, and assess overall microbiome balance. Results guide personalized treatment approaches.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p3",
+                            "pageType": "content",
+                            "headline": "SIBO Breath Testing",
+                            "body": "Small intestinal bacterial overgrowth testing measures hydrogen and methane gases produced by bacteria fermenting lactulose or glucose. Elevated gases within 90 minutes indicate bacterial overgrowth in the small intestine. This non-invasive test helps diagnose a common cause of bloating and digestive distress.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Food Sensitivity Panels",
+                            "body": "IgG food sensitivity tests measure immune reactions to common foods that may cause delayed symptoms. While controversial among some practitioners, these tests can identify foods triggering inflammation. Results should be interpreted alongside elimination diet findings for best accuracy.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Intestinal Permeability Assessment",
+                            "body": "Leaky gut tests measure how well your intestinal barrier function works by tracking molecules that shouldn't cross into the bloodstream. The lactulose/mannitol ratio test is the gold standard, though newer tests measuring zonulin levels are becoming more common.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p6",
+                            "pageType": "question",
+                            "headline": "What do SIBO breath tests measure to detect bacterial overgrowth?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Carbon dioxide levels",
+                                    "Oxygen consumption",
+                                    "Nitrogen production",
+                                    "Hydrogen and methane gases"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Organic Acids Testing",
+                            "body": "Urine organic acids tests reveal metabolic byproducts from bacteria, yeast, and cellular processes. Elevated markers can indicate Candida overgrowth, bacterial imbalances, or nutrient deficiencies. This functional medicine test provides insights into gut health's impact on overall metabolism.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p8",
+                            "pageType": "question",
+                            "headline": "What is the gold standard test for intestinal permeability?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lactulose/mannitol ratio test",
+                                    "Zonulin level measurement",
+                                    "Blood inflammatory markers",
+                                    "Stool bacterial analysis"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p9",
+                            "pageType": "content",
+                            "headline": "At-Home vs Laboratory Testing",
+                            "body": "Consumer gut testing kits offer convenience and bacterial diversity insights but may lack the depth of clinical-grade tests. Laboratory tests through healthcare providers typically provide more comprehensive analysis and actionable results. Consider your budget and symptoms when choosing testing approaches.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p10",
+                            "pageType": "question",
+                            "headline": "What advantage do laboratory tests have over at-home gut tests?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower cost",
+                                    "Faster results",
+                                    "More comprehensive analysis",
+                                    "Better packaging"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Interpreting Test Results",
+                            "body": "Gut test results should be interpreted by qualified practitioners who understand the complex relationships between different markers. High bacterial diversity isn't always better, and single markers rarely tell the whole story. Context matters more than individual numbers.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Cost vs Benefit Analysis",
+                            "body": "Gut testing ranges from $100-500+ depending on comprehensiveness. While expensive, testing can save money by avoiding ineffective treatments and targeting interventions precisely. Consider testing if you have persistent symptoms that haven't responded to basic dietary changes.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p13",
+                            "pageType": "question",
+                            "headline": "When should you consider gut testing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "For persistent symptoms not responding to basic changes",
+                                    "Only after trying all supplements",
+                                    "Before making any dietary changes",
+                                    "Only if symptoms are severe"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Retesting Timeline",
+                            "body": "Most gut changes take 3-6 months to stabilize, so retesting too soon may not reflect improvements. Plan follow-up testing 3-6 months after implementing changes to assess progress. Some markers improve quickly while others, like microbiome diversity, change more slowly.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-10-p15",
+                            "pageType": "content",
+                            "headline": "Testing as Tool, Not Answer",
+                            "body": "Gut tests provide valuable data but aren't magic solutions. The most important factors remain consistent healthy eating, stress management, and lifestyle choices. Use testing to guide and refine your approach, not replace fundamental gut-healthy practices.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-11",
+                    "title": "Building a Gut-Healthy Plate",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-11-p1",
+                            "pageType": "content",
+                            "headline": "The Foundation of Gut Health",
+                            "body": "Every meal is an opportunity to nourish your microbiome or disrupt it. Building a gut-healthy plate involves choosing foods that feed beneficial bacteria, provide essential nutrients, and support digestive function. The right combinations can transform your gut health within weeks.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Colorful Vegetable Base",
+                            "body": "Aim to fill half your plate with diverse, colorful vegetables. Each color provides different phytonutrients and fiber types that feed specific bacterial species. Purple cabbage, orange carrots, green broccoli, and red peppers create a rainbow of gut-supporting compounds.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Protein for Gut Repair",
+                            "body": "Quality protein provides amino acids essential for gut lining repair and neurotransmitter production. Choose wild-caught fish, grass-fed meat, pastured eggs, or plant proteins like lentils and hemp seeds. Bone broth offers additional gut-healing collagen and minerals.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p4",
+                            "pageType": "question",
+                            "headline": "What percentage of your plate should be filled with vegetables?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One-third",
+                                    "Half",
+                                    "Two-thirds",
+                                    "One-quarter"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Healthy Fats for Absorption",
+                            "body": "Include anti-inflammatory fats like olive oil, avocado, nuts, and seeds. These fats help absorb fat-soluble vitamins and reduce inflammation throughout the digestive system. Omega-3 fatty acids from fish and flax seeds particularly benefit gut barrier function.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Complex Carbohydrates for Fuel",
+                            "body": "Choose whole grains, starchy vegetables, and legumes that provide sustained energy and prebiotic fiber. Sweet potatoes, quinoa, and black beans offer resistant starch that feeds beneficial bacteria. These complex carbs prevent the blood sugar spikes that promote harmful bacterial overgrowth.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Fermented Food Integration",
+                            "body": "Include a small serving of fermented foods with each meal when possible. Sauerkraut with lunch, kefir with breakfast, or miso soup with dinner provides live beneficial bacteria. Start small to avoid digestive upset and gradually increase portions as tolerance improves.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Herbs and Spices Power",
+                            "body": "Fresh herbs and spices provide antimicrobial compounds that support beneficial bacteria while inhibiting harmful ones. Ginger aids digestion, turmeric reduces inflammation, and garlic acts as a prebiotic. These flavor enhancers offer medicine with every meal.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Hydration and Timing",
+                            "body": "Drink plenty of water between meals but limit fluids during eating to avoid diluting digestive enzymes. Room temperature or warm water supports digestion better than ice-cold beverages. Herbal teas like chamomile or peppermint can soothe the digestive system.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Portion Control Principles",
+                            "body": "Eating moderate portions reduces digestive burden and prevents bacterial fermentation of undigested food. Stop eating when you're 80% full and chew thoroughly to support proper digestion. Large meals can overwhelm digestive capacity and promote bacterial overgrowth.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Meal Prep Strategies",
+                            "body": "Batch cook gut-healthy ingredients like roasted vegetables, cooked grains, and fermented vegetables to make assembly easier. Having prepped components ready makes it simple to create balanced, gut-supporting meals even during busy periods. Preparation prevents poor food choices.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p12",
+                            "pageType": "question",
+                            "headline": "When is the best time to drink fluids for optimal digestion?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During meals",
+                                    "Only with breakfast",
+                                    "Between meals",
+                                    "Only before bed"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Your Personalized Approach",
+                            "body": "While these principles apply to most people, individual tolerance varies. Some may need to limit certain fibers initially, while others thrive on higher amounts. Pay attention to your body's responses and adjust portions and combinations based on your unique digestive capacity and preferences.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-12",
+                    "title": "Meal Timing and Digestion",
+                    "order": 12,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-12-p1",
+                            "pageType": "content",
+                            "headline": "When You Eat Matters",
+                            "body": "Your digestive system operates on circadian rhythms, with enzyme production, gut motility, and bacterial activity fluctuating throughout the day. Aligning your eating patterns with these natural rhythms optimizes digestion, nutrient absorption, and microbiome balance.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The Migrating Motor Complex",
+                            "body": "Between meals, your small intestine performs 'housekeeping' through waves of contractions called the migrating motor complex (MMC). This process sweeps undigested food and bacteria toward the colon, preventing SIBO. The MMC only activates during fasting periods between meals.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Intermittent Fasting Benefits",
+                            "body": "Giving your digestive system breaks between meals allows the MMC to function properly and reduces bacterial overgrowth. A 12-16 hour overnight fast supports gut healing and allows beneficial bacteria to rebalance. This doesn't require extreme fasting - just avoiding late-night snacking.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Breakfast: Breaking the Fast",
+                            "body": "Your first meal restarts digestive processes and sets metabolic tone for the day. A protein-rich breakfast with fiber helps stabilize blood sugar and supports beneficial bacteria. Skipping breakfast entirely can work for some, but when you do eat, make it count nutritionally.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p5",
+                            "pageType": "question",
+                            "headline": "What is the migrating motor complex responsible for?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Producing digestive enzymes",
+                                    "Sweeping debris toward the colon",
+                                    "Absorbing nutrients",
+                                    "Secreting stomach acid"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Late-Night Eating Problems",
+                            "body": "Eating within 3 hours of bedtime disrupts sleep quality and gut bacteria circadian rhythms. Late meals can cause reflux, poor sleep, and shifted bacterial populations. Your metabolism naturally slows in the evening, making nutrient processing less efficient.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Meal Frequency Considerations",
+                            "body": "Three moderate meals with 4-5 hours between them allows proper digestive cycling. Constant snacking keeps insulin elevated and prevents the MMC from functioning. However, some people with blood sugar issues may need smaller, more frequent meals initially while healing their gut.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Mindful Eating Practices",
+                            "body": "Eating in a relaxed state activates the parasympathetic nervous system, optimizing digestion. Take deep breaths before meals, chew thoroughly, and minimize distractions. Stress eating impairs digestive function and can lead to poor food choices and bacterial imbalances.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p9",
+                            "pageType": "question",
+                            "headline": "How long should you avoid eating before bedtime?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "1 hour",
+                                    "2 hours",
+                                    "4 hours",
+                                    "3 hours"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Exercise Timing Impact",
+                            "body": "Light movement after meals aids digestion, while intense exercise should be avoided within 2 hours of eating. Morning exercise before breakfast can enhance insulin sensitivity, while evening workouts should finish 3+ hours before bed to avoid disrupting sleep and gut recovery.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Seasonal Eating Rhythms",
+                            "body": "Your gut bacteria naturally shift with seasons, preferring warming foods in winter and cooling foods in summer. Traditional eating patterns aligned with seasonal availability supported this bacterial cycling. Modern year-round food availability can disrupt these natural rhythms.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Travel and Time Zones",
+                            "body": "Jet lag affects gut bacteria as much as sleep cycles. Gradually shift meal timing before travel when possible, stay hydrated, and prioritize gut-healthy foods during trips. It can take several days for your microbiome to adjust to new time zones.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Your Personal Rhythm",
+                            "body": "While general principles apply, individual chronotypes vary. Some people naturally digest food better earlier in the day, while others function well with later eating windows. Experiment to find your optimal timing while respecting basic digestive physiology principles.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-13",
+                    "title": "Lifestyle for Gut Health",
+                    "order": 13,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Food and Supplements",
+                            "body": "Gut health extends far beyond what you eat. Sleep quality, stress levels, physical activity, and environmental factors all profoundly impact your microbiome. A holistic approach addressing these lifestyle factors often produces more dramatic improvements than dietary changes alone.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Sleep: Your Gut's Recovery Time",
+                            "body": "During sleep, your gut performs critical repair and maintenance functions. Poor sleep quality reduces beneficial bacteria diversity and increases inflammatory markers. Aim for 7-9 hours of consistent, quality sleep to support optimal gut healing and bacterial balance.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Movement and Motility",
+                            "body": "Regular physical activity stimulates gut motility and increases beneficial bacterial diversity. Even light walking after meals improves digestion and prevents constipation. Exercise also reduces inflammation and stress - both harmful to gut health when chronic.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Stress: The Silent Gut Killer",
+                            "body": "Chronic stress devastates gut health by reducing beneficial bacteria, increasing inflammation, and disrupting the gut barrier. Cortisol directly alters bacterial populations, favoring harmful species. Managing stress through meditation, deep breathing, or other techniques is crucial for gut healing.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Environmental Toxin Exposure",
+                            "body": "Household chemicals, pesticides, and air pollution can disrupt gut bacteria. Use natural cleaning products when possible, choose organic produce for the 'dirty dozen' list, and ensure good indoor air quality. Small reductions in toxin exposure can significantly benefit your microbiome.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Social Connection Matters",
+                            "body": "Loneliness and social isolation negatively impact gut health through stress pathways and behavioral changes. Strong social connections correlate with better microbiome diversity and overall health outcomes. Prioritize relationships and community engagement as part of gut health strategy.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Nature and Microbiome Diversity",
+                            "body": "Spending time in natural environments exposes you to diverse environmental bacteria that can beneficially influence your microbiome. Gardening, hiking, or simply walking in parks provides microbial diversity that urban environments often lack. Aim for regular nature exposure.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Temperature Therapy",
+                            "body": "Both heat therapy (saunas) and cold exposure can beneficially stress your system, improving resilience and reducing inflammation. These hormetic stressors may also positively influence gut bacteria composition. Start slowly and build tolerance gradually.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Digital Wellness",
+                            "body": "Excessive screen time, especially before bed, disrupts sleep patterns and circadian rhythms that influence gut bacteria. Blue light exposure suppresses melatonin production, affecting both sleep quality and gut repair processes. Implement digital curfews for better gut health.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Breathing and Gut Connection",
+                            "body": "Deep, diaphragmatic breathing activates the vagus nerve, improving gut-brain communication and digestive function. Regular breathwork practices reduce stress and inflammation while supporting optimal digestion. Just 5-10 minutes of focused breathing can benefit your gut.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Consistency Over Perfection",
+                            "body": "Small, consistent lifestyle changes compound over time to create dramatic improvements in gut health. Focus on implementing one or two changes at a time rather than overhauling everything at once. Sustainable habits beat perfect intentions every time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p12",
+                            "pageType": "question",
+                            "headline": "What lifestyle factor has the most direct impact on gut bacteria diversity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Chronic stress levels",
+                                    "Exercise frequency",
+                                    "Sleep quality",
+                                    "Social connections"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p13",
+                            "pageType": "question",
+                            "headline": "How does spending time in nature benefit the microbiome?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Reduces stress hormones",
+                                    "Increases vitamin D production",
+                                    "Exposes you to diverse environmental bacteria",
+                                    "Improves air quality"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p14",
+                            "pageType": "question",
+                            "headline": "What's the key to successful gut health lifestyle changes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making dramatic changes quickly",
+                                    "Consistency over perfection",
+                                    "Following strict protocols",
+                                    "Expensive supplements"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Your Integrated Approach",
+                            "body": "True gut health requires integrating all lifestyle factors - nutrition, sleep, movement, stress management, and environment. No single intervention works in isolation. Create a personalized approach that addresses your unique challenges and builds sustainable, gut-supporting habits for life.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-14",
+                    "title": "Stress and Your Gut",
+                    "order": 14,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-14-p1",
+                            "pageType": "content",
+                            "headline": "The Gut-Stress Vicious Cycle",
+                            "body": "Stress and gut health create a self-perpetuating cycle. Stress damages your gut, which sends inflammatory signals to your brain, increasing anxiety and stress responses. Breaking this cycle requires addressing both psychological stress and gut dysfunction simultaneously.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Cortisol's Gut Destruction",
+                            "body": "Chronic stress floods your system with cortisol, which directly kills beneficial bacteria while allowing harmful species to flourish. Elevated cortisol also thins the protective mucus layer and increases intestinal permeability, creating the perfect environment for gut dysfunction.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p3",
+                            "pageType": "content",
+                            "headline": "The Vagus Nerve Highway",
+                            "body": "The vagus nerve carries stress signals from your brain to your gut and inflammatory signals from your gut back to your brain. Strengthening vagal tone through specific practices can interrupt this communication highway and reduce both stress and gut inflammation.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Digestive Shutdown Mode",
+                            "body": "When stressed, your body diverts blood flow away from digestive organs to muscles for 'fight or flight.' This reduces stomach acid production, slows gut motility, and impairs nutrient absorption. Chronic activation of this response leads to persistent digestive dysfunction.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Stress-Induced Gut Permeability",
+                            "body": "Stress hormones directly increase intestinal permeability within hours of exposure. This 'leaky gut' allows toxins and bacteria to enter your bloodstream, triggering systemic inflammation. The inflammation then signals your brain to maintain stress responses, perpetuating the cycle.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Meditation for Gut Healing",
+                            "body": "Regular meditation practice reduces cortisol levels, activates the parasympathetic nervous system, and improves gut barrier function. Studies show just 8 weeks of mindfulness meditation can significantly improve digestive symptoms and increase beneficial bacterial diversity.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Breathwork's Immediate Impact",
+                            "body": "Deep breathing exercises activate the vagus nerve and shift your nervous system from stress to rest-and-digest mode. Box breathing (4-4-4-4 counts) or diaphragmatic breathing for just 5 minutes can immediately improve digestive function and reduce gut inflammation.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p8",
+                            "pageType": "question",
+                            "headline": "What stress hormone directly damages gut bacteria?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Adrenaline",
+                                    "Insulin",
+                                    "Cortisol",
+                                    "Dopamine"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Exercise: Double-Edged Sword",
+                            "body": "Moderate exercise reduces stress and benefits gut health, but excessive training can increase cortisol and damage gut bacteria. High-intensity workouts without adequate recovery create the same stress response as psychological stress. Balance is key for gut-supporting movement.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Sleep Deprivation Stress",
+                            "body": "Poor sleep is a major stressor that elevates cortisol and disrupts gut bacteria circadian rhythms. Sleep debt accumulates stress hormones that directly damage beneficial microbes. Prioritizing 7-9 hours of quality sleep is essential for breaking the stress-gut cycle.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Social Support as Medicine",
+                            "body": "Strong social connections buffer stress responses and support gut health through multiple pathways. Loneliness increases cortisol and inflammation, while social support activates the parasympathetic nervous system. Nurturing relationships is literally medicine for your gut.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Cognitive Reframing Techniques",
+                            "body": "How you perceive stressors affects your physiological response. Viewing challenges as opportunities for growth rather than threats reduces cortisol release and gut damage. Cognitive behavioral therapy techniques can help reframe stress responses and protect gut health.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p13",
+                            "pageType": "question",
+                            "headline": "How quickly can stress hormones increase intestinal permeability?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Within days",
+                                    "Within weeks",
+                                    "Within hours",
+                                    "Within minutes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Breaking the Cycle",
+                            "body": "Interrupting the stress-gut cycle requires consistent practice of stress-reduction techniques combined with gut-healing nutrition. Start with one stress management tool - whether meditation, breathwork, or regular nature walks. Small, consistent steps compound into significant gut health improvements over time.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "gut_health_101-1-15",
+                    "title": "Your Gut Health Action Plan",
+                    "order": 15,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "gut_health_101-1-15-p1",
+                            "pageType": "content",
+                            "headline": "From Knowledge to Action",
+                            "body": "Understanding gut health science is just the beginning. Lasting transformation happens through consistent implementation of evidence-based strategies tailored to your unique situation. This final lesson provides a practical roadmap for optimizing your gut health over the next 90 days.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Week 1-2: Foundation Building",
+                            "body": "Start with basic dietary changes: add one serving of fermented foods daily, increase vegetable intake to half your plate, and eliminate processed foods. Focus on sleep hygiene by establishing consistent bedtimes. Small changes build momentum and prevent overwhelm.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What should you focus on during the first two weeks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Advanced testing and supplements",
+                                    "Foundation building with basic changes",
+                                    "Dramatic dietary overhauls",
+                                    "Intensive exercise programs"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Week 3-4: Stress Management",
+                            "body": "Introduce daily stress-reduction practices like 10 minutes of meditation, deep breathing exercises, or gentle movement. Address obvious stressors where possible and prioritize activities that activate your parasympathetic nervous system. Stress management is non-negotiable for gut healing.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Week 5-6: Fiber Expansion",
+                            "body": "Gradually increase fiber intake by 5 grams weekly, focusing on diverse sources like artichokes, apples, oats, and legumes. Track symptoms to identify your optimal fiber intake. Add prebiotic-rich foods to selectively feed beneficial bacteria while monitoring digestive comfort.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Week 7-8: Meal Timing Optimization",
+                            "body": "Implement 12-16 hour intermittent fasting windows to allow your migrating motor complex to function. Establish regular meal times and avoid eating 3 hours before bed. Focus on mindful eating practices and proper hydration timing around meals.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p7",
+                            "pageType": "question",
+                            "headline": "How much should you increase fiber intake weekly during expansion?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "10 grams",
+                                    "5 grams",
+                                    "15 grams",
+                                    "3 grams"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p8",
+                            "pageType": "question",
+                            "headline": "What is the recommended fasting window for gut health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "8-10 hours",
+                                    "16-20 hours",
+                                    "12-16 hours",
+                                    "10-12 hours"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Week 9-10: Lifestyle Integration",
+                            "body": "Add regular physical activity that supports gut motility without over-stressing your system. Incorporate nature exposure and social connections. Address environmental toxins by switching to natural cleaning products and choosing organic produce for the dirty dozen list.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Week 11-12: Fine-Tuning",
+                            "body": "Assess your progress and identify what's working best for your unique situation. Consider gut testing if symptoms persist. Adjust portions, timing, and food combinations based on your body's responses. This phase is about optimization and personalization.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Long-Term Maintenance",
+                            "body": "Sustainable gut health requires consistent practices, not perfect adherence. Follow the 80/20 rule - maintain gut-healthy habits 80% of the time while allowing flexibility for social situations and life circumstances. Consistency beats perfection every time.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "gut_health_101-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Your Success Transformation",
+                            "body": "Within 12 weeks of consistent implementation, most people experience improved energy, better sleep, clearer thinking, and enhanced mood. Digestive symptoms often improve within the first month. Trust the process and be patient with your body's healing timeline.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.2,
+    "tag": "Popular"
+}

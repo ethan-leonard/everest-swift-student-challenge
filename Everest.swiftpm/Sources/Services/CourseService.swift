@@ -20,13 +20,36 @@ final class CourseService {
             // We will bundle a few specific courses.
             let fileNames = [
                 "adhd_superpowers",
+                "anxiety_antidote",
+                "art_of_happiness",
+                "atomic_habits_screen_time",
+                "attachment_theory",
+                "body_language_decoder",
+                "breathwork_basics",
+                "crypto_for_normies",
                 "deep_work_mastery",
-                "morning_miracle",
                 "digital_minimalism",
                 "dopamine_detox",
-                "atomic_habits_screen_time",
+                "emotional_intelligence",
+                "essentialism",
+                "feminism_decoded",
+                "five_second_rule",
                 "flow_state_science",
-                "psychology_of_money"
+                "four_hour_workweek",
+                "gut_health_101",
+                "ikigai_your_purpose",
+                "influence",
+                "mindfulness_for_beginners",
+                "morning_miracle",
+                "negotiation_ninja",
+                "pomodoro_power",
+                "psychology_of_money",
+                "rich_dad_mindset",
+                "sleep_smarter",
+                "start_with_why",
+                "stoicism_for_leaders",
+                "thinking_fast_slow",
+                "zero_to_one"
             ]
             
             var loadedCourses: [Course] = []

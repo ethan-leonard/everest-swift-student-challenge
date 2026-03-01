@@ -1,0 +1,1850 @@
+{
+    "id": "breathwork_basics",
+    "title": "Breathwork Basics",
+    "description": "Your breath is the remote control for your nervous system. Learn ancient and modern techniques for calm, energy, and focus.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/breathwork_basics.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract lungs with flowing air patterns transitioning from calm to energized, sage green balanced breath with charcoal dynamic energy, respiratory mastery aesthetic",
+    "altitude": 2900,
+    "durationMinutes": 70,
+    "whatsInside": [
+        "Understand how breath directly controls your nervous system",
+        "Master calming techniques like box breathing and physiological sighing",
+        "Learn energizing breathwork for focus and alertness",
+        "Build a daily practice for sustained benefits",
+        "Fix poor breathing habits",
+        "Use breath for performance enhancement"
+    ],
+    "expertReview": {
+        "quote": "The breath is the only autonomic function we can consciously control. Learning to use it deliberately changes everything.",
+        "name": "Dr. Andrew Huberman",
+        "title": "Neuroscientist, Stanford University"
+    },
+    "chapters": [
+        {
+            "id": "breathwork_basics-ch1",
+            "title": "Breathwork Fundamentals",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "breathwork_basics-1-1",
+                    "title": "The Nervous System Connection",
+                    "order": 1,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Breath Controls Everything",
+                            "body": "Your breath is the only function that's both automatic and voluntary. This unique quality makes it a powerful bridge between your conscious mind and unconscious bodily functions. Through breathing, you can directly influence your heart rate, blood pressure, and stress hormones.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Autonomic Nervous System",
+                            "body": "Your autonomic nervous system has two main branches: sympathetic (fight-or-flight) and parasympathetic (rest-and-digest). The sympathetic system prepares you for action, while the parasympathetic helps you recover and restore. Your breathing pattern determines which system dominates at any moment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Fast Breathing Activates Stress",
+                            "body": "Rapid, shallow breathing signals danger to your brain, even when you're safe. This triggers cortisol release, muscle tension, and heightened alertness. Your body prepares for threats that don't exist, leading to chronic stress and anxiety.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p4",
+                            "pageType": "question",
+                            "headline": "Which breathing pattern activates your stress response?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Slow, deep breathing",
+                                    "Holding your breath",
+                                    "Breathing through nose",
+                                    "Fast, shallow breathing"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Slow Breathing Activates Calm",
+                            "body": "When you breathe slowly and deeply, you activate the vagus nerve. This sends a clear message to your brain that you're safe. Your heart rate slows, blood pressure drops, and stress hormones decrease naturally.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p6",
+                            "pageType": "question",
+                            "headline": "What nerve does slow breathing activate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Sciatic nerve",
+                                    "Spinal nerve",
+                                    "Radial nerve",
+                                    "Vagus nerve"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p7",
+                            "pageType": "question",
+                            "headline": "Your autonomic nervous system has how many main branches?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Two main branches",
+                                    "Three main branches",
+                                    "Four main branches",
+                                    "Five main branches"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p8",
+                            "pageType": "content",
+                            "headline": "The Exhale Is Key",
+                            "body": "Your exhale is more powerful than your inhale for relaxation. When you exhale, your diaphragm rises and your heart rate naturally slows. Longer exhales trigger the parasympathetic response more effectively than any other breathing technique.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Breathing Affects Heart Rhythm",
+                            "body": "Your heart rate naturally varies with each breath. It speeds up slightly on the inhale and slows down on the exhale. This phenomenon, called heart rate variability, is a key indicator of nervous system health and stress resilience.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Instant Stress Relief Available",
+                            "body": "You can shift from stress to calm in as little as 30 seconds using your breath. This makes breathwork the fastest, most accessible tool for emotional regulation. No equipment, apps, or special locations required.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Chemical Changes Happen Fast",
+                            "body": "Controlled breathing immediately changes your blood chemistry. Carbon dioxide levels shift, pH balance adjusts, and oxygen delivery improves. These changes signal your brain to alter hormone production and muscle tension within minutes.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Practice Builds Resilience",
+                            "body": "Regular breathwork strengthens your ability to stay calm under pressure. Your nervous system becomes more flexible, switching between activation and relaxation more efficiently. This improved resilience benefits every area of your life.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p13",
+                            "pageType": "question",
+                            "headline": "How quickly can breathing shift you from stress to calm?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "30 seconds",
+                                    "5 minutes",
+                                    "15 minutes",
+                                    "1 hour"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Your Remote Control Awaits",
+                            "body": "You now understand how breathing controls your nervous system. Your breath is literally a remote control for your internal state. In the next lessons, you'll learn specific techniques to harness this power for calm, energy, and peak performance.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-2",
+                    "title": "Understanding Your Breath",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Anatomy of Breathing",
+                            "body": "Your diaphragm is the primary breathing muscle, shaped like a dome below your lungs. When it contracts, it flattens and draws air in. When it relaxes, it rises and pushes air out. Most people only use 30% of their diaphragm's capacity.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Chest vs Belly Breathing",
+                            "body": "Chest breathing is shallow and engages neck and shoulder muscles unnecessarily. Belly breathing uses the diaphragm fully, drawing air deep into your lungs. Deep breathing delivers more oxygen while requiring less energy and effort.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p3",
+                            "pageType": "content",
+                            "headline": "The Power of Nose Breathing",
+                            "body": "Your nose filters, warms, and humidifies incoming air. It also produces nitric oxide, which improves oxygen absorption and blood flow. Mouth breathing bypasses these benefits and can lead to dry mouth, bad breath, and reduced oxygen uptake.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Breath Rate Matters",
+                            "body": "The average person takes 12-20 breaths per minute, but optimal breathing is 4-6 breaths per minute. Slower breathing maximizes oxygen extraction and activates the relaxation response. Your breath rate directly correlates with your stress level.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p5",
+                            "pageType": "question",
+                            "headline": "What is the optimal breathing rate per minute?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "12-20 breaths",
+                                    "8-12 breaths",
+                                    "20-30 breaths",
+                                    "4-6 breaths"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Breath Volume and Efficiency",
+                            "body": "Tidal volume is the amount of air you breathe in one breath, typically 500ml at rest. Deep breathing can increase this to 3000ml or more. Larger breaths mean fewer breaths needed, reducing the work for your respiratory muscles.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p7",
+                            "pageType": "content",
+                            "headline": "The Breath Pause",
+                            "body": "Natural pauses occur between inhale and exhale in healthy breathing patterns. These brief moments allow for optimal gas exchange in your lungs. Rushing from inhale to exhale reduces breathing efficiency and increases stress.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p8",
+                            "pageType": "question",
+                            "headline": "Which breathing method uses your diaphragm fully?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Mouth breathing",
+                                    "Belly breathing",
+                                    "Chest breathing",
+                                    "Fast breathing"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p9",
+                            "pageType": "question",
+                            "headline": "Nose breathing produces which beneficial chemical?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Carbon dioxide",
+                                    "Nitric oxide",
+                                    "Lactic acid",
+                                    "Cortisol"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p10",
+                            "pageType": "question",
+                            "headline": "What percentage of diaphragm capacity do most people use?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "50 percent",
+                                    "70 percent",
+                                    "30 percent",
+                                    "90 percent"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Breathing Rhythm and Pattern",
+                            "body": "Healthy breathing has a natural rhythm with smooth transitions between phases. Irregular patterns, gasping, or breath-holding indicate dysfunction. Your breathing pattern reflects your emotional state and can be consciously modified to change how you feel.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Foundation for All Techniques",
+                            "body": "Understanding your breath anatomy and mechanics is crucial for effective practice. Every advanced technique builds on these fundamentals: diaphragmatic breathing, nose breathing, proper rate, and smooth rhythm. Master these basics first before progressing to specialized methods.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-3",
+                    "title": "Calming Techniques",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-3-p1",
+                            "pageType": "content",
+                            "headline": "4-7-8 Breathing Technique",
+                            "body": "Inhale for 4 counts, hold for 7 counts, exhale for 8 counts. This pattern forces a longer exhale, which activates your parasympathetic nervous system. The extended hold increases carbon dioxide, enhancing relaxation. Practice 4 cycles to start.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Box Breathing Method",
+                            "body": "Breathe in equal counts: inhale 4, hold 4, exhale 4, hold 4. This creates a steady, balanced rhythm that calms your nervous system. Navy SEALs use this technique to maintain composure under extreme stress. Start with 4 counts and increase gradually.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p3",
+                            "pageType": "question",
+                            "headline": "In 4-7-8 breathing, how long is the exhale?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "8 counts",
+                                    "7 counts",
+                                    "4 counts",
+                                    "6 counts"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Extended Exhale Breathing",
+                            "body": "Make your exhale twice as long as your inhale. Try inhaling for 4 counts and exhaling for 8 counts. This 1:2 ratio maximally activates the vagus nerve and parasympathetic response. It's the most effective pattern for instant calm.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Coherent Breathing Practice",
+                            "body": "Breathe at exactly 5 seconds in and 5 seconds out, totaling 6 breaths per minute. This rate optimizes heart rate variability and creates coherence between your heart, mind, and emotions. Use a timer or metronome for precision.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Alternate Nostril Breathing",
+                            "body": "Close your right nostril, inhale through left. Close left nostril, exhale through right. Inhale right, switch, exhale left. This ancient technique balances your nervous system and integrates left-right brain hemispheres. Practice for 5-10 cycles.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p7",
+                            "pageType": "question",
+                            "headline": "What breathing ratio maximally activates the vagus nerve?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "1:1 ratio",
+                                    "1:2 ratio",
+                                    "2:1 ratio",
+                                    "1:3 ratio"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Resonant Frequency Breathing",
+                            "body": "Everyone has a personal resonant frequency around 4.5-6.5 breaths per minute. At this rate, your heart rate variability maximizes and stress minimizes. Experiment to find your optimal rate where you feel most balanced and calm.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Sighing for Instant Relief",
+                            "body": "A physiological sigh involves two inhales through the nose followed by a long exhale through the mouth. The second inhale reinflates collapsed alveoli in your lungs. This natural reflex quickly downregulates stress and anxiety in real-time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Progressive Muscle Relaxation Breathing",
+                            "body": "Combine breath awareness with muscle relaxation. Inhale while tensing a muscle group, hold briefly, then exhale while releasing all tension. Move systematically through your body. This technique addresses both physical and mental stress simultaneously.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p11",
+                            "pageType": "content",
+                            "headline": "When to Use Each Technique",
+                            "body": "4-7-8 for falling asleep, box breathing for focus under pressure, extended exhale for anxiety, coherent breathing for daily practice. Choose based on your situation and desired outcome. Having multiple tools ensures you can adapt to any stressful situation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p12",
+                            "pageType": "question",
+                            "headline": "Coherent breathing involves how many breaths per minute?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "6 breaths",
+                                    "8 breaths",
+                                    "10 breaths",
+                                    "4 breaths"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Practice Makes Permanent",
+                            "body": "These calming techniques work immediately but improve with practice. Start with 2-3 minutes daily of your chosen method. Consistency builds your capacity to access calm states quickly when stress arises. Your nervous system will thank you.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-4",
+                    "title": "Energizing Techniques",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Breath of Fire",
+                            "body": "Rapid, forceful exhales through the nose while passively inhaling. Pump your belly in sharply on each exhale, letting it naturally expand on the inhale. This technique increases alertness, body heat, and mental clarity. Start with 30 seconds.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Bellows Breath Technique",
+                            "body": "Fast, equal inhales and exhales through the nose like a bellows stoking a fire. Keep your head, neck, and torso still while rapidly moving your diaphragm. This builds internal heat, increases oxygen, and energizes your entire system.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Wim Hof Breathing",
+                            "body": "Take 30-40 deep breaths, fully in and relaxed out. After the last exhale, hold empty as long as comfortable. Take a recovery breath, hold full for 15 seconds. This alkalizes your blood, releases stress hormones, and boosts energy.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Reverse Breathing Pattern",
+                            "body": "Make your inhale longer than your exhale, like 8 counts in and 4 counts out. This 2:1 ratio activates your sympathetic nervous system and increases alertness. Use when you need quick energy but want to avoid overstimulation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Power Breathing Method",
+                            "body": "Inhale powerfully through the nose for 4 counts, hold for 4 counts, then exhale forcefully through the mouth for 4 counts. The forceful exhale creates back-pressure that strengthens respiratory muscles and increases lung capacity over time.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p6",
+                            "pageType": "question",
+                            "headline": "In energizing breath work, which breathing ratio increases alertness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2:1 inhale to exhale",
+                                    "1:2 inhale to exhale",
+                                    "1:1 inhale to exhale",
+                                    "1:3 inhale to exhale"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Holotropic Breathing Style",
+                            "body": "Continuous, connected breathing with no pauses between inhale and exhale. Breathe slightly faster and deeper than normal. This technique increases energy, emotional release, and altered states of consciousness. Always practice in a safe, supervised environment.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p8",
+                            "pageType": "question",
+                            "headline": "How long should you start practicing Breath of Fire?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2 minutes",
+                                    "30 seconds",
+                                    "5 minutes",
+                                    "10 seconds"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p9",
+                            "pageType": "question",
+                            "headline": "Wim Hof breathing involves how many deep breaths initially?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "20-25 breaths",
+                                    "10-15 breaths",
+                                    "50-60 breaths",
+                                    "30-40 breaths"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p10",
+                            "pageType": "question",
+                            "headline": "What does bellows breath technique primarily increase?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Internal heat and oxygen",
+                                    "Blood pressure only",
+                                    "Heart rate only",
+                                    "Muscle tension only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Safety and Timing",
+                            "body": "Practice energizing techniques on an empty stomach and never while driving or swimming. Stop if you feel dizzy, nauseous, or uncomfortable. These methods are powerful and should be approached gradually with respect for their intensity.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Best Times for Energy Work",
+                            "body": "Morning is ideal for energizing breathwork as it naturally aligns with your circadian rhythm. Avoid within 4 hours of bedtime as the stimulating effects can interfere with sleep. Use before workouts, meetings, or when you need mental clarity.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Building Your Energy Toolkit",
+                            "body": "Different techniques serve different purposes: Breath of Fire for quick alertness, Wim Hof for deep energy reset, Power Breathing for sustained focus. Experiment to find what works best for your body and lifestyle needs.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-4-p14",
+                            "pageType": "content",
+                            "headline": "From Energized to Balanced",
+                            "body": "Always follow energizing practices with a few minutes of normal breathing to integrate the effects. This prevents overstimulation and helps you harness the energy productively. Balance is key to sustainable breathwork practice.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-5",
+                    "title": "Breathing Dysfunction",
+                    "order": 5,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Common Breathing Disorders",
+                            "body": "Over 80% of people have some form of breathing dysfunction. Chronic mouth breathing, shallow chest breathing, breath holding, and irregular patterns are epidemic. These issues stem from stress, poor posture, and lack of awareness about proper breathing mechanics.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Stress Breathing Cycle",
+                            "body": "Stress causes shallow, rapid breathing, which signals more stress to your brain. This creates a vicious cycle where poor breathing maintains anxiety and tension. Breaking this cycle requires conscious intervention and retraining of breathing patterns.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What percentage of people have breathing dysfunction?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Over 50 percent",
+                                    "Over 80 percent",
+                                    "Over 30 percent",
+                                    "Over 90 percent"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Chronic Hyperventilation Syndrome",
+                            "body": "Breathing too much, too often leads to chronic hyperventilation. This reduces carbon dioxide levels, causing dizziness, tingling, anxiety, and fatigue. Many people hyperventilate without realizing it, especially during stress or physical activity.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Mouth Breathing Consequences",
+                            "body": "Chronic mouth breathing leads to dry mouth, bad breath, snoring, and sleep disruption. It also changes facial structure over time, narrows airways, and reduces oxygen efficiency. Children are especially susceptible to these developmental changes.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p6",
+                            "pageType": "content",
+                            "headline": "The Forward Head Posture Effect",
+                            "body": "Modern technology creates forward head posture, which restricts diaphragm movement and encourages chest breathing. This posture compresses airways and forces overuse of neck muscles for breathing. Correcting posture is essential for healthy breathing.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Sleep-Disordered Breathing",
+                            "body": "Poor breathing patterns during sleep include snoring, sleep apnea, and mouth breathing. These issues fragment sleep, reduce oxygen levels, and increase cardiovascular risk. Proper breathing training can significantly improve sleep quality.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p8",
+                            "pageType": "question",
+                            "headline": "Chronic hyperventilation primarily reduces which gas?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Carbon dioxide",
+                                    "Nitrogen",
+                                    "Oxygen",
+                                    "Argon"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Exercise-Induced Breathing Issues",
+                            "body": "Many people overbreathe during exercise, leading to side stitches, fatigue, and poor performance. Learning to breathe less, not more, during activity can dramatically improve endurance and reduce exercise-induced discomfort.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Breath Holding Patterns",
+                            "body": "Unconscious breath holding during concentration, stress, or screen time is extremely common. This apnea creates tension, reduces oxygen, and activates fight-or-flight responses. Email apnea and screen apnea affect millions of people daily.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Identifying Your Patterns",
+                            "body": "Track your breathing throughout the day. Notice when you hold your breath, breathe through your mouth, or feel chest tightness. Awareness is the first step toward correction. Most dysfunction happens unconsciously during routine activities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p12",
+                            "pageType": "question",
+                            "headline": "What is the first step toward correcting breathing dysfunction?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Medication",
+                                    "Surgery",
+                                    "Awareness",
+                                    "Exercise"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Recovery and Retraining",
+                            "body": "Breathing dysfunction can be corrected with patience and practice. Start by establishing nasal breathing, proper posture, and diaphragmatic patterns. Gradual retraining over weeks or months can restore healthy breathing habits and dramatically improve your wellbeing.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Professional Help Available",
+                            "body": "Severe breathing disorders may require professional assessment from respiratory therapists, sleep specialists, or myofunctional therapists. Don't hesitate to seek help if you experience chronic shortness of breath, sleep issues, or persistent anxiety related to breathing.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-6",
+                    "title": "Breath for Sleep",
+                    "order": 6,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Sleep and Breathing Connection",
+                            "body": "Your breathing naturally slows as you fall asleep, shifting from conscious to unconscious control. Deliberately slowing your breath mimics this natural transition and signals your brain that it's time to sleep. This is why counting sheep or meditation helps.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p2",
+                            "pageType": "content",
+                            "headline": "4-7-8 for Sleep Induction",
+                            "body": "This technique is specifically designed for sleep. Inhale for 4, hold for 7, exhale for 8 counts. The extended exhale and breath retention increase CO2, which has a sedating effect. Practice 4 cycles initially, building to 8 cycles over time.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Body Scan Breathing",
+                            "body": "Starting at your toes, breathe into each body part sequentially while consciously relaxing that area. This progressive relaxation technique combines breath awareness with muscle release. It systematically guides your body and mind into a sleep-ready state.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Three-Part Breathing",
+                            "body": "Breathe into your belly, then ribs, then chest on the inhale. Reverse the order on the exhale: chest, ribs, belly. This complete breath engages your entire respiratory system and naturally slows your breathing rate for relaxation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p5",
+                            "pageType": "question",
+                            "headline": "In 4-7-8 breathing for sleep, how many cycles should beginners start with?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "8 cycles",
+                                    "2 cycles",
+                                    "10 cycles",
+                                    "4 cycles"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Humming Breath Technique",
+                            "body": "Make a soft humming sound on your exhale. The vibration stimulates the vagus nerve and creates a soothing internal massage. This technique is particularly effective for anxious minds that struggle to quiet down at bedtime.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Counting Breath Method",
+                            "body": "Count backwards from 100 with each exhale. If your mind wanders, gently return to counting without judgment. This gives your active mind a simple task while your breathing naturally slows and deepens for sleep.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p8",
+                            "pageType": "question",
+                            "headline": "What does humming on the exhale primarily stimulate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Sympathetic nerve",
+                                    "Vagus nerve",
+                                    "Sciatic nerve",
+                                    "Spinal nerve"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Environmental Setup",
+                            "body": "Cool, dark, quiet rooms promote better sleep breathing. Elevate your head slightly to open airways. Use nasal strips or mouth tape if needed to maintain nose breathing during sleep. Your sleep environment directly affects breathing quality.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Pre-Sleep Routine",
+                            "body": "Begin your breathing practice 30-60 minutes before intended sleep time. Dim lights, put away devices, and create a consistent routine. Your brain learns to associate these cues with sleep preparation, making the techniques more effective over time.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Dealing with Sleep Anxiety",
+                            "body": "If breathing techniques increase anxiety about sleep, return to natural breathing without forcing any pattern. Sometimes the pressure to use a technique creates more stress. Trust your body's natural ability to find sleep when conditions are right.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Consistency Creates Results",
+                            "body": "Sleep breathing techniques work best with regular practice. Use the same method nightly for at least two weeks before switching approaches. Your nervous system needs time to learn new patterns and associate them with sleep onset.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-7",
+                    "title": "Breath for Performance",
+                    "order": 7,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Performance Breathing Principles",
+                            "body": "Optimal performance requires matching your breathing to the demands of the task. High-intensity activities need efficient oxygen delivery, while precision tasks require calm focus. Learning to adjust your breathing pattern gives you a performance edge in any situation.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Pre-Performance Preparation",
+                            "body": "Use coherent breathing (5 seconds in, 5 seconds out) for 5 minutes before important tasks. This optimizes heart rate variability and creates a calm, focused state. Athletes, surgeons, and musicians use this technique to enhance their performance readiness.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Breath Patterns for Focus",
+                            "body": "For tasks requiring concentration, use the 4-4-6 pattern: inhale 4, hold 4, exhale 6. The slight emphasis on exhale maintains calm while the breath retention enhances focus and mental clarity. Perfect for studying, detailed work, or creative tasks.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Athletic Performance Breathing",
+                            "body": "During exercise, breathe less than you think you need. Overbreathing reduces CO2, which impairs oxygen delivery to muscles. Maintain nasal breathing as long as possible during activity to optimize gas exchange and endurance performance.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p5",
+                            "pageType": "question",
+                            "headline": "For focus tasks, which breathing pattern is recommended?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "4-4-4 pattern",
+                                    "6-4-4 pattern",
+                                    "4-4-6 pattern",
+                                    "4-6-6 pattern"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Power Breathing for Strength",
+                            "body": "For maximum strength efforts, take a deep breath, hold it, and brace your core during the lift. This creates intra-abdominal pressure that stabilizes your spine and increases force production. Exhale forcefully through pursed lips after completing the movement.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Breath Control Under Pressure",
+                            "body": "When facing high-pressure situations, use tactical breathing: inhale 4, hold 4, exhale 4, hold 4. This box breathing pattern maintains composure and prevents panic breathing. It's used by military personnel and emergency responders worldwide.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Recovery Breathing Techniques",
+                            "body": "After intense effort, use extended exhale breathing (1:2 ratio) to accelerate recovery. This activates parasympathetic recovery processes and helps clear metabolic byproducts faster. Proper recovery breathing enhances your ability to perform repeatedly.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Altitude and Breathing",
+                            "body": "At altitude, resist the urge to overbreathe despite feeling air hunger. Maintain slower, deeper breathing to preserve CO2 levels. Gradual acclimatization with proper breathing technique improves high-altitude performance and reduces altitude sickness risk.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What breathing technique accelerates post-exercise recovery?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fast breathing",
+                                    "Breath holding",
+                                    "Extended exhale",
+                                    "Shallow breathing"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Mental Performance Enhancement",
+                            "body": "For cognitive tasks, alternate between focused breathing sessions and normal breathing. Brief breath-hold exercises increase CO2 tolerance, which improves oxygen delivery to the brain. Better brain oxygenation enhances memory, decision-making, and creativity.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Competition Day Strategy",
+                            "body": "Develop a specific breathing routine for competition days. Practice your routine during training so it becomes automatic under stress. Having a planned breathing strategy prevents panic and maintains optimal physiological state when performance matters most.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Measuring Performance Improvements",
+                            "body": "Track your performance metrics alongside your breathing practice. Note improvements in endurance, strength, focus duration, or stress resilience. Objective measurement helps you fine-tune techniques and maintain motivation for consistent practice.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p14",
+                            "pageType": "question",
+                            "headline": "Box breathing involves which pattern of timing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Unequal timing",
+                                    "Random timing",
+                                    "Equal timing",
+                                    "Progressive timing"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-7-p15",
+                            "pageType": "content",
+                            "headline": "Integration into Daily Activities",
+                            "body": "The goal is seamless integration of performance breathing into your activities. With practice, optimal breathing becomes unconscious and automatic. You'll naturally adjust your breathing pattern based on demands without conscious effort, maximizing your potential in every situation.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-8",
+                    "title": "Advanced Practices",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Building CO2 Tolerance",
+                            "body": "Higher carbon dioxide tolerance improves oxygen delivery and stress resilience. Practice breath holds after exhaling to gradually increase your CO2 tolerance. Start with comfortable holds and extend slowly over weeks. This builds tremendous respiratory fitness.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Advanced Wim Hof Method",
+                            "body": "After mastering basic rounds, add cold exposure and longer retention holds. Advanced practitioners can hold their breath for 3+ minutes after hyperventilation. Always practice in safe environments with proper supervision. This technique can induce profound physiological changes.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Pranayama Integration",
+                            "body": "Ancient yogic breathing includes complex patterns like Bhramari (bee breath), Ujjayi (victorious breath), and Kapalabhati (skull shining). These techniques combine specific breathing mechanics with meditation and energy cultivation. Each serves unique therapeutic purposes.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Breath and Heart Rate Variability",
+                            "body": "Use HRV devices to monitor how different breathing techniques affect your autonomic nervous system. Real-time feedback allows you to optimize your practice and see objective improvements in stress resilience and recovery capacity.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Transformational Breathing Work",
+                            "body": "Extended breathing sessions (45-90 minutes) of connected, conscious breathing can induce altered states and emotional releases. This therapeutic approach addresses stored trauma and limiting beliefs. Always work with trained facilitators for safety and proper integration.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Breath Walking Meditation",
+                            "body": "Synchronize your steps with your breath while walking slowly. Try 4 steps per inhale, 6 steps per exhale. This moving meditation combines the benefits of breathwork with gentle exercise and mindfulness. It's particularly grounding and centering.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p7",
+                            "pageType": "question",
+                            "headline": "What does building CO2 tolerance primarily improve?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lung capacity only",
+                                    "Heart rate only",
+                                    "Blood pressure only",
+                                    "Oxygen delivery"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Micro-Dosing Breath Work",
+                            "body": "Brief 30-60 second breathing interventions throughout the day can be more effective than longer sessions. Set hourly reminders to check and optimize your breathing. These micro-practices create consistent nervous system regulation without requiring dedicated time blocks.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p9",
+                            "pageType": "question",
+                            "headline": "Extended transformational breathing sessions should last how long?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "15-30 minutes",
+                                    "5-10 minutes",
+                                    "2-4 hours",
+                                    "45-90 minutes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Breath Biofeedback Training",
+                            "body": "Specialized devices can measure your breathing patterns, CO2 levels, and nervous system responses in real-time. This objective feedback accelerates learning and helps you discover your optimal breathing parameters for different goals and situations.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Advanced Breath Retention",
+                            "body": "Master practitioners can hold their breath for 5+ minutes through progressive training. This requires gradual conditioning, proper technique, and understanding of physiological responses. Extreme breath retention should only be practiced with expert guidance and medical clearance.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Integrating Multiple Modalities",
+                            "body": "Combine breathwork with yoga, meditation, cold therapy, or other practices for synergistic effects. Each modality enhances the others, creating powerful transformation protocols. Design your practice based on your specific goals and physiological responses.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Teaching and Sharing",
+                            "body": "Once you've mastered the fundamentals, consider sharing your knowledge with others. Teaching deepens your own understanding and helps spread these valuable skills. Many people can benefit from even basic breathing education and simple techniques.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Your Advanced Journey",
+                            "body": "Advanced practice is highly individual. What works for others may not suit your physiology or goals. Stay curious, experiment safely, and listen to your body. The journey of breath mastery is lifelong, with new discoveries and improvements always possible.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-9",
+                    "title": "Common Obstacles",
+                    "order": 9,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Overcomplicating Simple Techniques",
+                            "body": "Many beginners make breathing techniques more complex than necessary. Simple is effective. Master basic diaphragmatic breathing and extended exhales before attempting advanced practices. Complexity often masks lack of proficiency with fundamentals.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Forcing the Breath",
+                            "body": "Aggressive breathing creates tension and defeats the purpose of relaxation techniques. Your breath should be controlled but not forced. Think of guiding your breath rather than commanding it. Gentle persistence overcomes forceful attempts every time.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Inconsistent Practice Schedule",
+                            "body": "Sporadic practice yields minimal results. Your nervous system needs consistent input to create lasting changes. Five minutes daily trumps one hour weekly. Build your practice gradually but maintain unwavering consistency for maximum benefit.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Expecting Immediate Perfection",
+                            "body": "Breathwork is a skill that develops over time. Don't expect to master techniques immediately or feel profound effects from day one. Progress is often subtle and cumulative. Trust the process and celebrate small improvements along the way.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Practicing Only When Stressed",
+                            "body": "Using breathwork only during crisis limits its effectiveness. Regular practice during calm moments builds your capacity to access these states under pressure. Train when it's easy so it's available when it's hard.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p6",
+                            "pageType": "question",
+                            "headline": "What approach to breathing techniques is most effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complex patterns",
+                                    "Simple techniques",
+                                    "Advanced only",
+                                    "Multiple methods"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Ignoring Physical Discomfort",
+                            "body": "Some discomfort during breath training is normal, but pain is not. Dizziness, chest pain, or severe anxiety during practice indicates you need to slow down. Listen to your body and modify techniques based on your individual responses.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p8",
+                            "pageType": "question",
+                            "headline": "How often should you practice breathwork for best results?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Once weekly",
+                                    "As needed only",
+                                    "Daily practice",
+                                    "Monthly intensive"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p9",
+                            "pageType": "question",
+                            "headline": "When is the best time to build breathwork capacity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During stressful times",
+                                    "Only when anxious",
+                                    "During calm moments",
+                                    "Before sleeping only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Comparing Your Progress",
+                            "body": "Everyone's breathing journey is unique. Your optimal patterns, comfortable techniques, and rate of progress will differ from others. Focus on your own improvements rather than comparing yourself to other practitioners or online videos.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Neglecting Environmental Factors",
+                            "body": "Poor air quality, uncomfortable temperatures, or noisy environments hinder effective practice. Create a conducive space for breathwork when possible. Fresh air, comfortable temperature, and minimal distractions significantly improve your experience and results.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p12",
+                            "pageType": "content",
+                            "headline": "All-or-Nothing Mentality",
+                            "body": "Missing a few days of practice doesn't mean failure. Life happens, and flexibility is important for long-term success. Return to your practice without self-judgment. Consistency over perfection creates lasting transformation.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Lack of Clear Intention",
+                            "body": "Random practice without specific goals produces random results. Clarify whether you're seeking relaxation, energy, focus, or performance. Choose techniques that align with your current needs and desired outcomes for more effective sessions.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Overcoming Obstacles Successfully",
+                            "body": "Recognizing these common obstacles is the first step to avoiding them. Stay patient, consistent, and gentle with yourself. Every breathwork practitioner faces challenges. Your willingness to persist through difficulties determines your long-term success and transformation.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-10",
+                    "title": "Building Your Daily Practice",
+                    "order": 10,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Start Small and Specific",
+                            "body": "Begin with just 3 minutes of daily breathwork at the same time each day. Choose one simple technique like 4-7-8 breathing or coherent breathing. Starting small ensures success and builds confidence. You can always expand once the habit is established.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Habit Stacking Strategy",
+                            "body": "Attach breathwork to an existing daily habit. Practice after brushing your teeth, before checking your phone, or during your morning coffee. This linkage leverages established neural pathways to make your new habit stick more easily.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Morning Practice Benefits",
+                            "body": "Morning breathwork sets your nervous system tone for the entire day. You're more likely to remember and complete morning practices. Your mind is clear and less likely to be interrupted by daily stressors or responsibilities.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Creating Your Sacred Space",
+                            "body": "Designate a specific location for your practice, even if it's just a corner of a room. Consistency in location strengthens the habit and creates positive associations. Keep the space clean, comfortable, and free from distractions.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Tracking Your Progress",
+                            "body": "Keep a simple log of your daily practice. Note the technique used, duration, and how you felt before and after. This creates accountability and helps you identify which techniques work best for different situations.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Dealing with Missed Days",
+                            "body": "When you miss a day, return immediately without self-judgment. One missed day becomes easier to handle than three. Plan for obstacles by identifying backup times or shorter versions of your practice for busy days.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Gradual Expansion Method",
+                            "body": "After two weeks of consistent 3-minute practices, add one minute. Continue expanding by one minute every two weeks until you reach your desired duration. This gradual approach prevents overwhelm and ensures sustainable growth.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Multiple Daily Touchpoints",
+                            "body": "Beyond your main practice, include brief breathing moments throughout your day. Three conscious breaths before meetings, extended exhales in traffic, or box breathing during stressful moments. These micro-practices compound your benefits significantly.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p9",
+                            "pageType": "question",
+                            "headline": "What is the recommended starting duration for daily practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "10 minutes",
+                                    "5 minutes",
+                                    "15 minutes",
+                                    "3 minutes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Weekend and Holiday Adjustments",
+                            "body": "Maintain your practice even when your schedule changes. Weekend mornings might allow for longer sessions, while holidays might require shorter practices. Flexibility within consistency prevents practice abandonment during life changes.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p11",
+                            "pageType": "question",
+                            "headline": "After two weeks of consistent practice, how should you expand?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Add one minute",
+                                    "Double the time",
+                                    "Add five minutes",
+                                    "Stay the same"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Family and Social Integration",
+                            "body": "Share your practice with family members who might be interested. Group breathing sessions can be powerful bonding experiences. However, don't let others' lack of interest derail your personal commitment. Your practice is your responsibility.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Technology as Support Tool",
+                            "body": "Use apps, timers, or reminder systems to support your practice, but don't become dependent on them. The goal is to internalize these skills so they're available anywhere, anytime. Technology should enhance, not replace, your natural abilities.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Long-term Vision and Commitment",
+                            "body": "View breathwork as a lifelong skill rather than a temporary fix. Your practice will evolve, deepen, and adapt to your changing needs over time. Consistency over months and years creates profound transformation in your stress resilience and overall wellbeing.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-11",
+                    "title": "Creating Consistency",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-11-p1",
+                            "pageType": "content",
+                            "headline": "The Science of Habit Formation",
+                            "body": "Neural pathways strengthen with repetition, making behaviors automatic over time. Breathwork habits typically take 21-66 days to form, depending on complexity and consistency. Your brain literally rewires itself to make daily practice feel natural and effortless.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Environmental Design for Success",
+                            "body": "Shape your environment to support consistency. Leave breathing cues visible, remove barriers to practice, and eliminate competing distractions. Your surroundings should make the right choice the easy choice every single day.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p3",
+                            "pageType": "content",
+                            "headline": "The Two-Day Rule",
+                            "body": "Never allow yourself to skip your breathwork practice two days in a row. One missed day is a slip, two consecutive days starts a dangerous pattern. This simple rule prevents complete habit breakdown while allowing occasional flexibility.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Identity-Based Practice",
+                            "body": "Start seeing yourself as someone who breathes consciously rather than someone trying to develop a breathing practice. This identity shift changes your self-talk and makes consistent behavior feel natural rather than forced or temporary.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Minimum Viable Practice",
+                            "body": "Establish a practice so small it's impossible to fail. Even one conscious breath counts as success on difficult days. This maintains your streak and preserves the neural pathway while preventing all-or-nothing thinking that destroys habits.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Social Accountability Systems",
+                            "body": "Share your commitment with a friend, join online communities, or find a practice partner. Social accountability increases adherence rates significantly. Regular check-ins and shared experiences make the journey more enjoyable and sustainable.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Reward Systems and Motivation",
+                            "body": "Celebrate consistency milestones with meaningful rewards. After one week, treat yourself to something special. After one month, acknowledge your commitment. Positive reinforcement strengthens the neural pathways associated with your practice.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p8",
+                            "pageType": "question",
+                            "headline": "How long does it typically take to form a breathwork habit?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "10-20 days",
+                                    "21-66 days",
+                                    "5-15 days",
+                                    "90-100 days"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Seasonal and Life Transitions",
+                            "body": "Anticipate how changing seasons, work schedules, or life events might affect your practice. Develop contingency plans for common disruptions. Proactive planning prevents reactive abandonment of your breathwork during challenging periods.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Progress Measurement Methods",
+                            "body": "Track subjective measures like stress levels, sleep quality, and emotional regulation alongside objective markers like resting heart rate or HRV. Regular measurement provides motivation and helps you adjust techniques for optimal results.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Preventing Practice Staleness",
+                            "body": "Vary your techniques periodically to maintain engagement and continue growth. Spend a month mastering one technique, then explore another. Variety prevents boredom while ensuring you develop a comprehensive skill set over time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p12",
+                            "pageType": "question",
+                            "headline": "What is the maximum consecutive days you should skip practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One day maximum",
+                                    "Three days",
+                                    "One week",
+                                    "Two weeks"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p13",
+                            "pageType": "question",
+                            "headline": "What identity shift supports consistent breathwork practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Someone trying breathing",
+                                    "Someone who breathes consciously",
+                                    "Someone learning techniques",
+                                    "Someone with breathing problems"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Your Consistency Commitment",
+                            "body": "Consistency transforms breathwork from an occasional activity into a powerful life skill. Your commitment to regular practice, even when motivation wanes, determines your long-term success. Trust the process, stay patient, and let consistency work its magic.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-12",
+                    "title": "Troubleshooting Your Practice",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-12-p1",
+                            "pageType": "content",
+                            "headline": "When Breathing Increases Anxiety",
+                            "body": "Some people initially feel more anxious during breathwork as they become aware of their breathing patterns. This is normal and temporary. Start with very gentle, natural breathing observation rather than forced techniques. Your nervous system needs time to trust the process.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Dealing with Dizziness",
+                            "body": "Dizziness during practice indicates you're breathing too rapidly or deeply for your current capacity. Slow down immediately and return to natural breathing. Gradually build your tolerance over weeks rather than pushing through discomfort.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Muscle Tension and Cramping",
+                            "body": "Tension in your chest, shoulders, or diaphragm suggests you're forcing the breath or holding unnecessary tension. Focus on relaxation before controlling your breathing. Gentle stretching and posture correction often resolve these issues quickly.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Racing Mind During Practice",
+                            "body": "If your mind races during breathwork, acknowledge thoughts without judgment and gently return attention to your breath. This is meditation training, not breathing failure. Mental stillness develops gradually with consistent practice.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Feeling No Effect",
+                            "body": "Subtle benefits of breathwork may take weeks to notice. You might not feel dramatic changes immediately, but your nervous system is adapting. Track objective measures like sleep quality, stress responses, or recovery rates to see progress.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p6",
+                            "pageType": "question",
+                            "headline": "What should you do if breathing increases your anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stop practicing entirely",
+                                    "Practice more intensely",
+                                    "Start with gentle observation",
+                                    "Hold your breath longer"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Inconsistent Results",
+                            "body": "Your response to breathwork will vary based on stress levels, sleep quality, health status, and environment. This variability is normal. Focus on long-term patterns rather than individual session outcomes for accurate assessment of progress.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p8",
+                            "pageType": "question",
+                            "headline": "What does dizziness during breathwork indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Breathing too slowly",
+                                    "Perfect technique",
+                                    "Need more practice",
+                                    "Breathing too rapidly"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Physical Health Limitations",
+                            "body": "Respiratory conditions, heart problems, or injuries may require practice modifications. Consult healthcare providers before starting if you have medical concerns. Many conditions improve with gentle breathwork, but professional guidance ensures safety and effectiveness.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Time Constraints and Perfectionism",
+                            "body": "Missing your ideal practice time doesn't mean skipping entirely. Two minutes is better than zero minutes. Perfect conditions rarely exist, so practice adapting your breathwork to real-world constraints without abandoning it completely.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p11",
+                            "pageType": "question",
+                            "headline": "How should you track breathwork progress effectively?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Daily intense monitoring",
+                                    "Weekly session feelings",
+                                    "Monthly health checks",
+                                    "Long-term pattern analysis"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-12-p12",
+                            "pageType": "content",
+                            "headline": "When to Seek Professional Help",
+                            "body": "Persistent anxiety, panic responses, or physical discomfort during breathwork may require professional assessment. Respiratory therapists, experienced breathwork facilitators, or healthcare providers can provide personalized guidance and ensure safe practice progression.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "breathwork_basics-1-13",
+                    "title": "Your First Week Plan",
+                    "order": 13,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "breathwork_basics-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Week Overview and Goals",
+                            "body": "Your first week focuses on establishing the habit and learning basic diaphragmatic breathing. Don't worry about perfection or advanced techniques. Success means showing up daily for 3 minutes and becoming aware of your natural breathing patterns.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Day 1: Breathing Assessment",
+                            "body": "Spend 3 minutes observing your natural breathing without changing it. Notice whether you breathe through your nose or mouth, if your chest or belly moves more, and your natural rhythm. This baseline awareness guides your practice development.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Day 2-3: Basic Diaphragmatic Breathing",
+                            "body": "Place one hand on your chest, one on your belly. Breathe slowly, making the lower hand move more than the upper hand. Don't force it; just guide your breath gently toward your diaphragm. Practice for 3 minutes each day.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What is the primary focus of your first week?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Advanced techniques",
+                                    "Habit establishment",
+                                    "Perfect execution",
+                                    "Long sessions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p5",
+                            "pageType": "question",
+                            "headline": "How long should you practice each day in week one?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "10 minutes",
+                                    "5 minutes",
+                                    "3 minutes",
+                                    "15 minutes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Day 4-5: Nose Breathing Focus",
+                            "body": "Continue diaphragmatic breathing but emphasize breathing through your nose only. If your nose feels blocked, breathe more gently rather than switching to mouth breathing. This builds your capacity for healthy breathing patterns.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Day 6: Extended Exhale Practice",
+                            "body": "Maintain diaphragmatic nose breathing but make your exhales slightly longer than your inhales. Try 4 counts in, 6 counts out. This introduces the foundation of calming techniques while building on established skills.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Day 7: Integration and Reflection",
+                            "body": "Practice your preferred technique from the week for 3 minutes, then reflect on changes you've noticed. Have you felt calmer? Slept better? Been more aware of your breathing throughout the day? Record your observations.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Daily Schedule Suggestions",
+                            "body": "Morning practice works best for most people. Try immediately after waking, after your first bathroom visit, or with your morning coffee. Consistency of timing matters more than the perfect time. Choose what fits your existing routine.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Tracking Your Success",
+                            "body": "Keep a simple check-mark calendar to track daily practice completion. Note your energy level and stress on a 1-10 scale before and after each session. This creates accountability and helps you see patterns in your responses.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Common Week One Challenges",
+                            "body": "You might forget to practice, feel silly, or notice no immediate effects. These are normal first-week experiences. Set phone reminders, practice privately, and trust that benefits accumulate over time rather than appearing instantly.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p12",
+                            "pageType": "question",
+                            "headline": "What should you emphasize on days 4-5 of week one?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Breath holding",
+                                    "Mouth breathing",
+                                    "Fast breathing",
+                                    "Nose breathing"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "breathwork_basics-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Celebrating Week One Completion",
+                            "body": "Completing your first week of breathwork is a significant achievement. You've begun rewiring your nervous system and building a valuable life skill. Acknowledge your commitment and prepare to deepen your practice in the weeks ahead. You've successfully started your journey.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.4,
+    "tag": "Popular"
+}

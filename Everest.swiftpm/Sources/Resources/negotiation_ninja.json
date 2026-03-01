@@ -1,0 +1,2562 @@
+{
+    "id": "negotiation_ninja",
+    "title": "Negotiation Ninja",
+    "description": "Learn how to ask for what you want and get it. Master the psychology of negotiation from FBI hostage tactics to salary raises.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/negotiation_ninja.png",
+    "coverImagePrompt": "Premium editorial flat vector art, two abstract figures meeting at center with balanced scales between them, sage green collaborative energy with charcoal strategic tension, win-win aesthetic",
+    "altitude": 5400,
+    "durationMinutes": 117,
+    "whatsInside": [
+        "Master tactical empathy to understand what others really want",
+        "Use calibrated questions to guide conversations without confrontation",
+        "Learn the FBI's mirroring and labeling techniques",
+        "Negotiate salary, deals, and everyday situations with confidence",
+        "Understand BATNA and leverage",
+        "Navigate difficult conversations with authority"
+    ],
+    "expertReview": {
+        "quote": "These are the same techniques used in high-stakes hostage negotiations. They work just as well in boardrooms and at kitchen tables.",
+        "name": "Chris Voss",
+        "title": "Former FBI Lead Hostage Negotiator"
+    },
+    "chapters": [
+        {
+            "id": "negotiation_ninja-ch1",
+            "title": "Master the Art of Negotiation",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "negotiation_ninja-1-1",
+                    "title": "Tactical Empathy",
+                    "order": 1,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-1-p1",
+                            "pageType": "content",
+                            "headline": "The Secret Weapon",
+                            "body": "Tactical empathy is the FBI's most powerful negotiation tool. It means understanding your counterpart's perspective without agreeing with it. You're not being soft - you're being strategic.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Beyond Traditional Empathy",
+                            "body": "Regular empathy makes you feel their pain. Tactical empathy helps you understand their position to influence their decisions. You acknowledge their emotions while maintaining your objectives.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Neuroscience Behind It",
+                            "body": "When people feel understood, their amygdala calms down and logical thinking increases. Mirror neurons fire when you demonstrate understanding. This creates trust and opens pathways to agreement.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Listening for Emotions",
+                            "body": "Pay attention to tone, not just words. Fear sounds different than anger. Frustration has unique vocal patterns. Your ability to identify these emotions gives you negotiation superpowers.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p5",
+                            "pageType": "question",
+                            "headline": "What is tactical empathy's primary purpose?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making people feel better",
+                                    "Understanding to influence",
+                                    "Agreeing with their position",
+                                    "Showing you care deeply"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Validation Technique",
+                            "body": "Start with 'It sounds like...' or 'It seems like...' to acknowledge their position. This isn't agreement - it's recognition. People need to feel heard before they'll listen.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Reading Between Lines",
+                            "body": "What they don't say often matters more than what they do. Long pauses indicate internal conflict. Rapid speech suggests anxiety. Body language reveals true feelings.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Building Rapport Quickly",
+                            "body": "Match their communication style and energy level. If they speak slowly, slow down. If they're direct, be direct. This subconscious mirroring creates instant connection.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p9",
+                            "pageType": "question",
+                            "headline": "When should you use tactical empathy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only in serious negotiations",
+                                    "When people are emotional",
+                                    "Throughout every negotiation",
+                                    "After making your demands"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Emotional Labeling",
+                            "body": "Name their emotions out loud: 'You sound frustrated' or 'This seems overwhelming.' Labeling emotions reduces their power and shows you understand. It's psychological alchemy.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Common Mistakes to Avoid",
+                            "body": "Don't fake empathy - people sense insincerity. Don't rush to solutions before understanding the problem. Don't assume you know how they feel without verification.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Use tactical empathy in daily conversations. Listen to your barista's frustration, acknowledge your colleague's stress. The more you practice, the more natural it becomes.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p13",
+                            "pageType": "content",
+                            "headline": "The Compound Effect",
+                            "body": "Small doses of tactical empathy create big results over time. Each interaction builds trust and rapport. Your reputation as someone who 'gets it' becomes your greatest asset.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Your New Superpower",
+                            "body": "Tactical empathy transforms you from adversary to collaborator. People want to work with someone who understands them. You've just unlocked the foundation of all great negotiations.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-2",
+                    "title": "Mirroring and Labeling",
+                    "order": 2,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The Mirroring Magic",
+                            "body": "Mirroring is repeating the last 1-3 words someone just said. It sounds simple, but it's incredibly powerful. Your brain automatically wants to elaborate when it hears itself echoed.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p2",
+                            "pageType": "content",
+                            "headline": "How Mirroring Works",
+                            "body": "When you mirror, you trigger the other person's need to explain and expand. They'll give you more information without realizing it. It's like having a truth serum for negotiations.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p3",
+                            "pageType": "content",
+                            "headline": "The Three Types",
+                            "body": "Emotional mirroring matches their feelings. Physical mirroring copies body language. Vocal mirroring repeats their last words. Each type builds deeper connection and trust.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Perfect Mirroring Technique",
+                            "body": "Use an upward inflection when mirroring. Say their words like a question: 'Budget constraints?' This invites elaboration. Keep your tone curious, not challenging.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p5",
+                            "pageType": "content",
+                            "headline": "When to Use Mirroring",
+                            "body": "Mirror when you need more information. Mirror when they seem closed off. Mirror when you want them to reconsider their position. It's your universal key to unlock more dialogue.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What tone should you use when mirroring?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Curious and questioning",
+                                    "Firm and authoritative",
+                                    "Sympathetic and caring",
+                                    "Neutral and detached"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p7",
+                            "pageType": "question",
+                            "headline": "How many words should you mirror?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The last 1-3 words",
+                                    "The entire sentence",
+                                    "Key phrases only",
+                                    "Their main argument"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p8",
+                            "pageType": "question",
+                            "headline": "What happens when you mirror effectively?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "People get annoyed",
+                                    "Conversations end quickly",
+                                    "People elaborate more",
+                                    "You control the topic"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p9",
+                            "pageType": "content",
+                            "headline": "The Power of Labels",
+                            "body": "Labeling means identifying and verbalizing emotions. Say 'It sounds like you're frustrated' or 'You seem concerned about timing.' Labels validate feelings and reduce their emotional charge.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p10",
+                            "pageType": "question",
+                            "headline": "What's the main purpose of emotional labeling?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Validate and reduce emotion",
+                                    "Change their feelings",
+                                    "Show you're smarter",
+                                    "End the conversation"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Label Like a Pro",
+                            "body": "Start with 'It sounds like...' or 'It seems like...' Never say 'I understand' - that's about you. Make it about them. Use their own words when possible.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Combining Both Techniques",
+                            "body": "Mirror first to get information, then label the emotion you hear. This one-two combination is devastatingly effective. You'll become a negotiation detective, uncovering hidden motivations.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Practice Everywhere",
+                            "body": "Use mirroring and labeling in everyday conversations. With your spouse, colleagues, even the grocery store clerk. The more you practice, the more natural it becomes in high-stakes negotiations.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-3",
+                    "title": "Calibrated Questions",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Questions That Control",
+                            "body": "Calibrated questions start with 'How' or 'What' and give you control without being confrontational. They force the other person to think and solve problems for you. It's mental aikido.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Why They Work",
+                            "body": "These questions activate the other person's problem-solving brain. They can't give yes/no answers. They must engage deeply and reveal their thinking process to you.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p3",
+                            "pageType": "content",
+                            "headline": "The Magic Words",
+                            "body": "Start with 'How am I supposed to...' or 'What makes you think...' or 'How does this work for me?' These phrases sound respectful but put pressure on them to explain.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p4",
+                            "pageType": "question",
+                            "headline": "Which words should calibrated questions start with?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Why and when",
+                                    "How and what",
+                                    "Where and which",
+                                    "Can and will"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Avoiding the Traps",
+                            "body": "Never ask 'Why' - it makes people defensive. Avoid 'Can you' or 'Will you' - they invite no. Don't use 'When' unless you want to pressure them about timing.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p6",
+                            "pageType": "content",
+                            "headline": "The Problem-Solver Frame",
+                            "body": "Position yourself as someone who needs their help solving a problem. 'How do I move forward with this?' makes them want to help you find solutions. You become allies, not adversaries.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Buying Time to Think",
+                            "body": "When pressured for an immediate answer, ask: 'How am I supposed to do that?' This gives you time to think while making them explain their position. It's a tactical pause.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Testing Their Commitment",
+                            "body": "Ask 'What happens if I don't?' or 'How does this affect things if we can't agree?' These questions reveal how badly they need the deal and what alternatives exist.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p9",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of calibrated questions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They sound polite",
+                                    "They give you control",
+                                    "They end conversations",
+                                    "They show expertise"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p10",
+                            "pageType": "content",
+                            "headline": "The Information Mine",
+                            "body": "Each calibrated question extracts valuable information. You learn their constraints, priorities, and decision-making process. They're doing your intelligence gathering for you.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Making Them Invest",
+                            "body": "The more someone explains their position, the more invested they become in finding a solution. Your questions make them work for the deal, increasing their psychological commitment.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Your Question Arsenal",
+                            "body": "'How am I supposed to do that?' 'What makes this a good deal for me?' 'How does this solve my problem?' Memorize these phrases. They'll become your most powerful weapons.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Use calibrated questions in low-stakes situations first. Ask your colleague 'How should we handle this project?' instead of 'Can you do this?' Notice how responses change.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Your New Superpower",
+                            "body": "You now control conversations without seeming controlling. Your questions guide others to solutions while gathering crucial information. You're not just asking - you're strategically extracting.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-4",
+                    "title": "Getting to That's Right",
+                    "order": 4,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Golden Words",
+                            "body": "'That's right' are the two most important words in negotiation. Not 'you're right' - that means you've lost. 'That's right' means they feel completely understood and are ready to move forward.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Neurological Trigger",
+                            "body": "When someone says 'that's right,' their brain releases oxytocin and dopamine. These chemicals create trust and agreement. You've literally changed their brain chemistry in your favor.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p3",
+                            "pageType": "question",
+                            "headline": "What's the difference between 'you're right' and 'that's right'?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "First shows understanding, second shows agreement",
+                                    "First means compliance, second means conviction",
+                                    "First is polite, second is enthusiastic",
+                                    "First is temporary, second is permanent"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p4",
+                            "pageType": "content",
+                            "headline": "The Summary Strategy",
+                            "body": "Summarize their position better than they can. Include their emotions, concerns, and underlying needs. When you nail it, they'll say 'that's right' almost involuntarily.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Reading the Room",
+                            "body": "Watch their body language when you summarize. Nodding, leaning in, and relaxed posture signal you're on track. Tension, crossed arms, or looking away means you haven't understood yet.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p6",
+                            "pageType": "content",
+                            "headline": "The Three Levels",
+                            "body": "Surface level: what they said. Emotional level: how they feel. Strategic level: what they really need. Address all three in your summary to trigger 'that's right.'",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Building the Summary",
+                            "body": "Start with 'Let me make sure I understand...' Then paraphrase their position, acknowledge their emotions, and identify their core needs. End with 'Have I got that right?'",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p8",
+                            "pageType": "content",
+                            "headline": "The Patience Game",
+                            "body": "Don't rush to solutions until you get 'that's right.' This acknowledgment is the bridge between understanding and agreement. Cross it too early and you'll fall into the relationship gap.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p9",
+                            "pageType": "question",
+                            "headline": "When should you move to solutions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After you hear 'that's right'",
+                                    "When you understand their needs",
+                                    "After they stop talking",
+                                    "When time is running out"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Common Mistakes to Avoid",
+                            "body": "Don't add your own interpretation. Don't skip their emotions. Don't rush the process. Don't settle for 'you're right' or 'yes, that's correct.' Only 'that's right' opens the door.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p11",
+                            "pageType": "question",
+                            "headline": "What happens in the brain when someone says 'that's right'?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stress hormones decrease",
+                                    "Logic centers activate",
+                                    "Memory improves significantly",
+                                    "Trust chemicals are released"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Your Negotiation Milestone",
+                            "body": "Getting 'that's right' is like reaching base camp on Everest. You're not at the summit yet, but you've achieved something crucial. The path to agreement is now clear.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-5",
+                    "title": "Creating Leverage",
+                    "order": 5,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Power in Negotiation",
+                            "body": "Leverage isn't about being stronger - it's about being more prepared to walk away. The person who needs the deal least controls the negotiation. Your alternatives determine your power.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Three Types",
+                            "body": "Positive leverage: what you can give them. Negative leverage: what you can take away. Normative leverage: using their values against them. Master all three to dominate negotiations.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Your BATNA is Everything",
+                            "body": "BATNA means Best Alternative To Negotiated Agreement. If you don't know your walk-away option, you have no power. Always enter negotiations with a strong alternative in your back pocket.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Building Your Alternatives",
+                            "body": "Don't just hope for other options - actively create them. Apply to multiple jobs. Get quotes from different vendors. The more alternatives you have, the stronger you negotiate.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Time as Leverage",
+                            "body": "Deadlines create pressure, but only if both sides feel it equally. If you can wait and they can't, you hold massive leverage. Patience becomes your greatest weapon.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Information is Power",
+                            "body": "The more you know about their needs, constraints, and alternatives, the more leverage you have. Research their company, understand their pressures, discover their real deadlines.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p7",
+                            "pageType": "question",
+                            "headline": "What does BATNA stand for?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Basic Agreement Terms and Negotiations",
+                                    "Bargaining Alternative Tactics Never Agreed",
+                                    "Best Alternative To Negotiated Agreement",
+                                    "Better Approach To Natural Agreements"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p8",
+                            "pageType": "content",
+                            "headline": "The Scarcity Principle",
+                            "body": "Limited availability increases value. If you're the only vendor who can deliver on time, you have leverage. Create legitimate scarcity by being uniquely valuable.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Emotional Leverage Points",
+                            "body": "Find what they care about most - reputation, fairness, relationships, or results. Then frame your requests around these values. Make your position feel morally right to them.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p10",
+                            "pageType": "content",
+                            "headline": "The Network Effect",
+                            "body": "Your relationships are leverage. The person recommending you, your mutual connections, your reputation in the industry - these all create pressure for others to deal fairly with you.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Loss Aversion Leverage",
+                            "body": "People hate losing more than they like gaining. Frame your offer around what they'll lose if they say no, not just what they'll gain if they say yes. Fear motivates action.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p12",
+                            "pageType": "question",
+                            "headline": "What's the strongest source of leverage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having more money",
+                                    "Being more aggressive",
+                                    "Having better alternatives",
+                                    "Knowing important people"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Leverage Without Force",
+                            "body": "True power is never having to use it. When people sense you have strong alternatives, they negotiate more fairly. Your leverage works best when it's implied, not threatened.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Your Power Position",
+                            "body": "You now understand the foundation of negotiation power. Build alternatives before you need them. Research thoroughly. Be patient. Your leverage determines everything else that follows.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-6",
+                    "title": "The Ackerman Model",
+                    "order": 6,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Mathematical Method",
+                            "body": "The Ackerman Model is a systematic approach to price negotiation. It uses precise percentages and psychological triggers to get the best deal. It's negotiation by the numbers.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The Six-Step Process",
+                            "body": "Set your target price. Offer 65% of that. Then move to 85%, 95%, and 100%. Use odd numbers for your final offer. This pattern exploits psychological pricing principles.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Why These Percentages Work",
+                            "body": "The 65% opening creates an anchor point. The smaller increments show you're serious but flexible. The final precise number suggests you've reached your absolute limit.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What percentage of your target should your first offer be?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "50% of target price",
+                                    "75% of target price",
+                                    "85% of target price",
+                                    "65% of target price"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p5",
+                            "pageType": "question",
+                            "headline": "Why should your final offer use odd numbers?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They seem more friendly",
+                                    "They suggest precision and limits",
+                                    "They're easier to remember",
+                                    "They sound more professional"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p6",
+                            "pageType": "question",
+                            "headline": "What's the sequence of offers in the Ackerman Model?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "65%, 85%, 95%, 100%",
+                                    "50%, 75%, 90%, 100%",
+                                    "60%, 80%, 95%, 100%",
+                                    "65%, 80%, 90%, 100%"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p7",
+                            "pageType": "content",
+                            "headline": "The Decreasing Increments",
+                            "body": "Notice how the increases get smaller: 20%, then 10%, then 5%. This shows you're approaching your limit. The other party senses your flexibility is running out.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Adding Non-Monetary Value",
+                            "body": "With each price increase, include something non-monetary. Extended warranty, faster delivery, additional features. This makes the increase feel justified and valuable.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p9",
+                            "pageType": "content",
+                            "headline": "The Psychology Behind It",
+                            "body": "People expect back-and-forth negotiation. The Ackerman Model satisfies this expectation while controlling the process. You appear flexible while staying disciplined.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p10",
+                            "pageType": "content",
+                            "headline": "When to Use This Model",
+                            "body": "Perfect for salary negotiations, buying cars, real estate, or any situation with numerical outcomes. It works because it combines mathematical precision with psychological insight.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p11",
+                            "pageType": "content",
+                            "headline": "The Anchor Effect",
+                            "body": "Your first offer becomes the anchor that influences all subsequent negotiations. Start too high and you'll get laughed at. Start too low and you'll leave money on the table. 65% is the sweet spot.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Rehearse this model before important negotiations. Know your percentages, prepare your increments, and plan your non-monetary additions. Preparation prevents poor performance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p13",
+                            "pageType": "question",
+                            "headline": "What should accompany each price increase?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A detailed explanation",
+                                    "Non-monetary value adds",
+                                    "Emotional appeals",
+                                    "Deadline pressure"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Your Numerical Advantage",
+                            "body": "You now have a proven system for price negotiations. The Ackerman Model removes guesswork and emotional decisions. You negotiate with mathematical precision and psychological insight.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-7",
+                    "title": "Negotiating Salary",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Your Most Important Negotiation",
+                            "body": "Salary negotiations compound over your entire career. A $5,000 increase today becomes hundreds of thousands over decades. Every dollar you don't ask for costs you exponentially.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Timing is Everything",
+                            "body": "Never negotiate salary during the interview process. Wait until they offer you the job. Once they've decided they want you, you have maximum leverage. They've already invested in you.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p3",
+                            "pageType": "question",
+                            "headline": "When should you negotiate salary?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During the first interview",
+                                    "When they ask about expectations",
+                                    "After receiving the job offer",
+                                    "Before applying to the position"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Research Like Your Future Depends On It",
+                            "body": "Know the market rate for your position, experience level, and location. Use Glassdoor, PayScale, and industry reports. Information is your foundation - negotiate from data, not hope.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p5",
+                            "pageType": "content",
+                            "headline": "The Total Compensation Picture",
+                            "body": "Salary is just one piece. Consider health benefits, retirement matching, vacation time, flexible work, professional development, and bonuses. Sometimes lower salary with better benefits wins.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Your Value Proposition",
+                            "body": "Document your achievements with specific numbers. 'Increased sales by 23%' beats 'good at sales.' Quantify your impact. Make the business case for paying you more.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p7",
+                            "pageType": "content",
+                            "headline": "The Magic Phrases",
+                            "body": "'Based on my research and experience...' 'I was hoping for something closer to...' 'Is there flexibility in the salary range?' These phrases sound professional and confident.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Handling the First Offer",
+                            "body": "Never accept the first offer, even if it's great. Express enthusiasm for the role, then pause. Say you need to review the complete package. This signals you're a savvy negotiator.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p9",
+                            "pageType": "content",
+                            "headline": "When They Say No Budget",
+                            "body": "Ask about non-monetary benefits. Earlier start date for experience? Professional development budget? Flexible work arrangements? Extra vacation days? Get creative with value.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What should you do if the salary budget is fixed?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept the original offer",
+                                    "Negotiate non-monetary benefits",
+                                    "Ask for a signing bonus",
+                                    "Request a performance review"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p11",
+                            "pageType": "content",
+                            "headline": "The Performance Review Angle",
+                            "body": "If they can't budge now, negotiate a performance review in 6 months instead of 12. This gives you two chances per year to increase your salary instead of one.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Common Mistakes to Avoid",
+                            "body": "Don't make it personal. Don't compare to coworkers. Don't threaten to quit unless you mean it. Don't negotiate before they want to hire you. Stay professional and fact-based.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p13",
+                            "pageType": "question",
+                            "headline": "What's the biggest mistake in salary negotiation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Asking for too much money",
+                                    "Not negotiating at all",
+                                    "Being too aggressive",
+                                    "Comparing to coworkers"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Your Career Investment",
+                            "body": "You've learned to negotiate the most important number in your professional life. Remember: companies expect negotiation. It shows confidence and business acumen. Your future self will thank you.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-8",
+                    "title": "Handling Difficult Negotiators",
+                    "order": 8,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Know Your Opponent",
+                            "body": "Difficult negotiators use tactics to throw you off balance. They might be aggressive bullies, manipulative charmers, or stubborn walls. Recognize their type to counter their strategy.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Aggressive Bully",
+                            "body": "They use volume, interruption, and intimidation to dominate. Stay calm, speak slowly, and maintain eye contact. Their aggression reveals desperation, not strength. Don't match their energy.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p3",
+                            "pageType": "question",
+                            "headline": "How should you respond to aggressive negotiators?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Match their aggression",
+                                    "Walk away immediately",
+                                    "Ignore their behavior",
+                                    "Stay calm and speak slowly"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p4",
+                            "pageType": "content",
+                            "headline": "The Charming Manipulator",
+                            "body": "They use friendliness and personal connection to get concessions. Separate the relationship from the negotiation. Be warm but firm. Don't let likability cloud your judgment.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p5",
+                            "pageType": "question",
+                            "headline": "What's the key with charming manipulators?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Be equally charming back",
+                                    "Separate relationship from negotiation",
+                                    "Don't trust them at all",
+                                    "Give them what they want"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p6",
+                            "pageType": "content",
+                            "headline": "The Stubborn Wall",
+                            "body": "They say no to everything and refuse to budge. Use calibrated questions to understand their constraints. Find out what they need to say yes. Patience defeats stubbornness.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p7",
+                            "pageType": "question",
+                            "headline": "How do you handle stubborn negotiators?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Use calibrated questions to understand constraints",
+                                    "Make bigger concessions",
+                                    "Set hard deadlines",
+                                    "Find their emotional triggers"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p8",
+                            "pageType": "content",
+                            "headline": "The Emotional Manipulator",
+                            "body": "They use guilt, anger, or sadness to get concessions. Label their emotions: 'You seem frustrated about this.' Don't take responsibility for their feelings. Stay focused on facts.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p9",
+                            "pageType": "content",
+                            "headline": "The Deadline Pressure",
+                            "body": "'This offer expires tomorrow!' Most deadlines are artificial. Test them by asking 'What happens if we need more time?' Real deadlines are rare. Fake ones are common.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p10",
+                            "pageType": "content",
+                            "headline": "The Information Withholder",
+                            "body": "They share nothing while demanding everything from you. Use tactical empathy and mirroring to extract information. Ask calibrated questions. Make information sharing reciprocal.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Your Psychological Armor",
+                            "body": "Don't take their tactics personally. Difficult behavior often masks fear or pressure. Stay centered on your objectives. Their drama is not your emergency. Maintain professional distance.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p12",
+                            "pageType": "content",
+                            "headline": "When to Walk Away",
+                            "body": "If they're abusive, dishonest, or impossible to work with, leave. Your reputation and mental health are worth more than any deal. Sometimes the best negotiation is no negotiation.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p13",
+                            "pageType": "content",
+                            "headline": "The Aikido Approach",
+                            "body": "Use their energy against them. Redirect aggression with questions. Turn charm into specific commitments. Transform stubbornness into detailed explanations. Martial arts for negotiators.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Your Negotiation Immunity",
+                            "body": "You now recognize and counter every difficult negotiator type. Their tactics won't throw you off balance anymore. You have psychological armor and tactical weapons. Stay calm and carry on.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-9",
+                    "title": "Everyday Negotiations",
+                    "order": 9,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Life is One Big Negotiation",
+                            "body": "You negotiate constantly without realizing it. Where to eat dinner, what movie to watch, bedtime for kids, chores with your spouse. Every interaction is a mini-negotiation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Family Dynamics",
+                            "body": "Home is your practice arena. Use tactical empathy with your children. Mirror your spouse's concerns. Ask calibrated questions about weekend plans. Family life becomes smoother.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p3",
+                            "pageType": "question",
+                            "headline": "Where should you practice negotiation skills?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only in business settings",
+                                    "In high-stakes situations",
+                                    "With strangers primarily",
+                                    "In everyday family interactions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Service Industry Wins",
+                            "body": "Restaurants, hotels, airlines, and retail stores have flexibility they don't advertise. Use tactical empathy with service staff. Ask calibrated questions about upgrades. Kindness plus skill equals results.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p5",
+                            "pageType": "content",
+                            "headline": "The Neighbor Negotiations",
+                            "body": "Noise complaints, property lines, shared resources - these require delicate handling. Use tactical empathy to understand their perspective. Find win-win solutions that preserve relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Workplace Micro-Negotiations",
+                            "body": "Project deadlines, meeting times, resource allocation, workspace preferences - you negotiate these daily. Practice your skills in low-stakes situations before big opportunities arise.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Shopping and Services",
+                            "body": "Farmers markets, used cars, home repairs, professional services - all negotiable. Ask 'Is there any flexibility on price?' or 'What's the best you can do?' You'll be surprised by the results.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p8",
+                            "pageType": "content",
+                            "headline": "The Small Stakes Advantage",
+                            "body": "Everyday negotiations have low pressure, which makes them perfect for practice. Experiment with different techniques. Build your confidence and skill before the stakes get higher.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Reading Social Cues",
+                            "body": "Daily interactions teach you to read people better. Notice body language, vocal patterns, and emotional signals. These micro-negotiations sharpen your observation skills for major deals.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What's the benefit of everyday negotiations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They save significant money",
+                                    "They provide low-pressure practice",
+                                    "They impress other people",
+                                    "They reduce daily conflicts"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Building Your Reputation",
+                            "body": "People will notice your improved communication skills. You'll become known as someone who's easy to work with but not a pushover. This reputation opens doors everywhere.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Your Daily Practice",
+                            "body": "Every conversation is an opportunity to improve. Use one technique per day. Today focus on mirroring, tomorrow try calibrated questions. Consistent practice builds unconscious competence.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-10",
+                    "title": "Your Negotiation Practice",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-10-p1",
+                            "pageType": "content",
+                            "headline": "From Knowledge to Skill",
+                            "body": "Reading about negotiation isn't enough. You need deliberate practice in real situations. Start with low-stakes interactions and gradually work up to high-stakes negotiations.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Your Practice Schedule",
+                            "body": "Week 1: Focus on tactical empathy and active listening. Week 2: Add mirroring and labeling. Week 3: Integrate calibrated questions. Week 4: Practice getting to 'that's right.'",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Start Small, Think Big",
+                            "body": "Practice with coffee shop orders, retail purchases, and service requests. These low-pressure situations let you experiment without consequences. Build confidence in casual interactions.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p4",
+                            "pageType": "content",
+                            "headline": "The Role-Play Method",
+                            "body": "Practice with friends or family members. Create scenarios like salary negotiations, car purchases, or project deadlines. Record yourself to review your technique and identify improvement areas.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p5",
+                            "pageType": "question",
+                            "headline": "What's the best way to start practicing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Wait for important negotiations",
+                                    "Start with low-stakes interactions",
+                                    "Practice only with strangers",
+                                    "Begin with aggressive tactics"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Track Your Progress",
+                            "body": "Keep a negotiation journal. Note what techniques you used, how people responded, and what you learned. Track both successes and failures - both teach valuable lessons.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Learn from Failures",
+                            "body": "Every 'no' teaches you something. What information were you missing? Which technique didn't work? How could you have built better rapport? Failure is feedback, not defeat.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p8",
+                            "pageType": "content",
+                            "headline": "The Three-Month Challenge",
+                            "body": "Commit to using negotiation skills daily for three months. By month three, these techniques will feel natural. You'll unconsciously read people better and communicate more effectively.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Building Your Confidence",
+                            "body": "Confidence comes from competence. The more you practice, the more natural these skills become. You'll enter negotiations feeling prepared and capable instead of nervous and reactive.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Reading the Room",
+                            "body": "Practice reading non-verbal cues everywhere. Notice how people's faces change when they're confused, interested, or resistant. These micro-expressions reveal more than words.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Your Support Network",
+                            "body": "Find other people interested in improving their negotiation skills. Practice together, share experiences, and give feedback. Learning is faster when you have accountability partners.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p12",
+                            "pageType": "question",
+                            "headline": "How long does it take to develop negotiation skills?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One week of study",
+                                    "About three months of practice",
+                                    "Six months minimum",
+                                    "Several years of experience"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p13",
+                            "pageType": "content",
+                            "headline": "The Compound Effect",
+                            "body": "Small improvements in negotiation skills create massive life changes over time. Better job offers, improved relationships, favorable deals - the benefits multiply throughout your career.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Your Negotiation Journey",
+                            "body": "You now have the tools and knowledge to become an exceptional negotiator. The only thing between you and mastery is practice. Start today with the next person you meet. Your future self will thank you.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-11",
+                    "title": "Reading Body Language",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-11-p1",
+                            "pageType": "content",
+                            "headline": "The Silent Language",
+                            "body": "Body language accounts for 55% of all communication. People's bodies reveal their true feelings, even when their words don't. Master this skill and you'll read minds.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Baseline Behavior First",
+                            "body": "Establish how someone normally behaves before looking for changes. Do they usually gesture a lot? Sit forward or back? Speak quickly or slowly? Deviations from baseline reveal stress.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p3",
+                            "pageType": "content",
+                            "headline": "The Face Tells All",
+                            "body": "Micro-expressions last only fractions of seconds but reveal true emotions. Look for brief flashes of anger, fear, disgust, or surprise. These involuntary reactions can't be faked.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Reading the Eyes",
+                            "body": "Eyes looking up and right often indicate constructed thoughts or lies. Direct eye contact shows confidence but too much can signal aggression. Blinking increases under stress.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p5",
+                            "pageType": "question",
+                            "headline": "What percentage of communication is body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 55% of communication",
+                                    "About 35% of communication",
+                                    "About 75% of communication",
+                                    "About 25% of communication"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p6",
+                            "pageType": "question",
+                            "headline": "What should you establish before reading body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Their personality type",
+                                    "Their cultural background",
+                                    "Their career history",
+                                    "Their baseline behavior"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Hand and Arm Signals",
+                            "body": "Crossed arms can indicate defensiveness or simply comfort. Palms up suggest openness and honesty. Touching the face or neck often signals anxiety or deception. Context matters.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Posture and Position",
+                            "body": "Leaning forward shows interest and engagement. Leaning back can indicate skepticism or evaluation. Sudden posture changes often signal emotional shifts or decision points.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Voice and Vocal Patterns",
+                            "body": "Pitch rises under stress. Speaking speed increases when excited or nervous. Long pauses might indicate internal conflict. Voice is body language you can hear.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p10",
+                            "pageType": "question",
+                            "headline": "What often indicates anxiety or deception?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Crossed arms only",
+                                    "Touching face or neck",
+                                    "Direct eye contact",
+                                    "Speaking very slowly"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Cultural Considerations",
+                            "body": "Body language varies by culture. Eye contact norms, personal space, and gesture meanings differ globally. Research cultural differences before international negotiations. Avoid misreading cultural behavior.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p12",
+                            "pageType": "question",
+                            "headline": "Why is cultural awareness important in reading body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It helps build rapport faster",
+                                    "It prevents misreading cultural behaviors",
+                                    "It shows respect for others",
+                                    "It makes negotiations easier"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Your Body Language Too",
+                            "body": "Control your own non-verbal signals. Stand tall, maintain appropriate eye contact, and keep gestures open. Your confident body language influences how others perceive and respond to you.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-12",
+                    "title": "The Power of Silence",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Silence is Golden",
+                            "body": "Most people are uncomfortable with silence and will fill it with words. This often leads to concessions, revelations, or valuable information. Learn to embrace the pause.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The Psychological Pressure",
+                            "body": "Silence creates psychological pressure that compels people to speak. They'll often reveal more than they intended. Use this natural human tendency to gather information without asking.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Strategic Pausing",
+                            "body": "After stating your position, stay quiet. Let them respond first. After they make an offer, pause before responding. This silence suggests you're considering their words carefully.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Different Types of Silence",
+                            "body": "Thinking silence shows consideration. Uncomfortable silence creates pressure. Expectant silence invites response. Master each type to control the conversation's rhythm and flow.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p5",
+                            "pageType": "content",
+                            "headline": "When They Fill the Void",
+                            "body": "People often make concessions to break uncomfortable silence. They'll lower prices, add benefits, or reveal constraints just to keep talking. Your patience becomes their weakness.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p6",
+                            "pageType": "question",
+                            "headline": "What often happens when people are uncomfortable with silence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They become more aggressive",
+                                    "They make concessions or reveal information",
+                                    "They end the negotiation",
+                                    "They demand immediate answers"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p7",
+                            "pageType": "question",
+                            "headline": "When should you use strategic pausing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only when you're confused",
+                                    "After stating your position",
+                                    "When you're running out of time",
+                                    "Only with aggressive negotiators"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p8",
+                            "pageType": "content",
+                            "headline": "The Count of Three",
+                            "body": "After someone speaks, count to three before responding. This brief pause shows you're processing their words thoughtfully. It also creates space for them to add more information.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Overcoming Your Discomfort",
+                            "body": "Practice being comfortable with silence. Most people rush to fill gaps in conversation. Train yourself to wait. The person who speaks first after a pause often loses ground.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Reading Silent Signals",
+                            "body": "During silence, watch their body language carefully. Do they fidget? Look uncomfortable? Seem to be formulating a response? Their non-verbal cues reveal their internal state.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Your Powerful Weapon",
+                            "body": "Silence costs nothing but delivers tremendous value. It gathers information, creates pressure, and demonstrates confidence. The most powerful negotiators know when to speak and when to stay quiet.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Practice in Daily Life",
+                            "body": "Use strategic silence in everyday conversations. After asking questions, wait for complete answers. Notice how people fill silence with additional details. This skill improves with practice.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-13",
+                    "title": "Anchoring Techniques",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-13-p1",
+                            "pageType": "content",
+                            "headline": "The First Number Wins",
+                            "body": "The first number mentioned in any negotiation becomes the anchor point that influences everything that follows. Control the anchor, control the entire negotiation outcome.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p2",
+                            "pageType": "content",
+                            "headline": "How Anchoring Works",
+                            "body": "Your brain uses the anchor as a reference point for all subsequent numbers. Even if the anchor is completely random, it still influences judgment. This cognitive bias is incredibly powerful.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Setting Strong Anchors",
+                            "body": "Make your anchor aggressive but not ridiculous. Too extreme and you'll lose credibility. Too conservative and you'll leave money on the table. Research helps you find the sweet spot.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What makes an effective anchor?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The highest possible number",
+                                    "A completely random figure",
+                                    "A conservative, safe estimate",
+                                    "Aggressive but not ridiculous"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Defending Against Anchors",
+                            "body": "When someone throws out an extreme anchor, don't let it influence you. Counter with your own anchor immediately. Acknowledge their number but don't negotiate from their starting point.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p6",
+                            "pageType": "content",
+                            "headline": "The Range Strategy",
+                            "body": "Instead of single numbers, use ranges. 'I was thinking somewhere between X and Y.' This gives you flexibility while still anchoring high. People often settle in the middle of your range.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p7",
+                            "pageType": "question",
+                            "headline": "How should you respond to an extreme anchor?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept it as the starting point",
+                                    "Counter with your own anchor immediately",
+                                    "Try to find a middle ground",
+                                    "Ask them to be more reasonable"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p8",
+                            "pageType": "question",
+                            "headline": "What's the benefit of using ranges instead of single numbers?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They sound more professional",
+                                    "They're easier to remember",
+                                    "They provide flexibility while anchoring high",
+                                    "They make you seem more cooperative"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Supporting Your Anchor",
+                            "body": "Don't just throw out numbers - justify them. Use market data, comparable situations, or logical reasoning. A well-supported anchor carries much more weight than arbitrary figures.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Multiple Anchor Points",
+                            "body": "Use different anchors for different aspects. Price, timeline, features, terms - each element gets its own anchor. This prevents getting locked into one-dimensional thinking.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p11",
+                            "pageType": "question",
+                            "headline": "Why should you justify your anchors?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Supported anchors carry more weight",
+                                    "It shows you're well-prepared",
+                                    "It makes you seem more honest",
+                                    "It prevents them from countering"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p12",
+                            "pageType": "content",
+                            "headline": "The Re-Anchoring Technique",
+                            "body": "If negotiations stall, introduce a new anchor with fresh justification. 'Given what we've discussed, I'm now thinking...' This resets the reference point in your favor.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Practice anchoring in low-stakes situations. Try it when buying groceries, negotiating deadlines, or planning activities. The more you practice, the more natural it becomes.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Your Anchoring Advantage",
+                            "body": "You now understand one of negotiation's most powerful psychological tools. Use it ethically and strategically. The first number you mention could determine whether you get what you want.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-14",
+                    "title": "Deadline Pressure",
+                    "order": 14,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Time as a Weapon",
+                            "body": "Deadlines create urgency and pressure people into quick decisions. But most deadlines are artificial and negotiable. Learn to distinguish real deadlines from fake ones.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Real vs. Artificial Deadlines",
+                            "body": "Real deadlines have consequences: court dates, project launches, contract expirations. Artificial ones are created for leverage: 'This offer expires tomorrow.' Always question the deadline.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Testing Their Deadline",
+                            "body": "Ask 'What happens if we need more time?' or 'Is there any flexibility on timing?' If they can extend it, it wasn't real. Real deadlines come with explanations and consequences.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Creating Your Own Deadlines",
+                            "body": "Use legitimate deadlines to create urgency. Board meetings, budget cycles, seasonal needs - these are powerful motivators. But make them real and well-communicated in advance.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p5",
+                            "pageType": "content",
+                            "headline": "The Procrastination Problem",
+                            "body": "Many negotiations drag on unnecessarily without deadlines. People procrastinate decision-making. Strategic deadlines force action and move negotiations forward productively.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p6",
+                            "pageType": "question",
+                            "headline": "How can you test if a deadline is real?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept it at face value",
+                                    "Ignore it completely",
+                                    "Ask about time flexibility",
+                                    "Demand proof of consequences"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Last-Minute Pressure",
+                            "body": "Be suspicious of sudden time pressure. 'We need to decide today' often signals desperation or manipulation. Take time to think, even if they claim there isn't any.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Managing Multiple Deadlines",
+                            "body": "Complex negotiations often have several timing pressures. Map out all deadlines and their relationships. Use the most urgent real deadline to motivate progress on everything else.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p9",
+                            "pageType": "content",
+                            "headline": "The Patient Negotiator",
+                            "body": "If you're not under real time pressure, patience becomes your advantage. Let them feel the deadline stress while you remain calm. Time pressure often leads to concessions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p10",
+                            "pageType": "question",
+                            "headline": "What should you do when faced with sudden time pressure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Make quick decisions immediately",
+                                    "Take time to think despite pressure",
+                                    "Ask for a significant extension",
+                                    "Accept their first offer"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Deadline Extensions",
+                            "body": "When you need more time, give a specific reason and timeline. 'I need until Friday to review this with my team.' Specific requests get better responses than vague delays.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Your Time Advantage",
+                            "body": "Build timeline awareness into your negotiation strategy. Know your real deadlines, question theirs, and use time pressure strategically. Time can be your strongest ally or worst enemy.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p13",
+                            "pageType": "content",
+                            "headline": "The Deadline Defense",
+                            "body": "Never let artificial time pressure force bad decisions. When someone says 'decide now,' that's exactly when you should slow down. Good deals don't require emergency decisions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Your Strategic Clock",
+                            "body": "You now understand how to use time as a negotiation tool. Question deadlines, create legitimate urgency, and never let artificial pressure rush you into bad decisions.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Master of Time",
+                            "body": "Time mastery is negotiation mastery. You control the pace, question artificial pressure, and use real deadlines strategically. Time becomes your ally, not your enemy.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-15",
+                    "title": "Win-Win Solutions",
+                    "order": 15,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Zero-Sum Thinking",
+                            "body": "Most people think negotiation means one side wins and one side loses. The best negotiators create value for both parties. Win-win solutions build lasting relationships and better outcomes.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Expanding the Pie",
+                            "body": "Instead of fighting over a fixed pie, make the pie bigger. Find ways to create additional value that benefits everyone. More value means more opportunities for mutual gain.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Different Priorities Create Opportunities",
+                            "body": "You want speed, they want certainty. You need flexibility, they want predictability. These different priorities create opportunities for trades that benefit both sides.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p4",
+                            "pageType": "content",
+                            "headline": "The Interest-Based Approach",
+                            "body": "Focus on underlying interests, not stated positions. Why do they want what they want? What problem are they really trying to solve? Understanding interests reveals creative solutions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Value Creation Techniques",
+                            "body": "Bundle different elements together. Offer payment terms that help their cash flow. Provide training that builds their capabilities. Look for ways to give them more than money.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p6",
+                            "pageType": "content",
+                            "headline": "The Long-Term View",
+                            "body": "Win-win solutions build relationships for future negotiations. The vendor who feels fairly treated gives you priority service. The employee who gets development opportunities becomes more loyal.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Finding Common Ground",
+                            "body": "Start with areas of agreement before tackling differences. Shared objectives, mutual concerns, and common enemies create a foundation for collaboration.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p8",
+                            "pageType": "question",
+                            "headline": "What's the key to creating win-win solutions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Understanding underlying interests",
+                                    "Making bigger concessions",
+                                    "Being more generous with money",
+                                    "Agreeing to their demands"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Creative Problem Solving",
+                            "body": "Ask 'How might we...' questions together. Brainstorm solutions without immediate judgment. Sometimes the craziest ideas lead to breakthrough solutions that work for everyone.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p10",
+                            "pageType": "question",
+                            "headline": "Why are win-win solutions valuable long-term?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They cost less money",
+                                    "They're easier to negotiate",
+                                    "They build lasting relationships",
+                                    "They prevent future conflicts"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p11",
+                            "pageType": "content",
+                            "headline": "When Win-Win Isn't Possible",
+                            "body": "Sometimes resources truly are limited and interests completely opposed. In these cases, focus on fair processes and maintaining relationships. Even in zero-sum games, you can win with dignity.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Your Reputation Builder",
+                            "body": "People remember negotiators who find creative solutions. Your reputation as someone who looks for mutual benefit will attract better opportunities and more willing partners.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p13",
+                            "pageType": "content",
+                            "headline": "The Collaboration Mindset",
+                            "body": "Approach negotiations as joint problem-solving sessions. You're not adversaries fighting over scraps - you're partners looking for the best solution. This mindset changes everything.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Your Win-Win Advantage",
+                            "body": "You now see negotiations as opportunities for mutual gain. This perspective will set you apart from adversarial negotiators and create better outcomes for everyone involved.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-16",
+                    "title": "Cultural Negotiations",
+                    "order": 16,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Culture Shapes Everything",
+                            "body": "Negotiation styles vary dramatically across cultures. Direct confrontation works in some cultures and offends in others. Understanding cultural differences prevents costly misunderstandings.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p2",
+                            "pageType": "content",
+                            "headline": "High-Context vs. Low-Context",
+                            "body": "High-context cultures (Japan, Arab countries) communicate indirectly. Low-context cultures (Germany, Netherlands) value direct communication. Match their communication style to build rapport.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p3",
+                            "pageType": "question",
+                            "headline": "What varies dramatically across cultures?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Negotiation styles and communication",
+                                    "Basic human needs",
+                                    "Mathematical reasoning",
+                                    "Fundamental logic processes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Relationship vs. Task Focus",
+                            "body": "Some cultures prioritize building relationships before business (China, Latin America). Others focus immediately on tasks (USA, Scandinavia). Invest time in relationship building when appropriate.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Power Distance Variations",
+                            "body": "Hierarchical cultures expect deference to authority and formal protocols. Egalitarian cultures encourage direct input from all levels. Understand their power structures before negotiating.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Time Orientation Differences",
+                            "body": "Monochronic cultures value punctuality and linear time (Germany, Switzerland). Polychronic cultures view time more flexibly (Middle East, Africa). Adjust your timeline expectations accordingly.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Individual vs. Group Decision Making",
+                            "body": "Western cultures emphasize individual decision-making. Eastern cultures often require group consensus. Factor in decision-making processes when planning negotiations and timelines.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Face-Saving Considerations",
+                            "body": "Many cultures prioritize saving face and maintaining dignity. Public criticism or aggressive tactics can destroy relationships. Always provide ways for others to maintain their reputation.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Gift-Giving and Hospitality",
+                            "body": "Some cultures view gifts as relationship building. Others see them as bribes. Research local customs around hospitality, gift-giving, and entertainment to avoid cultural missteps.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p10",
+                            "pageType": "question",
+                            "headline": "What should you do before international negotiations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Research local negotiation customs",
+                                    "Bring expensive gifts",
+                                    "Hire local translators",
+                                    "Plan shorter meetings"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p11",
+                            "pageType": "question",
+                            "headline": "Why is face-saving important in many cultures?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It speeds up negotiations",
+                                    "It reduces costs",
+                                    "It maintains dignity and relationships",
+                                    "It shows respect for hierarchy"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p12",
+                            "pageType": "content",
+                            "headline": "The Learning Mindset",
+                            "body": "Approach cultural differences with curiosity, not judgment. Ask questions about their customs and explain yours. Cultural learning enhances relationships and improves negotiation outcomes.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Universal Human Principles",
+                            "body": "Despite cultural differences, some principles are universal: respect, fairness, and mutual benefit. Focus on shared human values while adapting your approach to cultural preferences.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p14",
+                            "pageType": "question",
+                            "headline": "What remains universal across all cultures?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Communication styles",
+                                    "Respect, fairness, mutual benefit",
+                                    "Decision-making processes",
+                                    "Time management approaches"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-16-p15",
+                            "pageType": "content",
+                            "headline": "Your Global Advantage",
+                            "body": "Cultural competence makes you a more effective international negotiator. You avoid costly mistakes, build stronger relationships, and achieve better outcomes across cultural boundaries.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-17",
+                    "title": "Digital Age Negotiations",
+                    "order": 17,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Negotiating Through Screens",
+                            "body": "Video calls, emails, and texts have changed negotiation dynamics. You lose body language cues but gain time to think. Digital negotiations require adapted strategies and new skills.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Email Negotiation Strategies",
+                            "body": "Email gives you time to craft perfect responses but lacks emotional nuance. Use clear subject lines, bullet points for complex terms, and strategic delays to show you're considering options carefully.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Video Call Dynamics",
+                            "body": "Position your camera at eye level and ensure good lighting. Maintain eye contact with the camera, not the screen. Use the mute button strategically for quick consultations with your team.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p4",
+                            "pageType": "content",
+                            "headline": "The Response Time Game",
+                            "body": "Digital communications create expectations about response time. Quick responses can signal eagerness. Delayed responses might suggest careful consideration or disinterest. Time your responses strategically.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p5",
+                            "pageType": "question",
+                            "headline": "What advantage does email provide in negotiations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Time to craft careful responses",
+                                    "Better emotional connection",
+                                    "Faster decision making",
+                                    "Clear body language cues"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Digital Body Language",
+                            "body": "Online behavior reveals attitudes. Read receipts that don't get responses, typing indicators that disappear, and delayed replies all communicate messages. Learn to read digital signals.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Screen Sharing Power",
+                            "body": "Controlling screen sharing gives you presentation control. Prepare documents that support your position. Use visual aids to make complex terms clear and memorable during video negotiations.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p8",
+                            "pageType": "content",
+                            "headline": "The Distraction Challenge",
+                            "body": "Digital environments create more distractions. Other browser tabs, phone notifications, and household interruptions divide attention. Create distraction-free environments for important negotiations.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Building Digital Rapport",
+                            "body": "Relationship building is harder online but still crucial. Start with small talk, remember personal details, and use names frequently. Technology shouldn't eliminate human connection.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Documentation Benefits",
+                            "body": "Digital negotiations create automatic records. Email trails provide exact wordings and timestamps. Use this to your advantage by confirming agreements in writing and referring to previous commitments.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p11",
+                            "pageType": "question",
+                            "headline": "How should you handle distractions in digital negotiations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept them as unavoidable",
+                                    "Create distraction-free environments",
+                                    "Schedule shorter meetings",
+                                    "Use audio-only calls instead"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Hybrid Negotiation Strategies",
+                            "body": "Many negotiations now combine in-person and digital elements. Use face-to-face time for relationship building and complex discussions. Handle routine details and follow-ups digitally for efficiency.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p13",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of digital documentation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Faster deal closure",
+                                    "Reduced misunderstandings",
+                                    "Lower negotiation costs",
+                                    "Increased trust levels"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-17-p14",
+                            "pageType": "content",
+                            "headline": "Your Digital Mastery",
+                            "body": "You now understand how to negotiate effectively across all digital platforms. Technology changes the medium but not the fundamentals. Adapt your techniques to thrive in the digital age.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "negotiation_ninja-1-18",
+                    "title": "Advanced Negotiation Mastery",
+                    "order": 18,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "negotiation_ninja-1-18-p1",
+                            "pageType": "content",
+                            "headline": "Your Negotiation Evolution",
+                            "body": "You've learned the fundamentals. Now it's time to integrate everything into an advanced skill set. Master negotiators don't just know techniques - they read situations and adapt fluidly.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p2",
+                            "pageType": "content",
+                            "headline": "Situational Awareness",
+                            "body": "Every negotiation is unique. Industry dynamics, individual personalities, company cultures, and market conditions all influence strategy. Develop the skill to read contexts quickly and accurately.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p3",
+                            "pageType": "content",
+                            "headline": "The Multi-Party Challenge",
+                            "body": "Complex negotiations involve multiple stakeholders with different interests. Map out all parties, understand their relationships, and identify decision-makers. Coalition building becomes crucial.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p4",
+                            "pageType": "question",
+                            "headline": "What distinguishes master negotiators?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They know more techniques",
+                                    "They read situations and adapt fluidly",
+                                    "They're more aggressive",
+                                    "They have better connections"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p5",
+                            "pageType": "question",
+                            "headline": "What becomes crucial in multi-party negotiations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Coalition building",
+                                    "Individual focus",
+                                    "Faster decisions",
+                                    "Simpler strategies"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p6",
+                            "pageType": "content",
+                            "headline": "Emotional Intelligence Mastery",
+                            "body": "Advanced negotiators manage emotions - their own and others'. They stay calm under pressure, defuse tension, and channel emotions productively. Emotional mastery is negotiation mastery.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p7",
+                            "pageType": "content",
+                            "headline": "Strategic Patience",
+                            "body": "Great negotiators know when to push and when to wait. They let deals develop naturally, resist artificial urgency, and use time as their ally. Patience often wins what aggression cannot.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p8",
+                            "pageType": "content",
+                            "headline": "The Innovation Mindset",
+                            "body": "Master negotiators don't just split existing value - they create new value through innovative solutions. They see opportunities where others see obstacles. Creativity becomes competitive advantage.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p9",
+                            "pageType": "content",
+                            "headline": "Building Your System",
+                            "body": "Develop your personal negotiation methodology. Pre-negotiation research protocols, during-negotiation checklists, and post-negotiation analysis routines. Systematic approaches beat random tactics.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p10",
+                            "pageType": "content",
+                            "headline": "Continuous Learning",
+                            "body": "Every negotiation teaches you something. Keep a learning journal. What worked? What didn't? What would you do differently? Masters never stop learning and improving.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p11",
+                            "pageType": "content",
+                            "headline": "Your Reputation as Currency",
+                            "body": "Your negotiation reputation becomes self-fulfilling. Known as fair but firm? People negotiate honestly with you. Known as creative? They bring you complex problems. Reputation is your most valuable asset.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p12",
+                            "pageType": "question",
+                            "headline": "What should you do after every negotiation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Celebrate the outcome",
+                                    "Learn and analyze performance",
+                                    "Start the next negotiation",
+                                    "Rest and recover"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p13",
+                            "pageType": "content",
+                            "headline": "The Teaching Test",
+                            "body": "Can you teach these skills to others? Teaching forces you to understand principles deeply and articulate them clearly. Become a mentor to solidify your own mastery.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p14",
+                            "pageType": "content",
+                            "headline": "Your Negotiation Legacy",
+                            "body": "Great negotiators leave positive impressions. Years later, people remember them fondly. They built value, solved problems, and treated people with respect. Your legacy is how you'll be remembered.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "negotiation_ninja-1-18-p15",
+                            "pageType": "content",
+                            "headline": "The Journey Continues",
+                            "body": "You've completed your negotiation education, but mastery is a lifelong journey. Every interaction is practice. Every deal is learning. You're now equipped to get what you want while helping others get what they need. Go negotiate with confidence.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.8,
+    "tag": "Popular"
+}

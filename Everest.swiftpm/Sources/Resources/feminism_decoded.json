@@ -1,0 +1,2434 @@
+{
+    "id": "feminism_decoded",
+    "title": "Feminism Decoded",
+    "description": "Understand the history, theory, and relevance of feminism today. Navigate the movement's evolution from suffrage to intersectionality.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/feminism_decoded.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract diverse hands raised together forming a unified symbol of solidarity, sage green inclusive progress with charcoal historical roots, social movement aesthetic",
+    "altitude": 3600,
+    "durationMinutes": 93,
+    "whatsInside": [
+        "Trace the waves of feminism from suffrage to today",
+        "Understand key concepts like patriarchy, intersectionality, and gender",
+        "Explore contemporary debates and movements",
+        "Apply feminist principles to everyday life and relationships",
+        "Master emotional labor and microaggressions",
+        "Navigate professional feminism"
+    ],
+    "expertReview": {
+        "quote": "Feminism is simply the belief that all genders deserve equal rights and opportunities. This course unpacks what that means in practice.",
+        "name": "Chimamanda Ngozi Adichie",
+        "title": "Author, We Should All Be Feminists"
+    },
+    "chapters": [
+        {
+            "id": "feminism_decoded-ch1",
+            "title": "Understanding Feminism",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "feminism_decoded-1-1",
+                    "title": "What Feminism Actually Means",
+                    "order": 1,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Defining Feminism",
+                            "body": "Feminism is the belief that all genders should have equal rights, opportunities, and treatment. It's not about superiority or hatred\u2014it's about fairness. This movement has shaped society for over 150 years.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Common Misconceptions",
+                            "body": "Many people think feminism is anti-men or only for women. In reality, feminism benefits everyone by challenging harmful gender stereotypes. Men can be feminists too, supporting equality that helps all people thrive.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p3",
+                            "pageType": "question",
+                            "headline": "What is the core principle of feminism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Equal rights for all genders",
+                                    "Women should rule society",
+                                    "Men are the main problem",
+                                    "Traditional roles are wrong"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Beyond Gender Binaries",
+                            "body": "Modern feminism recognizes gender exists on a spectrum. It includes transgender, non-binary, and gender-fluid people in the fight for equality. This inclusive approach strengthens the movement's impact.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Personal Empowerment",
+                            "body": "Feminism empowers individuals to make choices about their lives, careers, and relationships. Whether you choose to be a CEO or stay-at-home parent, feminism supports your right to decide.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Systemic Change",
+                            "body": "Individual empowerment isn't enough\u2014feminism also works to change unfair systems. This includes laws, policies, and cultural norms that disadvantage people based on gender.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p7",
+                            "pageType": "question",
+                            "headline": "Modern feminism is inclusive of which groups?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "All people across gender spectrum",
+                                    "Only cisgender women activists",
+                                    "Women in leadership positions",
+                                    "Traditional family structures"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Global Movement",
+                            "body": "Feminism looks different around the world, addressing unique cultural challenges. From education access in Afghanistan to workplace equality in Sweden, local contexts shape feminist priorities.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Intersectional Understanding",
+                            "body": "Your gender intersects with race, class, sexuality, and other identities. Feminism increasingly recognizes these overlapping experiences create different challenges for different people.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Economic Dimensions",
+                            "body": "Gender inequality has real economic costs. Women globally earn less, own less property, and have less financial security. Feminism advocates for economic policies that close these gaps.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p11",
+                            "pageType": "question",
+                            "headline": "Why does feminism focus on systemic change?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Systems create lasting impact",
+                                    "Individual change takes too long",
+                                    "Laws guarantee perfect equality",
+                                    "Personal choice isn't important"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Daily Relevance",
+                            "body": "Feminism isn't just theory\u2014it affects your daily life. From workplace policies to dating dynamics, feminist ideas influence how society treats you based on your gender.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Evolution Continues",
+                            "body": "Feminism constantly evolves as society changes. New technologies, global connections, and generational shifts create fresh challenges and opportunities for gender equality.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p14",
+                            "pageType": "question",
+                            "headline": "What makes feminism personally relevant today?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It influences daily experiences",
+                                    "Everyone must become activists",
+                                    "It solves all social problems",
+                                    "Historical knowledge is enough"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Your Understanding Matters",
+                            "body": "Whether you identify as feminist or not, understanding this movement helps you navigate modern society. Knowledge empowers you to make informed decisions about equality and justice.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-2",
+                    "title": "The Historical Roots of Feminism",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Ancient Origins",
+                            "body": "Questions about women's roles appeared in ancient civilizations. Greek philosopher Plato argued women could be guardians in his ideal society. However, most ancient cultures strictly limited women's rights and freedoms.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Medieval Challenges",
+                            "body": "Medieval women like Christine de Pizan (1364-1430) challenged male authority through writing. She defended women's intellectual capabilities when society viewed them as inferior. These early voices planted seeds for future movements.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p3",
+                            "pageType": "question",
+                            "headline": "Who was Christine de Pizan?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A medieval religious leader",
+                                    "An early feminist writer",
+                                    "A Greek philosopher's student",
+                                    "A Renaissance queen's advisor"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p4",
+                            "pageType": "question",
+                            "headline": "What did ancient cultures generally believe about women?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They were equal to men",
+                                    "They deserved political rights",
+                                    "They were naturally superior",
+                                    "They should have limited roles"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p5",
+                            "pageType": "question",
+                            "headline": "How did Plato's views on women differ from his era?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "He supported traditional roles",
+                                    "He believed women could lead",
+                                    "He thought women were inferior",
+                                    "He ignored gender completely"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What role did early female writers play?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They avoided controversial topics",
+                                    "They focused only on romance",
+                                    "They reinforced traditional views",
+                                    "They challenged male authority"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Enlightenment Awakening",
+                            "body": "The 18th-century Enlightenment sparked new ideas about human rights. Mary Wollstonecraft's 'A Vindication of the Rights of Woman' (1792) argued women deserved equal education and opportunities.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Industrial Revolution Impact",
+                            "body": "Factory work gave some women economic independence but often under horrible conditions. The contrast between middle-class domesticity and working-class exploitation highlighted gender-based inequalities.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Legal Restrictions",
+                            "body": "Victorian-era laws treated married women as property of their husbands. They couldn't own property, sign contracts, or keep their earnings. These legal barriers sparked organized resistance.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Abolitionist Connections",
+                            "body": "Many early feminists also fought against slavery. They saw connections between women's oppression and racial oppression. This dual activism strengthened both movements and created lasting alliances.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Religious Influences",
+                            "body": "Some religious movements supported women's equality, while others reinforced traditional roles. Quakers often allowed women to preach and lead, providing models for female leadership.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p12",
+                            "pageType": "content",
+                            "headline": "International Perspectives",
+                            "body": "Feminist ideas spread across borders through letters, books, and travel. European and American women shared strategies and inspired each other's activism despite different cultural contexts.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Foundation for Change",
+                            "body": "These historical roots created the foundation for organized feminism. Early thinkers and activists established key principles: equality, education access, legal rights, and economic independence that guide feminism today.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-3",
+                    "title": "First Wave: Suffrage and Legal Rights",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Right to Vote",
+                            "body": "First-wave feminism (1848-1920) focused primarily on legal rights, especially voting. Women couldn't participate in democracy that governed their lives. The suffrage movement became their primary battleground.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Seneca Falls Convention",
+                            "body": "In 1848, Elizabeth Cady Stanton and Lucretia Mott organized the first women's rights convention in Seneca Falls, New York. This gathering launched organized feminism in America with demands for voting rights.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Strategic Approaches",
+                            "body": "Suffragettes used various tactics from peaceful petitions to militant protests. Some chained themselves to government buildings or went on hunger strikes when imprisoned. Their dedication shocked society.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Opposition Arguments",
+                            "body": "Critics claimed women were too emotional or fragile for politics. They argued voting would destroy families and femininity. These arguments revealed deep fears about changing gender roles.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p5",
+                            "pageType": "content",
+                            "headline": "International Movement",
+                            "body": "The suffrage movement was global. New Zealand women won the vote in 1893, followed by Australia, Finland, and other countries. This international success inspired activists everywhere.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p6",
+                            "pageType": "question",
+                            "headline": "What was the primary focus of first-wave feminism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Workplace equality for women",
+                                    "Legal rights and voting access",
+                                    "Reproductive choice and freedom",
+                                    "Cultural attitudes toward gender"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Property Rights Victory",
+                            "body": "Beyond voting, first-wave feminists won property rights for married women. Previously, husbands controlled all family assets. These legal victories gave women economic security and independence.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Education Access",
+                            "body": "First-wave activists fought for women's education at all levels. They established women's colleges and demanded admission to existing universities. Education was seen as key to equality.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p9",
+                            "pageType": "question",
+                            "headline": "Which country first granted women voting rights?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "United States in 1920",
+                                    "New Zealand in 1893",
+                                    "United Kingdom in 1918",
+                                    "Australia in 1902"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p10",
+                            "pageType": "question",
+                            "headline": "What did the Seneca Falls Convention accomplish?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Won immediate voting rights",
+                                    "Established women's colleges",
+                                    "Launched organized feminism",
+                                    "Changed property laws"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p11",
+                            "pageType": "question",
+                            "headline": "How did critics justify opposing women's suffrage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Women already had too much power",
+                                    "Voting was too complicated for everyone",
+                                    "Politics was too dangerous for men",
+                                    "Women were too emotional for politics"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p12",
+                            "pageType": "content",
+                            "headline": "World War Impact",
+                            "body": "World War I accelerated women's suffrage as women took on men's jobs and proved their capabilities. Governments found it harder to deny rights to women contributing to the war effort.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Lasting Legacy",
+                            "body": "First-wave feminism established women's political participation and legal personhood. These victories created the foundation for future feminist waves to build upon, though many inequalities remained.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-4",
+                    "title": "Second Wave: Personal is Political",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Post-War Awakening",
+                            "body": "After World War II, many women returned to domestic roles despite proving their capabilities during wartime. This contradiction sparked questions about women's true potential and societal expectations.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Feminine Mystique",
+                            "body": "Betty Friedan's 1963 book challenged the idea that women found fulfillment only through homemaking. She named 'the problem that has no name'\u2014educated women's dissatisfaction with limited roles.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p3",
+                            "pageType": "question",
+                            "headline": "What did 'the problem that has no name' refer to?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Women's lack of voting rights",
+                                    "Educated women's dissatisfaction",
+                                    "Workplace discrimination issues",
+                                    "Domestic violence prevalence"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Personal Is Political",
+                            "body": "Second-wave feminists recognized that private experiences\u2014marriage, sexuality, childrearing\u2014were shaped by political forces. What happened in homes reflected broader power structures that needed changing.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Consciousness Raising",
+                            "body": "Women formed small groups to share personal experiences and connect them to larger patterns of oppression. These consciousness-raising sessions helped women understand their individual struggles were collective issues.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Workplace Equality",
+                            "body": "Second-wave feminists fought for equal pay, promotion opportunities, and freedom from sexual harassment. They challenged the assumption that certain jobs were 'naturally' for men or women only.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Reproductive Rights",
+                            "body": "Access to contraception and abortion became central feminist issues. Women argued they couldn't achieve equality without controlling their own fertility and reproductive choices.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p8",
+                            "pageType": "question",
+                            "headline": "What was unique about second-wave feminism's approach?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It focused only on legal rights",
+                                    "It ignored workplace discrimination",
+                                    "It connected personal and political",
+                                    "It avoided controversial topics"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Cultural Criticism",
+                            "body": "Feminists analyzed how media, advertising, and popular culture portrayed women. They revealed how these images reinforced stereotypes and limited women's self-perception and opportunities.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Legal Victories",
+                            "body": "Major legal achievements included Title IX (education equality), Roe v. Wade (reproductive rights), and anti-discrimination laws. These victories translated feminist principles into enforceable protections.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Movement Tensions",
+                            "body": "Not all women felt included in second-wave feminism. Many working-class women and women of color felt the movement focused too much on middle-class, white women's experiences.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Enduring Impact",
+                            "body": "Second-wave feminism fundamentally changed how society views women's capabilities and rights. It opened doors in education, careers, and politics while challenging traditional gender roles across all areas of life.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-5",
+                    "title": "Third Wave: Diversity and Complexity",
+                    "order": 5,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Generational Shift",
+                            "body": "Third-wave feminism emerged in the 1990s as younger women who grew up with second-wave gains wanted to address new challenges. They critiqued earlier feminism while building on its achievements.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Embracing Complexity",
+                            "body": "Third-wave feminists rejected simple definitions of liberation. They argued women could be empowered through traditionally feminine choices like makeup or motherhood if made freely and consciously.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Intersectional Analysis",
+                            "body": "This wave emphasized how race, class, sexuality, and other identities intersect with gender. Women of color, LGBTQ+ women, and working-class women brought different perspectives to feminist theory.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Cultural Engagement",
+                            "body": "Third-wave feminists engaged with popular culture rather than rejecting it. They analyzed how women used fashion, music, and media to express agency while critiquing problematic representations.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Global Perspectives",
+                            "body": "This wave incorporated international feminisms and recognized that Western feminism wasn't universal. Women worldwide faced different challenges requiring different strategies and priorities.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p6",
+                            "pageType": "question",
+                            "headline": "How did third-wave feminism view traditional femininity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It could be empowering if chosen freely",
+                                    "It was always oppressive to women",
+                                    "It should be completely eliminated",
+                                    "It was irrelevant to modern life"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Individual Agency",
+                            "body": "Third-wave feminists emphasized women's right to make individual choices, even controversial ones. They supported sex workers' rights, stay-at-home mothers, and corporate executives equally if choices were freely made.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p8",
+                            "pageType": "question",
+                            "headline": "What was third-wave feminism's approach to popular culture?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complete rejection and avoidance",
+                                    "Engagement and critical analysis",
+                                    "Uncritical celebration of all media",
+                                    "Focus only on feminist artists"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p9",
+                            "pageType": "question",
+                            "headline": "How did third-wave feminism handle diversity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It maintained focus on white women",
+                                    "It emphasized intersectional identities",
+                                    "It avoided discussing race entirely",
+                                    "It separated gender from other issues"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Technology Integration",
+                            "body": "Third-wave feminists were early adopters of internet technology for organizing and communication. Websites, forums, and email lists allowed global networking and rapid information sharing.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Critiques and Debates",
+                            "body": "Some criticized third-wave feminism for being too individualistic or losing political focus. Others praised its inclusivity and nuanced understanding of power, identity, and choice.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Bridge to Today",
+                            "body": "Third-wave feminism bridged 20th-century achievements with 21st-century challenges. It prepared the movement to address digital-age issues while maintaining commitment to equality and justice.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-6",
+                    "title": "Fourth Wave: Digital Feminism",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Digital Revolution",
+                            "body": "Fourth-wave feminism emerged around 2012, powered by social media and digital technologies. Hashtags, viral videos, and online campaigns transformed how feminists organize and spread awareness.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Viral Movements",
+                            "body": "Campaigns like #MeToo, #HeForShe, and #YesAllWomen reached millions instantly. Social media allowed personal stories to become powerful political statements that demanded societal response and change.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Global Connectivity",
+                            "body": "Digital platforms connected feminists worldwide in unprecedented ways. A protest in one country could inspire action globally within hours, creating truly international feminist solidarity.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Body Positivity",
+                            "body": "Fourth-wave feminists challenged narrow beauty standards through body positivity movements. They used social media to celebrate diverse body types, ages, and abilities previously excluded from mainstream representation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Digital Harassment",
+                            "body": "Online spaces created new forms of gender-based violence. Cyberbullying, revenge porn, and harassment campaigns disproportionately target women, requiring new feminist responses and legal protections.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p6",
+                            "pageType": "question",
+                            "headline": "What characterizes fourth-wave feminism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Rejection of all technology",
+                                    "Focus only on legal rights",
+                                    "Digital-powered activism",
+                                    "Academic theory development"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Intersectional Mainstream",
+                            "body": "Fourth-wave feminism made intersectionality central to mainstream feminist discourse. Discussions routinely include race, class, sexuality, disability, and other identities as fundamental to understanding gender oppression.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Economic Justice",
+                            "body": "This wave highlights economic inequality through campaigns about wage gaps, unpaid labor, and workplace discrimination. Digital tools make data about inequality more accessible and shareable.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Trans Inclusion",
+                            "body": "Fourth-wave feminism increasingly includes transgender rights as core feminist issues. This inclusion has sparked debates but reflects growing recognition that gender equality must include all gender identities.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Youth Leadership",
+                            "body": "Young feminists lead many fourth-wave initiatives, bringing fresh perspectives and digital expertise. They're comfortable with technology while maintaining focus on fundamental equality issues.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Backlash Responses",
+                            "body": "Fourth-wave feminism faces organized online backlash movements. Anti-feminist groups use the same digital tools to spread opposing messages, creating new challenges for feminist activists.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p12",
+                            "pageType": "question",
+                            "headline": "How do digital tools impact feminist organizing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They slow down communication",
+                                    "They limit international connections",
+                                    "They only benefit wealthy activists",
+                                    "They enable rapid global coordination"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Future Directions",
+                            "body": "Fourth-wave feminism continues evolving as technology advances. Artificial intelligence, virtual reality, and emerging platforms create new opportunities and challenges for gender equality advocacy.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Ongoing Impact",
+                            "body": "Digital feminism has already changed public discourse about gender, making feminist ideas more accessible while creating new forms of activism. This wave's influence will shape feminism's future development.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-6-p15",
+                            "pageType": "content",
+                            "headline": "Your Digital Role",
+                            "body": "Whether you share articles, support online campaigns, or simply engage thoughtfully with gender issues online, you participate in fourth-wave feminism's digital landscape and its continuing evolution.",
+                            "imageURL": "phone",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-7",
+                    "title": "Intersectionality Theory",
+                    "order": 7,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Coining the Term",
+                            "body": "Legal scholar Kimberl\u00e9 Crenshaw coined 'intersectionality' in 1989 to describe how different forms of discrimination overlap. She showed how Black women faced unique challenges not captured by looking at racism or sexism separately.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Beyond Simple Addition",
+                            "body": "Intersectionality isn't just adding identities together. A Black woman doesn't experience racism plus sexism\u2014she experiences a distinct form of discrimination that affects Black women specifically.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Multiple Identity Systems",
+                            "body": "Everyone has multiple identities: race, gender, class, sexuality, disability status, age, religion. These intersect to create unique lived experiences and different access to power and resources.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Privilege and Oppression",
+                            "body": "Intersectionality reveals how you can simultaneously hold privileged and oppressed identities. A white woman may face gender discrimination while benefiting from racial privilege in the same situation.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p5",
+                            "pageType": "question",
+                            "headline": "Who developed intersectionality theory?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Kimberl\u00e9 Crenshaw in 1989",
+                                    "Betty Friedan in 1963",
+                                    "Judith Butler in 1990",
+                                    "bell hooks in 1984"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Workplace Applications",
+                            "body": "Intersectional analysis reveals why diversity initiatives often fail. Programs targeting 'women' or 'minorities' separately may miss how women of color face distinct barriers different from white women or men of color.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Legal Implications",
+                            "body": "Courts struggled to recognize intersectional discrimination. When Black women sued for discrimination, judges often said they should choose whether to claim race or gender discrimination, not both simultaneously.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Healthcare Disparities",
+                            "body": "Intersectionality explains healthcare disparities. Black women face higher maternal mortality rates not just due to race or gender alone, but because of specific biases affecting Black women's medical treatment.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Educational Impact",
+                            "body": "In education, intersectionality shows how Black girls face different disciplinary actions than white girls or Black boys. Their experiences can't be understood through single-identity lenses alone.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Global Perspectives",
+                            "body": "Intersectionality applies globally, though specific intersections vary by culture. Women in different countries face unique combinations of gender, ethnic, religious, or caste-based discrimination.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p11",
+                            "pageType": "question",
+                            "headline": "What does intersectional analysis reveal about identity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Everyone experiences the same oppression",
+                                    "Multiple identities create unique experiences",
+                                    "Only one identity matters at a time",
+                                    "Privilege always outweighs oppression"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Movement Building",
+                            "body": "Intersectionality strengthens social movements by acknowledging different experiences within groups. It helps build coalitions that address various forms of oppression simultaneously rather than competing for attention.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p13",
+                            "pageType": "question",
+                            "headline": "How does intersectionality improve feminist activism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It simplifies complex social issues",
+                                    "It focuses only on gender oppression",
+                                    "It ignores racial and class differences",
+                                    "It builds more inclusive movements"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Personal Application",
+                            "body": "Understanding intersectionality helps you recognize your own complex identity and experiences. It also builds empathy for others whose intersections create different challenges and opportunities than yours.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-7-p15",
+                            "pageType": "content",
+                            "headline": "Continuing Evolution",
+                            "body": "Intersectional theory continues developing as scholars and activists identify new intersections and applications. It remains a powerful tool for understanding and addressing complex social inequalities.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-8",
+                    "title": "Key Feminist Theorists",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Mary Wollstonecraft",
+                            "body": "Often called the 'mother of feminism,' Wollstonecraft wrote 'A Vindication of the Rights of Woman' (1792). She argued women deserved equal education and opportunities, revolutionary ideas for her time.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Sojourner Truth",
+                            "body": "Born into slavery, Truth became a powerful speaker for both abolition and women's rights. Her famous 'Ain't I a Woman?' speech highlighted how Black women were excluded from white feminism's protection.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Virginia Woolf",
+                            "body": "Woolf's 'A Room of One's Own' (1929) explored how women needed financial independence and private space to create. She showed how economic barriers limited women's intellectual and artistic contributions.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Simone de Beauvoir",
+                            "body": "Her groundbreaking 'The Second Sex' (1949) analyzed how society constructs women as 'the other.' She famously declared 'One is not born, but rather becomes, a woman.'",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Betty Friedan",
+                            "body": "Friedan's 'The Feminine Mystique' (1963) launched second-wave feminism by naming suburban housewives' dissatisfaction. She co-founded the National Organization for Women (NOW) to advocate for women's rights.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Gloria Steinem",
+                            "body": "Steinem became the public face of 1960s feminism through journalism and activism. She co-founded Ms. Magazine and used media to spread feminist ideas to mainstream audiences.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p7",
+                            "pageType": "question",
+                            "headline": "What did Simone de Beauvoir mean by 'One is not born, but becomes, a woman'?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Gender roles are socially constructed",
+                                    "Biological sex doesn't exist",
+                                    "Women are naturally inferior",
+                                    "Femininity is purely genetic"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Audre Lorde",
+                            "body": "Lorde challenged white feminism's exclusion of women of color and lesbian women. Her work emphasized how multiple identities\u2014race, sexuality, class\u2014shape different women's experiences of oppression.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p9",
+                            "pageType": "content",
+                            "headline": "bell hooks",
+                            "body": "hooks (who doesn't capitalize her name) wrote accessibly about feminism's intersection with race and class. She argued feminism must address all forms of domination to create true equality.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p10",
+                            "pageType": "question",
+                            "headline": "Which theorist highlighted economic barriers to women's creativity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Betty Friedan's domestic analysis",
+                                    "Gloria Steinem's media work",
+                                    "Audre Lorde's poetry",
+                                    "Virginia Woolf's 'Room of One's Own'"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Judith Butler",
+                            "body": "Butler's 'Gender Trouble' (1990) revolutionized feminist theory by arguing gender is performative\u2014we create gender through repeated acts rather than expressing some inner essence.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Contemporary Voices",
+                            "body": "Current feminist theorists like Roxane Gay, Chimamanda Ngozi Adichie, and Kimberl\u00e9 Crenshaw continue developing feminist thought. They address digital age challenges while building on earlier foundations.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Diverse Perspectives",
+                            "body": "Feminist theory includes voices from different cultures, races, classes, and sexualities. This diversity strengthens feminist understanding by revealing how gender intersects with other identity factors.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-9",
+                    "title": "Gender vs Sex: Understanding the Difference",
+                    "order": 9,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Basic Distinction",
+                            "body": "Sex refers to biological characteristics like chromosomes, hormones, and anatomy. Gender refers to social roles, behaviors, and expectations associated with masculinity and femininity in specific cultures.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Cultural Construction",
+                            "body": "Gender varies dramatically across cultures and historical periods. What's considered masculine or feminine behavior in one society may be the opposite elsewhere, proving gender is socially constructed.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Biological Complexity",
+                            "body": "Even biological sex isn't simply binary. Intersex conditions affect chromosome patterns, hormone levels, or anatomy. About 1 in 2000 births involve some form of intersex variation.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Gender Performance",
+                            "body": "Judith Butler argued we 'perform' gender through daily actions like clothing choices, speech patterns, and body language. These performances create and reinforce gender categories rather than expressing natural differences.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Childhood Socialization",
+                            "body": "Children learn gender expectations from birth through toys, clothes, praise, and criticism. These early lessons shape their understanding of what's appropriate for their assigned gender.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Gender Stereotypes",
+                            "body": "Stereotypes assume all people of one gender share certain traits: women are nurturing, men are aggressive. These generalizations limit individual expression and create unfair expectations for everyone.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p7",
+                            "pageType": "question",
+                            "headline": "What does it mean that gender is 'socially constructed'?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Gender doesn't exist at all",
+                                    "Society creates gender meanings",
+                                    "Biology determines all behavior",
+                                    "Gender never changes over time"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p8",
+                            "pageType": "question",
+                            "headline": "How do intersex conditions challenge binary thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They prove sex is always unclear",
+                                    "They show biological complexity",
+                                    "They only affect gender, not sex",
+                                    "They're too rare to matter"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Transgender Experiences",
+                            "body": "Transgender people's gender identity differs from their assigned sex at birth. Their experiences demonstrate that gender identity is internal and may not match biological characteristics or social expectations.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Non-Binary Identities",
+                            "body": "Some people identify as neither fully masculine nor feminine, or as both. Non-binary and genderfluid identities challenge the assumption that gender must fit into two distinct categories.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Institutional Impact",
+                            "body": "Gender distinctions affect access to resources, opportunities, and treatment in institutions like schools, workplaces, and healthcare systems. Understanding this helps explain persistent inequalities.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Personal Reflection",
+                            "body": "Consider how gender expectations have shaped your own life choices, interests, and behavior. Understanding these influences helps you make more conscious decisions about your identity and expression.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-10",
+                    "title": "Reproductive Rights and Autonomy",
+                    "order": 10,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Fundamental Freedom",
+                            "body": "Reproductive autonomy means individuals can decide whether, when, and how many children to have. This includes access to contraception, abortion, fertility treatments, and comprehensive sex education.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Historical Context",
+                            "body": "For centuries, women had little control over their fertility. High rates of maternal death, poverty from unwanted pregnancies, and limited life opportunities motivated the fight for reproductive rights.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Contraception Access",
+                            "body": "Birth control became legally available to married couples in 1965 and unmarried people in 1972 in the US. However, access remains limited by cost, location, and religious exemptions worldwide.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Abortion Rights",
+                            "body": "Roe v. Wade (1973) established abortion as a constitutional right in the US, but this decision was overturned in 2022. Globally, abortion legality and accessibility vary dramatically by country.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p5",
+                            "pageType": "question",
+                            "headline": "What does reproductive autonomy include?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only abortion access rights",
+                                    "Only contraception availability",
+                                    "Control over fertility decisions",
+                                    "Government-mandated family planning"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Economic Implications",
+                            "body": "Unplanned pregnancies can derail education and career goals, particularly for women. Studies show reproductive autonomy increases women's economic opportunities and reduces family poverty rates.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Health Equity",
+                            "body": "Reproductive healthcare access varies by race, class, and geography. Low-income women and women of color face greater barriers to contraception, prenatal care, and safe abortion services.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Global Perspectives",
+                            "body": "Reproductive rights vary enormously worldwide. Some countries provide free contraception and abortion, while others completely ban both. Cultural, religious, and political factors shape these differences.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Maternal Mortality",
+                            "body": "Lack of reproductive healthcare kills hundreds of thousands annually. Complications from unsafe abortions and inadequate prenatal care disproportionately affect women in countries with restrictive laws.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Fertility Treatments",
+                            "body": "Reproductive autonomy also includes the right to have children through fertility treatments, surrogacy, or adoption. LGBTQ+ individuals and single people often face additional barriers to parenthood.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p11",
+                            "pageType": "question",
+                            "headline": "How do reproductive rights affect economic equality?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They have no economic impact",
+                                    "They only affect wealthy women",
+                                    "They increase women's opportunities",
+                                    "They reduce men's earning potential"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p12",
+                            "pageType": "question",
+                            "headline": "What factors create disparities in reproductive healthcare?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Individual choice preferences",
+                                    "Race, class, and geography",
+                                    "Natural biological differences",
+                                    "Educational background only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Ongoing Debates",
+                            "body": "Reproductive rights remain contentious, involving questions about personhood, religious freedom, and government authority. These debates affect policy, healthcare access, and individual lives daily.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Future Challenges",
+                            "body": "Emerging technologies like genetic testing and artificial wombs raise new questions about reproductive autonomy. Digital surveillance and data privacy also create new concerns for reproductive freedom.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-10-p15",
+                            "pageType": "content",
+                            "headline": "Your Role",
+                            "body": "Whether through voting, advocacy, or personal support, you can influence reproductive rights policies. Understanding these issues helps you make informed decisions about healthcare, policy, and support for others.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-11",
+                    "title": "The Workplace and Economic Equality",
+                    "order": 11,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Persistent Wage Gap",
+                            "body": "Women globally earn less than men for comparable work. In the US, women earn about 82 cents for every dollar men earn. This gap widens for women of color and persists across education levels.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Occupational Segregation",
+                            "body": "Jobs remain heavily gender-segregated. Women dominate lower-paying fields like education and social work, while men dominate higher-paying fields like technology and finance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Leadership Underrepresentation",
+                            "body": "Women hold only 20% of executive positions and board seats globally. Despite educational achievements, barriers prevent women from reaching top leadership roles in most industries.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Motherhood Penalty",
+                            "body": "Mothers face hiring discrimination, lower wages, and fewer promotions compared to fathers and childless women. Employers often assume mothers are less committed or capable employees.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p5",
+                            "pageType": "question",
+                            "headline": "What contributes most to occupational segregation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Women's natural preferences",
+                                    "Social expectations and barriers",
+                                    "Biological ability differences",
+                                    "Educational program availability"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p6",
+                            "pageType": "question",
+                            "headline": "How does the 'motherhood penalty' manifest?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Mothers earn more than fathers",
+                                    "Mothers receive hiring preferences",
+                                    "Mothers face wage and promotion discrimination",
+                                    "Mothers get more workplace flexibility"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p7",
+                            "pageType": "question",
+                            "headline": "What percentage of executive positions do women hold globally?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 50% reflecting population",
+                                    "About 20% despite qualifications",
+                                    "About 80% in most industries",
+                                    "About 5% in all sectors"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Sexual Harassment",
+                            "body": "Workplace sexual harassment affects women disproportionately and creates hostile work environments. The #MeToo movement highlighted how harassment limits women's career advancement and job security.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Work-Life Balance",
+                            "body": "Women perform more unpaid domestic and caregiving work, limiting their availability for overtime, networking, and career advancement. This 'second shift' affects workplace equality even in egalitarian relationships.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p10",
+                            "pageType": "question",
+                            "headline": "Why do work-life balance issues affect women more?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Women naturally prefer domestic work",
+                                    "Men are better at time management",
+                                    "Women perform more unpaid care work",
+                                    "Employers offer women more flexibility"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Policy Solutions",
+                            "body": "Countries with parental leave, affordable childcare, and flexible work policies show smaller gender pay gaps. These structural supports help women maintain career continuity during childrearing years.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Entrepreneurship Gap",
+                            "body": "Women-owned businesses receive less venture capital funding and face more barriers accessing loans. This limits women's ability to create wealth through business ownership and innovation.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Progress and Challenges",
+                            "body": "While women's workforce participation has increased dramatically, structural barriers remain. Achieving economic equality requires addressing both individual biases and systemic policies that disadvantage women.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-12",
+                    "title": "Violence Against Women",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Global Epidemic",
+                            "body": "Violence against women affects one in three women globally. This includes domestic violence, sexual assault, trafficking, and femicide. It crosses all boundaries of class, race, and culture.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Domestic Violence Reality",
+                            "body": "Intimate partner violence is often hidden behind closed doors. Abusers use physical violence, emotional manipulation, financial control, and isolation to maintain power over partners.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Sexual Assault Prevalence",
+                            "body": "Sexual assault affects millions annually, yet remains underreported due to shame, disbelief, and fear of retaliation. Most assaults are committed by someone the victim knows, not strangers.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p4",
+                            "pageType": "question",
+                            "headline": "What percentage of women globally experience violence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 10% in developed countries",
+                                    "About 50% in poor countries only",
+                                    "About 33% across all regions",
+                                    "About 5% in most cultures"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Victim Blaming Culture",
+                            "body": "Society often blames victims for violence against them, asking what they wore, drank, or did to 'provoke' attack. This blame shifts responsibility from perpetrators to victims, discouraging reporting.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Systemic Failures",
+                            "body": "Legal systems often fail violence survivors through inadequate laws, poor enforcement, and biased treatment. Police, courts, and social services may not believe or support women seeking help.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Economic Entrapment",
+                            "body": "Financial dependence keeps many women trapped in abusive relationships. Without economic resources, leaving becomes dangerous or impossible, especially for mothers with children to support.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Digital Violence",
+                            "body": "Technology enables new forms of gender-based violence including cyberstalking, revenge porn, and online harassment campaigns. These digital attacks cause real psychological harm and safety concerns.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Cultural Practices",
+                            "body": "Some harmful traditional practices disproportionately affect women, including female genital mutilation, forced marriage, and honor killings. Addressing these requires cultural sensitivity and local leadership.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Health Consequences",
+                            "body": "Violence causes immediate and long-term health problems including injuries, PTSD, depression, and chronic pain. Healthcare systems need training to recognize and respond appropriately to violence survivors.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p11",
+                            "pageType": "question",
+                            "headline": "Why do legal systems often fail violence survivors?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Laws adequately protect all victims",
+                                    "Police always believe victim reports",
+                                    "Courts prioritize women's testimonies",
+                                    "Bias and inadequate enforcement"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Prevention Strategies",
+                            "body": "Effective prevention includes education about consent and healthy relationships, bystander intervention training, and changing cultural norms that tolerate violence. Men's involvement in prevention efforts is crucial.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Support Systems",
+                            "body": "Survivors need comprehensive support including safety planning, counseling, legal advocacy, and economic assistance. Specialized services recognize the complex needs of different communities and identities.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-13",
+                    "title": "Emotional Labor and Care Work",
+                    "order": 13,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Defining Emotional Labor",
+                            "body": "Emotional labor involves managing your own and others' emotions to create comfortable social interactions. This includes remembering birthdays, mediating conflicts, and maintaining family relationships\u2014work that's often invisible.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Gendered Expectations",
+                            "body": "Society expects women to be naturally caring, empathetic, and emotionally available. These expectations mean women perform most emotional labor in families, workplaces, and social settings without recognition.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Invisible Workload",
+                            "body": "Care work includes childcare, eldercare, housework, and mental load management like meal planning and scheduling. This unpaid work enables others to participate in paid employment but limits women's opportunities.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Economic Impact",
+                            "body": "If valued at minimum wage, unpaid care work would represent 13% of global GDP. Women perform 76% of this work globally, essentially subsidizing the economy through free labor.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Workplace Dynamics",
+                            "body": "In professional settings, women often handle office housework like organizing parties, taking notes, and managing team dynamics. This emotional labor is rarely valued in performance reviews or promotions.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Mental Load Burden",
+                            "body": "The mental load involves remembering, planning, and coordinating family life. Even when partners help with tasks, women often bear responsibility for thinking about and organizing household management.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Career Consequences",
+                            "body": "Women's careers suffer when they reduce work hours or refuse overtime to handle family responsibilities. The assumption that women will prioritize care over careers affects hiring, promotion, and pay decisions.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p8",
+                            "pageType": "question",
+                            "headline": "What percentage of global unpaid care work do women perform?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 76% of all care work",
+                                    "About 50% equally with men",
+                                    "About 25% while men do more",
+                                    "About 90% in all countries"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Cultural Variations",
+                            "body": "Different cultures value and distribute emotional labor differently. Some societies have more egalitarian expectations, while others strictly divide care responsibilities by gender through cultural norms.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p10",
+                            "pageType": "question",
+                            "headline": "How does emotional labor affect women's careers?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It enhances professional skills",
+                                    "It limits time and energy for advancement",
+                                    "It's valued equally with other work",
+                                    "It only affects women at home"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Relationship Dynamics",
+                            "body": "Unequal emotional labor can create resentment in relationships when one partner feels overwhelmed by invisible responsibilities. Open communication about care work distribution helps create more balanced partnerships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Policy Solutions",
+                            "body": "Family-friendly policies like parental leave, childcare support, and flexible work arrangements help redistribute care responsibilities. Some countries are experimenting with universal basic services for care work.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Recognition Matters",
+                            "body": "Simply acknowledging emotional labor is a first step toward fairness. When care work becomes visible, families and workplaces can make conscious decisions about how to share these essential responsibilities.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Individual Action",
+                            "body": "You can help by recognizing emotional labor in your relationships, sharing care responsibilities equitably, and supporting policies that value care work. Small changes in awareness create larger cultural shifts.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Future Possibilities",
+                            "body": "Reimagining care work distribution could benefit everyone by reducing individual burden while strengthening communities. This shift requires valuing care as essential to society, not just women's natural obligation.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-14",
+                    "title": "Microaggressions and Everyday Sexism",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Understanding Microaggressions",
+                            "body": "Microaggressions are subtle, often unconscious acts of discrimination that communicate bias. While individually small, they accumulate to create hostile environments and reinforce gender inequality.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Common Examples",
+                            "body": "Gender microaggressions include interrupting women more than men, assuming women are assistants rather than leaders, complimenting women's appearance over achievements, and questioning women's competence in male-dominated fields.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Workplace Manifestations",
+                            "body": "Office microaggressions include 'mansplaining,' assigning women administrative tasks regardless of role, commenting on women's emotions as unprofessional, and assuming mothers aren't committed to their careers.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Intersectional Impact",
+                            "body": "Women of color, LGBTQ+ women, and disabled women experience additional microaggressions based on multiple identities. These compound effects create more complex and harmful discrimination experiences.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p5",
+                            "pageType": "question",
+                            "headline": "What makes microaggressions particularly harmful?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They're always intentionally malicious",
+                                    "They only affect certain groups",
+                                    "They're illegal in most places",
+                                    "They accumulate over time"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Gaslighting Dynamics",
+                            "body": "When women point out microaggressions, they're often told they're 'overreacting' or 'too sensitive.' This gaslighting makes women question their own experiences and discourages them from speaking up.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Public Space Harassment",
+                            "body": "Street harassment, unwanted comments about appearance, and assumptions about women's availability for conversation are everyday sexism that limits women's freedom to move through public spaces comfortably.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Digital Spaces",
+                            "body": "Online microaggressions include questioning women's expertise in comment sections, focusing on appearance over content, and the persistent assumption that gamers, programmers, or tech users are male by default.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p9",
+                            "pageType": "question",
+                            "headline": "How do microaggressions affect women's confidence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They have no psychological impact",
+                                    "They only affect work performance",
+                                    "They build resilience over time",
+                                    "They create chronic stress"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p10",
+                            "pageType": "question",
+                            "headline": "What is 'mansplaining' as a microaggression?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Men explaining concepts to women condescendingly",
+                                    "Women asking men to explain things",
+                                    "Gender-neutral explanation of complex topics",
+                                    "Formal workplace training procedures"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Cumulative Stress",
+                            "body": "Constant vigilance against microaggressions creates mental exhaustion. Women spend energy navigating discrimination that could otherwise go toward professional achievement, creativity, and personal well-being.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p12",
+                            "pageType": "question",
+                            "headline": "Why might women hesitate to address microaggressions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They genuinely don't notice them",
+                                    "Fear of being labeled as difficult",
+                                    "They always enjoy the attention",
+                                    "Legal protections are too strong"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Bystander Opportunities",
+                            "body": "Allies can interrupt microaggressions by redirecting conversations, amplifying women's voices that were ignored, and privately addressing friends' or colleagues' biased behavior. These actions create more inclusive environments.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-15",
+                    "title": "Men and Masculinity in Feminism",
+                    "order": 15,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Challenging Masculinity",
+                            "body": "Traditional masculinity often requires men to suppress emotions, avoid vulnerability, and prove dominance. These expectations harm men's mental health while contributing to gender inequality.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Feminist Benefits for Men",
+                            "body": "Feminism challenges stereotypes that limit men's emotional expression, parenting involvement, and career flexibility. Gender equality allows men more freedom to choose their own paths and relationships.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Male Privilege Reality",
+                            "body": "Men benefit from systemic advantages in pay, promotion, and social authority even without consciously choosing these benefits. Recognizing privilege is essential for men who want to support equality.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p4",
+                            "pageType": "question",
+                            "headline": "How does traditional masculinity harm men?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It gives them too much power",
+                                    "It provides complete social freedom",
+                                    "It limits emotional expression and flexibility",
+                                    "It only affects their relationships"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Allyship in Action",
+                            "body": "Male feminists can use their privilege to amplify women's voices, challenge sexist behavior among other men, and support family-friendly policies that benefit everyone. Active allyship requires ongoing education and action.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p6",
+                            "pageType": "question",
+                            "headline": "What characterizes effective male allyship?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Speaking for women in all situations",
+                                    "Amplifying women's voices and challenging sexism",
+                                    "Avoiding all gender-related conversations",
+                                    "Taking leadership in feminist organizations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p7",
+                            "pageType": "question",
+                            "headline": "How can feminism benefit men's parenting?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It encourages emotional connection and involvement",
+                                    "It reduces men's parenting responsibilities",
+                                    "It eliminates all gender role expectations",
+                                    "It focuses only on mothers' needs"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Toxic Masculinity",
+                            "body": "Toxic masculinity refers to harmful aspects of traditional male roles: aggression, emotional suppression, and dominance. This isn't about all masculinity being bad, but recognizing destructive cultural expectations.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p9",
+                            "question": {
+                                "options": [
+                                    "All traditional male traits are harmful",
+                                    "Men should never show strength or leadership",
+                                    "Harmful aspects of traditional male expectations",
+                                    "Natural biological differences between genders"
+                                ],
+                                "correctIndex": 3
+                            },
+                            "pageType": "question",
+                            "headline": "What does 'toxic masculinity' actually mean?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Mental Health Impact",
+                            "body": "Men have higher suicide rates partly due to social expectations that discourage help-seeking and emotional expression. Feminist challenges to rigid masculinity could improve men's mental health outcomes.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Workplace Benefits",
+                            "body": "Gender equality policies like parental leave and flexible work benefit men who want to be involved fathers or have interests outside traditional career focus. These changes create options for everyone.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Resistance and Fear",
+                            "body": "Some men fear feminism threatens their identity or opportunities. However, research shows gender equality correlates with better outcomes for everyone, including men's health, relationships, and life satisfaction.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-16",
+                    "title": "Global Perspectives on Feminism",
+                    "order": 16,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Cultural Context Matters",
+                            "body": "Feminism takes different forms globally because women face different challenges based on culture, religion, economics, and politics. What liberation means varies significantly across societies.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Western vs Global Feminism",
+                            "body": "Western feminism historically focused on workplace equality and reproductive rights, while feminists in developing countries often prioritize education access, poverty reduction, and basic safety.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Economic Development Link",
+                            "body": "In many regions, women's economic participation drives both individual empowerment and societal development. Microfinance programs and entrepreneurship support have become feminist strategies for change.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Education as Liberation",
+                            "body": "Girls' education remains a primary feminist goal globally. Educated women have fewer children, better health outcomes, and more economic opportunities. Education transforms entire communities.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p5",
+                            "pageType": "question",
+                            "headline": "Why does feminism vary across cultures?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Women have different natural preferences",
+                                    "Different cultures have different challenges",
+                                    "Western feminism is always superior",
+                                    "Religion determines all feminist priorities"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Religious Feminism",
+                            "body": "Many women work for equality within religious frameworks rather than abandoning faith. Islamic feminists, Christian feminists, and others reinterpret religious texts to support women's rights.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p7",
+                            "pageType": "question",
+                            "headline": "How do religious feminists approach equality?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They reject all religious teachings",
+                                    "They work within faith traditions",
+                                    "They focus only on secular policies",
+                                    "They avoid discussing gender entirely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Indigenous Feminisms",
+                            "body": "Indigenous women worldwide face unique challenges from colonialism, land dispossession, and cultural destruction. Their feminism often centers environmental justice, cultural preservation, and sovereignty rights.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p9",
+                            "pageType": "content",
+                            "headline": "African Feminisms",
+                            "body": "African feminist movements address issues like female genital cutting, polygamy, property rights, and political participation while celebrating African women's traditional strength and resilience.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Latin American Movements",
+                            "body": "Latin American feminists combat femicide, advocate for reproductive rights, and work for economic justice. Their movements often connect gender equality with broader social justice and human rights activism.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p11",
+                            "pageType": "question",
+                            "headline": "What do indigenous feminisms often emphasize?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Corporate advancement opportunities",
+                                    "Environmental and sovereignty rights",
+                                    "Urban workplace equality",
+                                    "Western educational models"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Digital Connections",
+                            "body": "Social media enables global feminist networking and solidarity. Campaigns like #MeToo spread internationally, while local movements gain international attention and support through digital platforms.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Colonial Legacy Issues",
+                            "body": "Post-colonial feminists critique how colonialism imposed certain gender systems and how international feminism sometimes repeats colonial patterns by imposing Western solutions on non-Western contexts.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p14",
+                            "pageType": "content",
+                            "headline": "Intersectional Global View",
+                            "body": "Effective global feminism recognizes how gender intersects with race, class, nationality, religion, and other identities differently across cultures. This complexity requires listening to diverse voices and experiences.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-16-p15",
+                            "pageType": "content",
+                            "headline": "Common Goals",
+                            "body": "Despite different approaches, feminists worldwide share common goals: ending violence against women, achieving economic equality, gaining political participation, and ensuring all people can live with dignity regardless of gender.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "feminism_decoded-1-17",
+                    "title": "Your Feminist Journey Forward",
+                    "order": 17,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "feminism_decoded-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Personal Reflection",
+                            "body": "Take time to consider how feminist ideas connect to your own experiences. What gender expectations have shaped your life? Where have you seen inequality in action? Self-awareness guides meaningful action.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Everyday Activism",
+                            "body": "Feminism isn't just about protests and policies\u2014it's also about daily choices. Challenge sexist jokes, support women-owned businesses, and speak up when you witness discrimination. Small actions create cultural change.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Continuing Education",
+                            "body": "Feminist knowledge constantly evolves. Read books by diverse feminist authors, follow feminist scholars on social media, and stay informed about policy changes affecting gender equality in your community.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Intersectional Approach",
+                            "body": "Remember that feminism must include all women\u2014across race, class, sexuality, ability, and other identities. Listen to voices different from your own and support feminist causes that address various forms of oppression.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Political Engagement",
+                            "body": "Vote for candidates who support gender equality. Contact elected officials about feminist issues. Attend town halls and public meetings. Democracy requires participation to create the changes you want to see.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Workplace Action",
+                            "body": "Advocate for family-friendly policies, equal pay, and respectful treatment at work. Mentor others, interrupt bias in meetings, and support colleagues facing discrimination. Professional spaces need feminist voices.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Community Building",
+                            "body": "Connect with local feminist organizations, women's centers, or social justice groups. Volunteer for causes you care about. Building community creates support networks and amplifies collective power.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p8",
+                            "pageType": "question",
+                            "headline": "What's the most important aspect of ongoing feminist education?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Reading only classical feminist texts",
+                                    "Listening to diverse feminist voices",
+                                    "Focusing on one specific issue",
+                                    "Avoiding controversial topics"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p9",
+                            "pageType": "question",
+                            "headline": "How can you practice feminism in daily life?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Challenging sexism when you encounter it",
+                                    "Only participating in large protests",
+                                    "Avoiding all gendered conversations",
+                                    "Waiting for others to take action first"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Digital Feminism",
+                            "body": "Use social media thoughtfully to share feminist content, amplify marginalized voices, and call out online harassment. Your digital presence can either challenge or reinforce gender inequality.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Self-Care Balance",
+                            "body": "Feminist activism can be emotionally draining. Practice self-care, set boundaries, and take breaks when needed. Sustainable activism requires taking care of yourself so you can continue fighting for justice.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p12",
+                            "pageType": "question",
+                            "headline": "Why is self-care important for feminist activists?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It enables sustainable long-term activism",
+                                    "It's more important than helping others",
+                                    "It shows you're not really committed",
+                                    "It's only necessary for leaders"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p13",
+                            "pageType": "content",
+                            "headline": "Generational Perspective",
+                            "body": "You're part of ongoing feminist history. Previous generations created the opportunities you have today. Your actions will shape the world future generations inherit. This long-term view motivates continued effort.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p14",
+                            "pageType": "question",
+                            "headline": "What perspective helps sustain feminist motivation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focusing only on immediate results",
+                                    "Ignoring historical progress made",
+                                    "Understanding generational continuity",
+                                    "Competing with other movements"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "feminism_decoded-1-17-p15",
+                            "pageType": "content",
+                            "headline": "Your Unique Contribution",
+                            "body": "Whether through career choices, parenting decisions, creative expression, or community involvement, you have unique ways to advance gender equality. Your perspective, skills, and experiences matter to the feminist movement's future.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.8,
+    "tag": "Popular"
+}

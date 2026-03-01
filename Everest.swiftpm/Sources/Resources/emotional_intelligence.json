@@ -1,0 +1,2250 @@
+{
+    "id": "emotional_intelligence",
+    "title": "Emotional Intelligence",
+    "description": "Master the skills that matter more than IQ. Develop self-awareness, empathy, and social skills for personal and professional success.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/emotional_intelligence.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract heart and brain balanced in harmony, sage green emotional warmth with charcoal cognitive structure, EQ mastery aesthetic",
+    "altitude": 3200,
+    "durationMinutes": 94,
+    "whatsInside": [
+        "Develop self-awareness to recognize your emotional patterns",
+        "Build self-regulation skills to manage difficult emotions",
+        "Cultivate empathy to understand others deeply",
+        "Master social skills for leadership and collaboration",
+        "Navigate conflict constructively",
+        "Build emotional resilience for lasting success"
+    ],
+    "expertReview": {
+        "quote": "Emotional intelligence is the difference between good and great in every field. These skills are learnable and essential.",
+        "name": "Daniel Goleman",
+        "title": "Author, Emotional Intelligence"
+    },
+    "chapters": [
+        {
+            "id": "emotional_intelligence-ch1",
+            "title": "Emotional Intelligence Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "emotional_intelligence-1-1",
+                    "title": "Self-Awareness Foundations",
+                    "order": 1,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Emotional Compass",
+                            "body": "Self-awareness is the foundation of emotional intelligence. It's your ability to recognize your emotions as they happen and understand how they affect your thoughts and behavior. Without this awareness, you're essentially driving blind through life's challenges.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Mirror Exercise",
+                            "body": "Start each day by checking in with yourself. Ask: 'How am I feeling right now?' Notice the physical sensations, thoughts, and emotions present. This simple practice builds your emotional vocabulary and recognition skills over time.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Triggers and Patterns",
+                            "body": "Everyone has emotional triggers - specific situations, people, or words that provoke strong reactions. Identifying your triggers helps you prepare for challenging moments. Keep a mental note of what consistently affects your emotional state.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Body-Mind Connection",
+                            "body": "Your body often signals emotions before your mind catches up. Tension in shoulders might indicate stress, while a tight chest could signal anxiety. Learning to read these physical cues gives you an early warning system for emotional changes.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Values and Emotions",
+                            "body": "Strong emotions often arise when your core values are challenged or honored. Understanding what matters most to you helps explain why certain situations trigger intense reactions while others don't. Your values are your emotional roadmap.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p6",
+                            "pageType": "question",
+                            "headline": "Which is the best first step in developing self-awareness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Analyzing past mistakes thoroughly",
+                                    "Daily emotional check-ins with yourself",
+                                    "Reading psychology books extensively",
+                                    "Asking others about your behavior"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p7",
+                            "pageType": "content",
+                            "headline": "The Pause Practice",
+                            "body": "When you notice a strong emotion arising, pause for three seconds before reacting. This brief moment creates space between feeling and action. In that space lies your power to choose your response rather than being controlled by impulse.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Emotional Granularity",
+                            "body": "Most people use basic emotion words like 'good' or 'bad.' Developing emotional granularity means using more specific terms like 'frustrated,' 'overwhelmed,' or 'hopeful.' The more precisely you can name your emotions, the better you can manage them.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Internal vs External Focus",
+                            "body": "Self-aware people balance internal focus (thoughts, feelings, values) with external awareness (how others perceive them). Too much internal focus leads to self-absorption, while too much external focus creates people-pleasing behavior.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Growth Mindset",
+                            "body": "View emotional challenges as opportunities for growth rather than personal flaws. When you make an emotional mistake, ask 'What can I learn?' instead of 'Why am I so bad at this?' This mindset transforms setbacks into stepping stones.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What does emotional granularity help you achieve?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Better relationships with colleagues",
+                                    "More precise emotional management",
+                                    "Increased empathy for others' feelings",
+                                    "Stronger physical health outcomes"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Your Awareness Journey",
+                            "body": "Self-awareness isn't a destination but a continuous journey. Each day offers new opportunities to understand yourself better. Start small with daily check-ins and gradually build your emotional intelligence toolkit. The investment in self-knowledge pays dividends in every area of life.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-2",
+                    "title": "Understanding Your Emotional Patterns",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Your Emotional Blueprint",
+                            "body": "Everyone has unique emotional patterns - recurring ways of feeling and reacting to specific situations. These patterns form early in life and become automatic responses. Understanding your patterns is the first step to changing them when they no longer serve you.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Pattern Recognition Game",
+                            "body": "Track your emotions for one week without judgment. Notice when you feel most energized versus drained. Pay attention to recurring emotional themes around specific people, times of day, or situations. Patterns emerge through consistent observation.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Childhood Emotional Legacy",
+                            "body": "Many adult emotional patterns stem from childhood experiences. The way your family handled conflict, expressed love, or dealt with stress creates templates you unconsciously follow. Recognizing these inherited patterns gives you the power to choose new responses.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Stress Response Styles",
+                            "body": "Under stress, people typically fight, flee, freeze, or fawn. Fighters become aggressive, flighters avoid conflict, freezers shut down, and fawners people-please. Identifying your default stress response helps you develop more balanced coping strategies.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p5",
+                            "pageType": "question",
+                            "headline": "What's the primary benefit of tracking emotional patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoiding all negative emotions completely",
+                                    "Gaining insight into personal triggers",
+                                    "Comparing yourself to other people",
+                                    "Eliminating childhood influences forever"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Energy Patterns Matter",
+                            "body": "Notice your emotional energy throughout the day. Are you most optimistic in the morning or evening? When do you feel most creative or analytical? Aligning important activities with your natural energy patterns improves both performance and well-being.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Relationship Pattern Analysis",
+                            "body": "Examine your relationship patterns across different contexts. Do you act differently with authority figures versus peers? How do you handle disagreements with family versus friends? These variations reveal important information about your adaptability and core patterns.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Breaking Negative Cycles",
+                            "body": "Once you identify unhelpful patterns, you can interrupt them. When you notice the familiar emotional sequence beginning, use your pause practice. Ask yourself: 'Is this pattern serving me?' Then consciously choose a different response.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Positive Pattern Reinforcement",
+                            "body": "Don't just focus on negative patterns. Identify your positive emotional patterns too. When do you naturally show compassion, creativity, or courage? Understanding these patterns helps you create more situations where your best qualities emerge naturally.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p10",
+                            "pageType": "question",
+                            "headline": "Which factor most influences adult emotional patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Current workplace environment only",
+                                    "Early childhood family dynamics",
+                                    "Recent romantic relationships primarily",
+                                    "Educational background and training"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p11",
+                            "pageType": "question",
+                            "headline": "What's the most effective way to change emotional patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignore them until they disappear",
+                                    "Criticize yourself for having them",
+                                    "Force immediate complete changes",
+                                    "Observe, pause, and choose new responses"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Pattern Evolution",
+                            "body": "Emotional patterns can evolve throughout your life. Major life events, new relationships, and personal growth experiences all reshape your emotional landscape. Stay curious about how your patterns change over time rather than seeing them as fixed traits.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Integration and Practice",
+                            "body": "Understanding patterns without action creates intellectual awareness but not emotional growth. Commit to practicing new responses when you recognize old patterns emerging. Small, consistent changes compound into significant emotional transformation over time.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-3",
+                    "title": "Expanding Your Emotional Vocabulary",
+                    "order": 3,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Basic Emotions",
+                            "body": "Most people operate with a limited emotional vocabulary, using words like 'fine,' 'good,' or 'bad' to describe complex internal states. Expanding your emotional vocabulary is like upgrading from black and white to full color - it reveals nuances previously invisible.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p2",
+                            "pageType": "content",
+                            "headline": "The Precision Advantage",
+                            "body": "When you can precisely name an emotion, you gain power over it. 'Frustrated' suggests a different solution than 'overwhelmed,' even though both might initially feel like 'bad.' Precise emotional language leads to more effective emotional management strategies.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p3",
+                            "pageType": "content",
+                            "headline": "The Feeling Wheel",
+                            "body": "Emotion wheels organize feelings from basic to complex. Start with primary emotions like joy, anger, or fear, then explore their variations. Joy might include contentment, euphoria, or satisfaction. Each variation carries different implications and solutions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p4",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of emotional precision?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Impressing others with your vocabulary",
+                                    "Avoiding all difficult conversations",
+                                    "More effective emotional management",
+                                    "Eliminating negative emotions completely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Subtle Emotional Distinctions",
+                            "body": "Learn to distinguish between similar emotions. Anxiety and excitement have similar physical sensations but different mental interpretations. Disappointment differs from sadness in its focus on unmet expectations. These distinctions guide appropriate responses.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Cultural Emotional Concepts",
+                            "body": "Different cultures have unique emotional concepts that English lacks. Portuguese 'saudade' describes nostalgic longing. Japanese 'ikigai' captures purposeful joy. Learning these concepts expands your ability to recognize and experience these states in yourself.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p7",
+                            "pageType": "question",
+                            "headline": "How do similar emotions like anxiety and excitement differ?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They have completely different physical sensations",
+                                    "One is always positive, one negative",
+                                    "They differ primarily in mental interpretation",
+                                    "They occur at different times of day"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p8",
+                            "pageType": "question",
+                            "headline": "What makes the 'feeling wheel' tool effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It organizes emotions from basic to complex",
+                                    "It eliminates all negative emotions",
+                                    "It focuses only on positive feelings",
+                                    "It simplifies emotions to just three types"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Mixed Emotional States",
+                            "body": "Real emotions are often blended rather than pure. You might feel proud but anxious about a promotion, or grateful yet sad about moving away. Acknowledging mixed emotions validates the complexity of human experience and prevents oversimplification.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Intensity Variations",
+                            "body": "Every emotion exists on a spectrum of intensity. Annoyance, anger, and rage are the same basic emotion at different intensities. Learning these gradations helps you respond proportionally rather than treating minor irritations like major crises.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Daily Vocabulary Practice",
+                            "body": "Challenge yourself to use three new emotion words each day. When someone asks how you are, resist defaulting to 'fine' or 'okay.' Try 'curious,' 'energized,' 'contemplative,' or 'optimistic.' This practice rewires your brain for emotional specificity.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Communication Benefits",
+                            "body": "Rich emotional vocabulary improves your relationships. When you tell someone you're 'overwhelmed' rather than just 'stressed,' they better understand your needs. Precise emotional communication reduces misunderstandings and increases empathy from others.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-4",
+                    "title": "Self-Regulation Techniques",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation Mastery",
+                            "body": "Self-regulation isn't about suppressing emotions - it's about managing them effectively. Like a skilled driver navigating different road conditions, you learn to adjust your emotional responses based on the situation while staying true to your authentic self.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The STOP Technique",
+                            "body": "When overwhelming emotions arise, use STOP: Stop what you're doing, Take a breath, Observe your thoughts and feelings, Proceed with intention. This simple framework creates space between trigger and response, preventing impulsive reactions you might later regret.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Breathing for Balance",
+                            "body": "Your breath is your most accessible regulation tool. When stressed, your breathing becomes shallow and rapid. Consciously slowing your breath to four counts in and six counts out activates your parasympathetic nervous system, naturally calming your emotional state.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p4",
+                            "pageType": "question",
+                            "headline": "What's the primary purpose of emotional self-regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Eliminating all negative emotions permanently",
+                                    "Managing emotions effectively for situations",
+                                    "Always appearing calm to other people",
+                                    "Avoiding all emotionally challenging situations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Cognitive Reframing",
+                            "body": "Your thoughts directly influence your emotions. Instead of thinking 'This is terrible,' try 'This is challenging but manageable.' Reframing doesn't deny reality - it shifts your perspective to be more balanced and solution-focused rather than catastrophic.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Physical Regulation Strategies",
+                            "body": "Your body and emotions are interconnected. When anger rises, consciously relax your jaw and shoulders. When anxious, ground yourself by feeling your feet on the floor. Physical changes can quickly shift emotional states through the mind-body connection.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p7",
+                            "pageType": "content",
+                            "headline": "The 10-10-10 Rule",
+                            "body": "Before making emotionally charged decisions, ask: 'How will I feel about this in 10 minutes, 10 months, and 10 years?' This time perspective helps you avoid decisions driven by temporary emotional states and consider long-term consequences.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p8",
+                            "pageType": "question",
+                            "headline": "What does the STOP technique help you achieve?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Space between trigger and response",
+                                    "Complete elimination of all emotions",
+                                    "Permanent emotional numbness",
+                                    "Automatic positive thinking patterns"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p9",
+                            "pageType": "question",
+                            "headline": "How does controlled breathing affect your emotional state?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates emotions completely",
+                                    "It makes you appear more confident",
+                                    "It activates your calming nervous system",
+                                    "It increases your energy levels significantly"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Emotional Surfing",
+                            "body": "Think of intense emotions as waves - they rise, peak, and naturally subside. Instead of fighting the wave, learn to surf it. Acknowledge the emotion, breathe through it, and trust that it will pass. Resistance amplifies emotional intensity.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Environmental Regulation",
+                            "body": "Your environment affects your emotional state. Cluttered spaces increase stress, while organized environments promote calm. Natural light boosts mood. Identify environmental factors that support your emotional well-being and modify your spaces accordingly.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p12",
+                            "pageType": "question",
+                            "headline": "What's the key principle behind the 10-10-10 rule?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Time perspective prevents emotional decisions",
+                                    "Counting backwards calms the nervous system",
+                                    "Mathematical thinking eliminates emotions",
+                                    "Repetition strengthens emotional control"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Building Regulation Habits",
+                            "body": "Self-regulation improves through consistent practice. Start with small, low-stakes situations to build your regulation muscles. As your skills strengthen, you'll naturally handle bigger emotional challenges with greater ease and confidence.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Integration and Growth",
+                            "body": "Remember that regulation is a skill, not a personality trait. Everyone can improve their emotional regulation through practice and patience. Celebrate small victories and learn from setbacks. Each regulation practice builds your emotional resilience for the future.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-5",
+                    "title": "Building Emotional Resilience",
+                    "order": 5,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Resilience as a Skill",
+                            "body": "Emotional resilience isn't about being tough or unfeeling - it's about recovering quickly from emotional setbacks and growing stronger from challenges. Like physical fitness, emotional resilience can be developed through consistent practice and the right strategies.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Bounce-Back Mindset",
+                            "body": "Resilient people view failures as temporary setbacks rather than permanent defeats. They ask 'What can I learn?' instead of 'Why me?' This growth mindset transforms obstacles into opportunities for development and builds confidence for future challenges.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Building Your Support Network",
+                            "body": "Strong relationships are the cornerstone of emotional resilience. Cultivate connections with people who listen without judgment, offer perspective during difficult times, and celebrate your successes. Isolation amplifies emotional struggles while connection provides strength.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p4",
+                            "pageType": "question",
+                            "headline": "What characterizes the resilient person's mindset?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Viewing failures as learning opportunities",
+                                    "Avoiding all emotionally difficult situations",
+                                    "Never expressing vulnerability to others",
+                                    "Maintaining constant optimism regardless"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p5",
+                            "pageType": "question",
+                            "headline": "Why are strong relationships crucial for resilience?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They provide emotional support and perspective",
+                                    "They eliminate all sources of stress",
+                                    "They guarantee financial security always",
+                                    "They prevent any failures from occurring"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Stress Inoculation Training",
+                            "body": "Gradually expose yourself to manageable stressors to build emotional stamina. Start with small challenges and progressively increase difficulty. This controlled exposure builds confidence and coping skills, making you better prepared for unexpected major stressors.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Meaning-Making Abilities",
+                            "body": "Resilient people find meaning in their struggles. They connect their challenges to larger purposes, values, or growth opportunities. This meaning-making transforms suffering from pointless pain into purposeful growth, making difficulties more bearable and valuable.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Physical Foundations",
+                            "body": "Your physical health directly impacts emotional resilience. Regular exercise releases stress-reducing endorphins, adequate sleep maintains emotional regulation, and proper nutrition stabilizes mood. Neglecting physical health undermines your emotional strength reserves.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Flexibility and Adaptation",
+                            "body": "Resilient people adapt their strategies when circumstances change. They don't rigidly stick to plans that no longer work. This cognitive flexibility allows them to find new solutions and opportunities even in challenging situations.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p10",
+                            "pageType": "question",
+                            "headline": "How does stress inoculation training build resilience?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Gradually building coping skills with challenges",
+                                    "Completely avoiding all stressful situations",
+                                    "Eliminating emotions during difficult times",
+                                    "Learning to ignore problems until they pass"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Recovery Rituals",
+                            "body": "Develop specific rituals for bouncing back from setbacks. This might include journaling about lessons learned, calling a trusted friend, or engaging in a favorite activity. Having a structured recovery process speeds your return to emotional equilibrium.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Your Resilience Practice",
+                            "body": "Building resilience requires consistent practice, not just crisis response. Start incorporating small resilience-building activities daily: gratitude journaling, connecting with friends, learning new skills, or physical exercise. These investments pay dividends when challenges arise.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-6",
+                    "title": "Developing Empathy",
+                    "order": 6,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Empathy Advantage",
+                            "body": "Empathy is your ability to understand and share the feelings of others. It's not about losing yourself in someone else's emotions, but rather understanding their perspective while maintaining your own emotional boundaries. Empathy builds bridges where judgment builds walls.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Cognitive vs Emotional Empathy",
+                            "body": "Cognitive empathy involves intellectually understanding someone's perspective, while emotional empathy involves actually feeling what they feel. Both are valuable, and most situations benefit from combining both types to create deeper understanding and more appropriate responses.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p3",
+                            "pageType": "content",
+                            "headline": "The Perspective-Taking Exercise",
+                            "body": "Practice seeing situations through others' eyes by asking: 'What might they be thinking? What could they be feeling? What experiences might have shaped their reaction?' This mental exercise builds your empathy muscles and reduces quick judgments.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What's the key difference between empathy types?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One is always better than the other",
+                                    "One involves feeling, one involves thinking",
+                                    "One is for friends, one for strangers",
+                                    "One involves understanding, one involves feeling"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Reading Emotional Cues",
+                            "body": "Develop your ability to read subtle emotional signals. Notice facial expressions, body language, tone of voice, and energy levels. People often communicate their emotional state nonverbally before expressing it with words. Becoming fluent in this emotional language deepens your empathetic responses.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Curiosity Over Judgment",
+                            "body": "Replace judgment with curiosity when someone behaves in ways you don't understand. Instead of thinking 'That's ridiculous,' try 'I wonder what's behind that reaction.' Curiosity opens doors to understanding while judgment slams them shut.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Empathy Boundaries",
+                            "body": "Healthy empathy includes boundaries. You can understand someone's pain without taking it on as your own. Empathic people often struggle with emotional overwhelm because they absorb others' emotions. Learning to empathize while maintaining emotional separation is crucial.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p8",
+                            "pageType": "content",
+                            "headline": "The Empathy Spectrum",
+                            "body": "Different people have varying empathy capacities and styles. Some are naturally emotionally sensitive while others are more analytically empathetic. Neither is superior - both contribute valuable perspectives to relationships and problem-solving.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Cultural Empathy Awareness",
+                            "body": "Empathy extends beyond individual understanding to cultural sensitivity. Different cultures express emotions differently, value different things, and have different communication styles. Developing cultural empathy prevents misunderstandings and builds more inclusive relationships.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p10",
+                            "pageType": "question",
+                            "headline": "Why is curiosity more effective than judgment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all negative emotions",
+                                    "It makes you appear more intelligent",
+                                    "It prevents any conflicts from arising",
+                                    "It opens doors to understanding others"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p11",
+                            "pageType": "question",
+                            "headline": "What are healthy empathy boundaries designed to prevent?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Understanding anyone else's perspective completely",
+                                    "Developing any emotional connections with people",
+                                    "Caring about other people's feelings and needs",
+                                    "Taking on others' emotions as your own"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p12",
+                            "pageType": "question",
+                            "headline": "How does cultural empathy improve relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all cultural differences",
+                                    "It makes everyone think the same way",
+                                    "It creates more uniform communication styles",
+                                    "It prevents misunderstandings and builds inclusion"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Empathy in Action",
+                            "body": "True empathy shows up in your actions, not just your understanding. When you truly empathize, you naturally want to help, support, or at least avoid causing further harm. Empathy without action is incomplete - it's understanding that should inspire compassionate behavior.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Growing Your Empathetic Skills",
+                            "body": "Empathy grows through practice and exposure to diverse perspectives. Read books from different viewpoints, engage with people unlike yourself, and practice the perspective-taking exercises regularly. The more you understand others, the richer your own emotional life becomes.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-7",
+                    "title": "Reading Nonverbal Communication",
+                    "order": 7,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-7-p1",
+                            "pageType": "content",
+                            "headline": "The Silent Language",
+                            "body": "Research shows that 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Most emotional communication happens nonverbally. Learning to read these silent signals gives you a significant advantage in understanding others and responding appropriately.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Facial Expression Basics",
+                            "body": "The face is the most expressive part of the body. Genuine smiles engage both mouth and eyes, creating 'crow's feet.' Furrowed brows often indicate confusion or concern. Lip compression suggests suppressed emotions. Learn to read these micro-expressions for deeper understanding.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p3",
+                            "pageType": "question",
+                            "headline": "What percentage of communication is actually words?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only seven percent of communication",
+                                    "About twenty-five percent of messages",
+                                    "Roughly half of all communication",
+                                    "Nearly eighty percent of interaction"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Body Language Clusters",
+                            "body": "Don't rely on single gestures - look for clusters of nonverbal cues that tell a consistent story. Crossed arms alone might just mean someone is cold, but combined with turned-away body, tight lips, and minimal eye contact, it suggests defensiveness or discomfort.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Voice Beyond Words",
+                            "body": "Tone, pace, volume, and pauses reveal emotional states. Rapid speech might indicate excitement or anxiety. Slow, quiet speech could suggest sadness or deep thought. Rising intonation often signals uncertainty, while falling tones convey confidence or finality.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Personal Space Patterns",
+                            "body": "How people position themselves relative to others reveals their comfort level and relationship dynamics. Moving closer suggests interest or intimacy, while increased distance might indicate discomfort, respect, or need for space. Cultural differences significantly impact these patterns.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Eye Contact Insights",
+                            "body": "Eyes truly are windows to emotions. Sustained eye contact suggests confidence and interest, while avoiding eye contact might indicate shame, deception, or cultural respect. Pupil dilation often reflects emotional arousal - either positive excitement or negative stress.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p8",
+                            "pageType": "question",
+                            "headline": "Why should you look for nonverbal 'clusters'?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Single gestures are never meaningful",
+                                    "Multiple cues provide more accurate reading",
+                                    "Clusters eliminate all misinterpretations",
+                                    "Individual signals are always deceptive"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Mirroring and Rapport",
+                            "body": "People unconsciously mirror those they feel connected to - matching posture, gestures, and speaking pace. When you notice someone mirroring you, it suggests comfort and rapport. You can also intentionally mirror others to build connection, but avoid obvious mimicry.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What does mirroring behavior typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Deliberate attempt to manipulate others",
+                                    "Comfort, rapport, and connection with you",
+                                    "Complete disagreement with your opinions",
+                                    "Lack of individual personality or thoughts"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Cultural Nonverbal Differences",
+                            "body": "Nonverbal communication varies dramatically across cultures. Direct eye contact shows respect in Western cultures but disrespect in some Asian cultures. Personal space preferences differ widely. Always consider cultural context when interpreting nonverbal signals to avoid misunderstandings.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Practice and Calibration",
+                            "body": "Improving nonverbal reading skills requires practice and calibration to individuals. Everyone has unique baselines - some people naturally speak quickly or avoid eye contact. Notice patterns specific to individuals rather than applying universal interpretations to build accuracy.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-8",
+                    "title": "Active Listening Skills",
+                    "order": 8,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Listening as a Superpower",
+                            "body": "True listening is rare and powerful. Most people listen to reply rather than understand. Active listening means fully concentrating on the speaker, understanding their message, and responding thoughtfully. It's the foundation of emotional connection and effective communication.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Presence Practice",
+                            "body": "Active listening starts with presence - being fully mentally and emotionally available. Put away distractions, make appropriate eye contact, and tune in completely to the other person. Your undivided attention is one of the greatest gifts you can give someone.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p3",
+                            "pageType": "question",
+                            "headline": "What distinguishes active listening from regular hearing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Using expensive audio equipment for clarity",
+                                    "Always agreeing with everything being said",
+                                    "Nodding frequently during all conversations",
+                                    "Full concentration and thoughtful responding"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Reflective Listening Technique",
+                            "body": "Reflect back what you hear to confirm understanding: 'So you're feeling frustrated because the deadline changed without notice?' This technique shows you're listening, helps clarify meaning, and gives the speaker a chance to correct any misunderstandings.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Listening for Emotions",
+                            "body": "Listen beyond words to the emotions underneath. Pay attention to tone, energy, and what isn't being said. Someone might say 'I'm fine' with a tone that suggests they're anything but fine. Emotional listening helps you respond to the real message.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p6",
+                            "pageType": "content",
+                            "headline": "The Power of Silence",
+                            "body": "Strategic silence is a powerful listening tool. After someone finishes speaking, count to three before responding. This pause gives them space to add more information and shows you're processing what they said. Many people reveal their most important thoughts in these follow-up moments.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p7",
+                            "pageType": "question",
+                            "headline": "What does reflective listening help accomplish?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making the conversation last much longer",
+                                    "Confirming understanding and showing attention",
+                                    "Avoiding having to share your own thoughts",
+                                    "Demonstrating your superior communication skills"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p8",
+                            "pageType": "question",
+                            "headline": "Why is strategic silence effective in conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It makes you appear more mysterious",
+                                    "It gives people space to share more",
+                                    "It helps you think of clever responses",
+                                    "It demonstrates your patience to others"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Asking Powerful Questions",
+                            "body": "Great listeners ask questions that deepen understanding rather than satisfy curiosity. Instead of 'What happened next?' try 'How did that make you feel?' Open-ended questions beginning with 'what,' 'how,' and 'why' encourage more meaningful sharing than yes/no questions.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Managing Internal Distractions",
+                            "body": "Your biggest listening obstacles are internal - planning your response, making judgments, or thinking about other things. When you notice your mind wandering, gently redirect attention back to the speaker. This mental discipline improves with practice.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Listening Body Language",
+                            "body": "Your body language shows whether you're truly listening. Lean slightly forward to show interest, maintain appropriate eye contact, and use minimal encouragers like nodding. Avoid checking your phone, fidgeting, or positioning your body away from the speaker.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Listening in Conflict",
+                            "body": "Active listening becomes even more crucial during disagreements. When emotions run high, people especially need to feel heard before they can hear others. Listen first to understand their perspective, then share your own. This approach often defuses tension and finds common ground.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Your Listening Legacy",
+                            "body": "People remember how you made them feel more than what you said. When you truly listen to someone, you give them the gift of feeling understood and valued. This creates deeper relationships and opens doors to authentic connection that benefits both parties long-term.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-9",
+                    "title": "Managing Stress and Pressure",
+                    "order": 9,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Pressure as Performance Fuel",
+                            "body": "Stress and pressure aren't inherently negative - they become problems when they're chronic or overwhelming. The key is learning to harness pressure as energy for peak performance while preventing it from becoming destructive anxiety or burnout.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Stress Response Spectrum",
+                            "body": "Your stress response exists on a spectrum from energizing challenge to overwhelming threat. The same situation can feel exciting or terrifying depending on your mindset, preparation, and resources. Learning to shift your perception changes your stress experience.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Early Warning Systems",
+                            "body": "Develop awareness of your personal stress signals before they become overwhelming. Some people get headaches, others feel stomach tension, and some become irritable. Recognizing your early warning signs allows for proactive stress management rather than reactive damage control.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p4",
+                            "pageType": "content",
+                            "headline": "The Breathing Reset",
+                            "body": "When stress rises, your breathing becomes shallow and rapid. Consciously deepening your breath signals your nervous system to relax. Try box breathing: inhale for 4 counts, hold for 4, exhale for 4, hold for 4. This simple technique quickly reduces stress hormones.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Reframing Pressure Situations",
+                            "body": "Transform 'I have to' into 'I get to.' Instead of 'This presentation could ruin my career,' try 'This is an opportunity to showcase my work.' Reframing doesn't ignore real challenges but shifts your energy from fear-based to opportunity-focused thinking.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Energy Management Basics",
+                            "body": "Stress depletes your energy reserves. Protect your energy through adequate sleep, regular breaks, healthy nutrition, and boundaries around your time and attention. You can't pour from an empty cup - maintaining your energy reserves prevents stress from becoming overwhelming.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p7",
+                            "pageType": "content",
+                            "headline": "The Control Circle",
+                            "body": "Distinguish between what you can and cannot control. Focus your energy on your circle of control - your responses, attitudes, and actions. Worrying about uncontrollable factors drains energy without producing results. This clarity reduces anxiety and increases effectiveness.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p8",
+                            "pageType": "question",
+                            "headline": "What transforms pressure from destructive to energizing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your mindset, preparation, and resources available",
+                                    "The actual difficulty level of the situation",
+                                    "Other people's opinions about your performance",
+                                    "The amount of time you have available"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Quick Stress Relievers",
+                            "body": "Build a toolkit of rapid stress-relief techniques: progressive muscle relaxation, brief walks, listening to calming music, or calling a supportive friend. Having multiple options prevents you from feeling helpless when stress levels rise unexpectedly.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Building Stress Tolerance",
+                            "body": "Like physical fitness, stress tolerance improves with gradual exposure to manageable challenges. Voluntarily take on slightly stressful situations to build your confidence and coping skills. This controlled stress exposure prepares you for unavoidable high-pressure situations.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Recovery and Renewal",
+                            "body": "High performance requires both intense effort and complete recovery. Schedule regular downtime, engage in activities you enjoy, and protect your sleep. Recovery isn't laziness - it's strategic restoration that maintains your ability to handle future pressures effectively.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p12",
+                            "pageType": "question",
+                            "headline": "Why is focusing on your 'circle of control' effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It reduces anxiety and increases effectiveness",
+                                    "It eliminates all sources of stress completely",
+                                    "It makes you appear more confident",
+                                    "It guarantees successful outcomes always"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Support System Activation",
+                            "body": "Don't face high pressure alone. Activate your support network for perspective, encouragement, and practical help. Sometimes just talking through your stress with someone who understands can dramatically reduce its impact and reveal solutions you couldn't see alone.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Long-term Stress Mastery",
+                            "body": "Effective stress management is a lifestyle, not a crisis intervention. Build habits that prevent stress accumulation: regular exercise, mindfulness practice, healthy boundaries, and meaningful relationships. These investments create resilience that serves you throughout your entire life.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-10",
+                    "title": "Navigating Difficult Conversations",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Conversations That Matter",
+                            "body": "Difficult conversations are opportunities disguised as challenges. They offer chances to strengthen relationships, solve problems, and create understanding. Avoiding them maintains temporary peace but prevents growth and resolution. The key is approaching them with skill and intention.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Pre-Conversation Preparation",
+                            "body": "Success starts before the conversation begins. Clarify your goals: What outcome do you want? What's most important to communicate? Check your emotional state and calm yourself if necessary. Enter difficult conversations from a centered, intentional place rather than emotional reactivity.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Creating Psychological Safety",
+                            "body": "People can't engage authentically when they feel threatened or judged. Start difficult conversations by acknowledging the other person's perspective and expressing your positive intent. 'I value our relationship and want to work through this together' sets a collaborative rather than adversarial tone.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p4",
+                            "pageType": "question",
+                            "headline": "What should you clarify before difficult conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The other person's exact personality type",
+                                    "Your desired outcome and key message",
+                                    "All possible objections they might raise",
+                                    "The perfect time and location details"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Using 'I' Statements",
+                            "body": "Frame your concerns from your perspective rather than making accusations. Instead of 'You never listen,' try 'I feel unheard when I'm interrupted.' 'I' statements express your experience without attacking the other person's character, reducing defensiveness and promoting dialogue.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p6",
+                            "pageType": "question",
+                            "headline": "How do 'I' statements improve difficult conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They reduce defensiveness and promote dialogue",
+                                    "They guarantee the other person will agree",
+                                    "They eliminate all emotional reactions completely",
+                                    "They make you appear more intelligent"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Managing Emotional Escalation",
+                            "body": "When conversations get heated, someone needs to break the escalation cycle. If you notice rising tension, pause and acknowledge it: 'I can see we're both getting frustrated. Let's take a breath and try again.' Your emotional regulation can calm the entire interaction.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Finding Common Ground",
+                            "body": "Even in disagreement, look for shared values, goals, or concerns. 'We both want this project to succeed' or 'We both care about our team's well-being.' Identifying common ground creates a foundation for collaborative problem-solving rather than adversarial arguing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p9",
+                            "pageType": "question",
+                            "headline": "What's the benefit of identifying common ground?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It creates foundation for collaborative solutions",
+                                    "It eliminates all disagreements immediately",
+                                    "It proves you're right about everything",
+                                    "It makes the other person more agreeable"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Timing and Environment",
+                            "body": "Choose appropriate timing and settings for difficult conversations. Avoid having them when either person is stressed, tired, or distracted. Private, neutral locations work better than public or emotionally charged spaces. Good timing and environment dramatically improve conversation outcomes.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p11",
+                            "pageType": "question",
+                            "headline": "When should you avoid difficult conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Whenever there's any disagreement at all",
+                                    "When you feel completely confident about winning",
+                                    "After you've practiced exactly what to say",
+                                    "When either person is stressed or distracted"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Closing with Clarity",
+                            "body": "End difficult conversations with clear agreements about next steps. Summarize key points discussed and commitments made. 'So we've agreed that I'll... and you'll... and we'll check in next Friday.' Clear closures prevent misunderstandings and ensure follow-through.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Learning from Each Exchange",
+                            "body": "After difficult conversations, reflect on what went well and what could improve. What emotional triggers arose? Which techniques were effective? This reflection builds your conversational intelligence and prepares you for future challenging discussions with greater skill and confidence.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Building Conversation Courage",
+                            "body": "The more difficult conversations you navigate successfully, the more confident you become. Start with lower-stakes conversations to build your skills before tackling major issues. Each positive experience increases your willingness to engage authentically rather than avoiding important discussions.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-11",
+                    "title": "Building Stronger Relationships",
+                    "order": 11,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Relationship as Investment",
+                            "body": "Strong relationships don't happen by accident - they require intentional investment of time, attention, and emotional energy. Like financial investments, the more consistently you contribute to relationships, the greater returns you receive in support, joy, and life satisfaction.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Trust Account",
+                            "body": "Every interaction either deposits into or withdraws from your relationship's trust account. Small kindnesses, kept promises, and genuine interest make deposits. Broken commitments, harsh words, or neglect create withdrawals. Maintain positive balances through consistent positive interactions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p3",
+                            "pageType": "question",
+                            "headline": "What builds deposits in relationship trust accounts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Expensive gifts and grand romantic gestures",
+                                    "Small kindnesses and consistent kept promises",
+                                    "Agreeing with everything the person says",
+                                    "Avoiding all conflicts and difficult topics"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Emotional Attunement",
+                            "body": "Strong relationships require emotional attunement - the ability to sense and respond to others' emotional states. When someone shares excitement, match their energy. When they're struggling, offer comfort. This emotional mirroring creates deep connection and understanding.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Quality Time Principles",
+                            "body": "It's not about quantity but quality of time together. Put away devices, eliminate distractions, and be fully present. Whether it's five minutes or five hours, focused attention makes people feel valued and strengthens your emotional bond with them.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p6",
+                            "pageType": "question",
+                            "headline": "What makes quality time with others truly effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Spending many hours together each week",
+                                    "Planning expensive activities and experiences",
+                                    "Talking constantly throughout the interaction",
+                                    "Being fully present without distractions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Conflict as Connection",
+                            "body": "Healthy relationships include healthy conflict. Disagreements handled respectfully actually strengthen relationships by showing both people can be authentic and work through challenges together. Avoiding all conflict creates superficial connections, while managing conflict builds deeper trust.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p8",
+                            "pageType": "question",
+                            "headline": "How does healthy conflict affect relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It strengthens them through authentic connection",
+                                    "It always damages trust and creates distance",
+                                    "It proves that people are incompatible",
+                                    "It should be avoided at all costs"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Appreciation and Recognition",
+                            "body": "Regularly express appreciation for the people in your life. Notice their efforts, acknowledge their qualities, and thank them for their contributions to your relationship. People thrive on recognition, and expressing appreciation creates positive cycles of mutual care and support.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Boundaries and Respect",
+                            "body": "Strong relationships require clear, respected boundaries. Communicate your limits clearly and honor others' boundaries even when inconvenient. Boundaries aren't walls - they're guidelines that help relationships function smoothly and prevent resentment from building over time.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Growing Together",
+                            "body": "Encourage each other's growth and development rather than trying to keep people static. Support their goals, celebrate their achievements, and adapt to their changes. Relationships that allow for individual growth create stronger, more resilient connections than those that demand stagnation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Forgiveness and Repair",
+                            "body": "All relationships experience hurt and disappointment. The key is developing repair skills - apologizing sincerely, forgiving genuinely, and learning from mistakes. Relationships that can weather storms and recover from setbacks become stronger and more resilient over time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Your Relationship Legacy",
+                            "body": "Consider what kind of friend, family member, or partner you want to be remembered as. Your relationship skills impact not just your own happiness but the lives of everyone you connect with. Investing in emotional intelligence creates ripple effects that improve your entire social world.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-12",
+                    "title": "Social Skills for Leadership",
+                    "order": 12,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Leadership as Influence",
+                            "body": "Leadership isn't about titles or positions - it's about influence and inspiring others to achieve shared goals. Emotional intelligence is the foundation of effective leadership because leading people requires understanding, motivating, and connecting with them on an emotional level.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Reading the Room",
+                            "body": "Effective leaders constantly assess the emotional climate of their team or organization. They notice energy levels, stress indicators, and morale patterns. This emotional awareness allows them to adjust their approach, timing, and messaging for maximum effectiveness and team well-being.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Inspirational Communication",
+                            "body": "Great leaders connect facts to feelings and meaning. They don't just share what needs to be done but why it matters and how it aligns with values and purpose. This emotional connection transforms routine tasks into meaningful contributions and increases engagement and motivation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Managing Team Dynamics",
+                            "body": "Leaders must navigate complex interpersonal dynamics, conflicts, and personalities. They create psychological safety where people can express ideas, admit mistakes, and take risks. This requires balancing individual needs with team goals and maintaining fairness while showing empathy.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p5",
+                            "pageType": "question",
+                            "headline": "What transforms routine tasks into meaningful work?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increasing financial compensation for all tasks",
+                                    "Connecting facts to feelings and purpose",
+                                    "Reducing the difficulty of all assignments",
+                                    "Eliminating all deadlines and time pressure"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Emotional Contagion Awareness",
+                            "body": "Leaders' emotions spread throughout their teams like wildfire. If you're anxious, your team becomes anxious. If you're optimistic and calm, that energy spreads too. Great leaders take responsibility for their emotional state because it directly impacts team performance and culture.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Developing Others",
+                            "body": "Exceptional leaders invest in others' emotional intelligence development. They provide feedback that helps people understand their impact, coach them through challenging situations, and model emotionally intelligent behavior. Growing others' EQ capabilities strengthens the entire team's effectiveness.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p8",
+                            "pageType": "question",
+                            "headline": "Why do leaders' emotions affect team performance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Teams always copy their leader's behavior exactly",
+                                    "Emotions spread through teams like contagion",
+                                    "Leaders make all the important decisions",
+                                    "Team members can't regulate their own emotions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Decision-Making Under Pressure",
+                            "body": "Leaders must make decisions when stakes are high and emotions are intense. Emotionally intelligent leaders pause to consider not just logical factors but emotional impacts on stakeholders. They communicate decisions with empathy while maintaining clarity and confidence.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Building Trust and Credibility",
+                            "body": "Trust is the currency of leadership, built through consistency between words and actions, transparency about challenges, and genuine care for people's well-being. Leaders earn credibility by admitting mistakes, sharing appropriate vulnerability, and demonstrating that they value people over politics.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Change Leadership",
+                            "body": "Change creates emotional turbulence - fear, uncertainty, resistance, and excitement. Emotionally intelligent leaders acknowledge these feelings rather than dismissing them. They communicate change rationale clearly, provide support during transitions, and celebrate progress to maintain morale.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p12",
+                            "pageType": "question",
+                            "headline": "How should leaders approach emotional responses to change?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignore them and focus on logical factors",
+                                    "Acknowledge and provide support through transitions",
+                                    "Eliminate all sources of uncertainty immediately",
+                                    "Punish any resistance to new initiatives"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Leading with Authenticity",
+                            "body": "Authentic leadership means being genuine while adapting your style to what the situation requires. You don't have to be perfect, but you must be real. People follow leaders they trust, and trust comes from consistency, integrity, and the courage to be vulnerable when appropriate.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p14",
+                            "pageType": "content",
+                            "headline": "Your Leadership Journey",
+                            "body": "Leadership development is a lifelong journey of growing your emotional intelligence and its application. Every interaction is an opportunity to practice these skills. Whether you lead formally or informally, your emotional intelligence determines your ability to positively influence others.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-12-p15",
+                            "pageType": "content",
+                            "headline": "Legacy of Impact",
+                            "body": "Great leaders are remembered not just for what they accomplished but for how they made people feel and grow. Your emotional intelligence creates ripple effects that extend far beyond your direct influence. Invest in these skills to create lasting positive impact in your personal and professional life.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-13",
+                    "title": "Emotional Intelligence at Work",
+                    "order": 13,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-13-p1",
+                            "pageType": "content",
+                            "headline": "The Workplace EQ Advantage",
+                            "body": "Technical skills get you hired, but emotional intelligence determines how far you advance. In today's collaborative work environment, your ability to understand emotions, communicate effectively, and build relationships often matters more than your technical expertise alone.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Professional Emotional Regulation",
+                            "body": "The workplace requires careful emotional regulation. You must express emotions appropriately while staying authentic. This means channeling frustration into constructive feedback, transforming anxiety into focused energy, and maintaining professionalism even when personally triggered.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p3",
+                            "pageType": "question",
+                            "headline": "What often determines career advancement more than technical skills?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Emotional intelligence and relationship building",
+                                    "Working longer hours than colleagues consistently",
+                                    "Having advanced degrees from prestigious schools",
+                                    "Avoiding all workplace conflicts and challenges"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What does professional emotional regulation require?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Suppressing all emotions completely at work",
+                                    "Expressing every emotion exactly as you feel it",
+                                    "Channeling emotions appropriately while staying authentic",
+                                    "Only displaying positive emotions to colleagues"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Building Workplace Relationships",
+                            "body": "Strong workplace relationships require intentional investment. Remember personal details people share, celebrate their successes, offer support during challenges, and show genuine interest in their well-being. These connections create collaborative partnerships that benefit everyone involved.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Managing Up Emotionally",
+                            "body": "Understanding your manager's emotional style, communication preferences, and pressure points helps you work more effectively together. Anticipate their needs, communicate in their preferred style, and provide solutions rather than just problems. This emotional intelligence builds trust and credibility.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Team Collaboration Skills",
+                            "body": "Effective teamwork requires reading group dynamics, facilitating inclusive participation, and managing conflicts constructively. Notice who's engaged versus withdrawn, ensure all voices are heard, and address tensions before they escalate into major problems.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Feedback and Growth",
+                            "body": "Emotionally intelligent professionals seek feedback actively and receive it graciously. They separate their identity from their performance, viewing criticism as growth opportunities rather than personal attacks. This openness accelerates learning and demonstrates maturity to colleagues and supervisors.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p9",
+                            "pageType": "question",
+                            "headline": "How do emotionally intelligent people approach feedback?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They view it as growth opportunities",
+                                    "They avoid it to prevent hurt feelings",
+                                    "They argue with every piece of criticism",
+                                    "They only accept positive feedback"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Stress and Deadline Management",
+                            "body": "Workplace pressure is inevitable, but your response is optional. Use stress as energy for peak performance rather than allowing it to create anxiety or poor decisions. Communicate proactively about challenges, ask for help when needed, and maintain perspective during intense periods.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Professional Communication",
+                            "body": "Emotionally intelligent communication considers not just what you're saying but how others will receive and interpret your message. Tailor your communication style to your audience, choose appropriate channels, and ensure your tone matches your intent.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Your Professional Brand",
+                            "body": "Your emotional intelligence becomes part of your professional reputation. People remember how you made them feel during stressful projects, difficult conversations, and challenging times. Consistently demonstrating EQ skills builds a brand as someone others want to work with and support.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-14",
+                    "title": "Handling Workplace Conflicts",
+                    "order": 14,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Conflict as Opportunity",
+                            "body": "Workplace conflicts are inevitable when passionate people work toward shared goals. Rather than viewing conflict as failure, see it as an opportunity to improve processes, strengthen relationships, and create better solutions. The key is managing conflicts constructively rather than avoiding them entirely.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Early Warning Detection",
+                            "body": "Address conflicts early before they escalate into larger problems. Notice tension in meetings, changes in communication patterns, or avoiding behaviors. Small issues are easier to resolve than major blowups that damage relationships and team dynamics long-term.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p3",
+                            "pageType": "question",
+                            "headline": "Why should conflicts be addressed early?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Early conflicts are easier than major escalations",
+                                    "They always disappear if you wait long enough",
+                                    "Managers prefer to handle all conflict resolution",
+                                    "Small issues never grow into larger problems"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p4",
+                            "pageType": "question",
+                            "headline": "What should be your primary approach to workplace conflict?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always avoid conflicts to maintain harmony",
+                                    "Manage conflicts constructively for better solutions",
+                                    "Let managers handle all interpersonal issues",
+                                    "Win every conflict to establish dominance"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p5",
+                            "pageType": "question",
+                            "headline": "What's the best way to separate people from problems?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoid discussing the actual problem completely",
+                                    "Focus on behaviors and impacts, not personalities",
+                                    "Always agree with the other person's perspective",
+                                    "Blame external factors for all workplace issues"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Separating People from Problems",
+                            "body": "Attack problems, not people. Focus on specific behaviors and their impacts rather than character judgments or personality criticisms. Instead of 'You're disorganized,' try 'When deadlines are missed, it affects the whole team's timeline.' This approach maintains dignity while addressing issues.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Active Listening in Conflict",
+                            "body": "During conflicts, people need to feel heard before they can hear others. Use active listening techniques - reflect back what you hear, ask clarifying questions, and acknowledge their perspective even if you disagree. Understanding doesn't require agreement, but it enables productive dialogue.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p8",
+                            "pageType": "question",
+                            "headline": "Why is active listening crucial during workplace conflicts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It makes you appear more professional to observers",
+                                    "People need to feel heard before productive dialogue",
+                                    "It guarantees that everyone will eventually agree",
+                                    "It eliminates all emotional reactions immediately"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Finding Win-Win Solutions",
+                            "body": "The best conflict resolutions create value for all parties rather than simply compromising. Look for creative solutions that address underlying needs and interests, not just stated positions. Often there are options that haven't been considered that can satisfy everyone's core concerns.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Managing Your Emotions",
+                            "body": "Stay calm and centered during conflicts, even when others become emotional. Your emotional regulation can stabilize the entire interaction. If you feel triggered, take a brief break to regain composure. Your ability to stay level-headed often determines whether conflicts escalate or resolve.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p11",
+                            "pageType": "content",
+                            "headline": "When to Involve Others",
+                            "body": "Know when conflicts require outside intervention. If emotions are too high, power dynamics are problematic, or direct communication isn't working, bring in a neutral third party. This might be a manager, HR representative, or mediator who can facilitate productive resolution.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Building Stronger Teams",
+                            "body": "Teams that handle conflicts well become stronger and more cohesive. When conflicts are resolved constructively, trust increases and people feel safer expressing different viewpoints. This psychological safety leads to better decision-making, innovation, and team performance overall.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-15",
+                    "title": "Advanced EQ Strategies",
+                    "order": 15,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Basic Emotional Intelligence",
+                            "body": "Advanced emotional intelligence involves nuanced skills that distinguish exceptional leaders and relationship builders from those with basic EQ competence. These strategies require practice and refinement but create profound impacts on personal effectiveness and interpersonal influence.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Emotional Contagion Mastery",
+                            "body": "Advanced practitioners consciously manage the emotional atmosphere around them. They understand that emotions spread rapidly through groups and intentionally cultivate positive emotional states. This isn't about fake positivity but authentic emotional leadership that uplifts and energizes others.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Meta-Emotional Awareness",
+                            "body": "This involves awareness of your awareness - noticing when you're getting emotionally activated and consciously choosing your response. You observe your emotions like a scientist studying data rather than being completely immersed in them. This meta-perspective provides incredible power and flexibility.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p4",
+                            "pageType": "question",
+                            "headline": "What distinguishes advanced from basic emotional intelligence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having more expensive training and certifications",
+                                    "Reading more psychology books than others",
+                                    "Avoiding all emotional situations completely",
+                                    "Nuanced skills that create profound impact"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Aikido",
+                            "body": "Like the martial art that redirects force rather than opposing it, emotional aikido means working with others' emotional energy rather than against it. When someone is angry, you acknowledge their passion and redirect it toward solutions. This approach transforms resistance into collaboration.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Complex Emotional Orchestration",
+                            "body": "Advanced EQ involves managing multiple emotional dynamics simultaneously - your own emotions, others' emotions, and group emotional currents. It's like conducting an orchestra where each instrument represents different emotional elements that must harmonize for optimal outcomes.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Predictive Emotional Intelligence",
+                            "body": "Experienced practitioners can often predict emotional patterns and reactions. They recognize emotional cycles, anticipate triggers, and prepare appropriate responses. This foresight allows proactive emotional management rather than reactive damage control.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Emotional Granularity Mastery",
+                            "body": "Advanced EQ includes precise emotional vocabulary that distinguishes subtle differences between similar emotions. You can differentiate between disappointment, discouragement, and dejection. This precision enables more targeted and effective emotional interventions and communications.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Cultural Emotional Intelligence",
+                            "body": "Global competence requires understanding how emotions are expressed, valued, and managed differently across cultures. What's considered appropriate emotional expression varies dramatically, and advanced practitioners adapt their EQ approach based on cultural context without losing authenticity.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Emotional Systems Thinking",
+                            "body": "View emotions within larger systems rather than as isolated individual experiences. Family dynamics, organizational culture, and societal pressures all influence emotional patterns. Understanding these systemic influences enables more effective interventions and realistic expectations.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p11",
+                            "pageType": "question",
+                            "headline": "What enables predictive emotional intelligence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Reading people's minds through telepathy",
+                                    "Having natural psychic abilities from birth",
+                                    "Recognizing patterns and preparing responses",
+                                    "Memorizing psychology textbooks completely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p12",
+                            "pageType": "question",
+                            "headline": "Why does emotional granularity matter at advanced levels?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It impresses others with your vocabulary",
+                                    "It enables more targeted and effective interventions",
+                                    "It eliminates all negative emotions completely",
+                                    "It makes you appear more intelligent"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p13",
+                            "pageType": "question",
+                            "headline": "What does cultural emotional intelligence require?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Eliminating your own cultural background",
+                                    "Adopting one universal emotional expression style",
+                                    "Adapting EQ approach based on cultural context",
+                                    "Avoiding all cross-cultural interactions"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Integration and Mastery",
+                            "body": "Advanced emotional intelligence integrates all these skills into fluid, natural responses. It becomes less about conscious technique and more about intuitive wisdom. Like a master craftsperson, you use the right tool at the right moment without thinking about it consciously.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "emotional_intelligence-1-16",
+                    "title": "Your EQ Development Plan",
+                    "order": 16,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "emotional_intelligence-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Your EQ Journey Forward",
+                            "body": "Developing emotional intelligence is a lifelong journey, not a destination. Like physical fitness, EQ requires ongoing practice and attention to maintain and improve. The key is creating sustainable habits and systems that support continuous growth in your emotional capabilities.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Self-Assessment Foundation",
+                            "body": "Start by honestly assessing your current EQ strengths and growth areas. Consider the four domains: self-awareness, self-regulation, social awareness, and relationship management. Where do you excel? Where do you struggle? This baseline guides your development priorities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Daily Practice Habits",
+                            "body": "Build EQ through small daily practices. Start each day with an emotional check-in, practice active listening in one conversation, or use breathing techniques during stress. Consistency in small actions creates significant improvements over time.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p4",
+                            "pageType": "question",
+                            "headline": "What should guide your EQ development priorities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "What your manager thinks needs improvement",
+                                    "The latest emotional intelligence trends",
+                                    "Your most expensive training program recommendations",
+                                    "Honest assessment of strengths and growth areas"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Feedback and Learning",
+                            "body": "Seek feedback from trusted friends, family, or colleagues about your emotional intelligence. Ask specific questions: 'How do I handle stress?' 'What's it like to have difficult conversations with me?' External perspectives reveal blind spots and accelerate your growth.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Challenge-Based Growth",
+                            "body": "Growth happens outside your comfort zone. Identify situations that challenge your EQ - difficult conversations, high-pressure scenarios, or complex interpersonal dynamics. Gradually expose yourself to these challenges while practicing your skills in real-world contexts.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Reflection and Journaling",
+                            "body": "Regular reflection deepens emotional intelligence. Journal about challenging interactions, emotional triggers, and successful EQ applications. This practice builds self-awareness and helps you identify patterns that might otherwise remain unconscious.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p8",
+                            "pageType": "question",
+                            "headline": "Where does the most meaningful EQ growth occur?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During comfortable, familiar social situations",
+                                    "Outside your comfort zone with real challenges",
+                                    "Only in formal training or workshop settings",
+                                    "While reading books about emotional intelligence"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Measuring Your Progress",
+                            "body": "Track your EQ development through specific indicators: improved relationships, better conflict resolution, increased influence, or reduced stress reactivity. Notice changes in how others respond to you and how you handle challenging situations compared to before.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Building Support Systems",
+                            "body": "Surround yourself with people who model high emotional intelligence and support your growth. Join professional groups, find mentors, or create informal learning partnerships with colleagues. Learning happens faster in community than in isolation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p11",
+                            "pageType": "question",
+                            "headline": "How can you track your EQ development progress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through specific indicators like improved relationships",
+                                    "By counting the number of books you've read",
+                                    "Only through formal psychological assessments",
+                                    "By comparing yourself to other people constantly"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p12",
+                            "pageType": "question",
+                            "headline": "Why is community important for EQ development?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Learning happens faster in community than isolation",
+                                    "Other people can do the emotional work for you",
+                                    "Groups eliminate all individual responsibility",
+                                    "Community prevents any personal growth challenges"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "emotional_intelligence-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Your EQ Legacy",
+                            "body": "Consider the impact you want to have on others through your emotional intelligence. How do you want people to feel after interacting with you? What kind of emotional atmosphere do you want to create? This vision motivates continued growth and guides daily choices.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.3,
+    "tag": "Popular"
+}

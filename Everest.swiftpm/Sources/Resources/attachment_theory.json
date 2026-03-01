@@ -1,0 +1,2450 @@
+{
+    "id": "attachment_theory",
+    "title": "Attachment Theory",
+    "description": "Understand how early bonds shape adult relationships. Identify your attachment style and build healthier connections.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/attachment_theory.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract intertwining circles representing connection patterns, sage green secure bonds with charcoal avoidant gaps, relationship dynamics aesthetic",
+    "altitude": 3500,
+    "durationMinutes": 110,
+    "whatsInside": [
+        "Learn the four attachment styles: secure, anxious, avoidant, and disorganized",
+        "Understand how childhood experiences shape relationship patterns",
+        "Identify your own attachment style and its impact",
+        "Develop earned security through conscious effort",
+        "Navigate relationship dynamics based on attachment patterns",
+        "Build healthier connections through awareness"
+    ],
+    "expertReview": {
+        "quote": "Understanding attachment is the key to understanding why we love the way we do. This framework changes relationships.",
+        "name": "Dr. Amir Levine",
+        "title": "Psychiatrist & Author, Attached"
+    },
+    "chapters": [
+        {
+            "id": "attachment_theory-ch1",
+            "title": "Understanding Attachment",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "attachment_theory-1-1",
+                    "title": "What is Attachment Theory?",
+                    "order": 1,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-1-p1",
+                            "pageType": "content",
+                            "headline": "The Foundation of Connection",
+                            "body": "Attachment theory explains how your earliest relationships shape your entire approach to love and connection. It was developed by John Bowlby in the 1960s after studying children separated from their parents. This groundbreaking theory reveals why some people crave closeness while others push it away.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Your Emotional Blueprint",
+                            "body": "Your attachment style is like an emotional blueprint that guides how you connect with others. It forms in your first few years of life based on how consistently your caregivers responded to your needs. This blueprint becomes your unconscious template for all future relationships.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Why This Matters Now",
+                            "body": "Understanding your attachment style helps explain your relationship patterns, fears, and reactions. You'll discover why certain situations trigger you, why you choose specific partners, and why some relationships feel effortless while others drain you. This knowledge is the first step toward healthier connections.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p4",
+                            "pageType": "content",
+                            "headline": "The Survival System",
+                            "body": "Attachment isn't just about love - it's about survival. As infants, we needed caregivers to stay alive, so our brains developed powerful systems to maintain these vital bonds. These same systems continue operating in your adult relationships, often without your awareness.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Patterns Across Relationships",
+                            "body": "Your attachment style influences more than just romantic relationships. It affects friendships, family dynamics, work relationships, and even your relationship with yourself. The same patterns that show up with your partner likely appear in other areas of your life too.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Good News",
+                            "body": "Attachment styles aren't permanent labels or excuses for behavior. While they're formed early in life, they can change through new experiences, self-awareness, and healing relationships. You have the power to develop more secure ways of connecting.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Four Main Styles",
+                            "body": "Researchers have identified four primary attachment styles: secure, anxious, avoidant, and disorganized. Each style represents a different strategy for maintaining closeness while managing the fear of abandonment or engulfment. Most people exhibit one dominant style.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p8",
+                            "pageType": "question",
+                            "headline": "What is the primary purpose of attachment behavior?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To find the perfect partner",
+                                    "To avoid getting hurt emotionally",
+                                    "To maintain social connections",
+                                    "To ensure survival and safety"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Research Foundation",
+                            "body": "Decades of research support attachment theory's validity. Studies using brain imaging show that attachment-related thoughts activate the same neural pathways as physical pain. This explains why rejection and separation can literally hurt.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p10",
+                            "pageType": "question",
+                            "headline": "When do attachment styles typically form?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "In the first few years of life",
+                                    "During teenage years only",
+                                    "After first romantic relationship",
+                                    "During early adulthood phase"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Your Journey Begins",
+                            "body": "Learning about attachment theory is like getting a map to your emotional landscape. You'll start recognizing patterns you've never noticed before. This awareness alone begins the process of change, even before you actively work on developing new patterns.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p12",
+                            "pageType": "question",
+                            "headline": "Can attachment styles change over time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Yes, through new experiences and awareness",
+                                    "No, they remain fixed throughout life",
+                                    "Only during major life transitions",
+                                    "Only with professional therapy help"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p13",
+                            "pageType": "question",
+                            "headline": "Which relationships are affected by attachment style?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only romantic relationships",
+                                    "Just family relationships",
+                                    "All types of relationships",
+                                    "Only childhood relationships"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-1-p14",
+                            "pageType": "content",
+                            "headline": "What's Next",
+                            "body": "In the following lessons, you'll explore each attachment style in detail, discover your own patterns, and learn practical strategies for building more secure connections. Remember, this journey is about progress, not perfection.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-2",
+                    "title": "The Four Attachment Styles",
+                    "order": 2,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Four Distinct Patterns",
+                            "body": "Attachment researchers have identified four main styles that describe how people approach relationships. Each style represents a different balance between the need for closeness and the fear of vulnerability. Understanding these patterns helps explain relationship dynamics.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Two Key Dimensions",
+                            "body": "Attachment styles are based on two core dimensions: anxiety about abandonment and avoidance of intimacy. High anxiety means you worry about being left behind. High avoidance means you're uncomfortable with too much closeness.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p3",
+                            "pageType": "question",
+                            "headline": "What are the two key dimensions of attachment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Love and fear of relationships",
+                                    "Trust and communication skills",
+                                    "Anxiety and avoidance patterns",
+                                    "Emotional and physical intimacy"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p4",
+                            "pageType": "question",
+                            "headline": "How many main attachment styles exist?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Three distinct attachment styles",
+                                    "Five different attachment types",
+                                    "Four main attachment styles",
+                                    "Six primary attachment patterns"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Secure Attachment",
+                            "body": "People with secure attachment are comfortable with both intimacy and independence. They can express their needs directly, offer support to partners, and maintain their sense of self in relationships. About 50-60% of adults have this style.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What percentage of adults have secure attachment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 30-40% of adults",
+                                    "Roughly 70-80% of people",
+                                    "Around 20-30% of adults",
+                                    "Approximately 50-60% of adults"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Anxious Attachment",
+                            "body": "Those with anxious attachment crave closeness but fear abandonment. They often worry about their partner's feelings, seek frequent reassurance, and can become overwhelmed by relationship conflicts. They have high anxiety but low avoidance of intimacy.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Avoidant Attachment",
+                            "body": "Avoidant individuals value independence and often feel uncomfortable with too much closeness. They may struggle to express emotions, prefer self-reliance, and can seem distant in relationships. They have low anxiety but high avoidance of intimacy.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Disorganized Attachment",
+                            "body": "This style combines elements of both anxious and avoidant patterns. People with disorganized attachment want close relationships but fear getting hurt. They often have unpredictable relationship behaviors and struggle with emotional regulation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Not Fixed Categories",
+                            "body": "These styles aren't rigid boxes that define you forever. You might display different styles in different relationships or situations. Some people have a primary style with secondary tendencies from another category.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Cultural Influences",
+                            "body": "Attachment styles can vary across cultures and communities. What's considered secure behavior in one culture might seem avoidant or anxious in another. Context matters when understanding attachment patterns.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Identifying Your Style",
+                            "body": "Most people recognize elements of their attachment style immediately, while others need time to observe their patterns. Pay attention to your automatic reactions during relationship stress or conflict - these reveal your deeper attachment strategies.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p13",
+                            "pageType": "question",
+                            "headline": "Which attachment style craves closeness but fears abandonment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Anxious attachment style",
+                                    "Avoidant attachment pattern",
+                                    "Secure attachment approach",
+                                    "Disorganized attachment type"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Your Exploration Begins",
+                            "body": "Over the next lessons, you'll dive deeper into each style, learning their origins, manifestations, and paths toward healing. Remember, awareness is the first step toward developing more secure relationship patterns.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-3",
+                    "title": "Anxious Attachment: Fear of Abandonment",
+                    "order": 3,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Hypervigilant Heart",
+                            "body": "People with anxious attachment have hearts that are always on high alert. They desperately want close relationships but constantly worry about losing them. This creates a painful cycle of seeking reassurance while simultaneously pushing partners away with their intensity.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p2",
+                            "pageType": "content",
+                            "headline": "The Inner Critic",
+                            "body": "Anxiously attached individuals often have a harsh inner voice that tells them they're not worthy of love. They interpret neutral behaviors as signs of rejection and assume the worst when partners seem distant or busy.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Emotional Highs and Lows",
+                            "body": "Relationships feel like emotional roller coasters for the anxiously attached. Small gestures of love create euphoria, while perceived slights trigger panic. This emotional intensity can be exhausting for both partners in the relationship.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p4",
+                            "pageType": "question",
+                            "headline": "What drives anxious attachment behavior?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fear of being abandoned or rejected",
+                                    "Desire to control other people",
+                                    "Need to appear strong always",
+                                    "Preference for complete independence"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Protest Behaviors",
+                            "body": "When feeling disconnected, anxiously attached people engage in protest behaviors to regain attention. This might include calling repeatedly, creating drama, or threatening to leave. These actions often push partners further away.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p6",
+                            "pageType": "content",
+                            "headline": "People-Pleasing Patterns",
+                            "body": "To avoid abandonment, anxious individuals often become chameleons, adapting their personality to please others. They sacrifice their own needs and authenticity in hopes of maintaining the relationship, which ultimately creates distance.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p7",
+                            "pageType": "content",
+                            "headline": "The Reassurance Trap",
+                            "body": "Constantly seeking reassurance from partners provides only temporary relief. The anxiety returns quickly, requiring more and more validation. This creates an exhausting cycle that can strain even the most patient partners.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Sensitivity to Rejection",
+                            "body": "Even minor signs of disconnection can trigger intense emotional responses. A delayed text response, a tired tone, or cancelled plans can feel like devastating rejection. This sensitivity often leads to overreacting in relationships.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p9",
+                            "pageType": "content",
+                            "headline": "The Fantasy Partner",
+                            "body": "Anxiously attached people often idealize partners and relationships, creating unrealistic expectations. When reality doesn't match the fantasy, disappointment and anxiety increase, leading to more desperate attempts to fix the relationship.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p10",
+                            "pageType": "question",
+                            "headline": "How do anxiously attached people typically respond to perceived threats?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They become completely withdrawn",
+                                    "They ignore the situation entirely",
+                                    "They engage in protest behaviors",
+                                    "They end relationships immediately"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p11",
+                            "pageType": "question",
+                            "headline": "What effect does constant reassurance-seeking have?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It builds lasting confidence",
+                                    "It strengthens relationship bonds",
+                                    "It creates relationship distance",
+                                    "It provides only temporary relief"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p12",
+                            "pageType": "question",
+                            "headline": "Why do anxiously attached people often people-please?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They enjoy helping others",
+                                    "They fear conflict situations",
+                                    "They want to avoid criticism",
+                                    "They hope to prevent abandonment"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Hope for Healing",
+                            "body": "Understanding anxious attachment is the first step toward developing more secure patterns. With awareness, self-compassion, and practice, it's possible to calm your nervous system and build healthier relationships based on authentic connection rather than fear.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-4",
+                    "title": "Avoidant Attachment: Fear of Intimacy",
+                    "order": 4,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Self-Reliant Shield",
+                            "body": "People with avoidant attachment learned early that depending on others leads to disappointment. They built walls around their hearts, preferring independence over the vulnerability that comes with deep connection. This protective strategy often leaves them feeling lonely despite being surrounded by people.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Emotional Suppression",
+                            "body": "Avoidant individuals often struggle to identify and express their emotions. They may intellectualize feelings or dismiss them as weakness. This emotional numbness protects them from hurt but also blocks them from experiencing joy and intimacy.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p3",
+                            "pageType": "content",
+                            "headline": "The Independence Myth",
+                            "body": "While avoidant people pride themselves on independence, they often confuse isolation with strength. True independence includes the ability to both give and receive support when needed. Their version of independence can become a prison of loneliness.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p4",
+                            "pageType": "question",
+                            "headline": "What is the core fear driving avoidant attachment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fear of being controlled",
+                                    "Fear of vulnerability and intimacy",
+                                    "Fear of making wrong decisions",
+                                    "Fear of financial insecurity"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Deactivating Strategies",
+                            "body": "When relationships become too intimate, avoidant people unconsciously activate strategies to create distance. They might pick fights, focus on their partner's flaws, or become suddenly busy with work. These behaviors protect them from the vulnerability of deep connection.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p6",
+                            "pageType": "content",
+                            "headline": "The Phantom Ex",
+                            "body": "Many avoidant individuals maintain emotional connections to past relationships or idealized partners who aren't available. This allows them to feel connected while staying safe from the real intimacy that current relationships might demand.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p7",
+                            "pageType": "question",
+                            "headline": "How do avoidant people typically handle relationship conflicts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They withdraw or shut down emotionally",
+                                    "They become overly emotional instead",
+                                    "They seek immediate professional help",
+                                    "They call friends for support"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Minimizing Needs",
+                            "body": "Avoidant people learned to minimize their own needs to avoid disappointment. They often don't even recognize what they need from relationships, having spent so much energy convincing themselves they don't need anything at all.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p9",
+                            "pageType": "content",
+                            "headline": "The Commitment Paradox",
+                            "body": "While avoidant individuals may desire committed relationships, they often sabotage them when they become too real. They might find fault with perfectly good partners or create crises that justify leaving when things get serious.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Emotional Labor Avoidance",
+                            "body": "Discussing relationship issues, processing emotions together, or providing emotional support can feel overwhelming to avoidant people. They may change the subject, offer practical solutions instead of emotional comfort, or simply withdraw from these conversations entirely.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p11",
+                            "pageType": "content",
+                            "headline": "The Secret Longing",
+                            "body": "Despite their protective walls, most avoidant people secretly long for connection. They may feel deeply moved by movies about love, crave intimacy when alone, or feel unexpectedly hurt when relationships end, even if they initiated the breakup.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Breaking Down Walls",
+                            "body": "Healing avoidant attachment involves slowly learning to tolerate vulnerability and emotional intimacy. This requires patience, self-compassion, and often the support of understanding partners who can respect boundaries while encouraging gentle growth toward connection.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-5",
+                    "title": "Disorganized Attachment: Chaos and Confusion",
+                    "order": 5,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-5-p1",
+                            "pageType": "content",
+                            "headline": "The Push-Pull Dance",
+                            "body": "Disorganized attachment creates an internal war between wanting closeness and fearing it. People with this style desperately crave connection but simultaneously push it away, creating chaotic relationship patterns that leave everyone confused and exhausted.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Fear Without Solution",
+                            "body": "Unlike other attachment styles that have consistent strategies, disorganized attachment offers no clear solution to relationship stress. The person who should provide comfort is also the source of fear, creating an impossible situation that the nervous system can't resolve.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Emotional Overwhelm",
+                            "body": "People with disorganized attachment often experience intense emotional flooding that they can't regulate. Small relationship conflicts can trigger overwhelming responses that seem disproportionate to the actual situation, leaving them feeling out of control.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p4",
+                            "pageType": "question",
+                            "headline": "What characterizes disorganized attachment patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Consistent avoidance of all relationships",
+                                    "Stable emotional responses always",
+                                    "Inconsistent approach-avoidance behaviors",
+                                    "Clear strategies for handling conflict"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Trauma's Fingerprint",
+                            "body": "Disorganized attachment often develops from traumatic or highly inconsistent caregiving experiences. The child learns that relationships are both necessary and dangerous, creating a fundamental confusion about human connection that persists into adulthood.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p6",
+                            "pageType": "question",
+                            "headline": "What often contributes to disorganized attachment development?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Overly protective parenting style",
+                                    "Too much independence given",
+                                    "Traumatic or inconsistent caregiving",
+                                    "Excessive praise in childhood"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p7",
+                            "pageType": "content",
+                            "headline": "The False Self",
+                            "body": "To survive chaotic early relationships, many people with disorganized attachment develop a false self that adapts to what others need. They lose touch with their authentic identity, constantly shape-shifting to maintain connections while feeling empty inside.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Hypervigilance and Dissociation",
+                            "body": "The nervous system alternates between hypervigilance (scanning for danger) and dissociation (mentally checking out). This creates unpredictable responses to relationship stress - sometimes overreacting dramatically, other times becoming completely numb and withdrawn.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Relationship Sabotage",
+                            "body": "When relationships become too good or stable, people with disorganized attachment often unconsciously sabotage them. This familiar chaos feels safer than the unknown territory of healthy connection, even though it's painful.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p10",
+                            "pageType": "content",
+                            "headline": "The Inner Critic",
+                            "body": "A harsh inner voice constantly tells them they're unworthy of love, too damaged for healthy relationships, or bound to hurt everyone they care about. This internalized criticism becomes a self-fulfilling prophecy that perpetuates relationship problems.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Moments of Clarity",
+                            "body": "Despite the chaos, people with disorganized attachment often have profound capacity for empathy and insight. They understand pain deeply and can offer incredible compassion to others, even while struggling to extend that same kindness to themselves.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Healing is Possible",
+                            "body": "While disorganized attachment presents unique challenges, healing is absolutely possible. It requires patience, professional support, and gradual nervous system regulation. Small steps toward security can create profound changes in relationship patterns.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-5-p13",
+                            "pageType": "content",
+                            "headline": "The Path Forward",
+                            "body": "Recovery involves learning to recognize triggers, develop emotional regulation skills, and slowly build tolerance for healthy intimacy. With proper support and commitment to healing, even the most chaotic attachment patterns can evolve toward security.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-6",
+                    "title": "Secure Attachment: The Healthy Model",
+                    "order": 6,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Gold Standard",
+                            "body": "Secure attachment is like having a well-tuned emotional GPS system. People with this style navigate relationships with confidence, knowing they deserve love while also being capable of giving it freely. They represent the healthiest approach to human connection.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Comfortable with Paradox",
+                            "body": "Securely attached individuals can hold seemingly contradictory truths: they value both intimacy and independence, can be both vulnerable and strong, and understand that love includes both joy and occasional disappointment without letting either extreme define the relationship.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p3",
+                            "pageType": "question",
+                            "headline": "What characterizes secure attachment in relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Comfort with both intimacy and independence",
+                                    "Constant need for partner reassurance",
+                                    "Preference for complete emotional distance",
+                                    "Fear of any relationship conflicts"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p4",
+                            "pageType": "question",
+                            "headline": "How do securely attached people handle conflict?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They avoid all disagreements completely",
+                                    "They become defensive and angry",
+                                    "They address issues directly and calmly",
+                                    "They immediately end the relationship"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation Skills",
+                            "body": "When upset, securely attached people can manage their emotions without becoming overwhelmed or completely shutting down. They might need space to process, but they communicate this need clearly and return to address issues when they're calmer.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p6",
+                            "pageType": "question",
+                            "headline": "What emotional skill do secure people possess?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They never experience negative emotions",
+                                    "They can regulate emotions effectively",
+                                    "They suppress all feelings completely",
+                                    "They only express positive emotions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Direct Communication",
+                            "body": "Instead of playing games or hoping partners will read their minds, secure people express their needs and feelings directly. They ask for what they want, say no when necessary, and can discuss difficult topics without becoming defensive or attacking.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p8",
+                            "pageType": "question",
+                            "headline": "How do secure people communicate their needs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through hints and indirect suggestions",
+                                    "By expecting partners to guess",
+                                    "Directly and clearly without games",
+                                    "Only when absolutely necessary"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Trust and Boundaries",
+                            "body": "Securely attached people generally trust others until given reason not to, while also maintaining healthy boundaries. They don't assume the worst about their partner's intentions, but they also won't tolerate disrespectful or harmful behavior.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Conflict as Growth",
+                            "body": "Rather than fearing disagreements, secure people see conflict as an opportunity to understand each other better and strengthen the relationship. They can fight fairly, focusing on the issue rather than attacking their partner's character.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Self-Worth and Identity",
+                            "body": "Their sense of self doesn't depend entirely on their relationships. While they value their partners' opinions, they maintain their own identity, interests, and friendships. They can be alone without feeling abandoned or lonely.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Empathy and Support",
+                            "body": "Secure people can offer emotional support without losing themselves in their partner's problems. They're present for difficult moments but don't try to fix everything. They also accept support gracefully when they need it.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Not Perfect",
+                            "body": "Secure attachment doesn't mean perfect relationships or never feeling insecure. These individuals still experience jealousy, fear, and hurt. The difference is they can work through these feelings without letting them destroy their connections.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p14",
+                            "pageType": "content",
+                            "headline": "A Learnable Style",
+                            "body": "The good news is that secure attachment is learnable at any age. Through self-awareness, healing relationships, and sometimes therapy, people with insecure attachment styles can develop more secure ways of connecting with others.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-6-p15",
+                            "pageType": "content",
+                            "headline": "Your North Star",
+                            "body": "Think of secure attachment as your relationship north star - the direction to move toward rather than a destination you must reach perfectly. Every small step toward more secure behavior benefits both you and your loved ones.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-7",
+                    "title": "Childhood Origins of Attachment",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-7-p1",
+                            "pageType": "content",
+                            "headline": "The First Blueprint",
+                            "body": "Your attachment style was forged in the first few years of life, when your developing brain was learning fundamental lessons about relationships. These early experiences created neural pathways that continue to influence how you connect with others decades later.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Caregiver's Role",
+                            "body": "Your primary caregivers were like attachment teachers, showing you through their actions what relationships were like. If they responded consistently to your needs, you learned that people are trustworthy. If they were unpredictable, you learned that relationships are dangerous.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Survival Strategies",
+                            "body": "As a child, you unconsciously developed strategies to get your needs met within your specific family system. These strategies made perfect sense then, even if they cause problems in your adult relationships now.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p4",
+                            "pageType": "question",
+                            "headline": "When do attachment styles primarily form?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During teenage years mainly",
+                                    "In early adulthood period",
+                                    "Throughout entire childhood phase",
+                                    "In the first few years of life"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Secure Origins",
+                            "body": "Secure attachment develops when caregivers are consistently responsive, emotionally available, and attuned to the child's needs. The child learns that they're worthy of love and that others are reliable sources of comfort and support.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Anxious Beginnings",
+                            "body": "Anxious attachment often forms when caregivers are inconsistent - sometimes loving and responsive, other times overwhelmed or unavailable. The child learns to amplify their distress signals to get attention, never knowing which version of their caregiver will show up.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Avoidant Foundations",
+                            "body": "Avoidant attachment typically develops when caregivers are emotionally unavailable, rejecting, or uncomfortable with emotional expression. The child learns that needing others leads to disappointment, so they minimize their needs and become prematurely self-reliant.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Disorganized Roots",
+                            "body": "Disorganized attachment emerges from frightening or traumatic caregiving experiences. When the person who should provide safety is also the source of fear, the child's attachment system becomes confused and chaotic, with no clear strategy for getting needs met.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p9",
+                            "pageType": "question",
+                            "headline": "What creates anxious attachment in childhood?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Overly permissive parenting style",
+                                    "Too much structure and rules",
+                                    "Inconsistent caregiver responsiveness",
+                                    "Complete emotional unavailability always"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Not About Blame",
+                            "body": "Understanding childhood origins isn't about blaming your parents or caregivers. Most parents do their best with the tools and circumstances they have. Many attachment wounds come from their own unhealed trauma, stress, or lack of support rather than malicious intent.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Intergenerational Patterns",
+                            "body": "Attachment styles often pass down through generations like invisible inheritance. Parents typically recreate the attachment patterns they experienced, unless they've done conscious work to break the cycle. Awareness allows you to choose different patterns for your own relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p12",
+                            "pageType": "content",
+                            "headline": "The Adaptive Child",
+                            "body": "Your childhood attachment strategies were brilliant adaptations to your environment. The anxious child who became clingy survived by ensuring they got attention. The avoidant child who became independent survived by not depending on unreliable caregivers.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p13",
+                            "pageType": "question",
+                            "headline": "Why do attachment patterns often repeat across generations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Children copy what they know",
+                                    "Genetic factors determine everything",
+                                    "Parents recreate familiar patterns",
+                                    "Social pressure forces repetition"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Healing the Past",
+                            "body": "While you can't change your childhood experiences, you can heal from them. Understanding where your patterns come from is the first step toward developing healthier ways of connecting that serve your adult relationships better.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-8",
+                    "title": "How Your Caregivers Shaped You",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-8-p1",
+                            "pageType": "content",
+                            "headline": "The Unconscious Teachers",
+                            "body": "Your caregivers taught you about love, trust, and relationships through thousands of daily interactions. They showed you how to handle emotions, resolve conflicts, and navigate intimacy. These lessons happened mostly below conscious awareness but shaped your expectations about all future relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation Modeling",
+                            "body": "Children learn emotional regulation by watching how their caregivers handle stress, disappointment, and conflict. If your parents stayed calm during difficult moments, you likely learned to self-soothe. If they became overwhelmed or explosive, you may struggle with emotional regulation today.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p3",
+                            "pageType": "content",
+                            "headline": "The Attunement Dance",
+                            "body": "Attuned caregivers notice, understand, and respond appropriately to their child's emotional states. This teaches the child that their inner world matters and that others can be trusted to care about their feelings. Poor attunement creates adults who struggle to recognize their own emotions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Boundaries and Safety",
+                            "body": "Healthy caregivers provide both structure and flexibility, teaching children that boundaries create safety rather than restriction. They protect their children from adult problems while also allowing age-appropriate independence. This creates adults who can set healthy limits in relationships.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Conflict Resolution Styles",
+                            "body": "How your family handled disagreements becomes your template for managing conflict in adult relationships. Some families avoided conflict entirely, others had explosive fights, and some modeled healthy disagreement and repair. Your comfort level with conflict reflects these early experiences.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p6",
+                            "pageType": "question",
+                            "headline": "How do children primarily learn emotional regulation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through formal education programs",
+                                    "By watching caregiver modeling",
+                                    "From peer group interactions",
+                                    "Through trial and error alone"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p7",
+                            "pageType": "question",
+                            "headline": "What does poor attunement from caregivers typically create?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Enhanced independence in children",
+                                    "Better problem-solving abilities",
+                                    "Difficulty recognizing own emotions",
+                                    "Stronger social skills development"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Love Languages Learned",
+                            "body": "Your family taught you how love is expressed and received. Some families showed love through words of affirmation, others through acts of service or physical touch. The absence of certain love languages in childhood can make it difficult to recognize or express love in those ways as an adult.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Trust vs. Suspicion",
+                            "body": "If your caregivers were reliable and truthful, you learned to trust others and expect honesty in relationships. If they broke promises, lied, or were unpredictable, you may approach relationships with suspicion and have difficulty believing others will follow through on their commitments.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p10",
+                            "pageType": "content",
+                            "headline": "The Inner Critic's Voice",
+                            "body": "The way your caregivers spoke to you during mistakes or difficulties becomes your inner voice. Critical, harsh parents often create adults with punishing internal dialogues. Compassionate, understanding parents help develop self-compassion and resilience in the face of failure.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Rewriting the Script",
+                            "body": "While these early patterns run deep, they're not permanent. You can consciously choose to develop healthier relationship skills, learn better emotional regulation, and practice self-compassion. Awareness of your caregivers' influence is the first step toward change.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Breaking the Cycle",
+                            "body": "Understanding how your caregivers shaped you empowers you to make different choices in your own relationships and, if you have them, with your own children. You can be the one who breaks generational patterns and creates healthier attachment for future generations.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-9",
+                    "title": "Attachment in Adult Relationships",
+                    "order": 9,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-9-p1",
+                            "pageType": "content",
+                            "headline": "The Unconscious Magnet",
+                            "body": "Your attachment style acts like an unconscious magnet, drawing you toward certain types of people and relationship dynamics. You're often attracted to partners who feel familiar, even when that familiarity recreates childhood wounds rather than healing them.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Anxious-Avoidant Trap",
+                            "body": "Anxious and avoidant people often find each other irresistibly attractive, creating a painful dance where one pursues while the other distances. The anxious person's need for closeness triggers the avoidant person's fear of intimacy, while the avoidant's withdrawal intensifies the anxious person's abandonment fears.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Secure Partners as Healers",
+                            "body": "Relationships with securely attached people can be incredibly healing for those with insecure styles. Secure partners model healthy communication, emotional regulation, and conflict resolution. They don't get hooked into destructive patterns, offering a different way of being in relationship.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Trigger Points",
+                            "body": "Certain relationship situations reliably trigger attachment-related fears and behaviors. Common triggers include feeling ignored, facing potential separation, experiencing conflict, or when partners need space. Understanding your triggers helps you respond more consciously rather than reactively.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p5",
+                            "pageType": "question",
+                            "headline": "What often attracts anxious and avoidant people to each other?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Their shared love of independence",
+                                    "Their similar communication styles",
+                                    "Their mutual fear of commitment",
+                                    "Their complementary but triggering patterns"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p6",
+                            "pageType": "content",
+                            "headline": "The Protest Cycle",
+                            "body": "When attachment needs aren't met, people often escalate their efforts through protest behaviors. This might involve crying, arguing, threatening to leave, or creating drama. While these behaviors aim to reconnect, they often push partners further away, creating the very abandonment feared.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Deactivating Strategies",
+                            "body": "Avoidant people unconsciously use deactivating strategies to maintain emotional distance when relationships become too intimate. They might pick fights, focus on partner's flaws, withdraw emotionally, or maintain connections to ex-partners. These strategies protect against vulnerability but prevent true intimacy.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p8",
+                            "pageType": "content",
+                            "headline": "The Secure Base",
+                            "body": "In healthy relationships, partners serve as secure bases for each other - providing comfort during distress, celebrating successes, and offering a safe haven to return to after exploring the world. This creates a foundation of trust that allows both people to thrive individually and together.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Attachment Injuries",
+                            "body": "Sometimes partners unintentionally wound each other's attachment systems through betrayals, abandonments during crisis, or choosing others over the relationship during critical moments. These attachment injuries require specific repair processes to heal and restore trust.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What role do secure partners play for insecure people?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They provide healing relationship models",
+                                    "They enable unhealthy behaviors",
+                                    "They create more insecurity",
+                                    "They avoid all relationship conflicts"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p11",
+                            "pageType": "question",
+                            "headline": "What are deactivating strategies designed to do?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increase emotional intimacy with partners",
+                                    "Maintain emotional distance when triggered",
+                                    "Improve communication in relationships",
+                                    "Create deeper bonds with partners"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p12",
+                            "pageType": "content",
+                            "headline": "The Repair Process",
+                            "body": "All relationships experience ruptures - moments when connection is broken through misunderstandings, hurt, or conflict. The key to healthy attachment isn't avoiding ruptures but learning to repair them effectively through acknowledgment, accountability, and reconnection.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Growing Together",
+                            "body": "Conscious couples can use their attachment differences as opportunities for growth rather than sources of conflict. Understanding each other's attachment needs and fears allows partners to respond with compassion rather than taking behaviors personally.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p14",
+                            "pageType": "question",
+                            "headline": "What is essential for healing attachment injuries?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignoring the hurt completely",
+                                    "Specific repair and rebuilding trust",
+                                    "Ending the relationship immediately",
+                                    "Pretending nothing happened"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-9-p15",
+                            "pageType": "content",
+                            "headline": "Your Relationship Laboratory",
+                            "body": "Every relationship becomes a laboratory for healing and growth. By bringing consciousness to your attachment patterns, you can transform relationships from unconscious reenactments of childhood wounds into opportunities for developing greater security and intimacy.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-10",
+                    "title": "Recognizing Your Attachment Style",
+                    "order": 10,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-10-p1",
+                            "pageType": "content",
+                            "headline": "The Mirror of Relationships",
+                            "body": "Your attachment style becomes most visible during times of relationship stress. Pay attention to your automatic responses when you feel threatened, disconnected, or overwhelmed by intimacy. These moments reveal your deepest attachment strategies.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Your Inner Dialogue",
+                            "body": "Notice the stories your mind tells during relationship difficulties. Do you assume you're about to be abandoned? Do you find reasons why your partner isn't right for you? These internal narratives reveal your attachment fears and defenses.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p3",
+                            "pageType": "question",
+                            "headline": "When does attachment style become most visible?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During happy relationship moments",
+                                    "During times of relationship stress",
+                                    "Only in brand new relationships",
+                                    "When meeting someone's parents"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Physical Sensations",
+                            "body": "Your body holds attachment information too. Notice physical sensations during relationship moments - the tightening in your chest during conflict, the urge to flee when things get intimate, or the hypervigilance when partners seem distant. Your body remembers attachment patterns.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Relationship Patterns",
+                            "body": "Look at the themes across your relationships. Do you tend to choose unavailable partners? Do you become clingy when relationships deepen? Do you sabotage good relationships? These patterns often point to your attachment style more clearly than any single incident.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Childhood Echoes",
+                            "body": "Consider your early relationship with caregivers. Were they consistently available or unpredictable? Did you learn to hide your needs or amplify them to get attention? Your childhood strategies often translate directly into adult attachment behaviors.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p7",
+                            "pageType": "question",
+                            "headline": "What reveals attachment patterns most clearly?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "First impressions of new people",
+                                    "Themes across multiple relationships",
+                                    "Career choices and preferences",
+                                    "Favorite movies and entertainment"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Comfort with Independence",
+                            "body": "Notice your comfort level when partners need space or when you're alone. Secure people can enjoy both connection and solitude. Anxious people may panic when alone, while avoidant people might prefer isolation over intimacy.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p9",
+                            "pageType": "question",
+                            "headline": "How do anxious people typically respond to being alone?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They enjoy the peaceful solitude",
+                                    "They feel neutral about it",
+                                    "They may feel panic or anxiety",
+                                    "They prefer it to being together"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Communication Under Pressure",
+                            "body": "How do you communicate when feeling hurt or scared in relationships? Do you explode, shut down, become demanding, or address issues directly? Your communication style under pressure reveals your attachment strategy for maintaining connection.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Mixed Styles",
+                            "body": "Many people don't fit neatly into one category. You might be anxious with one partner but avoidant with another, or secure in friendships but anxious in romantic relationships. This flexibility is actually a sign of growth and adaptation.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Self-Compassion in Discovery",
+                            "body": "As you recognize your patterns, practice self-compassion rather than self-judgment. Your attachment style developed as a survival strategy in childhood. Understanding it with kindness is the first step toward conscious change.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-10-p13",
+                            "pageType": "content",
+                            "headline": "The Journey of Awareness",
+                            "body": "Recognizing your attachment style is an ongoing process, not a one-time realization. Continue observing your patterns with curiosity and compassion. This awareness creates space between your automatic reactions and conscious choices about how to respond.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-11",
+                    "title": "How Anxious Attachment Shows in Relationships",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-11-p1",
+                            "pageType": "content",
+                            "headline": "The Reassurance Seeker",
+                            "body": "Anxious attachment shows up as an almost insatiable need for reassurance from partners. You might constantly ask if they still love you, worry when they're quiet or tired, and interpret neutral behaviors as signs of rejection. This need for constant validation can exhaust even the most patient partners.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Emotional Weather System",
+                            "body": "Your emotions fluctuate dramatically based on your partner's behavior and availability. A loving text creates euphoria, while a delayed response triggers despair. You might feel like you're at the mercy of an emotional weather system you can't control.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Hypervigilance in Love",
+                            "body": "You become a detective in relationships, analyzing every word, tone, and gesture for signs of disconnection or rejection. This hypervigilance is exhausting and often creates problems where none existed, as you read threat into innocent behaviors.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p4",
+                            "pageType": "content",
+                            "headline": "The Pursuit Dynamic",
+                            "body": "When you sense distance in the relationship, you instinctively pursue harder. You might call more frequently, plan elaborate gestures, or create conversations to reconnect. Unfortunately, this pursuit often pushes partners away, creating the very distance you fear.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Conflict as Catastrophe",
+                            "body": "Disagreements feel like relationship-ending catastrophes rather than normal parts of connection. You might panic during arguments, desperately trying to resolve issues immediately, or become overwhelmed by the fear that conflict means your partner will leave.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p6",
+                            "pageType": "content",
+                            "headline": "The Jealousy Monster",
+                            "body": "Jealousy becomes an unwelcome companion in relationships. You might feel threatened by your partner's friends, coworkers, or even their hobbies. This jealousy stems from deep fears of being replaced or not being enough for your partner.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p7",
+                            "pageType": "question",
+                            "headline": "How do anxiously attached people typically view relationship conflicts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As relationship-ending catastrophes",
+                                    "As normal parts of connection",
+                                    "As opportunities for growth",
+                                    "As unimportant minor issues"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p8",
+                            "pageType": "question",
+                            "headline": "What drives the pursuit dynamic in anxious attachment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Desire to control the partner",
+                                    "Instinctive response to sensed distance",
+                                    "Need to prove superiority",
+                                    "Attempt to create drama"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p9",
+                            "pageType": "content",
+                            "headline": "People-Pleasing to Survive",
+                            "body": "You might lose yourself in relationships, constantly adapting to what you think your partner wants. Your own needs, opinions, and preferences take a backseat to maintaining harmony and avoiding abandonment. This self-sacrifice often creates resentment over time.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p10",
+                            "pageType": "question",
+                            "headline": "Why do anxiously attached people often become hypervigilant?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They enjoy analyzing relationship dynamics",
+                                    "They scan constantly for signs of rejection",
+                                    "They want to control their partners",
+                                    "They prefer dramatic relationship situations"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p11",
+                            "pageType": "question",
+                            "headline": "What typically happens when anxious people pursue harder?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Partners become more loving",
+                                    "Relationships become more stable",
+                                    "Partners often withdraw further",
+                                    "Conflicts decrease significantly"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p12",
+                            "pageType": "content",
+                            "headline": "The Protest Behaviors",
+                            "body": "When feeling disconnected, you might engage in protest behaviors like crying, creating drama, threatening to leave, or even having affairs. These behaviors are desperate attempts to reestablish connection, but they often damage the relationship instead of healing it.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Text Message Anxiety",
+                            "body": "Digital communication becomes a source of constant stress. You analyze response times, read tone into text messages, and may send multiple messages when partners don't respond quickly. Social media becomes another avenue for seeking reassurance or finding reasons to worry.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p14",
+                            "pageType": "content",
+                            "headline": "The Fantasy Relationship",
+                            "body": "You often have a fantasy of how the relationship should be - constant closeness, perfect understanding, and perpetual reassurance. When reality doesn't match this fantasy, disappointment and anxiety increase, leading to more desperate attempts to achieve the impossible ideal.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-11-p15",
+                            "pageType": "content",
+                            "headline": "Recognition Brings Hope",
+                            "body": "Recognizing these patterns is the first step toward change. Your anxious behaviors make perfect sense given your attachment history. With awareness and practice, you can learn to self-soothe, communicate needs directly, and build the secure relationship you truly desire.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-12",
+                    "title": "How Avoidant Attachment Shows in Relationships",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-12-p1",
+                            "pageType": "content",
+                            "headline": "The Emotional Fortress",
+                            "body": "Avoidant attachment creates an emotional fortress around your heart. You might pride yourself on not needing anyone, being self-sufficient, and maintaining emotional distance even in intimate relationships. This fortress protects you from hurt but also blocks genuine connection.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The Intimacy Shutdown",
+                            "body": "As relationships deepen, you might unconsciously begin shutting down emotionally. Expressions of love from partners can feel suffocating rather than wonderful. You may start noticing their flaws more, feeling restless, or finding reasons why the relationship won't work long-term.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Emotional Minimization",
+                            "body": "You tend to minimize both your own emotions and your partner's feelings. Phrases like \"it's not that big of a deal\" or \"you're being too sensitive\" become common responses. This emotional minimization protects you from feeling overwhelmed but invalidates important relationship experiences.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p4",
+                            "pageType": "content",
+                            "headline": "The Independence Obsession",
+                            "body": "Your sense of self depends heavily on maintaining independence and not relying on others. You might resist accepting help, sharing vulnerabilities, or even letting partners do nice things for you. This extreme self-reliance can make partners feel shut out and unneeded.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p5",
+                            "pageType": "question",
+                            "headline": "How do avoidant people typically respond to deepening intimacy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They become more emotionally open",
+                                    "They unconsciously begin shutting down",
+                                    "They seek even deeper connection",
+                                    "They plan for future commitment"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p6",
+                            "pageType": "question",
+                            "headline": "What drives avoidant people's need for extreme independence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Protection from potential hurt and disappointment",
+                                    "Desire to appear superior to others",
+                                    "Natural preference for being alone always",
+                                    "Fear of financial dependence on others"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p7",
+                            "pageType": "content",
+                            "headline": "The Phantom Ex Syndrome",
+                            "body": "You might maintain emotional connections to unavailable people - ex-partners, crushes, or idealized figures from your past. These phantom relationships allow you to feel connected while staying safe from the demands of real intimacy with available partners.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Conflict Withdrawal",
+                            "body": "When relationship conflicts arise, you're likely to withdraw, shut down, or change the subject rather than engage emotionally. You might say you need space but then never return to resolve the issue, leaving partners feeling unheard and disconnected.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p9",
+                            "pageType": "content",
+                            "headline": "The Grass is Greener",
+                            "body": "Even in good relationships, you might find yourself fantasizing about other options or focusing on what's wrong with your current partner. This mental escape hatch prevents you from fully investing in the relationship you have.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Emotional Labor Avoidance",
+                            "body": "You often avoid the emotional work of relationships - having deep conversations, processing feelings together, or providing emotional support during difficult times. These tasks feel overwhelming and unnecessary, yet they're essential for intimate connection.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p11",
+                            "pageType": "content",
+                            "headline": "The Busy Defense",
+                            "body": "Work, hobbies, and other activities become refuges from relationship demands. You might become suddenly busier when partners want more closeness, using external obligations as unconscious barriers to intimacy. This busyness provides legitimate reasons to maintain distance.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p12",
+                            "pageType": "question",
+                            "headline": "How do avoidant people typically handle relationship conflicts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They engage in heated emotional discussions",
+                                    "They withdraw or shut down completely",
+                                    "They immediately seek professional help",
+                                    "They become more clingy and needy"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p13",
+                            "pageType": "content",
+                            "headline": "The Secret Longing",
+                            "body": "Despite all these protective strategies, most avoidant people secretly long for deep connection. You might feel moved by romantic movies, crave intimacy when alone, or feel unexpectedly hurt when relationships end - emotions you quickly suppress or dismiss.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p14",
+                            "pageType": "content",
+                            "headline": "Sabotaging Good Things",
+                            "body": "When relationships become too good or stable, you might unconsciously sabotage them through picking fights, becoming critical, or creating distance. This self-sabotage feels safer than risking the vulnerability that comes with genuine happiness and connection.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-12-p15",
+                            "pageType": "content",
+                            "headline": "The Path to Connection",
+                            "body": "Recognizing these patterns is your first step toward healthier relationships. Your avoidant strategies once protected you, but they may now be preventing the love you truly desire. Healing involves slowly learning to tolerate vulnerability and emotional intimacy.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-13",
+                    "title": "Breaking Anxious Attachment Patterns",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-13-p1",
+                            "pageType": "content",
+                            "headline": "From Panic to Peace",
+                            "body": "Breaking anxious attachment patterns begins with learning to calm your nervous system when triggered. Instead of immediately reaching for reassurance from your partner, you can develop internal resources for self-soothing. This shift from external to internal regulation is transformative.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p2",
+                            "pageType": "content",
+                            "headline": "The Pause Practice",
+                            "body": "When you feel the urge to seek reassurance or pursue your partner, practice pausing first. Take three deep breaths, notice what you're feeling in your body, and ask yourself what you really need in this moment. This pause creates space for conscious choice rather than automatic reaction.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p3",
+                            "pageType": "question",
+                            "headline": "What is the first step in breaking anxious attachment patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Finding a new romantic partner",
+                                    "Learning to calm your nervous system",
+                                    "Avoiding all relationship conflicts",
+                                    "Becoming completely independent"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What does the pause practice help create?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "More dramatic relationship moments",
+                                    "Increased dependency on partners",
+                                    "Distance from all emotions",
+                                    "Space for conscious choice-making"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p5",
+                            "pageType": "question",
+                            "headline": "How should you challenge negative thought patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignore them completely always",
+                                    "Accept them as absolute truth",
+                                    "Question if they're actually true",
+                                    "Share them immediately with partners"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Challenge the Story",
+                            "body": "Your anxious mind creates disaster stories about small relationship events. When you notice these catastrophic thoughts, challenge them with questions: \"Is this actually true?\" \"What evidence do I have?\" \"What else might this behavior mean?\" This questioning breaks the cycle of assumption and panic.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Self-Soothing Arsenal",
+                            "body": "Develop a toolkit of self-soothing strategies that work for you. This might include deep breathing, progressive muscle relaxation, journaling, calling a friend, or physical exercise. Having multiple options helps you regulate your emotions without relying solely on your partner.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Communicate, Don't Interrogate",
+                            "body": "Instead of asking \"Do you still love me?\" twenty times a day, learn to express your underlying needs directly: \"I'm feeling insecure today and could use some extra affection\" or \"I'm having a tough time and would love to hear something positive about us.\"",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Tolerance for Uncertainty",
+                            "body": "Anxious attachment creates a need for constant certainty about the relationship's future. Practice tolerating uncertainty by focusing on the present moment. You can't control outcomes, but you can influence them through your current choices and behaviors.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Separate Past from Present",
+                            "body": "Much of your anxiety comes from past experiences bleeding into current situations. When triggered, ask yourself: \"Is this about my partner right now, or is this about my fear based on past experiences?\" This distinction helps you respond to reality rather than old wounds.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Build Your Individual Life",
+                            "body": "Anxious attachment often involves losing yourself in relationships. Reconnect with your own interests, friendships, and goals. A rich individual life makes you less dependent on your partner for all emotional needs and creates a more balanced dynamic.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Practice Self-Compassion",
+                            "body": "Replace your harsh inner critic with a compassionate inner voice. When you make relationship mistakes or feel overwhelmed by anxiety, treat yourself with the same kindness you'd offer a good friend. Self-criticism only increases anxiety and insecurity.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p13",
+                            "pageType": "question",
+                            "headline": "What helps reduce dependence on partners for emotional needs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ending all friendships completely",
+                                    "Building a rich individual life",
+                                    "Avoiding all personal interests",
+                                    "Focusing only on relationship goals"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Gradual Progress",
+                            "body": "Breaking anxious patterns takes time and patience. Start with small changes - pausing before sending that desperate text, self-soothing for five minutes before seeking reassurance, or expressing one direct need instead of fishing for validation. These small steps build confidence over time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Your Secure Future",
+                            "body": "As you practice these new patterns, you'll gradually develop more security in relationships. You'll still feel love and care deeply, but from a place of strength rather than desperation. Your relationships will become more balanced and genuinely intimate.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-14",
+                    "title": "Breaking Avoidant Attachment Patterns",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Dismantling the Fortress",
+                            "body": "Breaking avoidant patterns requires slowly dismantling the emotional fortress you've built around your heart. This doesn't mean becoming vulnerable all at once, but gradually learning to tolerate small doses of emotional intimacy without shutting down or withdrawing.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Recognizing Deactivation",
+                            "body": "The first step is becoming aware of your deactivating strategies. Notice when you start finding fault with your partner, feeling restless in the relationship, or suddenly becoming busy when they want closeness. These are unconscious attempts to create emotional distance.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p3",
+                            "pageType": "content",
+                            "headline": "The Emotion Check-In",
+                            "body": "Throughout the day, practice checking in with your emotional state. Ask yourself: \"What am I feeling right now?\" This simple question helps you reconnect with emotions you may have learned to suppress or ignore. Start with basic emotions like happy, sad, angry, or afraid.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Micro-Vulnerabilities",
+                            "body": "Instead of grand gestures of openness, practice tiny moments of vulnerability. Share a small worry, admit when you're tired, or express appreciation for something your partner did. These micro-vulnerabilities help you build tolerance for emotional exposure gradually.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Stay Present in Conflict",
+                            "body": "When relationship conflicts arise, resist your urge to withdraw or shut down. Practice staying physically present and making eye contact. Even if you can't engage fully, simply not fleeing is progress toward more secure behavior.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Question Your Independence",
+                            "body": "Challenge your belief that needing others makes you weak. True strength includes the ability to both give and receive support. Notice when you automatically reject help or kindness, and practice accepting small gestures from others.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p7",
+                            "pageType": "question",
+                            "headline": "What is the first step in breaking avoidant patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Becoming completely vulnerable immediately",
+                                    "Recognizing your deactivating strategies",
+                                    "Ending all current relationships",
+                                    "Avoiding emotional situations completely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p8",
+                            "pageType": "question",
+                            "headline": "How should avoidant people approach vulnerability?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through micro-vulnerabilities and small steps",
+                                    "By sharing everything at once",
+                                    "Only in crisis situations",
+                                    "Never, as it's always weakness"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Practice Emotional Language",
+                            "body": "Expand your emotional vocabulary beyond \"fine\" or \"okay.\" Practice using specific feeling words to describe your internal experience. This helps you become more aware of your emotions and gives you language to share them with others when ready.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p10",
+                            "pageType": "content",
+                            "headline": "The Return Commitment",
+                            "body": "When you need space during conflicts or emotional moments, commit to returning to address the issue. Tell your partner when you'll be back and follow through. This maintains connection while respecting your need for processing time.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p11",
+                            "pageType": "question",
+                            "headline": "What should you do when needing space during conflicts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Leave without explanation",
+                                    "Stay and fight harder",
+                                    "Commit to returning and follow through",
+                                    "End the relationship immediately"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Appreciate Your Partner",
+                            "body": "Make a conscious effort to notice and express appreciation for your partner's positive qualities and actions. Avoidant people often focus on flaws as a way to maintain emotional distance. Actively looking for the good creates connection instead of distance.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Your Gentle Revolution",
+                            "body": "Breaking avoidant patterns is a gentle revolution against the protective strategies that once kept you safe but now keep you lonely. Each small step toward connection is an act of courage that honors both your need for safety and your deeper longing for love.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-15",
+                    "title": "Building Secure Attachment Skills",
+                    "order": 15,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-15-p1",
+                            "pageType": "content",
+                            "headline": "The Security Blueprint",
+                            "body": "Secure attachment isn't something you either have or don't have - it's a set of learnable skills that anyone can develop. These skills include emotional regulation, direct communication, healthy boundaries, and the ability to both give and receive support in relationships.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Self-Awareness First",
+                            "body": "The foundation of security is knowing yourself - your triggers, patterns, needs, and values. Regular self-reflection through journaling, meditation, or therapy helps you understand your internal landscape. You can't change what you're not aware of.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What is the foundation of secure attachment?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Finding the perfect romantic partner",
+                                    "Knowing yourself and your patterns",
+                                    "Avoiding all relationship conflicts",
+                                    "Being completely independent always"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p4",
+                            "pageType": "question",
+                            "headline": "How can secure attachment skills be developed?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They are learned and practiced",
+                                    "They are purely genetic traits",
+                                    "They can't be changed ever",
+                                    "They develop automatically with age"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation Practice",
+                            "body": "Learn to manage your emotions without becoming overwhelmed or completely numb. This involves noticing emotions as they arise, breathing through intensity, and choosing conscious responses rather than automatic reactions. Practice makes this easier over time.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Direct Communication Skills",
+                            "body": "Practice expressing your needs, feelings, and boundaries clearly and kindly. Instead of hoping others will guess what you want or getting angry when they don't, state your needs directly. This reduces confusion and builds trust in relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Healthy Boundaries",
+                            "body": "Secure people know where they end and others begin. They can say no without guilt, yes without resentment, and maintain their sense of self within relationships. Healthy boundaries actually create more intimacy by ensuring interactions are authentic and sustainable.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Interdependence Balance",
+                            "body": "Aim for interdependence rather than complete independence or codependence. This means being able to rely on others while also being reliable, offering support while accepting help, and maintaining your individual identity within close relationships.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Conflict as Connection",
+                            "body": "Learn to see disagreements as opportunities to understand each other better rather than threats to the relationship. Practice staying curious about your partner's perspective instead of defensive about your own position. Good conflict can actually increase intimacy.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Self-Compassion Development",
+                            "body": "Treat yourself with the same kindness you'd offer a good friend. When you make mistakes or feel vulnerable emotions, respond to yourself with understanding rather than criticism. Self-compassion creates the internal security that supports healthy relationships.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Practice with Safe People",
+                            "body": "Start practicing secure behaviors with people who feel safe - friends, family members, or therapists who respond well to vulnerability and directness. These practice relationships help you build confidence before applying new skills in more challenging situations.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Progress Over Perfection",
+                            "body": "Remember that building security is a gradual process, not a destination. You'll still have moments of anxiety, avoidance, or reactivity. The goal is progress - responding more securely more often, not achieving perfect security all the time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Your Secure Future",
+                            "body": "As you develop these skills, you'll find relationships becoming easier and more fulfilling. You'll feel more confident in your ability to handle whatever comes up, knowing you have the tools to navigate both connection and conflict with grace.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-16",
+                    "title": "Communication for Secure Relationships",
+                    "order": 16,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-16-p1",
+                            "pageType": "content",
+                            "headline": "The Language of Love",
+                            "body": "Secure communication is like speaking a different language - one of directness, kindness, and authenticity. Instead of games, hints, or assumptions, secure communicators express themselves clearly while also listening with genuine curiosity to understand their partner's perspective.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p2",
+                            "pageType": "content",
+                            "headline": "I-Statements Over You-Attacks",
+                            "body": "Replace accusatory \"you\" statements with vulnerable \"I\" statements. Instead of \"You never listen to me,\" try \"I feel unheard when I'm speaking and you're looking at your phone.\" This approach reduces defensiveness and increases understanding.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Express Needs Directly",
+                            "body": "Stop hoping your partner will read your mind or pick up on subtle hints. If you need affection, ask for a hug. If you need space, say so kindly. Direct expression of needs eliminates guesswork and creates opportunities for genuine connection.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Listen to Understand",
+                            "body": "Secure communication involves listening to understand rather than listening to respond or defend. When your partner is speaking, focus entirely on comprehending their experience rather than planning your rebuttal or justification.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p5",
+                            "pageType": "question",
+                            "headline": "What should replace accusatory 'you' statements?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Vulnerable 'I' statements instead",
+                                    "Even stronger accusations",
+                                    "Complete silence and withdrawal",
+                                    "Indirect hints and suggestions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p6",
+                            "pageType": "question",
+                            "headline": "What is the goal when listening to your partner?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Planning your defense strategy",
+                                    "Understanding their perspective completely",
+                                    "Finding flaws in their reasoning",
+                                    "Waiting for your turn to speak"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Validate Before Problem-Solving",
+                            "body": "Before jumping into solutions or advice, validate your partner's emotions and experience. Phrases like \"That sounds really frustrating\" or \"I can understand why you'd feel that way\" help people feel heard before moving into problem-solving mode.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Take Responsibility",
+                            "body": "When you've made a mistake or contributed to a problem, take responsibility without making excuses or deflecting blame. Simple acknowledgment like \"I messed up\" or \"I can see how my actions hurt you\" opens the door to genuine repair and healing.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p9",
+                            "pageType": "question",
+                            "headline": "What should you do before offering solutions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Criticize the problem first",
+                                    "Validate your partner's emotions",
+                                    "Change the subject completely",
+                                    "Minimize the situation's importance"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Repair After Ruptures",
+                            "body": "All relationships have moments of disconnection or conflict. The key is learning to repair these ruptures effectively. Acknowledge what happened, take responsibility for your part, express empathy for your partner's experience, and reconnect with affection or reassurance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Timing Matters",
+                            "body": "Choose appropriate times for important conversations. Don't bring up serious issues when either of you is tired, stressed, or distracted. Ask \"Is this a good time to talk about something important?\" before launching into difficult topics.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Stay Present",
+                            "body": "During important conversations, put away distractions and give your full attention. Make eye contact, keep your body language open, and resist the urge to multitask. Presence is one of the greatest gifts you can offer your partner during communication.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "attachment_theory-1-17",
+                    "title": "Your Journey to Secure Attachment",
+                    "order": 17,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "attachment_theory-1-17-p1",
+                            "pageType": "content",
+                            "headline": "The Ongoing Journey",
+                            "body": "Developing secure attachment is not a destination but a lifelong journey of growth and healing. There will be setbacks, moments of old patterns emerging, and times when progress feels slow. This is all part of the normal process of change.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Start Where You Are",
+                            "body": "Begin this journey from exactly where you are right now, with whatever attachment patterns you currently have. There's no need to wait until you're \"ready\" or have it all figured out. Small, consistent steps create lasting change over time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Practice Self-Compassion",
+                            "body": "As you work on changing attachment patterns, treat yourself with incredible kindness. Your current patterns developed as survival strategies and served important purposes. Honor their protective function while gently cultivating new ways of connecting.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p4",
+                            "pageType": "question",
+                            "headline": "How should you approach changing attachment patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Start where you are with small steps",
+                                    "Wait until you're completely ready",
+                                    "Change everything all at once",
+                                    "Focus only on major transformations"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Find Your Support Team",
+                            "body": "Healing attachment wounds often happens in relationship with others. This might include therapy, support groups, trusted friends, or partners who are also committed to growth. You don't have to do this work alone - in fact, doing it in community often accelerates healing.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p6",
+                            "pageType": "question",
+                            "headline": "What often accelerates attachment healing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working completely alone always",
+                                    "Doing it in community with support",
+                                    "Avoiding all relationship interaction",
+                                    "Reading books without any practice"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Notice Small Wins",
+                            "body": "Celebrate small victories along the way - the time you paused instead of reacting, the moment you expressed a need directly, or when you stayed present during conflict. These small changes are actually profound shifts in your relationship patterns.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Expect Setbacks",
+                            "body": "Old patterns will resurface, especially during stress or conflict. This doesn't mean you're failing or haven't made progress. Setbacks are opportunities to practice self-compassion and to notice how much more quickly you can return to secure responses.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Your Ripple Effect",
+                            "body": "As you develop more secure attachment patterns, you'll positively impact every relationship in your life. Your children, friends, family, and partners will all benefit from your increased emotional availability, direct communication, and healthy boundaries.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Be Patient with Process",
+                            "body": "Attachment patterns developed over years or decades won't change overnight. Be patient with the process and with yourself. Some changes happen quickly, while others unfold slowly over months or years. Trust in your capacity for growth and healing.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p11",
+                            "pageType": "question",
+                            "headline": "What do setbacks in attachment work represent?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complete failure of your efforts",
+                                    "Proof that change is impossible",
+                                    "Normal part of the growth process",
+                                    "Reason to give up entirely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Your Secure Future",
+                            "body": "Imagine relationships where you feel confident in your worth, can express needs without fear, and handle conflicts with grace. This isn't a fantasy - it's a very achievable reality. Every step you take toward security brings this future closer.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "attachment_theory-1-17-p13",
+                            "pageType": "content",
+                            "headline": "The Gift You Give",
+                            "body": "Your journey toward secure attachment is not just a gift to yourself - it's a gift to everyone who loves you. By healing your own patterns, you break generational cycles and create the possibility for healthier relationships for future generations. This work matters deeply.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.9,
+    "tag": "Popular"
+}

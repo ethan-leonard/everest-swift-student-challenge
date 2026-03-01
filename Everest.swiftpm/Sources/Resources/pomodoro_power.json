@@ -1,0 +1,2410 @@
+{
+    "id": "pomodoro_power",
+    "title": "The Pomodoro Power",
+    "description": "Master the art of doing more in less time. Use focused 25-minute sprints to defeat procrastination and maximize productivity.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/pomodoro_power.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract tomato timer shape with geometric segments showing time breakdown, sage green and charcoal palette with warm red-coral accent, productivity meets simplicity aesthetic",
+    "altitude": 3600,
+    "durationMinutes": 96,
+    "whatsInside": [
+        "Understand why time blocking beats unstructured work",
+        "Master the classic 25-5 Pomodoro cycle for deep focus",
+        "Learn advanced variations for different task types",
+        "Build sustainable work rhythms that prevent burnout",
+        "Handle interruptions without breaking flow",
+        "Track and optimize your productive capacity"
+    ],
+    "expertReview": {
+        "quote": "Elegantly simple yet remarkably effective. The Pomodoro technique transforms how you relate to time and work.",
+        "name": "Francesco Cirillo",
+        "title": "Creator of the Pomodoro Technique"
+    },
+    "chapters": [
+        {
+            "id": "pomodoro_power-ch1",
+            "title": "Master the Pomodoro Technique",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "pomodoro_power-1-1",
+                    "title": "The Power of 25 Minutes",
+                    "order": 1,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Why Time Boxing Works",
+                            "body": "Your brain craves structure and clear boundaries. The Pomodoro Technique uses 25-minute focused work sessions followed by 5-minute breaks. This creates a rhythm that maximizes both productivity and mental energy.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Fighting Your Mental Resistance",
+                            "body": "Every task feels overwhelming when you see the whole mountain. The Pomodoro breaks work into manageable chunks that your brain can handle. You're not committing to hours of work - just 25 minutes.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Science Behind Focus",
+                            "body": "Research shows most people can maintain peak concentration for 20-30 minutes before mental fatigue sets in. The Pomodoro Technique aligns with your natural attention span, not against it.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Creating Urgency Without Panic",
+                            "body": "A ticking timer creates healthy pressure that eliminates procrastination. You know the session will end, so you focus intensely. This urgency drives action while the short duration prevents burnout.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Building Momentum Daily",
+                            "body": "Each completed Pomodoro builds confidence and momentum. You start seeing progress in concrete 25-minute chunks rather than vague hours. This creates a positive feedback loop that sustains motivation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Break Advantage",
+                            "body": "Strategic breaks aren't procrastination - they're performance enhancers. Your brain processes information and recharges during these 5-minute intervals. You return to work with renewed focus and fresh perspective.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Overcoming Analysis Paralysis",
+                            "body": "The Pomodoro forces you to start before you feel ready. You can't plan perfectly in 25 minutes, so you begin working immediately. Action creates clarity faster than endless planning.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p8",
+                            "pageType": "question",
+                            "headline": "What makes the Pomodoro Technique effective for focus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It aligns with natural attention spans",
+                                    "It eliminates all distractions completely",
+                                    "It requires expensive productivity tools",
+                                    "It works best for creative tasks only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p9",
+                            "pageType": "question",
+                            "headline": "Why do 5-minute breaks enhance performance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They allow the brain to recharge and process",
+                                    "They provide time for social media checking",
+                                    "They eliminate the need for longer breaks",
+                                    "They help you plan the next work session"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Measuring Real Progress",
+                            "body": "Traditional productivity advice is vague and unmeasurable. The Pomodoro gives you concrete data - you completed 6 Pomodoros today, not just 'worked hard.' This clarity helps you improve systematically.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p11",
+                            "pageType": "content",
+                            "headline": "The Psychology of Completion",
+                            "body": "Your brain releases dopamine when you complete tasks. Each finished Pomodoro triggers this reward system, creating positive reinforcement. This makes you want to start the next session immediately.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Eliminating Decision Fatigue",
+                            "body": "The structured format removes micro-decisions about when to work and when to rest. You don't waste mental energy negotiating with yourself. The timer makes decisions for you.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Starting Your Transformation",
+                            "body": "The Pomodoro isn't just a productivity hack - it's a complete mindset shift. You'll move from scattered, reactive work to intentional, focused execution. Your relationship with time and tasks will fundamentally change.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Your First Step Forward",
+                            "body": "Understanding why the Pomodoro works is just the beginning. Next, you'll learn the specific mechanics and setup process. Get ready to experience what truly focused work feels like.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-2",
+                    "title": "The Science of 25 Minutes",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Your Brain's Attention Cycle",
+                            "body": "Neuroscience reveals your brain operates in natural 90-120 minute cycles called ultradian rhythms. Within each cycle, peak focus lasts 20-30 minutes before attention starts declining. The Pomodoro captures this optimal window.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Restoration Theory",
+                            "body": "Research by Kaplan and Kaplan shows directed attention becomes fatigued with continuous use. Brief breaks in natural or relaxing environments restore this capacity. Even 5 minutes can dramatically improve subsequent focus.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Why Not 30 or 45 Minutes?",
+                            "body": "Studies show attention quality drops significantly after 25 minutes of sustained focus. At 30 minutes, you're already fighting diminishing returns. At 45 minutes, you're mostly practicing poor concentration habits.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p4",
+                            "pageType": "content",
+                            "headline": "The Yerkes-Dodson Law",
+                            "body": "This psychological principle shows performance improves with arousal up to a point, then decreases. The 25-minute timer creates optimal pressure - enough urgency to focus, not so much that you panic.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Dopamine and Task Completion",
+                            "body": "Your brain releases dopamine when you anticipate and achieve goals. Each Pomodoro completion triggers this reward system. The frequent dopamine hits create addiction to focused work rather than distractions.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What happens to attention quality after 25 minutes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It drops significantly",
+                                    "It remains completely stable",
+                                    "It improves with practice",
+                                    "It varies by individual completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p7",
+                            "pageType": "question",
+                            "headline": "How do 5-minute breaks restore attention?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They eliminate all mental fatigue permanently",
+                                    "They allow directed attention to recover",
+                                    "They activate the brain's creative centers",
+                                    "They prepare you for longer work sessions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p8",
+                            "pageType": "content",
+                            "headline": "The Default Mode Network",
+                            "body": "During breaks, your brain switches to the default mode network - regions active during rest. This network consolidates memories, processes emotions, and generates insights. Working without breaks prevents this crucial mental processing.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Cognitive Load Theory",
+                            "body": "Your working memory can only hold 7\u00b12 pieces of information simultaneously. Extended focus sessions overload this capacity, reducing efficiency. The Pomodoro prevents cognitive overload by providing regular mental reset points.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p10",
+                            "pageType": "content",
+                            "headline": "The Zeigarnik Effect",
+                            "body": "People remember incomplete tasks better than completed ones because unfinished business creates mental tension. The Pomodoro timer maintains this productive tension throughout the session, keeping tasks active in your awareness.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p11",
+                            "pageType": "question",
+                            "headline": "Why does the timer create optimal work pressure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all sources of stress",
+                                    "It creates panic that drives action",
+                                    "It provides accountability from others",
+                                    "It follows the Yerkes-Dodson performance curve"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Individual Variation Myth",
+                            "body": "Some claim attention spans vary dramatically between people, making fixed intervals ineffective. Research shows while baseline attention varies, the decline pattern after 20-30 minutes is remarkably consistent across individuals and tasks.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Building Neural Pathways",
+                            "body": "Consistent Pomodoro practice strengthens neural pathways associated with focus and self-control. Like physical exercise, repeated focused attention literally changes your brain structure, making concentration easier over time.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-3",
+                    "title": "Setting Up Your First Pomodoro",
+                    "order": 3,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Choose Your Timer",
+                            "body": "Any timer works, but physical timers create better psychological commitment than apps. The ticking sound and physical presence reinforce the session's importance. If using digital, choose one with a prominent display.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Prepare Your Workspace",
+                            "body": "Clear your desk of everything except what you need for the current task. Remove your phone, close unnecessary browser tabs, and gather required materials. Your environment should support singular focus.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Select One Specific Task",
+                            "body": "The Pomodoro demands single-tasking. Choose exactly what you'll work on before starting the timer. Write it down to create concrete commitment. Vague goals like 'work on project' lead to scattered attention.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Set Your Intention",
+                            "body": "Before starting the timer, define what success looks like for this Pomodoro. Will you write 300 words? Review 10 emails? Code one function? Clear intentions prevent aimless activity.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Start the Timer Ceremonially",
+                            "body": "Don't casually click start. Make it a deliberate action that signals transition into focused mode. Take a breath, commit to the task, then start the timer. This ritual primes your brain for concentration.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Work Until It Rings",
+                            "body": "No matter what happens, don't stop until the timer rings. If you finish early, use remaining time to review, improve, or plan next steps. The full 25 minutes trains your attention span.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Handle Interruptions Firmly",
+                            "body": "When interruptions arise, acknowledge them without engaging. Write urgent items on paper for later. Tell people you'll respond in X minutes. Protecting the Pomodoro trains others to respect your focused time.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p8",
+                            "pageType": "question",
+                            "headline": "What should you do if you finish your task early?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Start a completely different task immediately",
+                                    "Take an early break to reward efficiency",
+                                    "Check your phone for important messages",
+                                    "Review and improve your work until timer rings"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p9",
+                            "pageType": "question",
+                            "headline": "Why is task selection crucial before starting?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It prevents scattered attention and aimless activity",
+                                    "It helps you work faster than normal",
+                                    "It makes the timer more accurate",
+                                    "It reduces the need for breaks"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Take Your Break Seriously",
+                            "body": "When the timer rings, stop immediately - even mid-sentence. Stand up, move around, or look out a window. Don't check email or social media. True breaks restore attention; screen time doesn't.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Track Your Completion",
+                            "body": "Mark each completed Pomodoro with a simple tally mark or checkmark. This creates tangible progress and builds momentum. Seeing your daily count grow becomes powerfully motivating.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Start With Lower Expectations",
+                            "body": "Your first Pomodoros won't feel natural. Your mind will wander, you'll want to quit early, and breaks will feel forced. This is normal. Focus on completing the process, not perfecting your focus immediately.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p13",
+                            "pageType": "question",
+                            "headline": "What makes an effective Pomodoro break?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Checking social media for motivation",
+                                    "Planning the next work session in detail",
+                                    "Physical movement away from work materials",
+                                    "Reading work-related articles for inspiration"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p14",
+                            "pageType": "question",
+                            "headline": "How should you handle interruptions during a Pomodoro?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stop the timer and deal with them immediately",
+                                    "Acknowledge them and write urgent items for later",
+                                    "Ignore them completely until the session ends",
+                                    "Restart the timer after handling each interruption"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Your Foundation Is Set",
+                            "body": "You now understand the basic mechanics of running a Pomodoro session. The next step is mastering the break system that makes this technique sustainably powerful. Proper breaks aren't optional - they're essential.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-4",
+                    "title": "Mastering the Break System",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Two Types of Breaks",
+                            "body": "The Pomodoro uses short 5-minute breaks between sessions and longer 15-30 minute breaks every 4 Pomodoros. Each serves a different purpose for maintaining peak mental performance throughout your day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The 5-Minute Reset",
+                            "body": "Short breaks prevent attention fatigue from accumulating. Stand up, stretch, look away from screens, or step outside. Avoid anything that requires mental effort or creates new stimulation.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p3",
+                            "pageType": "question",
+                            "headline": "When should you take a longer break?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After every successful Pomodoro session",
+                                    "After completing 4 Pomodoro sessions",
+                                    "When you feel tired during work",
+                                    "At specific times like noon daily"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p4",
+                            "pageType": "content",
+                            "headline": "What Not to Do",
+                            "body": "Avoid screens, social media, news, or complex conversations during short breaks. These activities drain rather than restore attention. Your break should be mentally passive, not actively stimulating.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Longer Break Activities",
+                            "body": "15-30 minute breaks allow for meals, exercise, socializing, or short walks. These activities restore broader energy reserves beyond just attention. Use this time to address physical needs and decompress completely.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p6",
+                            "pageType": "content",
+                            "headline": "The Break Timer",
+                            "body": "Time your breaks just like work sessions. Without structure, 5-minute breaks become 20-minute distractions. Set another timer to maintain the rhythm and prevent break drift.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Physical Movement Priority",
+                            "body": "Moving your body during breaks counteracts the physical stress of focused work. Even simple stretches or walking to another room helps blood flow and reduces muscle tension.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Environmental Change",
+                            "body": "Change your physical environment during breaks. Look out windows for distant vision, go to different rooms, or step outside. Environmental variety helps reset your mental state.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Hydration and Nutrition",
+                            "body": "Use breaks for water, healthy snacks, or bathroom needs. Physical maintenance supports mental performance. Dehydration and hunger compromise focus more than most people realize.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Resisting Break Temptations",
+                            "body": "You'll want to skip breaks when you're in flow or extend them when you're struggling. Both impulses undermine the system. Trust the structure over your momentary feelings.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Break Quality Over Length",
+                            "body": "A focused 5-minute break restores attention better than a distracted 15-minute break. Be intentional about break activities just like work activities. Quality rest requires the same discipline as quality work.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Building Break Habits",
+                            "body": "Initially, breaks feel forced and unnatural. Your brain wants to keep working when engaged or avoid returning when bored. Consistent practice builds the habit of trusting the rhythm.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p13",
+                            "pageType": "question",
+                            "headline": "What's the main purpose of longer breaks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To catch up on emails and messages",
+                                    "To plan the next set of work sessions",
+                                    "To restore broader energy reserves beyond attention",
+                                    "To socialize and network with colleagues"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Breaks Enable Consistency",
+                            "body": "The break system isn't just rest - it's what makes the Pomodoro sustainable long-term. Without proper breaks, you'll burn out within hours. With them, you can maintain peak performance all day.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-4-p15",
+                            "pageType": "content",
+                            "headline": "Next: Handling Disruptions",
+                            "body": "You understand the work-break rhythm, but real life includes interruptions and distractions. Next, you'll learn specific strategies for protecting your Pomodoros from both internal and external disruptions.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-5",
+                    "title": "Conquering Interruptions",
+                    "order": 5,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-5-p1",
+                            "pageType": "content",
+                            "headline": "The Interruption Reality",
+                            "body": "Interruptions will happen - that's not the problem. The problem is how you handle them. Most people let interruptions completely derail their focus, losing 15-25 minutes of productivity per interruption.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Internal vs External Interruptions",
+                            "body": "External interruptions come from others - phone calls, colleagues, notifications. Internal interruptions come from your own mind - random thoughts, urges to check something, or sudden ideas. Each requires different handling strategies.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p3",
+                            "pageType": "content",
+                            "headline": "The Capture System",
+                            "body": "Keep a piece of paper beside your workspace labeled 'Interruptions.' When thoughts or tasks pop up, quickly write them down without engaging. This gets them out of your head while preserving focus on your current task.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p4",
+                            "pageType": "question",
+                            "headline": "What should you do when a random task pops into your mind?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stop your Pomodoro and handle it immediately",
+                                    "Write it down quickly and continue working",
+                                    "Try to remember it for after the session",
+                                    "Restart your Pomodoro timer from the beginning"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p5",
+                            "pageType": "content",
+                            "headline": "The Two-Minute Rule",
+                            "body": "If an interruption truly can't wait and takes less than 2 minutes to resolve, handle it quickly. For everything else, use your capture system and deal with it during breaks or after completing the Pomodoro.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Training Others",
+                            "body": "Colleagues and family need to learn your Pomodoro signals. Use visual cues like closing your door, wearing headphones, or placing a sign. Consistently redirect non-urgent requests to specific times when you're available.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Phone and Notification Strategy",
+                            "body": "Turn off all non-critical notifications during Pomodoros. Put your phone in airplane mode or another room. The constant possibility of interruption fragments attention even when notifications don't actually come.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p8",
+                            "pageType": "content",
+                            "headline": "The Restart Decision",
+                            "body": "If an interruption lasts more than 2-3 minutes, restart the Pomodoro rather than continuing with fragmented time. A broken 25-minute session teaches poor focus habits. Maintain the integrity of complete sessions.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Emergency vs Urgent Distinction",
+                            "body": "True emergencies are rare - medical issues, fires, or critical system failures. Everything else is just urgent, and urgent can wait 25 minutes. Most 'urgent' requests lose urgency when delayed briefly.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p10",
+                            "pageType": "question",
+                            "headline": "How should you handle colleagues during a Pomodoro?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always help them immediately to maintain relationships",
+                                    "Ignore them completely until your session ends",
+                                    "Tell them when you'll be available for non-urgent items",
+                                    "Pause your timer while helping but continue after"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Building Interruption Resistance",
+                            "body": "Your ability to resist interruptions improves with practice. Start by protecting easier Pomodoros with fewer potential disruptions. Gradually work up to maintaining focus in more challenging environments.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p12",
+                            "pageType": "question",
+                            "headline": "When should you restart a Pomodoro session?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Whenever any interruption occurs",
+                                    "Only if you lose complete focus",
+                                    "If interruptions last more than 2-3 minutes",
+                                    "Never - always continue from where you left off"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p13",
+                            "pageType": "content",
+                            "headline": "The Recovery Skill",
+                            "body": "Sometimes you'll handle interruptions poorly and lose focus. The key skill is rapid recovery - acknowledge what happened, capture any relevant information, and immediately return to your task without self-judgment.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Interruptions Become Manageable",
+                            "body": "Consistent Pomodoro practice transforms your relationship with interruptions. Instead of derailing your entire day, they become minor speed bumps that you handle smoothly and forget quickly.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-6",
+                    "title": "Managing Internal Distractions",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Enemy Within",
+                            "body": "Internal distractions are more challenging than external ones because they feel like your own thoughts and urges. Your brain constantly generates random ideas, worries, and impulses that compete with your chosen task.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Common Internal Distraction Types",
+                            "body": "Mental wandering to other tasks, sudden 'brilliant' ideas, social media urges, email anxiety, planning future activities, or rehashing past conversations. Recognizing these patterns is the first step to managing them.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p3",
+                            "pageType": "content",
+                            "headline": "The Monkey Mind",
+                            "body": "Buddhism describes 'monkey mind' - thoughts that swing from branch to branch without settling. Your brain evolved to scan for threats and opportunities constantly. This survival mechanism now works against sustained focus.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p4",
+                            "pageType": "content",
+                            "headline": "The Note and Return Technique",
+                            "body": "When distracting thoughts arise, quickly write them on paper and immediately return attention to your task. Don't analyze or engage with the thought. This external storage frees your mental RAM.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Urge Surfing",
+                            "body": "Urges to check phones, grab snacks, or switch tasks feel compelling but pass quickly if not acted upon. Notice the urge, acknowledge it without judgment, and wait. Most urges dissipate within 60 seconds.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p6",
+                            "pageType": "content",
+                            "headline": "The Zeigarnik Advantage",
+                            "body": "Incomplete tasks create mental tension that keeps them active in your awareness. Use this productively - before starting a Pomodoro, briefly plan next steps. This tension keeps your mind returning to the work naturally.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p7",
+                            "pageType": "question",
+                            "headline": "What's the best response to distracting thoughts during work?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Try to force them out of your mind completely",
+                                    "Write them down quickly and return to work",
+                                    "Take a short break to address them properly",
+                                    "Analyze why they're appearing right now"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Fighting FOMO",
+                            "body": "Fear of missing out drives many internal distractions. You worry about emails, social media updates, or news while working. Remember: nothing important enough to interrupt your Pomodoro will be forgotten in 25 minutes.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p9",
+                            "pageType": "content",
+                            "headline": "The Perfectionism Trap",
+                            "body": "Internal perfectionist voices say your work isn't good enough, making you want to research more or start over. During Pomodoros, progress beats perfection. You can always improve during the next session.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p10",
+                            "pageType": "question",
+                            "headline": "How long do most distracting urges last if not acted upon?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "5-10 minutes of persistent intensity",
+                                    "About 30 seconds before fading away",
+                                    "Around 60 seconds before dissipating",
+                                    "They continue until you address them"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p11",
+                            "pageType": "question",
+                            "headline": "What should you do with 'brilliant' ideas during a Pomodoro?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Capture them quickly on paper and continue working",
+                                    "Stop to fully develop them while inspired",
+                                    "Try to remember them for later review",
+                                    "Evaluate their importance before deciding"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p12",
+                            "pageType": "question",
+                            "headline": "Why does incomplete task planning help focus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all possible distractions completely",
+                                    "It makes the work feel more important",
+                                    "It reduces cognitive load during execution",
+                                    "It uses Zeigarnik effect to maintain task tension"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Building Mental Discipline",
+                            "body": "Managing internal distractions is like training a muscle. Each time you notice a distraction and return to work, you strengthen your attention control. This gets easier with consistent practice.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-6-p14",
+                            "pageType": "content",
+                            "headline": "From Scattered to Focused",
+                            "body": "Most people live with constant internal chatter disrupting their work. The Pomodoro Technique trains you to work with a calm, focused mind. This transformation affects all areas of your life, not just work.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-7",
+                    "title": "Handling External Interruptions",
+                    "order": 7,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Setting Boundaries",
+                            "body": "External interruptions come from others who don't understand or respect your focus time. You must actively create and defend boundaries rather than hoping others will naturally respect your concentration.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Visual Signals Work",
+                            "body": "Use clear visual indicators when you're in a Pomodoro - closed doors, headphones, desk signs, or specific seating positions. Train colleagues and family to recognize these signals and respect them consistently.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p3",
+                            "pageType": "content",
+                            "headline": "The Interruption Script",
+                            "body": "Prepare standard responses for common interruptions: 'I'm in a focused work session until 2:30. Can I help you then?' This removes the need to explain or justify every time.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Email and Message Management",
+                            "body": "Close email, Slack, and other messaging apps during Pomodoros. Turn off notifications completely. The fear of missing something urgent is almost always unfounded - true emergencies find you through other channels.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Phone Strategies",
+                            "body": "Put your phone in airplane mode, another room, or a desk drawer. Even having it visible creates subconscious distraction. If you must keep it nearby, use Do Not Disturb mode.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Colleague Training",
+                            "body": "Educate frequent interrupters about your Pomodoro system. Explain the benefits and suggest alternative times for non-urgent discussions. Most people respect boundaries once they understand the reasoning.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p7",
+                            "pageType": "content",
+                            "headline": "The Urgent Test",
+                            "body": "When someone interrupts claiming urgency, apply this test: 'Will waiting 15 minutes cause significant harm?' Usually the answer is no. True urgency is rare - most things can wait for your Pomodoro to complete.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p8",
+                            "pageType": "question",
+                            "headline": "What's the most effective way to handle colleague interruptions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always help immediately to maintain relationships",
+                                    "Ignore them until your session is complete",
+                                    "Tell them you're busy without explanation",
+                                    "Use a prepared script to redirect non-urgent requests"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Creating Protected Time",
+                            "body": "Block specific hours on your calendar for Pomodoro sessions. Treat these blocks as unmovable meetings with yourself. This creates official protection for your focused work time.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p10",
+                            "pageType": "question",
+                            "headline": "How should you handle phone notifications during Pomodoros?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Check them quickly to avoid missing important calls",
+                                    "Turn off all notifications completely during sessions",
+                                    "Put phone on silent but keep checking periodically",
+                                    "Only disable social media notifications"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Office Layout Optimization",
+                            "body": "Position your desk to minimize visual distractions from hallways or colleague activities. Face away from high-traffic areas. Use plants, screens, or furniture to create a focused microenvironment within open spaces.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Building Respect Over Time",
+                            "body": "Initially, people will test your boundaries and interrupt frequently. Consistent, polite redirection gradually trains your environment. After a few weeks, most people naturally avoid disturbing your focused sessions.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-8",
+                    "title": "Planning Your Pomodoro Day",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Daily Pomodoro Planning",
+                            "body": "Random Pomodoro usage is ineffective. You need intentional daily planning to maximize this technique's power. Plan which tasks deserve your peak focus periods and when to schedule them.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Morning Planning Ritual",
+                            "body": "Start each day by identifying 2-4 high-priority tasks that will get dedicated Pomodoro time. Write them down clearly with specific outcomes defined. This prevents reactive work throughout the day.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p3",
+                            "pageType": "question",
+                            "headline": "How many high-priority tasks should you plan per day?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As many as possible to maximize productivity",
+                                    "2-4 tasks that will get dedicated focus time",
+                                    "One single task to ensure perfect completion",
+                                    "6-8 tasks to fill all available Pomodoros"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Energy-Task Matching",
+                            "body": "Match your most demanding tasks to your peak energy hours. Most people focus best in the morning, but identify your personal pattern. Reserve creative or analytical work for high-energy Pomodoros.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Realistic Session Planning",
+                            "body": "Most people can sustain 6-8 quality Pomodoros per day maximum. Don't pack your schedule with more sessions than you can realistically complete with full focus. Quality trumps quantity always.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Time Block Protection",
+                            "body": "Schedule Pomodoro sessions on your calendar like important meetings. Block 90-120 minute chunks to accommodate 3-4 sessions with breaks. Protect these blocks from meetings and interruptions.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p7",
+                            "pageType": "question",
+                            "headline": "What's the maximum sustainable Pomodoros per day?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "12-15 sessions throughout the workday",
+                                    "6-8 quality sessions with full focus",
+                                    "4-5 sessions to avoid mental fatigue",
+                                    "10-12 sessions with short breaks between"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Buffer Time Planning",
+                            "body": "Don't schedule back-to-back Pomodoros all day. Leave buffer time for unexpected urgent items, longer breaks, or sessions that need to restart. Rigid schedules break under real-world pressure.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p9",
+                            "pageType": "question",
+                            "headline": "Why should you avoid back-to-back Pomodoros all day?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It reduces the effectiveness of each session",
+                                    "It doesn't allow time for checking emails",
+                                    "It prevents socializing with colleagues effectively",
+                                    "It leaves no buffer for unexpected situations"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Weekly Planning Integration",
+                            "body": "Plan your week by identifying which days need the most focused work. Schedule important Pomodoro sessions during periods with fewer meetings and interruptions. Some days are naturally better for deep work.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p11",
+                            "pageType": "question",
+                            "headline": "How should you handle unexpected urgent items during planned Pomodoros?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stop immediately to handle all urgent requests",
+                                    "Use buffer time you've built into your schedule",
+                                    "Ignore them until all sessions are complete",
+                                    "Add extra Pomodoros at the end of the day"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Daily Planning Success",
+                            "body": "Effective Pomodoro planning transforms random productivity efforts into systematic progress. You'll accomplish more important work in less time while feeling less scattered and overwhelmed throughout your day.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-9",
+                    "title": "Smart Task Estimation",
+                    "order": 9,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Pomodoro Task Sizing",
+                            "body": "Most tasks don't fit neatly into 25-minute chunks. You need to break large projects into Pomodoro-sized pieces or combine small tasks into single sessions. This skill determines your success with the technique.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The One-Task Rule",
+                            "body": "Each Pomodoro should focus on one specific task or project component. Avoid mixing unrelated activities like 'email and planning and calls.' Mixed sessions train poor focus habits.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Breaking Down Large Tasks",
+                            "body": "Projects requiring multiple Pomodoros need clear breakpoints. Instead of 'write report,' plan 'research statistics,' 'draft introduction,' 'write methodology section.' Each piece should feel completable in 25 minutes.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Bundling Small Tasks",
+                            "body": "Tasks taking 5-10 minutes can be bundled together: 'respond to 3 client emails' or 'update project status and schedule next meeting.' Ensure all bundled tasks relate to the same project or context.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p5",
+                            "pageType": "question",
+                            "headline": "How should you handle tasks requiring multiple Pomodoros?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Work on them continuously without breaks",
+                                    "Switch to a different technique for large projects",
+                                    "Extend Pomodoro sessions to 45 minutes",
+                                    "Break them into 25-minute completable components"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p6",
+                            "pageType": "content",
+                            "headline": "The Planning Pomodoro",
+                            "body": "Use dedicated Pomodoros for planning complex projects. Spend 25 minutes breaking a large task into smaller components, researching requirements, or organizing your approach. Planning time is productive time.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p7",
+                            "pageType": "question",
+                            "headline": "What makes an effective Pomodoro-sized task?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It can be completely finished in 25 minutes",
+                                    "It advances one specific project or objective",
+                                    "It requires maximum mental effort throughout",
+                                    "It involves multiple different types of activities"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Estimation Gets Better",
+                            "body": "Initially, you'll misjudge how much fits in 25 minutes. Some tasks will take longer than expected, others shorter. Track your estimates versus actual completion to improve your planning accuracy.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Progress Over Perfection",
+                            "body": "Don't aim to complete every task perfectly within one Pomodoro. Focus on making meaningful progress. You can always continue in the next session with better context and understanding.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Natural Breakpoints",
+                            "body": "Look for natural stopping points when breaking down tasks - completing research, finishing a section, or reaching a decision point. These breakpoints make it easier to resume work in subsequent Pomodoros.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p11",
+                            "pageType": "question",
+                            "headline": "Why should you track estimation accuracy over time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To prove your productivity to managers",
+                                    "To improve your future task planning",
+                                    "To identify your weakest skill areas",
+                                    "To compare yourself with other people"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Task Estimation Mastery",
+                            "body": "Skilled Pomodoro practitioners can quickly assess any project and break it into appropriate work sessions. This planning skill becomes valuable for all productivity methods, not just Pomodoro work.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-10",
+                    "title": "Defeating Procrastination Forever",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Why We Procrastinate",
+                            "body": "Procrastination isn't laziness - it's your brain avoiding tasks that trigger negative emotions like anxiety, boredom, or fear of failure. The Pomodoro technique addresses these emotional barriers systematically.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p2",
+                            "pageType": "content",
+                            "headline": "The Commitment Paradox",
+                            "body": "Large tasks feel overwhelming, so we avoid starting them. But committing to just 25 minutes feels manageable. This paradox breaks procrastination - you're not committing to finishing, just starting.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Starting Is Everything",
+                            "body": "The hardest part of any task is beginning. Once you start a Pomodoro, momentum builds naturally. Your brain shifts from avoidance mode to problem-solving mode within the first few minutes.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Perfect vs Good Enough",
+                            "body": "Perfectionism drives procrastination - if you can't do something perfectly, why start? The Pomodoro enforces 'good enough' progress. You can always improve in the next session.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Fear of Failure Protection",
+                            "body": "Large projects risk significant failure, which feels threatening. A 25-minute session risks almost nothing. If you fail, you've only lost 25 minutes, not weeks of work.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p6",
+                            "pageType": "question",
+                            "headline": "What's the main psychological barrier the Pomodoro addresses?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lack of time management skills",
+                                    "Fear of committing to large tasks",
+                                    "Inability to focus for long periods",
+                                    "Poor understanding of task priorities"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p7",
+                            "pageType": "content",
+                            "headline": "The Dopamine Reset",
+                            "body": "Modern distractions provide constant dopamine hits - social media, news, games. These make real work feel unrewarding by comparison. Pomodoro sessions retrain your brain to find satisfaction in focused work.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Breaking Analysis Paralysis",
+                            "body": "Some people procrastinate by over-planning and researching instead of doing. The 25-minute limit forces action over analysis. You learn more by starting imperfectly than by planning perfectly.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Identity Shift",
+                            "body": "Completing Pomodoros changes your self-perception from someone who procrastinates to someone who takes action. This identity shift becomes self-reinforcing - you act consistently with your new self-image.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p10",
+                            "pageType": "question",
+                            "headline": "How does the Pomodoro technique address perfectionism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It enforces 'good enough' progress over perfection",
+                                    "It provides extra time for detailed work",
+                                    "It eliminates the possibility of making mistakes",
+                                    "It focuses only on creative tasks"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p11",
+                            "pageType": "question",
+                            "headline": "What identity shift occurs with consistent Pomodoro practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "From perfectionist to accepting mediocrity",
+                                    "From procrastinator to action-taker",
+                                    "From social person to isolated worker",
+                                    "From creative person to systematic executor"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p12",
+                            "pageType": "question",
+                            "headline": "How do modern distractions affect work motivation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They make focused work feel more rewarding",
+                                    "They provide necessary breaks from intense work",
+                                    "They make real work feel unrewarding by comparison",
+                                    "They have no significant impact on productivity"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-10-p13",
+                            "pageType": "content",
+                            "headline": "From Procrastination to Action",
+                            "body": "The Pomodoro technique transforms procrastination from a character flaw into a solved problem. You develop unshakeable confidence in your ability to tackle any task by breaking it into manageable 25-minute chunks.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-11",
+                    "title": "Advanced Pomodoro Variations",
+                    "order": 11,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Basic 25/5",
+                            "body": "Once you master the standard Pomodoro, you can adapt the timing for different situations. The core principle - focused work followed by breaks - remains constant while durations can flex.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Micro-Pomodoro",
+                            "body": "For overwhelming or anxiety-provoking tasks, start with 15-minute sessions. This ultra-low commitment makes starting easier. Once you build momentum, gradually extend to standard 25-minute sessions.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Extended Deep Work",
+                            "body": "Some complex tasks benefit from 45-60 minute focused sessions with 10-15 minute breaks. Use this for creative work, complex problem-solving, or when you're in deep flow states.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p4",
+                            "pageType": "question",
+                            "headline": "When should you use micro-Pomodoros?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "When you want to finish work quickly",
+                                    "For tasks that create anxiety or overwhelm",
+                                    "When you have limited time available",
+                                    "For routine administrative work only"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p5",
+                            "pageType": "question",
+                            "headline": "What makes extended sessions appropriate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "When you want to avoid taking breaks",
+                                    "For complex creative or problem-solving work",
+                                    "When working with tight deadlines only",
+                                    "For all types of work to maximize efficiency"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p6",
+                            "pageType": "content",
+                            "headline": "The Ultradian Rhythm Method",
+                            "body": "Work in 90-120 minute blocks with 20-30 minute breaks, aligning with your natural energy cycles. This works well for deep research, writing, or complex analysis requiring sustained concentration.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Task-Specific Timing",
+                            "body": "Match session length to task type: 25 minutes for most work, 15 minutes for anxiety-provoking tasks, 45 minutes for creative flow, 90 minutes for complex analysis. Let task demands guide timing choices.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p8",
+                            "pageType": "question",
+                            "headline": "How should you choose session length?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always use 25 minutes for consistency",
+                                    "Random variation to prevent boredom",
+                                    "Based on your current energy level",
+                                    "Match duration to task type and complexity"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p9",
+                            "pageType": "content",
+                            "headline": "The Pomodoro Stack",
+                            "body": "Chain multiple Pomodoros together for large projects with a longer break every 2-3 sessions. This maintains the focus benefits while accommodating bigger work chunks. Track each session separately.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Energy-Based Adaptation",
+                            "body": "Adjust timing based on your energy levels throughout the day. Use standard sessions when alert, micro-sessions when fatigued, and extended sessions during peak energy periods.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p11",
+                            "pageType": "content",
+                            "headline": "The Learning Curve",
+                            "body": "Start with standard 25/5 timing until it feels natural, then experiment with variations. Advanced timing requires understanding how different durations affect your focus and energy patterns.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Maintaining Core Principles",
+                            "body": "Regardless of timing variations, always maintain focused single-tasking during work periods and true rest during breaks. These principles are more important than specific minute counts.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Personal System Development",
+                            "body": "Advanced practitioners develop personal systems with different timing for different work types. You'll intuitively know which variation serves each situation best. This flexibility multiplies the technique's power.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Experimentation Guidelines",
+                            "body": "When trying new variations, test them for at least a week before judging effectiveness. Single-session experiments don't reveal timing patterns. Be systematic about what works for your unique needs.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-12",
+                    "title": "90-Minute Deep Work Sessions",
+                    "order": 12,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Natural Energy Cycles",
+                            "body": "Your body operates on 90-120 minute ultradian rhythms throughout the day. These cycles alternate between high alertness and lower energy. Aligning deep work with these peaks maximizes productivity.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p2",
+                            "pageType": "content",
+                            "headline": "When to Use 90-Minute Sessions",
+                            "body": "Reserve extended sessions for your most challenging work - complex problem-solving, creative projects, or learning new skills. Use them during your peak energy periods, typically morning hours for most people.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p3",
+                            "pageType": "content",
+                            "headline": "The Setup Process",
+                            "body": "Eliminate all distractions more thoroughly than standard Pomodoros. Turn off phones, close all unnecessary applications, and inform others you'll be unavailable. Extended sessions require stronger boundaries.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Task Selection Criteria",
+                            "body": "Choose work that benefits from sustained attention - writing long documents, complex analysis, design work, or programming. Avoid administrative tasks or anything requiring frequent context switching.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Energy Management",
+                            "body": "Monitor your energy levels throughout extended sessions. If focus drops significantly before 90 minutes, take a 5-minute movement break and continue. The goal is sustained quality, not rigid timing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p6",
+                            "pageType": "content",
+                            "headline": "The Flow State Connection",
+                            "body": "Extended sessions better accommodate flow states - periods of effortless concentration where time disappears. Standard Pomodoros can interrupt flow, while 90-minute blocks protect and nurture these valuable states.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Recovery Requirements",
+                            "body": "After 90-minute sessions, take 20-30 minute breaks minimum. Extended focused work depletes mental resources more than standard sessions. Inadequate recovery reduces the quality of subsequent work periods.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Frequency Limitations",
+                            "body": "Most people can sustain 1-2 extended sessions per day maximum. More than this leads to mental fatigue and diminishing returns. Use them strategically for your highest-priority work.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Progress Tracking",
+                            "body": "Track extended sessions differently from standard Pomodoros. Note energy levels, focus quality, and output achieved. This data helps you identify optimal timing and conditions for deep work.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p10",
+                            "pageType": "question",
+                            "headline": "How many 90-minute sessions can most people sustain daily?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "3-4 sessions throughout the day",
+                                    "1-2 sessions maximum per day",
+                                    "5-6 sessions with proper breaks",
+                                    "As many as needed to complete work"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p11",
+                            "pageType": "question",
+                            "headline": "What type of work benefits most from 90-minute sessions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Quick administrative tasks and emails",
+                                    "Complex creative work and problem-solving",
+                                    "Social interactions and team meetings",
+                                    "Routine maintenance and organizing"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Integration with Standard Pomodoros",
+                            "body": "Use 90-minute sessions alongside standard Pomodoros, not as a complete replacement. Extended sessions for deep work, standard sessions for most other tasks. This hybrid approach maximizes both techniques' strengths.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Building Extended Focus Ability",
+                            "body": "Extended focus is a skill that improves with practice. Start with 45-60 minute sessions and gradually extend to 90 minutes as your concentration stamina builds. Force long sessions too early and you'll train poor focus habits.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-12-p14",
+                            "pageType": "content",
+                            "headline": "The Power of Deep Work",
+                            "body": "Mastering 90-minute deep work sessions gives you a significant competitive advantage. While others work in scattered fragments, you produce high-quality output that requires sustained thought and creativity.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-13",
+                    "title": "Team Pomodoro Implementation",
+                    "order": 13,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Scaling Individual Success",
+                            "body": "The Pomodoro technique works excellently for teams when implemented thoughtfully. It requires coordination and shared understanding of focus periods, but creates powerful collective productivity gains.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Synchronized Team Sessions",
+                            "body": "Run simultaneous Pomodoro sessions where everyone works on their individual tasks during the same 25-minute period. This creates a focused team atmosphere and minimizes mutual interruptions.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Shared Break Times",
+                            "body": "Taking breaks together builds team cohesion while maintaining the technique's structure. Use team breaks for quick updates, informal discussions, or social connection without compromising individual focus periods.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Visual Team Indicators",
+                            "body": "Use shared visual signals to show when the team is in focus mode - desk flags, shared digital status, or simple hand signals. This helps everyone respect collective focus time and avoid interruptions.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p5",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of synchronized team Pomodoros?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It ensures everyone works on the same project",
+                                    "It eliminates the need for individual planning",
+                                    "It creates focused atmosphere and reduces interruptions",
+                                    "It makes break times more efficient overall"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Handling Team Interruptions",
+                            "body": "Establish team protocols for urgent issues during Pomodoro sessions. Create escalation criteria for what truly can't wait 25 minutes. Most team 'urgencies' are actually just habits of immediate response.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Meeting-Free Zones",
+                            "body": "Block team calendar time for collective Pomodoro sessions. Treat these as unmovable meetings with the team's focused work. Protect these periods from regular meetings and interruptions.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Individual vs Collective Tasks",
+                            "body": "Use team Pomodoros for individual work that benefits from quiet focus. Save collaborative activities like brainstorming or planning for non-Pomodoro time when discussion and interaction are needed.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p9",
+                            "pageType": "question",
+                            "headline": "When should teams avoid using Pomodoro sessions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During collaborative activities like brainstorming",
+                                    "When working on urgent project deadlines",
+                                    "In the afternoon when energy is lower",
+                                    "When new team members are present"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Building Team Habits",
+                            "body": "Start with short trial periods - perhaps one synchronized session per day. Gradually increase as the team develops comfort and sees benefits. Forcing too much change too quickly creates resistance.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Remote Team Coordination",
+                            "body": "Remote teams can use shared timers, status updates, or virtual 'focus rooms' to coordinate Pomodoro sessions. Digital tools help maintain the collective energy even when physically separated.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Measuring Team Success",
+                            "body": "Track collective metrics like total team Pomodoros completed, reduced interruption frequency, or improved project completion rates. Quantifying benefits helps maintain team commitment to the practice.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Leadership Support",
+                            "body": "Team Pomodoro success requires leadership support and modeling. Leaders must respect focus time, avoid unnecessary interruptions, and demonstrate the technique's value through their own consistent practice.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Cultural Transformation",
+                            "body": "Successful team implementation transforms workplace culture from reactive and scattered to intentional and focused. This cultural shift benefits all work practices, not just Pomodoro sessions.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Collective Productivity Power",
+                            "body": "Teams that master collective focus create exponential productivity gains. The combination of individual focus and reduced mutual interruption produces results that exceed the sum of individual improvements.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-14",
+                    "title": "Digital Tools and Apps",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Tool Selection Philosophy",
+                            "body": "The best Pomodoro tool is the simplest one that works for your situation. Complex apps can become distractions themselves. Focus on core functionality: timing sessions, tracking completion, and providing clear notifications.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Physical vs Digital Timers",
+                            "body": "Physical timers create stronger psychological commitment through their visible countdown and audible ticking. Digital timers offer convenience and additional features. Choose based on your work environment and preferences.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p3",
+                            "pageType": "question",
+                            "headline": "What's the most important feature in a Pomodoro app?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Advanced analytics and reporting capabilities",
+                                    "Social sharing and competition features",
+                                    "Integration with multiple productivity platforms",
+                                    "Simple timing and clear notifications"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Essential Features Only",
+                            "body": "Your Pomodoro tool needs: customizable work/break durations, clear start/stop controls, completion tracking, and reliable notifications. Everything else is optional. Avoid feature-heavy apps that complicate the simple process.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Distraction-Free Design",
+                            "body": "Choose tools with clean, minimal interfaces that don't tempt you to fiddle with settings during work sessions. The app should disappear into the background, not compete for your attention.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Cross-Platform Consistency",
+                            "body": "If you work across multiple devices, choose tools that sync your progress and settings. Consistency in your Pomodoro experience reduces friction and maintains habits regardless of which device you're using.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Integration Considerations",
+                            "body": "Some apps integrate with task managers, calendars, or time tracking tools. This can be useful if you already use these systems, but don't let integration complexity override the technique's simplicity.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Notification Management",
+                            "body": "Your Pomodoro tool should be the only app sending notifications during work sessions. Configure all other apps to remain silent. The timer's alerts should be the only interruption you allow.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p9",
+                            "pageType": "question",
+                            "headline": "How should you handle other app notifications during Pomodoros?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Check them quickly between tasks to stay current",
+                                    "Turn off all notifications except the Pomodoro timer",
+                                    "Set them to vibrate only instead of sound alerts",
+                                    "Allow only work-related notifications to come through"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Data and Analytics",
+                            "body": "Track basic metrics: daily Pomodoro count, completion percentage, and peak productivity hours. Avoid over-analyzing data - the goal is awareness, not optimization paralysis. Simple trends are more useful than detailed analytics.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Offline Capability",
+                            "body": "Choose tools that work without internet connectivity. Your focus sessions shouldn't depend on wifi or cellular service. Offline capability ensures consistent practice regardless of your environment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Customization Balance",
+                            "body": "Some customization improves the experience - adjusting timer sounds, colors, or break reminders. But avoid endless tweaking. Spend more time using the technique than configuring tools to support it.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Tool Independence",
+                            "body": "Don't become dependent on specific apps or features. The Pomodoro technique is tool-agnostic - you should be able to practice it with any timer. Tools support the method, not define it.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Start Simple, Stay Simple",
+                            "body": "Begin with the most basic timer you can find. As you develop consistent habits, you can explore additional features. But remember: the technique's power comes from focused work, not sophisticated tools.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Tools Serve the Technique",
+                            "body": "The best Pomodoro practitioners often use the simplest tools. They understand that productivity comes from disciplined practice, not feature-rich applications. Keep your tools simple and your focus sharp.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-15",
+                    "title": "Long-Term Sustainability",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Initial Enthusiasm",
+                            "body": "Most productivity techniques fail after the initial excitement wears off. The Pomodoro's sustainability comes from its alignment with natural attention cycles and immediate feedback. But you still need strategies for long-term success.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Habit Formation Timeline",
+                            "body": "Expect 2-4 weeks for basic Pomodoro habits to feel natural. Full integration into your work style takes 2-3 months. During this period, focus on consistency over perfection. Missing days is normal, giving up is optional.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Preventing Technique Fatigue",
+                            "body": "Vary your approach to prevent boredom - different locations, task types, or timing variations. The core principles remain constant while surface elements change. Variety maintains engagement without sacrificing structure.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p4",
+                            "pageType": "question",
+                            "headline": "How long does full Pomodoro integration typically take?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "1-2 weeks of consistent practice",
+                                    "2-3 months of regular use",
+                                    "6-12 months of daily application",
+                                    "It varies completely by individual"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Adapting to Life Changes",
+                            "body": "Your Pomodoro practice will need adjustment as your work, environment, or responsibilities change. Build flexibility into your approach. The technique should serve your life, not constrain it.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Maintaining Motivation",
+                            "body": "Track your progress beyond just counting Pomodoros. Notice improved focus quality, reduced procrastination, or better work-life boundaries. These qualitative improvements maintain motivation when quantitative gains plateau.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Dealing with Resistance",
+                            "body": "You'll periodically resist using the technique, especially during stressful periods. This is normal. Lower your standards temporarily - even one Pomodoro per day maintains the habit. Perfection isn't required, consistency is.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Social Environment Challenges",
+                            "body": "Colleagues and family might not understand or respect your Pomodoro practice. Educate key people about the benefits and be patient with their learning curve. Consistent boundaries eventually create respect.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p9",
+                            "pageType": "question",
+                            "headline": "What should you do during periods of technique resistance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Force yourself to maintain perfect adherence",
+                                    "Take a complete break from the technique",
+                                    "Lower standards while maintaining basic consistency",
+                                    "Switch to a completely different productivity method"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Continuous Improvement",
+                            "body": "Regularly review and refine your Pomodoro practice. What's working well? What could be improved? Small adjustments compound over time into significant performance gains. Stay curious about optimization.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Teaching Others",
+                            "body": "Sharing the technique with colleagues, friends, or family reinforces your own practice. Teaching forces you to articulate principles clearly and recommits you to consistent application.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Seasonal Adjustments",
+                            "body": "Your optimal Pomodoro timing might vary with seasons, work cycles, or life phases. Stay flexible and adjust the technique to support your current needs rather than rigidly following fixed rules.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Building Your Legacy",
+                            "body": "Long-term Pomodoro practice creates lasting changes in your work quality, stress levels, and life satisfaction. You're not just managing time better - you're developing deeper focus abilities that benefit every area of life.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-16",
+                    "title": "Troubleshooting Common Issues",
+                    "order": 16,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-16-p1",
+                            "pageType": "content",
+                            "headline": "The Reality of Implementation",
+                            "body": "Every Pomodoro practitioner faces challenges and setbacks. Problems are normal and solvable, not signs that the technique doesn't work for you. Most issues have straightforward solutions once you identify the root cause.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p2",
+                            "pageType": "content",
+                            "headline": "I Can't Focus for 25 Minutes",
+                            "body": "Start with shorter sessions - 15 or even 10 minutes. Build your concentration muscle gradually. Poor focus usually indicates digital distraction habits, not inability to concentrate. Remove all possible distractions first.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Breaks Feel Forced and Unnatural",
+                            "body": "This resistance is normal initially. Your brain wants to keep working when engaged or avoid returning when bored. Trust the structure over your feelings. Breaks become natural after 2-3 weeks of consistent practice.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p4",
+                            "pageType": "content",
+                            "headline": "I Keep Getting Interrupted",
+                            "body": "Interruptions are management problems, not technique failures. Strengthen your boundaries, educate frequent interrupters, and create physical barriers to casual disruption. Most interruptions can wait 25 minutes.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p5",
+                            "pageType": "question",
+                            "headline": "What should you do if 25-minute focus feels impossible?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Accept that the technique isn't for you",
+                                    "Start with shorter 10-15 minute sessions",
+                                    "Force yourself to sit still for full sessions",
+                                    "Only use it for tasks you find interesting"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Tasks Don't Fit 25 Minutes",
+                            "body": "This is a planning issue, not a technique flaw. Break large tasks into smaller components or bundle quick tasks together. With practice, you'll naturally think in Pomodoro-sized chunks.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p7",
+                            "pageType": "question",
+                            "headline": "How should you handle tasks that don't fit 25 minutes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Extend sessions to accommodate task length",
+                                    "Break large tasks down or bundle small ones",
+                                    "Only use Pomodoros for medium-sized tasks",
+                                    "Switch between multiple tasks during sessions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p8",
+                            "pageType": "content",
+                            "headline": "I Lose Track of Time",
+                            "body": "Use visible timers, not just phone alerts. Physical countdown timers or desktop apps with prominent displays help maintain time awareness. The visual countdown creates helpful pressure throughout the session.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p9",
+                            "pageType": "content",
+                            "headline": "My Mind Wanders Constantly",
+                            "body": "Mental wandering is normal, not failure. The skill is noticing when it happens and gently returning attention to your task. Each return strengthens your focus muscle. Use the note-and-return technique for persistent thoughts.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p10",
+                            "pageType": "question",
+                            "headline": "What's the best response to constant mind wandering?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fight the wandering thoughts forcefully",
+                                    "Notice wandering and gently return to task",
+                                    "Take more frequent breaks to prevent it",
+                                    "Only work on more engaging tasks"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p11",
+                            "pageType": "content",
+                            "headline": "I Feel Guilty During Breaks",
+                            "body": "This guilt reflects conditioning that equates busyness with productivity. Breaks are part of the work system, not separate from it. They enable sustained high performance, making them productive, not indulgent.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-16-p12",
+                            "pageType": "content",
+                            "headline": "The Technique Feels Too Rigid",
+                            "body": "Start with loose adherence to build comfort, then gradually increase structure. The rigidity enables freedom - you can fully focus knowing the system handles timing and breaks. Structure creates liberation, not limitation.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "pomodoro_power-1-17",
+                    "title": "Mastering the Pomodoro Mindset",
+                    "order": 17,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "pomodoro_power-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Time Management",
+                            "body": "The Pomodoro Technique is ultimately about mindset transformation, not just time management. You're developing a new relationship with work, attention, and productivity that extends far beyond 25-minute sessions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Embracing Process Over Outcomes",
+                            "body": "Focus on completing sessions consistently rather than achieving specific results within each session. The process creates the outcomes. Trust that consistent focused effort produces better results than outcome obsession.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p3",
+                            "pageType": "question",
+                            "headline": "What's the most important mindset shift for Pomodoro success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focusing on speed and efficiency above all",
+                                    "Viewing it as just another productivity hack",
+                                    "Expecting immediate dramatic improvements in output",
+                                    "Embracing process consistency over outcome obsession"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Patience with Progress",
+                            "body": "Pomodoro benefits accumulate gradually, not dramatically. Expect subtle improvements in focus, reduced procrastination, and better work-life boundaries rather than immediate productivity miracles. Small gains compound into significant changes.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Redefining Productivity",
+                            "body": "True productivity isn't about doing more things faster. It's about doing important things with full attention and minimal stress. The Pomodoro teaches sustainable high performance, not unsustainable overdrive.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p6",
+                            "pageType": "question",
+                            "headline": "How should you measure Pomodoro success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By the total number of tasks completed daily",
+                                    "By improved focus quality and reduced stress",
+                                    "By working longer hours with less fatigue",
+                                    "By eliminating all procrastination permanently"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p7",
+                            "pageType": "question",
+                            "headline": "What does the Pomodoro technique ultimately develop?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Faster task completion speeds",
+                                    "A new relationship with work and attention",
+                                    "The ability to work without any breaks",
+                                    "Improved multitasking and context switching"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Present Moment Awareness",
+                            "body": "Each Pomodoro trains present-moment focus. Instead of mentally juggling multiple concerns, you give complete attention to one task. This mindfulness extends beyond work into all areas of life.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Accepting Imperfection",
+                            "body": "Some Pomodoros will be unfocused, interrupted, or unproductive. This is normal and acceptable. The goal is consistent practice, not perfect performance. Progress comes from persistence, not perfection.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p10",
+                            "pageType": "question",
+                            "headline": "How should you view imperfect Pomodoro sessions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As signs that the technique isn't working",
+                                    "As normal parts of consistent practice",
+                                    "As reasons to try a different method",
+                                    "As indicators you need more discipline"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Building Deep Work Capacity",
+                            "body": "Regular Pomodoro practice builds your capacity for sustained concentration. This rare skill becomes increasingly valuable in our distraction-rich world. You're developing cognitive abilities that most people have lost.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Stress Reduction Through Structure",
+                            "body": "The Pomodoro's structure reduces work anxiety by making tasks feel manageable and progress visible. You know exactly what you're doing and for how long. This clarity reduces the stress of unclear expectations.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p13",
+                            "pageType": "content",
+                            "headline": "Your Transformed Work Life",
+                            "body": "Mastering the Pomodoro mindset creates lasting change in how you approach all work. You become someone who starts tasks easily, maintains focus naturally, and works with sustainable intensity rather than scattered urgency.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "pomodoro_power-1-17-p14",
+                            "pageType": "content",
+                            "headline": "The Journey Continues",
+                            "body": "You now have complete understanding of the Pomodoro Technique and mindset. Your journey from scattered productivity to focused mastery begins with your next 25-minute session. The timer is waiting - will you start it?",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 3.8,
+    "tag": "Quick Course"
+}

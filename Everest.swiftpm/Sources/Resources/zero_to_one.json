@@ -1,0 +1,2218 @@
+{
+    "id": "zero_to_one",
+    "title": "Zero to One",
+    "description": "Build the future, do not copy it. Learn the contrarian thinking behind creating category-defining companies.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/zero_to_one.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract transition from zero numeral transforming into ascending arrow reaching one, sage green innovative growth with charcoal conventional baseline, breakthrough aesthetic",
+    "altitude": 6500,
+    "durationMinutes": 95,
+    "whatsInside": [
+        "Understand why competition is for losers",
+        "Learn to find secrets that others overlook",
+        "Build monopolies through unique value creation",
+        "Think about the future differently than everyone else",
+        "Start small and dominate your market",
+        "Create lasting value instead of extracting it"
+    ],
+    "expertReview": {
+        "quote": "The most important business book of the decade. Thiel challenges every assumption about competition and innovation.",
+        "name": "Peter Thiel",
+        "title": "Co-founder, PayPal & Palantir"
+    },
+    "chapters": [
+        {
+            "id": "zero_to_one-ch1",
+            "title": "Zero to One: Building the Future",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "zero_to_one-1-1",
+                    "title": "Zero to One vs One to N",
+                    "order": 1,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Creating vs Copying",
+                            "body": "Every startup begins with a simple question: are you building something new or copying what already exists? Zero to One means creating entirely new value, while One to N means scaling existing solutions.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Innovation Divide",
+                            "body": "Technology companies go from Zero to One by solving problems in fundamentally new ways. Globalization companies go from One to N by taking proven concepts to new markets.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p3",
+                            "pageType": "question",
+                            "headline": "What defines a Zero to One company?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Copying successful business models",
+                                    "Expanding to international markets",
+                                    "Scaling existing proven solutions",
+                                    "Creating entirely new categories"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Progress Types",
+                            "body": "Horizontal progress means copying things that work - going from 1 to n. Vertical progress means doing new things - going from 0 to 1. Both create value, but only one creates monopolies.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p5",
+                            "pageType": "question",
+                            "headline": "Which represents vertical progress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Opening new restaurant locations",
+                                    "Inventing the first smartphone",
+                                    "Translating apps to new languages",
+                                    "Expanding into adjacent markets"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Why Zero Matters",
+                            "body": "Starting from zero means you have no competition - yet. You're creating a new market category where you can define the rules and capture most of the value.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p7",
+                            "pageType": "content",
+                            "headline": "The Monopoly Goal",
+                            "body": "Zero to One companies aim to become monopolies in their category. Perfect competition destroys profits, but monopolies capture lasting value by being the only solution to important problems.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Future vs Present",
+                            "body": "Zero to One thinking focuses on creating the future rather than optimizing the present. You solve tomorrow's problems today, not today's problems slightly better.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Risk and Reward",
+                            "body": "Zero to One ventures are higher risk but offer higher rewards. One to N businesses compete on execution in known markets with predictable but limited returns.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Market Creation",
+                            "body": "Instead of competing for existing customers, Zero to One companies create entirely new customer bases. They don't take market share - they create markets.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What's the main advantage of Zero to One?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower startup costs",
+                                    "Faster time to market",
+                                    "Proven business models",
+                                    "No direct competition initially"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Technology Driver",
+                            "body": "Technology enables Zero to One breakthroughs by making previously impossible solutions feasible. Each technological advance opens new Zero to One opportunities.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Timing Matters",
+                            "body": "Zero to One companies must time their entrance carefully. Too early and the market isn't ready; too late and someone else captures the category.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Unique Value",
+                            "body": "Your Zero to One advantage must be at least 10x better than alternatives. Marginal improvements get lost in competitive noise - only breakthrough differences matter.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-1-p15",
+                            "pageType": "content",
+                            "headline": "The Builder's Mindset",
+                            "body": "Zero to One requires contrarian thinking and the courage to build what doesn't exist yet. You must see opportunities others miss and act on incomplete information.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-2",
+                    "title": "Competition Is for Losers",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The Competition Trap",
+                            "body": "Competition eliminates profits and forces businesses to fight over shrinking margins. Winners avoid competition by creating unique value that can't be easily replicated.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Perfect Competition Myth",
+                            "body": "Economics textbooks praise perfect competition, but it's actually terrible for business. In perfect competition, no company makes meaningful profits long-term.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p3",
+                            "pageType": "question",
+                            "headline": "Why is perfect competition bad for business?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It reduces customer choice",
+                                    "It increases operational costs",
+                                    "It eliminates profit margins",
+                                    "It slows down innovation"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Monopoly Advantages",
+                            "body": "Monopolies can focus on innovation instead of competition. They capture value they create and can invest in long-term research and development projects.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Creative Monopolies",
+                            "body": "Good monopolies create new value for society. They solve important problems in ways nobody else can, earning their market position through innovation.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What enables creative monopolies?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Government regulations",
+                                    "Aggressive pricing strategies",
+                                    "Marketing and brand power",
+                                    "Unique technological solutions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Competitive Destruction",
+                            "body": "Companies locked in competitive battles often destroy value for everyone. Price wars, feature copying, and margin compression leave entire industries worse off.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p8",
+                            "pageType": "content",
+                            "headline": "The Innovation Incentive",
+                            "body": "Without profits, companies can't invest in breakthrough research. Monopoly profits fund the next generation of innovations that benefit society.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p9",
+                            "pageType": "question",
+                            "headline": "How do monopolies benefit society?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower prices for consumers",
+                                    "More product variety",
+                                    "Faster service delivery",
+                                    "Funding future innovation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Escaping Competition",
+                            "body": "To escape competition, create something so unique that you're the only provider. Build products 10x better than alternatives or solve problems nobody else addresses.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p11",
+                            "pageType": "question",
+                            "headline": "What's the best way to escape competition?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Create unique value propositions",
+                                    "Reduce prices below competitors",
+                                    "Expand to more geographic markets",
+                                    "Hire better sales teams"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Monopoly Durability",
+                            "body": "The best monopolies are durable - they maintain their advantages over time. Network effects, economies of scale, and brand power create lasting competitive moats.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Think Different",
+                            "body": "While others fight over existing markets, think about creating new ones. The most valuable companies solve problems others don't even recognize yet.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Market Creation",
+                            "body": "Instead of taking market share, create markets. Build categories where you're the only player, then expand from that position of strength.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-2-p15",
+                            "pageType": "content",
+                            "headline": "The Winner's Path",
+                            "body": "Winners create their own rules rather than playing by others'. They define new game categories where their unique strengths provide sustainable advantages.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-3",
+                    "title": "Finding Secrets",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Power of Secrets",
+                            "body": "Every great company is built on a secret - an important truth that very few people agree with you about. Secrets are the foundation of all valuable businesses.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Two Types of Secrets",
+                            "body": "Secrets of nature are physical laws waiting to be discovered. Secrets about people reveal how humans behave and what they truly want but can't articulate.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Why Secrets Matter",
+                            "body": "If everything important were already known, there would be no room for new businesses. Secrets create opportunities that others miss or dismiss as impossible.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p4",
+                            "pageType": "content",
+                            "headline": "The Secret Shortage",
+                            "body": "Most people believe all important truths are already known. This mindset prevents them from looking for breakthrough opportunities hidden in plain sight.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Where to Look",
+                            "body": "Look for secrets in areas others avoid because they seem too hard, too risky, or too unconventional. The best secrets hide where others fear to search.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p6",
+                            "pageType": "question",
+                            "headline": "What makes a good business secret?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Everyone knows it but ignores it",
+                                    "Few people believe it's true",
+                                    "It's been proven by research",
+                                    "Competitors are already using it"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Testing Your Secret",
+                            "body": "A good secret should feel both obviously true to you and obviously false to most others. If everyone agrees, it's not a secret anymore.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Secrets vs Mysteries",
+                            "body": "Secrets can be figured out with effort and insight. Mysteries may be permanently unknowable. Focus on secrets - they can become the basis of valuable companies.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p9",
+                            "pageType": "content",
+                            "headline": "The Courage Factor",
+                            "body": "Acting on secrets requires courage because most people will think you're wrong. You need conviction to pursue ideas others dismiss or haven't considered.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p10",
+                            "pageType": "question",
+                            "headline": "Why do most people avoid looking for secrets?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Secrets are too technical to understand",
+                                    "They believe all truths are known",
+                                    "Research takes too much time",
+                                    "They prefer working with proven facts"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Building on Secrets",
+                            "body": "Once you discover a secret, build your company around it. The secret becomes your competitive advantage and the foundation for creating unique value.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Keep Searching",
+                            "body": "Great entrepreneurs never stop looking for new secrets. Each discovery opens doors to additional opportunities and deeper understanding of your market.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-4",
+                    "title": "Foundations Matter",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Foundation Fundamentals",
+                            "body": "The decisions you make at the beginning of your company determine everything that follows. Bad foundations can't be fixed later - they only get worse over time.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Partnership Test",
+                            "body": "Choosing co-founders is like getting married. You'll spend more time with them than with family, and disagreements can destroy the company before it succeeds.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Equity Conversations",
+                            "body": "Discussing equity splits feels awkward but must happen early. Undefined ownership creates conflict later when the stakes are much higher and emotions run deep.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Legal Structure",
+                            "body": "Your corporate structure affects everything from taxes to investment to employee incentives. Simple is usually better than complex, but get professional advice.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Board Composition",
+                            "body": "A board of three works best - more members create coordination problems. Choose people who understand your vision and can provide genuine value.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Early Team Hiring",
+                            "body": "Your first ten employees shape company culture permanently. Hire slowly and carefully - every early hire has exponential impact on your future team.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p7",
+                            "pageType": "question",
+                            "headline": "Why are foundation decisions so critical?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They're expensive to change later",
+                                    "They can't be fixed once made",
+                                    "They determine future success",
+                                    "They affect investor confidence"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Vesting Schedules",
+                            "body": "Even co-founders should have vesting schedules. If someone leaves early, they shouldn't keep full equity while others do all the work to build value.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p9",
+                            "pageType": "question",
+                            "headline": "What's the ideal board size for startups?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Three members total",
+                                    "Five to seven members",
+                                    "One member per co-founder",
+                                    "As many as possible"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Mission Clarity",
+                            "body": "Define your mission clearly from day one. Everyone in the company should understand what you're building and why it matters to the world.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Investment Decisions",
+                            "body": "Taking money from the wrong investors can destroy your company. Choose partners who understand your vision and can provide value beyond just capital.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Get It Right Early",
+                            "body": "Spend extra time getting your foundation right. These decisions shape everything that follows, and second chances are rare in the startup world.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-5",
+                    "title": "Building Team Culture",
+                    "order": 5,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Culture Defines Success",
+                            "body": "Company culture isn't about ping-pong tables or free snacks. It's the shared beliefs and behaviors that determine how your team makes decisions when you're not watching.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Beyond Perks",
+                            "body": "Real culture comes from mission alignment, not office amenities. People join great companies because they believe in the vision and want to be part of something important.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What creates strong company culture?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Shared mission and values",
+                                    "Competitive compensation packages",
+                                    "Flexible working arrangements",
+                                    "Regular team building events"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p4",
+                            "pageType": "content",
+                            "headline": "The Hiring Filter",
+                            "body": "Every hire either strengthens or weakens your culture. Look for people who share your values and add something unique to the team dynamic.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Early Team Impact",
+                            "body": "Your first ten employees have outsized influence on company culture. They set the tone for how future employees behave and what standards they maintain.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Mission Connection",
+                            "body": "The best employees feel personally connected to your mission. They see their work as meaningful contribution to something larger than themselves.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p7",
+                            "pageType": "question",
+                            "headline": "Why do early employees matter most?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They work hardest for success",
+                                    "They set cultural standards",
+                                    "They have most equity stake",
+                                    "They know the product best"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Unique Team Building",
+                            "body": "Build teams around complementary skills and shared purpose. Each person should have a unique role where they can make distinctive contributions to the mission.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p9",
+                            "pageType": "question",
+                            "headline": "What makes teams most effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complementary skills and purpose",
+                                    "Similar backgrounds and experience",
+                                    "Competitive internal dynamics",
+                                    "Flexible role definitions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Ownership Mentality",
+                            "body": "Great cultures foster ownership mentality where everyone cares about outcomes like founders. This requires trust, autonomy, and shared upside in success.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Communication Patterns",
+                            "body": "Healthy cultures encourage direct communication about problems and opportunities. People should feel safe sharing bad news and challenging ideas respectfully.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Thinking",
+                            "body": "Strong cultures prioritize long-term success over short-term wins. Team members make decisions that benefit the company's future, even when it's harder today.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Learning Organization",
+                            "body": "The best cultures embrace learning from failures and celebrating intelligent risks. Teams improve rapidly when they can experiment without fear of punishment.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Culture Maintenance",
+                            "body": "Culture requires constant attention as you grow. What works for ten people breaks down at fifty, so evolve your practices while maintaining core values.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-5-p15",
+                            "pageType": "content",
+                            "headline": "The Compound Effect",
+                            "body": "Strong culture compounds over time as great people attract other great people. Weak culture also compounds, driving away top talent and lowering standards.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-6",
+                    "title": "Distribution Matters",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Distribution Reality",
+                            "body": "Building a great product isn't enough - you must figure out how to distribute it effectively. Most startups fail because they solve the product problem but ignore the distribution problem.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The Hidden Challenge",
+                            "body": "Engineers often believe great products sell themselves, but this is rarely true. Distribution requires as much creativity and effort as product development.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Distribution Channels",
+                            "body": "Every company needs at least one distribution channel that works reliably. Most successful companies find multiple channels but master one first before expanding.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p4",
+                            "pageType": "question",
+                            "headline": "Why do most startups fail at distribution?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Distribution costs too much money",
+                                    "Customers don't want new products",
+                                    "They focus only on product building",
+                                    "Competition blocks their access"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Sales vs Marketing",
+                            "body": "Sales works for complex products with high prices and long sales cycles. Marketing works for products with broad appeal and lower price points that can scale virally.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Power Law Distribution",
+                            "body": "Distribution follows a power law - one channel will likely generate most of your results. Find that channel and optimize it relentlessly before trying others.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Viral Mechanics",
+                            "body": "True viral growth happens when each user brings in more than one additional user. This creates exponential growth, but very few products achieve genuine viral distribution.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Customer Acquisition Cost",
+                            "body": "Your customer acquisition cost must be significantly less than customer lifetime value. If acquisition costs equal or exceed value, your business model is broken.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Complex Sales",
+                            "body": "For expensive products, personal selling is essential. CEO involvement in early sales helps refine the product and understand customer needs deeply.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Distribution Innovation",
+                            "body": "The best companies often create new distribution methods. Tesla bypassed dealerships, Amazon created online retail infrastructure, and Uber built platform distribution.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p11",
+                            "pageType": "question",
+                            "headline": "What makes distribution channel successful?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Low customer acquisition costs",
+                                    "Multiple channel options available",
+                                    "Sustainable competitive advantage",
+                                    "Both low costs and advantage"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Distribution Strategy",
+                            "body": "Your distribution strategy should align with your product and customer base. Enterprise software needs different distribution than consumer apps or physical products.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-7",
+                    "title": "The Importance of Sales",
+                    "order": 7,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Sales Drives Everything",
+                            "body": "Every company is fundamentally a sales organization. Whether you're selling to customers, investors, or employees, your ability to persuade determines success.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Engineering Bias",
+                            "body": "Engineers often dismiss sales as manipulation, but great sales is about helping customers solve real problems. Good salespeople create value for everyone involved.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Founder Sales Role",
+                            "body": "Founders must be great salespeople even if they hate selling. You need to sell your vision to co-founders, employees, investors, and first customers.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p4",
+                            "pageType": "question",
+                            "headline": "Why must founders be good at sales?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They sell to multiple stakeholders",
+                                    "They need to close big deals",
+                                    "They can't afford sales teams early",
+                                    "They understand products best"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Complex Sales Cycles",
+                            "body": "B2B sales often involve long cycles with multiple decision makers. Success requires understanding customer organizations, politics, and individual motivations.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Product-Market Fit",
+                            "body": "Sales feedback helps you achieve product-market fit faster. Customers tell you what they really need versus what they say they want in surveys.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Sales vs Marketing",
+                            "body": "Sales involves direct personal interaction with prospects. Marketing creates awareness and interest at scale. Most companies need both, optimized for their customer type.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Learning from No",
+                            "body": "Rejection teaches you more than acceptance. Every 'no' reveals assumptions about your product, pricing, or positioning that need adjustment.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Sales Team Building",
+                            "body": "Hire your first salesperson carefully - they'll define your sales culture. Look for someone who understands your market and can replicate your founder sales process.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Metrics Matter",
+                            "body": "Track the right sales metrics: conversion rates, deal sizes, cycle times, and customer lifetime value. Optimize the process, not just the outcomes.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p11",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of direct sales?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower customer acquisition costs",
+                                    "Faster deal closure times",
+                                    "Better market penetration rates",
+                                    "Direct customer feedback loop"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Scale Through Systems",
+                            "body": "Great sales organizations create repeatable processes that work without the founder's direct involvement. Document what works and train others to execute it consistently.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-8",
+                    "title": "Building for Durability",
+                    "order": 8,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Sustainable Advantage",
+                            "body": "Creating value isn't enough - you must build defenses that prevent others from copying your success. Durable advantages compound over time while weak positions erode.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Four Durability Types",
+                            "body": "Proprietary technology, network effects, economies of scale, and branding create lasting competitive advantages. The best companies combine multiple types.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Technology Moats",
+                            "body": "Proprietary technology must be at least 10x better than alternatives to create a real moat. Marginal improvements get copied quickly and provide no lasting advantage.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Network Effects",
+                            "body": "Network effects make your product more valuable as more people use it. Social networks, communication platforms, and marketplaces benefit from this dynamic.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p5",
+                            "pageType": "question",
+                            "headline": "What creates the strongest competitive moat?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Low prices and cost leadership",
+                                    "Superior customer service quality",
+                                    "Strong brand recognition",
+                                    "10x better proprietary technology"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Scale Economics",
+                            "body": "Some businesses get stronger as they get bigger. Higher volume reduces unit costs, increases bargaining power, and creates barriers for smaller competitors.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Brand Power",
+                            "body": "Strong brands create customer loyalty that transcends rational decision-making. Apple customers pay premium prices for products that aren't always technically superior.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p8",
+                            "pageType": "content",
+                            "headline": "First-Mover Advantage",
+                            "body": "Being first can create lasting advantages if you use the time wisely. Build network effects, lock in customers, and establish brand recognition before competitors arrive.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p9",
+                            "pageType": "question",
+                            "headline": "When do network effects create moats?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Products improve with usage data",
+                                    "More users increase product value",
+                                    "Users create content for others",
+                                    "Switching costs become higher"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p10",
+                            "pageType": "question",
+                            "headline": "What best describes economies of scale?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Bigger companies operate more efficiently",
+                                    "Technology improves with development",
+                                    "Markets expand with better products",
+                                    "Networks become more valuable"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Combining Advantages",
+                            "body": "The most durable companies layer multiple advantages. Google combines proprietary algorithms, network effects from data, economies of scale, and strong brand recognition.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Thinking",
+                            "body": "Build for decades, not quarters. Short-term optimization often undermines long-term durability. Invest in advantages that compound over time rather than quick wins.",
+                            "imageURL": "time",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-9",
+                    "title": "The Role of Luck",
+                    "order": 9,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Luck vs Skill",
+                            "body": "Success requires both luck and skill, but most people overemphasize one while ignoring the other. Great entrepreneurs prepare intensively then position themselves for lucky breaks.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Creating Your Luck",
+                            "body": "You can't control when opportunities appear, but you can control whether you're ready to recognize and act on them when they do arrive.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Timing Sensitivity",
+                            "body": "Many great companies succeeded because they launched at exactly the right moment. Too early and the market isn't ready; too late and competitors dominate.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p4",
+                            "pageType": "question",
+                            "headline": "How can entrepreneurs influence luck?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Work harder than competitors",
+                                    "Position for opportunities",
+                                    "Network with influential people",
+                                    "Launch multiple projects"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Preparation Meets Opportunity",
+                            "body": "Luck happens when preparation meets opportunity. The harder you work and the more you learn, the luckier you tend to become over time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Market Timing",
+                            "body": "Market readiness often determines success more than product quality. Google wasn't the first search engine, but it launched when internet adoption reached critical mass.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Technology Waves",
+                            "body": "Major technology shifts create windows of opportunity for new companies. Mobile, cloud computing, and AI each enabled waves of successful startups.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p8",
+                            "pageType": "question",
+                            "headline": "What role does timing play in startup success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It's the most important factor",
+                                    "It matters but can't be controlled",
+                                    "It's less important than execution",
+                                    "It only affects certain industries"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p9",
+                            "pageType": "question",
+                            "headline": "How should entrepreneurs approach luck?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Prepare thoroughly then act quickly",
+                                    "Rely on skill over lucky breaks",
+                                    "Wait for perfect opportunities",
+                                    "Minimize all risky decisions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What creates lucky opportunities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Random market fluctuations",
+                                    "Government policy changes",
+                                    "Technology and social shifts",
+                                    "Competitor mistakes and failures"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Persistence Pays",
+                            "body": "Most overnight successes took years of preparation. Persistence increases your surface area for luck - the more you try, the more chances you create.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Learning from Failure",
+                            "body": "Failed attempts aren't wasted if you learn from them. Each failure teaches you something that increases your chances of success in future opportunities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-10",
+                    "title": "Your Zero to One Journey",
+                    "order": 10,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Starting Your Journey",
+                            "body": "Every Zero to One journey begins with a single question: what valuable truth do you believe that others don't? Your answer becomes the foundation for everything you build.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p2",
+                            "pageType": "content",
+                            "headline": "The Courage Question",
+                            "body": "Building something new requires courage to be wrong in public. Most people avoid this risk, which creates opportunity for those willing to take it.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p3",
+                            "pageType": "question",
+                            "headline": "What starts every Zero to One journey?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A profitable business model",
+                                    "A unique contrarian insight",
+                                    "Strong technical capabilities",
+                                    "Access to funding sources"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Finding Your Secret",
+                            "body": "Look for problems that seem impossible to others but solvable to you. The best secrets hide in areas others avoid because they appear too difficult or risky.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Building Your Team",
+                            "body": "Find co-founders and early employees who share your vision but bring complementary skills. The right team multiplies your ability to execute your secret insight.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p6",
+                            "pageType": "question",
+                            "headline": "How should you choose co-founders?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Pick friends you trust completely",
+                                    "Find experts in your industry",
+                                    "Choose based on network connections",
+                                    "Select for complementary skills"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Starting Small",
+                            "body": "Begin by dominating a small market before expanding. It's easier to monopolize a niche and grow from there than to compete in large, established markets.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p8",
+                            "pageType": "question",
+                            "headline": "Why start with small markets?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower marketing costs required",
+                                    "Easier to achieve monopoly position",
+                                    "Faster revenue generation possible",
+                                    "Less capital investment needed"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Scaling Strategy",
+                            "body": "Once you dominate your initial market, expand to adjacent markets where your advantages translate. Uber started with black cars, then expanded to all transportation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p10",
+                            "pageType": "question",
+                            "headline": "What's the best expansion strategy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Geographic expansion first",
+                                    "Product feature additions",
+                                    "Adjacent market expansion",
+                                    "Customer base diversification"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Long-term Vision",
+                            "body": "Think in decades, not quarters. Build for the future you want to create, not just the market that exists today. Your vision should inspire others to join your mission.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Execution Excellence",
+                            "body": "Ideas are common, but execution is rare. Focus intensely on building something customers love rather than talking about what you might build someday.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Your Unique Path",
+                            "body": "Every Zero to One journey is different because every valuable secret creates unique opportunities. Learn from others but forge your own distinctive path forward.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-11",
+                    "title": "Monopoly Mindset",
+                    "order": 11,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Rethinking Monopolies",
+                            "body": "The word monopoly has negative connotations, but creative monopolies benefit society by solving problems no one else can solve. They earn their position through innovation.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Good vs Bad Monopolies",
+                            "body": "Bad monopolies maintain power through government protection or anti-competitive practices. Good monopolies earn their position by creating unique value customers can't find elsewhere.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Innovation Incentives",
+                            "body": "Monopoly profits fund future innovation. Companies reinvest their earnings into research and development that benefits everyone, not just shareholders.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Market Definition Games",
+                            "body": "Monopolies describe their markets broadly to appear competitive. Competitive companies describe their markets narrowly to appear dominant. Both are telling strategic stories.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Temporary Monopolies",
+                            "body": "Most monopolies are temporary as new technologies disrupt existing solutions. This cycle of creative destruction benefits consumers through continuous innovation and improvement.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p6",
+                            "pageType": "question",
+                            "headline": "What characterizes good monopolies?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Government regulations protect them",
+                                    "They control essential resources",
+                                    "High switching costs trap customers",
+                                    "They create unique customer value"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p7",
+                            "pageType": "question",
+                            "headline": "Why do monopolies invest in R&D?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Government requirements mandate it",
+                                    "Profits enable long-term thinking",
+                                    "Tax benefits encourage spending",
+                                    "Competition forces innovation"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Building Monopoly Power",
+                            "body": "Start with proprietary technology that's 10x better than alternatives. Add network effects, economies of scale, and brand power to create lasting advantages.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p9",
+                            "pageType": "content",
+                            "headline": "The Network Effect",
+                            "body": "Products become more valuable as more people use them. Social networks, payment systems, and communication platforms all benefit from network effects that create natural monopolies.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p10",
+                            "pageType": "question",
+                            "headline": "What creates the strongest monopoly position?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Patent protection portfolios",
+                                    "Combining multiple advantages",
+                                    "Government regulatory barriers",
+                                    "Exclusive supplier relationships"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Brand Monopolies",
+                            "body": "Strong brands create emotional monopolies that transcend rational comparison. Apple customers pay premium prices for products that aren't always technically superior.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p12",
+                            "pageType": "question",
+                            "headline": "How do monopolies benefit consumers?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower prices through efficiency",
+                                    "Better products through innovation",
+                                    "More choices in the market",
+                                    "Stable pricing over time"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-11-p13",
+                            "pageType": "content",
+                            "headline": "The Monopoly Goal",
+                            "body": "Every startup should aim to become a creative monopoly in their category. This requires solving important problems in ways that are difficult or impossible to replicate.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-12",
+                    "title": "Technology vs Globalization",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Two Types of Progress",
+                            "body": "The world makes progress through technology and globalization. Technology creates new solutions (0 to 1), while globalization spreads existing solutions (1 to n).",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Globalization Limits",
+                            "body": "Globalization alone cannot solve humanity's biggest challenges. Spreading existing technologies worldwide without innovation leads to resource depletion and environmental problems.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Technology Necessity",
+                            "body": "We need breakthrough technologies to support global prosperity without destroying the environment. Solar panels, electric cars, and artificial intelligence represent technological solutions to global problems.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p4",
+                            "pageType": "question",
+                            "headline": "Why isn't globalization alone sufficient?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It spreads existing resource limits",
+                                    "Cultural differences prevent adoption",
+                                    "Transportation costs are too high",
+                                    "Regulatory barriers block expansion"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p5",
+                            "pageType": "content",
+                            "headline": "The China Model",
+                            "body": "China achieved rapid growth through globalization - copying and scaling existing technologies. But this approach has limits, and China now recognizes the need for indigenous innovation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Silicon Valley Innovation",
+                            "body": "Silicon Valley represents technological progress through creating entirely new industries. Each wave of innovation - from semiconductors to software to internet to mobile - created new possibilities.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Complementary Forces",
+                            "body": "Technology and globalization can work together when new innovations spread worldwide. The internet enabled global communication, and smartphones brought computing to billions.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Future Challenges",
+                            "body": "Climate change, aging populations, and resource scarcity require technological solutions that can scale globally. Neither pure innovation nor pure globalization alone is sufficient.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Investment Implications",
+                            "body": "Investors should focus on companies that create breakthrough technologies with global scaling potential. Pure globalization plays are becoming less profitable as markets saturate.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p10",
+                            "pageType": "question",
+                            "headline": "What best combines technology and globalization?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Copying foreign innovations locally",
+                                    "Creating global solutions to universal problems",
+                                    "Adapting existing products for new markets",
+                                    "Building manufacturing in multiple countries"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p11",
+                            "pageType": "content",
+                            "headline": "The Innovation Imperative",
+                            "body": "Without continuous technological innovation, global living standards will stagnate or decline. We need breakthroughs in energy, transportation, medicine, and information technology.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Your Role",
+                            "body": "Every entrepreneur can contribute to technological progress by solving real problems in new ways. Focus on creating breakthrough solutions that can eventually benefit people worldwide.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-13",
+                    "title": "The Last Mover Advantage",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Beyond First Movers",
+                            "body": "Being first to market isn't always advantageous. The last mover advantage goes to companies that make the last great improvement to a category and dominate it for years.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p2",
+                            "pageType": "content",
+                            "headline": "First Mover Problems",
+                            "body": "First movers often educate the market for later competitors. They make expensive mistakes, face technical challenges, and may enter before market readiness.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p3",
+                            "pageType": "question",
+                            "headline": "What defines last mover advantage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Entering markets after validation",
+                                    "Learning from competitors' mistakes",
+                                    "Making the definitive category improvement",
+                                    "Avoiding early development costs"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Learning from Pioneers",
+                            "body": "Study what first movers did right and wrong. IBM pioneered personal computers, but Apple perfected the user experience. Google wasn't first in search but became definitive.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Perfect Timing",
+                            "body": "Last movers time their entry when technology matures, markets develop, and customer needs become clear. They avoid both pioneer penalties and being too late.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p6",
+                            "pageType": "question",
+                            "headline": "When should you enter as last mover?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Technology and market mature together",
+                                    "Competition has established standards",
+                                    "Customer acquisition costs decline",
+                                    "Regulatory frameworks are clear"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Superior Execution",
+                            "body": "Last movers must execute significantly better than pioneers to overcome incumbency advantages. This requires better technology, user experience, or business model innovation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p8",
+                            "pageType": "question",
+                            "headline": "How do last movers overcome incumbents?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower prices than competitors",
+                                    "10x better product experience",
+                                    "Aggressive marketing campaigns",
+                                    "Exclusive distribution partnerships"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Network Effect Timing",
+                            "body": "For network effect businesses, entering too early means you're building networks when user bases are small. Last movers can leverage existing user behaviors and expectations.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Technology Maturity",
+                            "body": "Wait for enabling technologies to mature before building on them. Mobile apps succeeded when smartphones reached mass adoption, not when they first launched.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Market Education",
+                            "body": "First movers spend enormous resources educating markets about new product categories. Last movers benefit from this education without paying the cost.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Durability Focus",
+                            "body": "Plan to be the last significant entrant in your category. Build competitive advantages that prevent future competitors from displacing your position.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Strategic Patience",
+                            "body": "Last mover advantage requires patience to wait for the right moment and preparation to act decisively when it arrives. Timing and execution must align perfectly.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Examples of Success",
+                            "body": "Facebook wasn't first in social networking but became definitive. Tesla wasn't first in electric cars but created the lasting luxury electric brand.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Your Strategy",
+                            "body": "Consider whether you're building for first mover or last mover advantage. Both can work, but they require very different strategies and risk tolerances.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-14",
+                    "title": "Venture Capital Secrets",
+                    "order": 14,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-14-p1",
+                            "pageType": "content",
+                            "headline": "The Power Law",
+                            "body": "Venture capital returns follow a power law where one investment generates more returns than all others combined. This shapes how VCs think about portfolio construction and risk.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Unicorn Hunting",
+                            "body": "VCs don't just want good returns - they need companies that can return their entire fund. This means looking for businesses with billion-dollar potential, not just profitable ones.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Portfolio Theory Failure",
+                            "body": "Traditional portfolio diversification doesn't work in venture capital. Instead of spreading bets evenly, successful VCs concentrate on their highest-conviction opportunities.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p4",
+                            "pageType": "content",
+                            "headline": "The Monopoly Bias",
+                            "body": "VCs prefer to fund monopolies-in-waiting rather than companies entering competitive markets. They look for unique advantages that can become dominant market positions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Team Over Idea",
+                            "body": "Great teams can pivot to better ideas, but great ideas can't fix bad teams. VCs invest in people who can execute through uncertainty and changing market conditions.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Market Size Obsession",
+                            "body": "VCs need large addressable markets to generate fund-returning outcomes. They often prefer big markets with competition over small markets with monopoly potential.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p7",
+                            "pageType": "question",
+                            "headline": "Why do VCs focus on market size?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Easier to attract top talent",
+                                    "Lower customer acquisition costs",
+                                    "Fund-returning outcomes require scale",
+                                    "Better exit opportunities available"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Timing Sensitivity",
+                            "body": "VCs have limited fund lifecycles and must generate returns within 10 years. This creates pressure to fund companies that can achieve massive scale relatively quickly.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p9",
+                            "pageType": "question",
+                            "headline": "What drives VC investment decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Steady cash flow potential",
+                                    "Proven business model validation",
+                                    "Strong competitive positioning",
+                                    "Exponential growth possibility"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Network Effects Value",
+                            "body": "VCs especially value businesses with network effects because they can become winner-take-all markets. These companies often achieve monopoly-like positions naturally.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Exit Strategy Focus",
+                            "body": "VCs need liquid exits through IPOs or acquisitions. They prefer businesses that could go public or interest strategic acquirers willing to pay premium prices.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p12",
+                            "pageType": "question",
+                            "headline": "What creates successful VC exits?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Profitable unit economics",
+                                    "Strong management teams",
+                                    "Market-leading positions",
+                                    "All of the above factors"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Founder Alignment",
+                            "body": "The best VCs partner with founders who think like owners, not employees. They want entrepreneurs building generational companies, not just seeking quick exits.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Beyond Money",
+                            "body": "Smart money comes with strategic value: industry connections, operational expertise, and credibility that opens doors. Choose investors who can accelerate your success.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Your VC Strategy",
+                            "body": "Understanding VC incentives helps you frame your opportunity effectively. Emphasize monopoly potential, large markets, and your team's unique ability to capture value.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-15",
+                    "title": "Timing and Markets",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Market Timing Rules",
+                            "body": "Great companies are often defined more by when they start than what they build. Timing determines whether your technology meets ready markets or arrives too early or late.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Technology Readiness",
+                            "body": "Your core technology must be mature enough to deliver on promises but early enough that competitors haven't built similar solutions. Find the sweet spot of feasibility.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Market Education Costs",
+                            "body": "Entering too early means paying enormous costs to educate markets about new categories. Entering too late means competing against established players with network effects.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p4",
+                            "pageType": "question",
+                            "headline": "What indicates good market timing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Technology mature, market ready",
+                                    "Low competitive intensity present",
+                                    "Customer acquisition costs declining",
+                                    "Regulatory environment favorable"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p5",
+                            "pageType": "question",
+                            "headline": "How can you assess market readiness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Survey potential customers directly",
+                                    "Analyze competitor market entry",
+                                    "Study technology adoption curves",
+                                    "Monitor industry investment flows"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Wave Analysis",
+                            "body": "Study major technology waves to understand timing patterns. Mobile, cloud, and AI each created windows of opportunity that opened and closed for different types of companies.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Customer Behavior Shifts",
+                            "body": "Look for fundamental changes in how customers behave or what they expect. COVID accelerated remote work adoption by years, creating opportunities for collaboration tools.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Infrastructure Prerequisites",
+                            "body": "Some opportunities require infrastructure that doesn't exist yet. Uber needed smartphones and GPS; Netflix needed broadband internet. Identify your dependencies.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Regulatory Windows",
+                            "body": "Changes in regulation can create or destroy market opportunities. New privacy laws affect data companies; autonomous vehicle regulations will impact transportation.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Economic Cycles",
+                            "body": "Economic conditions affect startup success differently by sector. Enterprise software thrives in downturns as companies seek efficiency; consumer luxury suffers in recessions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Your Timing Strategy",
+                            "body": "You can't perfectly predict timing, but you can position yourself to benefit from likely trends. Build flexibility to accelerate when conditions align favorably.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Patience and Urgency",
+                            "body": "Balance patience for the right moment with urgency to act when it arrives. Markets wait for no one, but premature entry wastes resources and misses the opportunity.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "zero_to_one-1-16",
+                    "title": "Building the Future",
+                    "order": 16,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "zero_to_one-1-16-p1",
+                            "pageType": "content",
+                            "headline": "The Future Imperative",
+                            "body": "The future will be defined by the companies we build today. Every Zero to One breakthrough creates possibilities that didn't exist before, expanding human potential.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Technology Optimism",
+                            "body": "We need more people who believe technology can solve important problems. Pessimism about the future becomes a self-fulfilling prophecy that prevents breakthrough innovation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Definite vs Indefinite",
+                            "body": "Definite optimists believe they can build a better future and work systematically toward that vision. Indefinite optimists believe the future will be better but don't know how.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Planning Matters",
+                            "body": "Great companies start with definite plans that evolve through learning and execution. Random iteration without direction wastes time and resources.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Your Unique Contribution",
+                            "body": "Ask yourself what important truth you can act on that others miss. Your unique perspective and capabilities create opportunities to build something genuinely new.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p6",
+                            "pageType": "question",
+                            "headline": "What enables breakthrough innovation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Definite optimistic planning",
+                                    "Large research and development budgets",
+                                    "Access to cutting-edge technology",
+                                    "Strong academic partnerships"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Long-term Thinking",
+                            "body": "Build companies that will matter in 20 years, not just 2 years. Short-term optimization often undermines the breakthrough thinking required for lasting impact.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p8",
+                            "pageType": "question",
+                            "headline": "How should entrepreneurs view the future?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Uncertain but full of opportunity",
+                                    "Determined by external forces",
+                                    "Something they can actively shape",
+                                    "Dependent on technological progress"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p9",
+                            "pageType": "question",
+                            "headline": "What distinguishes great companies?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They solve today's problems better",
+                                    "They create tomorrow's possibilities",
+                                    "They serve more customers efficiently",
+                                    "They generate higher profit margins"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p10",
+                            "pageType": "question",
+                            "headline": "What drives Zero to One innovation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Market competition pressures",
+                                    "Customer demand for improvements",
+                                    "Regulatory requirement compliance",
+                                    "Contrarian insights about reality"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Global Impact",
+                            "body": "The best Zero to One companies solve problems that matter for billions of people. Think beyond local markets to create solutions with global relevance and impact.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p12",
+                            "pageType": "content",
+                            "headline": "The Builder's Responsibility",
+                            "body": "With the power to create comes responsibility to build wisely. Consider the long-term consequences of what you're building and how it affects society.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "zero_to_one-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Start Now",
+                            "body": "The future won't build itself. Every day you wait is a day someone else might discover and act on the secret you're uniquely positioned to pursue. Begin today.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.9,
+    "tag": "Fan Favorite"
+}

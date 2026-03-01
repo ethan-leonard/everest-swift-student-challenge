@@ -1,0 +1,2522 @@
+{
+    "id": "ikigai_your_purpose",
+    "title": "Ikigai: Your Purpose",
+    "description": "Find your reason for being. Discover the Japanese framework for meaning, fulfillment, and a life worth living.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/ikigai_your_purpose.png",
+    "coverImagePrompt": "Premium editorial flat vector art, four overlapping circles forming the ikigai Venn diagram, sage green center of purpose with charcoal quadrant outlines, life purpose aesthetic",
+    "altitude": 3100,
+    "durationMinutes": 108,
+    "whatsInside": [
+        "Understand the Japanese concept of ikigai",
+        "Explore the four elements: love, need, talent, and reward",
+        "Discover your own ikigai through guided reflection",
+        "Build a life aligned with your unique purpose",
+        "Navigate transitions and purpose evolution",
+        "Create daily practices that honor your ikigai"
+    ],
+    "expertReview": {
+        "quote": "Ikigai is the reason to get up in the morning. Finding it transforms how you approach every day of your life.",
+        "name": "Hector Garcia",
+        "title": "Author, Ikigai: The Japanese Secret to a Long and Happy Life"
+    },
+    "chapters": [
+        {
+            "id": "ikigai_your_purpose-ch1",
+            "title": "Discovering Your Ikigai",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "ikigai_your_purpose-1-1",
+                    "title": "Introduction to Ikigai",
+                    "order": 1,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Reason for Being",
+                            "body": "Ikigai is a Japanese concept meaning 'life's purpose' or 'reason for being.' Every person has an ikigai, though discovering it requires deep self-reflection. This ancient philosophy offers a practical framework for finding meaning and fulfillment in daily life.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p2",
+                            "pageType": "content",
+                            "headline": "More Than Career",
+                            "body": "Ikigai extends far beyond professional success or financial gain. It encompasses your entire being - your values, relationships, and contributions to others. True ikigai creates a sense of vitality and purpose that energizes you every morning.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Longevity Connection",
+                            "body": "Research in Okinawa, Japan shows that people with strong ikigai live longer, healthier lives. They experience less stress, better relationships, and greater life satisfaction. Purpose literally adds years to your life and life to your years.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Four Essential Elements",
+                            "body": "Ikigai sits at the intersection of four key areas: what you love, what you're good at, what the world needs, and what you can be paid for. When these align, you experience deep fulfillment and natural motivation.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Starting Small",
+                            "body": "You don't need to quit your job or make dramatic changes to begin living your ikigai. Small daily actions aligned with your purpose create momentum. Even tiny steps in the right direction generate meaning and satisfaction.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p6",
+                            "pageType": "content",
+                            "headline": "A Personal Journey",
+                            "body": "Your ikigai is uniquely yours and will evolve throughout your life. What brings purpose at 25 may shift by 45. Regular reflection and adjustment keep your ikigai relevant and energizing as you grow and change.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p7",
+                            "pageType": "question",
+                            "headline": "What does ikigai mean?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Japanese work philosophy",
+                                    "Career success framework",
+                                    "Life's purpose or reason for being",
+                                    "Financial independence strategy"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Beyond Western Thinking",
+                            "body": "Unlike Western goal-setting that focuses on achievement, ikigai emphasizes being and becoming. It's not about reaching a destination but finding joy in the journey. This perspective reduces anxiety and increases life satisfaction.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Flow State Connection",
+                            "body": "When living your ikigai, you naturally enter flow states more often. Time seems to disappear as you engage in meaningful activities. This psychological state boosts creativity, performance, and well-being simultaneously.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p10",
+                            "pageType": "question",
+                            "headline": "How many elements form ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Two main components",
+                                    "Four key areas",
+                                    "Six different factors",
+                                    "Three core elements"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What makes ikigai unique from goal-setting?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Emphasizes being over achieving",
+                                    "Focuses only on career success",
+                                    "Requires dramatic life changes",
+                                    "Prioritizes financial outcomes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Community and Connection",
+                            "body": "Traditional ikigai includes strong community bonds and service to others. Your purpose often involves contributing to something larger than yourself. This social aspect provides additional meaning and support for your journey.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Practical Philosophy",
+                            "body": "Ikigai is both profound and practical. While it addresses life's big questions, it also provides concrete steps for daily living. You can apply its principles immediately to increase fulfillment and direction.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Your Discovery Begins",
+                            "body": "Finding your ikigai is an ongoing process of self-discovery and growth. Each lesson will guide you deeper into understanding yourself and aligning your life with what truly matters. Your journey toward purpose starts now.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-2",
+                    "title": "The Four Circles Foundation",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The Ikigai Venn Diagram",
+                            "body": "Ikigai is visualized as four overlapping circles creating a sweet spot in the center. Each circle represents a fundamental aspect of human fulfillment. Understanding these four areas is essential for discovering your purpose.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Circle One: Passion",
+                            "body": "The first circle contains what you love - your genuine interests, values, and sources of joy. This isn't just hobbies but deep-seated passions that energize and inspire you. Passion provides the emotional fuel for purpose.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Circle Two: Mission",
+                            "body": "The second circle represents what the world needs - problems you want to solve or contributions you want to make. Mission connects your inner purpose with external impact. It's about serving something greater than yourself.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Circle Three: Vocation",
+                            "body": "The third circle encompasses what you can be paid for - skills and services that have economic value. Vocation ensures sustainability and practical application of your purpose. Financial stability supports long-term fulfillment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Circle Four: Profession",
+                            "body": "The fourth circle includes what you're good at - your natural talents, developed skills, and areas of competence. Profession represents your ability to execute effectively. Competence builds confidence and creates value.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p6",
+                            "pageType": "content",
+                            "headline": "The Overlap Areas",
+                            "body": "Where two circles overlap, you find partial fulfillment but something is missing. Passion plus mission creates excitement but may lack sustainability. Understanding these combinations helps identify what's missing from your current situation.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Passion Plus Profession",
+                            "body": "When what you love meets what you're good at, you experience delight and satisfaction. Many creative pursuits fall here. However, without addressing world needs or financial sustainability, this remains a hobby rather than purpose.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p8",
+                            "pageType": "question",
+                            "headline": "What creates the ikigai sweet spot?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Two circles overlapping perfectly",
+                                    "Three circles meeting together",
+                                    "Four circles intersecting completely",
+                                    "One circle dominating others"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Mission Plus Vocation",
+                            "body": "The overlap of world needs and payment potential creates social entrepreneurship opportunities. You see problems worth solving and ways to generate income from solutions. This combination drives many successful businesses and nonprofits.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Profession Plus Vocation",
+                            "body": "When your skills meet market demand, you find comfortable and complacent work. Many traditional careers exist here. While financially stable, this combination often lacks deeper meaning and personal passion.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p11",
+                            "pageType": "question",
+                            "headline": "What happens when passion meets mission?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates excitement but lacks sustainability",
+                                    "Generates immediate financial success",
+                                    "Produces complete life fulfillment",
+                                    "Eliminates all career uncertainty"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p12",
+                            "pageType": "question",
+                            "headline": "Which combination often lacks deeper meaning?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Passion plus mission",
+                                    "Mission plus vocation",
+                                    "Passion plus profession",
+                                    "Profession plus vocation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Finding Your Center",
+                            "body": "True ikigai exists where all four circles converge - a rare and powerful sweet spot. Most people spend their lives in partial overlaps, which explains feelings of emptiness or dissatisfaction. The goal is moving toward the center where all elements align.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-3",
+                    "title": "Discovering What You Love",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Surface Interests",
+                            "body": "What you love goes deeper than casual interests or temporary enthusiasms. True passions persist over time and energize rather than drain you. They reflect your core values and authentic self.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Childhood Clues",
+                            "body": "Your childhood interests often contain seeds of lifelong passions. Before social conditioning shaped your preferences, what naturally drew your attention? These early fascinations frequently point toward authentic loves that still resonate today.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p3",
+                            "pageType": "question",
+                            "headline": "What distinguishes true passion from temporary interests?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Financial potential and market demand",
+                                    "Persistence over time and energizing effect",
+                                    "Social approval and recognition received",
+                                    "Ease of learning and immediate success"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p4",
+                            "pageType": "content",
+                            "headline": "The Energy Test",
+                            "body": "Notice what activities give you energy versus those that drain you. True passions create a sense of vitality and flow. Time seems to disappear when you're engaged in what you genuinely love.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p5",
+                            "pageType": "question",
+                            "headline": "How do childhood interests relate to adult passions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They rarely connect to adult interests",
+                                    "They often contain seeds of lifelong passions",
+                                    "They should be completely ignored as impractical",
+                                    "They only matter if professionally viable"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Values Alignment",
+                            "body": "Your deepest loves align with your core values. If you value creativity, you'll likely be passionate about activities that allow creative expression. Understanding your values helps identify genuine versus superficial interests.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p7",
+                            "pageType": "question",
+                            "headline": "What role do values play in identifying passions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Values are irrelevant to passion discovery",
+                                    "Deepest loves align with core values",
+                                    "Values should be ignored for practicality",
+                                    "Passion always conflicts with personal values"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Learning Versus Enjoying",
+                            "body": "Pay attention to what you love learning about versus what you merely enjoy consuming. Passive entertainment differs from active engagement. True passions involve curiosity, growth, and deep involvement rather than superficial pleasure.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Social Conditioning",
+                            "body": "Society, family, and culture influence what we think we should love. Strip away external expectations to discover authentic preferences. What would you pursue if nobody else's opinion mattered? This reveals genuine passion.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Multiple Passions",
+                            "body": "You don't need just one passion. Many people have several areas they genuinely love. These multiple interests can complement each other and create unique combinations that become your distinctive contribution to the world.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Evolution of Interests",
+                            "body": "Your passions will evolve throughout life. What you loved at 20 may shift by 40. This natural evolution doesn't diminish the authenticity of past loves. Embrace change as part of your ongoing self-discovery journey.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p12",
+                            "pageType": "content",
+                            "headline": "The Curiosity Factor",
+                            "body": "Strong passions involve insatiable curiosity. You want to know more, understand deeper, and explore further. This natural curiosity drives continuous learning and growth in areas you truly love.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Practical Exploration",
+                            "body": "Discovering what you love requires active exploration, not just reflection. Try new experiences, volunteer for causes that interest you, and pay attention to your emotional responses. Experimentation reveals authentic preferences.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p14",
+                            "pageType": "question",
+                            "headline": "How do multiple passions relate to ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Multiple passions create confusion and delay",
+                                    "You must choose only one passion for ikigai",
+                                    "Several interests can create unique combinations",
+                                    "Multiple passions indicate lack of focus"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Trust Your Response",
+                            "body": "Your body and emotions provide honest feedback about what you truly love. Notice physical sensations, energy levels, and emotional responses to different activities. Your authentic self communicates through these signals beyond rational analysis.",
+                            "imageURL": "heart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-4",
+                    "title": "Identifying Your Passions",
+                    "order": 4,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Passion Misconception",
+                            "body": "Many people believe passion strikes like lightning - sudden and obvious. In reality, passion often develops gradually through exploration and experience. You don't find passion; you cultivate it through engagement and attention.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Small Sparks Matter",
+                            "body": "Pay attention to minor interests and curiosities. What topics do you find yourself reading about in spare time? What conversations energize you? These small sparks can grow into significant passions with nurturing.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p3",
+                            "pageType": "content",
+                            "headline": "The 10,000 Hour Question",
+                            "body": "Malcolm Gladwell's research suggests expertise requires 10,000 hours of practice. Ask yourself: what would you willingly spend 10,000 hours doing? This thought experiment reveals activities with deep, sustainable appeal rather than fleeting interest.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Jealousy as a Guide",
+                            "body": "Notice what makes you envious of others. Professional jealousy often points toward unexpressed desires and hidden passions. When you see someone living a life you admire, explore what specifically triggers that feeling.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p5",
+                            "pageType": "content",
+                            "headline": "The Problem-Solution Connection",
+                            "body": "Strong passions often emerge from personal problems you've solved or challenges you've overcome. Your struggles can become your strengths and point toward meaningful work helping others face similar difficulties.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Natural Conversations",
+                            "body": "What topics do you naturally bring up in conversations? What subjects do people ask you about? Your spontaneous interests and the areas where others seek your input reveal authentic passion areas.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p7",
+                            "pageType": "question",
+                            "headline": "How does passion typically develop?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through sudden lightning-bolt moments",
+                                    "Via social media and online content",
+                                    "Gradually through exploration and experience",
+                                    "By copying others' successful paths"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p8",
+                            "pageType": "content",
+                            "headline": "The Flow State Indicator",
+                            "body": "Activities that create flow states often indicate passion areas. When does time disappear for you? In what situations do you feel completely absorbed and naturally focused? Flow experiences point toward intrinsic motivation and genuine interest.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Learning Without Pressure",
+                            "body": "True passions involve voluntary learning - studying or practicing without external pressure or requirements. What do you research on weekends? What skills do you develop in free time? Self-directed learning reveals authentic interests.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p10",
+                            "pageType": "content",
+                            "headline": "The Energy Audit",
+                            "body": "Track your energy levels throughout different activities over a week. Notice patterns of when you feel energized versus drained. Passion-related activities typically increase rather than deplete your vitality and enthusiasm.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p11",
+                            "pageType": "question",
+                            "headline": "What often reveals hidden passions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Financial success in various fields",
+                                    "Professional jealousy toward others",
+                                    "Social media recommendations",
+                                    "Family expectations and traditions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Values Integration",
+                            "body": "Your strongest passions integrate multiple personal values simultaneously. If you value both creativity and helping others, you might be passionate about therapeutic arts. Look for activities that satisfy several core values at once.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p13",
+                            "pageType": "content",
+                            "headline": "The Legacy Question",
+                            "body": "Consider what you want to be remembered for or what impact you want to make. Your desired legacy often aligns with your deepest passions. This long-term perspective helps distinguish between superficial interests and meaningful pursuits.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Experimentation Strategy",
+                            "body": "Create low-risk ways to explore potential passions. Volunteer, take classes, attend meetups, or shadow professionals in interesting fields. Direct experience provides clearer insight than theoretical consideration about what truly energizes you.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-5",
+                    "title": "Recognizing Your Strengths",
+                    "order": 5,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Natural Versus Developed",
+                            "body": "Strengths include both natural talents and developed skills. Natural talents feel effortless and emerge early in life. Developed skills result from deliberate practice and learning. Both contribute to your unique capability profile.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Effortless Excellence",
+                            "body": "Natural strengths often feel so easy that you undervalue them. What seems obvious and simple to you may be difficult for others. These effortless abilities represent significant advantages that deserve recognition and development.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Feedback Patterns",
+                            "body": "Others often recognize your strengths before you do. What compliments do you receive consistently? What do people ask for your help with? External feedback reveals strengths that may be invisible to you.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Performance Under Pressure",
+                            "body": "True strengths shine especially during challenging situations. When pressure increases, what abilities do you rely on most? What skills help you succeed when stakes are high? Pressure reveals your most dependable capabilities.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Learning Acceleration",
+                            "body": "Areas where you learn faster than average often indicate natural strengths. Which subjects or skills did you pick up quickly? Rapid learning suggests underlying talent that can be further developed into exceptional capability.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Energy and Engagement",
+                            "body": "Using your strengths typically feels energizing rather than draining. Activities that align with your natural abilities often put you in flow states. Pay attention to when you feel most alive and capable.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Childhood Indicators",
+                            "body": "Early interests and aptitudes often predict adult strengths. What did you excel at as a child? What activities drew praise from teachers and parents? Childhood patterns frequently persist and mature into professional capabilities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p8",
+                            "pageType": "question",
+                            "headline": "How do natural strengths often feel to the person?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Extremely difficult and challenging",
+                                    "So effortless they're undervalued",
+                                    "Moderately satisfying with effort",
+                                    "Stressful but ultimately rewarding"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p9",
+                            "pageType": "content",
+                            "headline": "The Weakness Trap",
+                            "body": "Society often emphasizes fixing weaknesses over developing strengths. While addressing critical gaps matters, your greatest success comes from maximizing your strengths. Focus primary energy on what you do best rather than what you struggle with.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p10",
+                            "pageType": "question",
+                            "headline": "What reveals strengths that may be invisible to you?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Personal journal reflection",
+                                    "External feedback from others",
+                                    "Online personality tests",
+                                    "Random experimentation alone"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p11",
+                            "pageType": "question",
+                            "headline": "Where should you focus primary energy for success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximizing your greatest strengths",
+                                    "Fixing all personal weaknesses",
+                                    "Balancing all skills equally",
+                                    "Following others' career paths"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Complementary Combinations",
+                            "body": "Your unique strength combination creates distinctive value. Most people share individual strengths with others, but your specific combination is uniquely yours. This intersection of multiple strengths becomes your competitive advantage.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Strength Development",
+                            "body": "Even natural talents require development to reach full potential. Raw talent provides a foundation, but deliberate practice transforms abilities into expertise. Your strongest areas deserve your greatest investment of time and energy.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-6",
+                    "title": "Skills vs Natural Talents",
+                    "order": 6,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Foundation Difference",
+                            "body": "Natural talents provide the foundation while skills represent the building. Talents are innate predispositions that make learning easier. Skills are specific abilities developed through practice and instruction. Both matter for ikigai.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Talent Recognition Signs",
+                            "body": "Natural talents often appear as effortless learning, consistent performance, and intrinsic motivation. You gravitate toward activities that use your talents. Others notice your natural abilities before you do.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Skill Development Process",
+                            "body": "Skills require intentional development through practice, feedback, and refinement. Unlike talents, skills can be systematically improved through deliberate effort. Anyone can develop skills with sufficient time and proper guidance.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p4",
+                            "pageType": "content",
+                            "headline": "The Multiplication Effect",
+                            "body": "When skills build on natural talents, you achieve exponential growth. Your talents accelerate skill acquisition while developed skills magnify your natural abilities. This combination creates exceptional capability and competitive advantage.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Talent Without Skills",
+                            "body": "Raw talent alone rarely leads to success. Natural abilities need skill development to reach their potential. Many talented individuals underachieve because they rely solely on innate gifts without developing supporting skills.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Skills Without Talent",
+                            "body": "Highly developed skills can compensate for limited natural talent in many areas. Dedication, practice, and good instruction can help you achieve competence even where you lack innate ability. Skills provide access to opportunities.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Identifying Your Talents",
+                            "body": "Talents emerge early and persist across different contexts. Look for patterns of easy learning, natural performance, and sustained interest. What abilities do you demonstrate consistently across various situations?",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Strategic Skill Building",
+                            "body": "Choose skill development strategically based on your natural talents and ikigai goals. Focus on skills that amplify your strengths rather than compensating for weaknesses. This approach maximizes return on learning investment.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p9",
+                            "pageType": "question",
+                            "headline": "What happens when skills build on natural talents?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Progress becomes slower and harder",
+                                    "Development reaches a natural limit",
+                                    "You achieve exponential growth",
+                                    "Other people become jealous"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p10",
+                            "pageType": "question",
+                            "headline": "How should you choose skill development priorities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on compensating for weaknesses",
+                                    "Copy what successful people learn",
+                                    "Choose randomly based on opportunities",
+                                    "Amplify strengths and support ikigai goals"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p11",
+                            "pageType": "content",
+                            "headline": "The Competence Threshold",
+                            "body": "Certain skills require minimum competence for credibility and effectiveness. Even if not naturally talented in these areas, developing basic competence opens opportunities. Identify essential skills for your ikigai path.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Talent Transfer",
+                            "body": "Natural talents often transfer across different domains and applications. Leadership talent might appear in sports, business, or community organizing. Recognize how your talents can apply to various contexts and opportunities.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Learning Velocity",
+                            "body": "Pay attention to learning speed in different areas. Where do you acquire new knowledge and abilities quickly? Fast learning often indicates underlying talent that can be developed into significant strength and competitive advantage.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p14",
+                            "pageType": "content",
+                            "headline": "The Integration Goal",
+                            "body": "Your ikigai emerges where developed skills meet natural talents in service of what the world needs. This integration creates authentic capability that feels both powerful and effortless. Seek opportunities that honor both elements.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-6-p15",
+                            "pageType": "content",
+                            "headline": "Continuous Evolution",
+                            "body": "Both talents and skills evolve throughout life. New talents may emerge while existing ones mature. Skills can be added, refined, or redirected. This evolution keeps your capabilities dynamic and adaptable to changing opportunities.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-7",
+                    "title": "Understanding World Needs",
+                    "order": 7,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Personal Desires",
+                            "body": "World needs extend beyond personal preferences to address genuine problems and opportunities. True ikigai involves contributing to something larger than yourself. This external focus creates meaning and sustainable motivation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Multiple Levels of Need",
+                            "body": "Needs exist at individual, community, societal, and global levels. You might address a friend's specific challenge or contribute to solving climate change. Different scales of need offer various opportunities for meaningful contribution.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Problem Recognition",
+                            "body": "Start by identifying problems that genuinely concern you. What injustices, inefficiencies, or gaps do you notice in the world? Your natural problem recognition often points toward meaningful ways you can contribute solutions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Personal Pain Points",
+                            "body": "Problems you've personally experienced often become areas where you can help others. Your struggles provide insight, empathy, and motivation to create solutions. Transform personal challenges into opportunities to serve others facing similar difficulties.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Emerging Opportunities",
+                            "body": "Technology, social changes, and global trends create new needs and opportunities. Stay aware of emerging challenges that align with your capabilities. Early recognition of developing needs can lead to innovative contributions.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Local Versus Global",
+                            "body": "Both local and global needs offer meaningful contribution opportunities. You might help neighbors or address worldwide challenges. Start where you can make the most immediate impact while remaining open to broader applications.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p7",
+                            "pageType": "question",
+                            "headline": "What creates sustainable motivation in ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Contributing to something larger than yourself",
+                                    "Focusing only on personal desires",
+                                    "Avoiding all difficult challenges",
+                                    "Following trends and popular causes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p8",
+                            "pageType": "question",
+                            "headline": "How do personal struggles relate to world needs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They should be ignored as selfish",
+                                    "They can become opportunities to help others",
+                                    "They prevent helping anyone else",
+                                    "They're irrelevant to purpose finding"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p9",
+                            "pageType": "question",
+                            "headline": "At what levels do meaningful needs exist?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only at the global level",
+                                    "Just within local communities",
+                                    "Solely at the individual level",
+                                    "Individual, community, societal, and global"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What's the best approach to local versus global needs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus exclusively on global challenges",
+                                    "Only address immediate local problems",
+                                    "Start where you can make immediate impact",
+                                    "Avoid both local and global involvement"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Needs Assessment Skills",
+                            "body": "Develop ability to accurately assess what people and communities actually need versus what they want or say they need. This requires listening, observation, and understanding root causes rather than surface symptoms.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Market Validation",
+                            "body": "Even altruistic contributions benefit from validation that people actually want your solution. Test assumptions about needs through conversations, prototypes, or pilot programs. Real needs generate authentic demand and appreciation.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Sustainable Solutions",
+                            "body": "Consider the long-term sustainability of your contribution approach. Can you maintain this type of service over time? Does your solution create dependency or empower independence? Sustainable approaches benefit everyone involved.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Collaborative Opportunities",
+                            "body": "Many world needs require collaborative solutions. Your contribution might be one piece of a larger effort. Look for ways to complement others' work rather than trying to solve everything alone. Teamwork amplifies impact.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-8",
+                    "title": "Finding Your Mission",
+                    "order": 8,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Mission Defined",
+                            "body": "Your mission represents the intersection of what you love and what the world needs. It's your unique contribution to making things better. Mission provides direction and meaning that transcends personal benefit.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Personal Calling",
+                            "body": "Mission feels like a calling rather than just a choice. You sense both opportunity and responsibility to contribute in specific ways. This internal pull creates authentic motivation that sustains effort through challenges.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Values Integration",
+                            "body": "Strong missions integrate your deepest values with meaningful action. Your core beliefs about what matters most in life find expression through purposeful contribution. This alignment creates authenticity and power.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p4",
+                            "pageType": "question",
+                            "headline": "What creates a strong personal mission?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Integration of deepest values with action",
+                                    "Following others' successful examples",
+                                    "Choosing the most profitable option",
+                                    "Avoiding all personal risk and effort"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p5",
+                            "pageType": "content",
+                            "headline": "The Legacy Filter",
+                            "body": "Consider what legacy you want to leave. How do you want to be remembered? What impact do you want to have made? Your desired legacy often reveals your mission and guides decision-making toward meaningful action.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Small Beginnings",
+                            "body": "Missions often start small and grow over time. You don't need to change the world immediately. Begin with modest contributions that align with your mission. Small consistent actions build momentum and capability.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Mission Evolution",
+                            "body": "Your mission may evolve as you grow and circumstances change. Early missions often expand or refine over time. Remain open to natural evolution while maintaining core purpose. Growth enhances rather than abandons mission.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Obstacles as Guidance",
+                            "body": "Obstacles and frustrations often point toward mission opportunities. What problems consistently bother you? What inefficiencies do you notice repeatedly? Your natural problem awareness suggests areas where your mission might focus.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p9",
+                            "pageType": "question",
+                            "headline": "How do missions typically begin?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "With massive immediate changes",
+                                    "Small and grow over time",
+                                    "By copying others' missions exactly",
+                                    "Through social media announcements"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p10",
+                            "pageType": "question",
+                            "headline": "What do obstacles often reveal about mission?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They should be completely avoided",
+                                    "They point toward mission opportunities",
+                                    "They prove missions are impossible",
+                                    "They indicate wrong direction chosen"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Resource Assessment",
+                            "body": "Consider what resources you have available for your mission - time, money, skills, connections, and energy. Effective missions work within resource constraints while building capacity over time. Start where you are with what you have.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p12",
+                            "pageType": "question",
+                            "headline": "How should missions work with available resources?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Wait until you have unlimited resources",
+                                    "Work within constraints while building capacity",
+                                    "Ignore resource limitations completely",
+                                    "Only pursue missions requiring no resources"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Mission Statement",
+                            "body": "Articulate your mission clearly in writing. A good mission statement captures your essential purpose in one or two sentences. This clarity helps guide decisions and communicate your purpose to others who might support or join you.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Community Connection",
+                            "body": "Strong missions connect you with like-minded people who share similar values and goals. Your mission attracts collaborators, supporters, and beneficiaries. This community provides encouragement, resources, and accountability for your purpose.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Mission Momentum",
+                            "body": "Once you clarify and commit to your mission, momentum naturally builds. Opportunities appear, resources emerge, and people offer support. This momentum confirms you're aligned with authentic purpose and moving in the right direction.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-9",
+                    "title": "Exploring Income Opportunities",
+                    "order": 9,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Money and Meaning",
+                            "body": "Financial sustainability doesn't compromise purpose - it enables it. Money provides freedom to pursue your mission without survival stress. The key is aligning income generation with your values and capabilities.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Value Creation",
+                            "body": "Income flows from value creation. Focus on how your unique combination of passion and skills can solve problems people face. When you create genuine value, compensation naturally follows through grateful recipients.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p3",
+                            "pageType": "question",
+                            "headline": "How does income relate to creating value?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Income has no connection to value",
+                                    "Value creation should be avoided",
+                                    "Income comes from creating value",
+                                    "Income flows naturally from value creation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Multiple Revenue Streams",
+                            "body": "Consider various ways to monetize your capabilities - employment, freelancing, products, services, teaching, or consulting. Multiple revenue streams provide stability and allow you to serve different needs while building your mission.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Market Research",
+                            "body": "Understand who would pay for your unique value proposition. What problems do people struggle with that you can solve? What are they currently paying for solutions? Market research validates income opportunities.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Skill Monetization",
+                            "body": "Different skills have different income potential. Some abilities command high hourly rates while others scale to serve many people simultaneously. Understand how your skills can generate income both directly and indirectly.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Gradual Transition",
+                            "body": "You don't need to immediately quit your job to pursue ikigai-aligned income. Start with side projects, freelance work, or gradual career shifts. Build financial confidence before making dramatic changes to your income structure.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Impact Versus Income",
+                            "body": "Sometimes you must choose between maximum impact and maximum income. Consider your life stage, financial obligations, and long-term goals. The optimal balance varies by person and evolves over time.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Scalability Factors",
+                            "body": "Some income opportunities scale easily while others require trading time for money. Consider which approaches allow you to serve more people without proportional increases in time investment. Scalability creates leverage and freedom.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Pricing Confidence",
+                            "body": "Many people undercharge for their unique value. Research market rates and price according to the transformation you provide, not just the time you invest. Confident pricing reflects your worth and attracts serious clients.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Passive Income Potential",
+                            "body": "Explore ways to generate income that doesn't require active time investment - courses, books, intellectual property, or systems. Passive income provides freedom to pursue mission activities while maintaining financial stability.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p12",
+                            "pageType": "question",
+                            "headline": "What advantage do passive income streams provide?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They require no initial effort",
+                                    "They guarantee unlimited wealth",
+                                    "They provide freedom for mission activities",
+                                    "They eliminate all financial risk"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Financial Planning",
+                            "body": "Pursuing ikigai-aligned income often involves financial uncertainty initially. Plan for irregular income, build emergency funds, and consider how to maintain lifestyle during transitions. Financial planning enables purposeful choices rather than desperate ones.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-10",
+                    "title": "Monetizing Your Purpose",
+                    "order": 10,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Purpose-Profit Integration",
+                            "body": "The most sustainable businesses and careers integrate purpose with profit. When your mission aligns with market needs, you create both meaning and money. This integration provides energy for long-term success.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Service-Based Models",
+                            "body": "Many purpose-driven income streams involve direct service to individuals or organizations. Coaching, consulting, therapy, or education directly apply your mission to help specific people achieve their goals and solve problems.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Product Development",
+                            "body": "Create products that embody your mission and serve your target audience. Physical products, digital courses, books, or apps can scale your impact beyond one-to-one service while generating ongoing revenue.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Teaching and Training",
+                            "body": "Share your knowledge and experience through teaching, workshops, or training programs. Education-based monetization spreads your mission while developing others' capabilities. Knowledge transfer creates compound impact through your students.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Social Enterprise",
+                            "body": "Social enterprises use business methods to address social problems. This model allows you to pursue your mission while building sustainable operations. Impact and income support each other rather than competing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Corporate Integration",
+                            "body": "Many organizations need help with challenges that align with your mission. Corporate consulting, training, or employment can provide stable income while advancing your purpose through organizational change.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p7",
+                            "pageType": "question",
+                            "headline": "What makes businesses most sustainable?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus only on maximum profit",
+                                    "Ignore market needs completely",
+                                    "Integrate purpose with profit",
+                                    "Separate meaning from money"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Platform Building",
+                            "body": "Build platforms - online communities, newsletters, podcasts, or social media followings - around your mission. Platforms create audiences for your message and products while establishing authority in your purpose area.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Pricing Strategy",
+                            "body": "Price your offerings based on the value and transformation you provide, not just your costs or time. Purpose-driven work often creates significant value that justifies premium pricing from those who truly benefit.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p10",
+                            "pageType": "question",
+                            "headline": "How should purpose-driven work be priced?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always charge the lowest possible price",
+                                    "Base pricing only on time invested",
+                                    "Price according to value provided",
+                                    "Copy competitors' pricing exactly"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p11",
+                            "pageType": "question",
+                            "headline": "What advantage do platforms provide for mission?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They guarantee immediate success",
+                                    "They eliminate all competition",
+                                    "They require no ongoing effort",
+                                    "They create audiences and establish authority"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Partnership Opportunities",
+                            "body": "Collaborate with others who share your mission but have complementary skills or resources. Partnerships can expand your reach, enhance your capabilities, and share the financial risks of purpose-driven ventures.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-11",
+                    "title": "The Sweet Spot Discovery",
+                    "order": 11,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-11-p1",
+                            "pageType": "content",
+                            "headline": "The Convergence Point",
+                            "body": "Your ikigai sweet spot exists where all four circles converge - what you love, what you're good at, what the world needs, and what you can be paid for. This rare intersection creates profound fulfillment and sustainable success.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Partial Overlaps First",
+                            "body": "Most people discover their sweet spot gradually by first exploring where two or three circles overlap. Each partial intersection provides valuable insight and moves you closer to the complete convergence point.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Dynamic Balance",
+                            "body": "Your ikigai sweet spot isn't static - it evolves as you grow and circumstances change. What matters most is maintaining awareness and adjusting your path to keep the four elements in healthy balance.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p4",
+                            "pageType": "question",
+                            "headline": "How do most people discover their sweet spot?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through sudden revelation and insight",
+                                    "By copying others' successful paths",
+                                    "Gradually through partial overlaps first",
+                                    "By focusing on one circle exclusively"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p5",
+                            "pageType": "question",
+                            "headline": "What characterizes the ikigai sweet spot?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It remains fixed throughout life",
+                                    "It evolves as you grow and change",
+                                    "It only involves financial success",
+                                    "It requires no ongoing maintenance"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Recognition Signs",
+                            "body": "You'll know you're approaching your sweet spot when work feels energizing rather than draining, when opportunities seem to appear naturally, and when you feel both successful and fulfilled simultaneously.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p7",
+                            "pageType": "content",
+                            "headline": "The 80% Rule",
+                            "body": "Don't wait for perfect alignment before taking action. If you have 80% clarity on your ikigai direction, begin moving forward. Experience provides the remaining clarity better than additional analysis or planning.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Experimentation Mindset",
+                            "body": "Approach ikigai discovery with experimental curiosity rather than rigid planning. Try different combinations, test assumptions, and remain open to unexpected discoveries. Experimentation reveals truth better than theory.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Multiple Sweet Spots",
+                            "body": "Some people discover multiple ikigai sweet spots throughout their lives or even simultaneously. This abundance creates options and prevents over-attachment to any single path. Multiple purposes enrich rather than complicate life.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p10",
+                            "pageType": "question",
+                            "headline": "When should you begin moving toward ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only after achieving perfect clarity",
+                                    "When you have 80% clarity",
+                                    "After everyone approves your plan",
+                                    "When all risks are eliminated"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Integration Challenges",
+                            "body": "Integrating all four ikigai elements can be challenging. You might need to develop skills, build market awareness, or create new opportunities. View challenges as puzzles to solve rather than barriers to success.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Community Support",
+                            "body": "Share your ikigai journey with supportive people who encourage your growth. Community provides accountability, resources, and encouragement during challenging phases of aligning your life with your purpose. You don't have to pursue ikigai alone.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-12",
+                    "title": "Mapping Your Overlaps",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Visual Clarity",
+                            "body": "Creating a visual map of your four ikigai circles provides powerful clarity about where you currently stand and where opportunities exist. Visual representation makes abstract concepts concrete and actionable.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Current State Assessment",
+                            "body": "Start by honestly assessing your current situation. Where do you already have overlaps? Which circles need development? This baseline understanding guides your next steps toward fuller ikigai integration.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Gap Identification",
+                            "body": "Identify specific gaps between your current situation and complete ikigai alignment. These gaps become your development priorities. Focus on the most significant or achievable gaps first for momentum.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Strengths Amplification",
+                            "body": "Notice where you already have strong overlaps and consider how to amplify these areas. Sometimes your ikigai is closer than you think and requires expansion rather than completely new direction.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p5",
+                            "pageType": "question",
+                            "headline": "What's the first step in mapping overlaps?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creating the perfect visual design",
+                                    "Honestly assessing your current situation",
+                                    "Copying others' successful maps",
+                                    "Planning five years into the future"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p6",
+                            "pageType": "question",
+                            "headline": "How should you approach identified gaps?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Try to fill all gaps simultaneously",
+                                    "Focus on the most significant or achievable first",
+                                    "Ignore gaps and focus on strengths only",
+                                    "Wait for gaps to resolve naturally"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Three-Circle Combinations",
+                            "body": "Examine areas where three circles overlap. These represent significant opportunity zones that need only one additional element for complete ikigai. Three-circle overlaps often provide the clearest path forward.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Two-Circle Starting Points",
+                            "body": "Two-circle overlaps offer practical starting points for ikigai development. You can build from existing strengths while gradually incorporating missing elements. This approach reduces risk while maintaining progress.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Priority Setting",
+                            "body": "Use your overlap map to set development priorities. Which missing pieces would create the most significant impact? Which are most achievable with your current resources? Strategic prioritization accelerates progress.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Regular Updates",
+                            "body": "Your overlap map should evolve as you grow and circumstances change. Regular updates keep your awareness current and help you recognize new opportunities or necessary adjustments to your path.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p11",
+                            "pageType": "question",
+                            "headline": "Why are three-circle overlaps significant?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They represent complete ikigai alignment",
+                                    "They need only one additional element",
+                                    "They guarantee immediate success",
+                                    "They require no further development"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Action Planning",
+                            "body": "Transform your overlap analysis into concrete action steps. What specific actions will move you toward stronger overlap areas? Create a plan with measurable steps and realistic timelines for ikigai development.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Support System",
+                            "body": "Share your overlap map with trusted advisors, mentors, or coaches who can provide perspective and accountability. External viewpoints often reveal opportunities or blind spots you might miss alone.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-13",
+                    "title": "Daily Ikigai Practices",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Small Daily Actions",
+                            "body": "Ikigai isn't achieved through dramatic life changes but through consistent small actions aligned with your purpose. Daily practices compound over time to create significant transformation and fulfillment.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Morning Purpose Check",
+                            "body": "Begin each day by connecting with your ikigai. Spend a few minutes reflecting on how today's activities align with your purpose. This practice maintains awareness and helps prioritize meaningful actions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Micro-Contributions",
+                            "body": "Look for small ways to contribute to what the world needs throughout your day. Help a colleague, share knowledge, or perform small acts of service. Micro-contributions build momentum toward larger impact.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p4",
+                            "pageType": "question",
+                            "headline": "How is ikigai typically achieved?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through single dramatic life changes",
+                                    "By waiting for perfect opportunities",
+                                    "Through consistent small daily actions",
+                                    "Only during major career transitions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Skill Building Habits",
+                            "body": "Dedicate time daily to developing skills that support your ikigai. Even 15-30 minutes of focused practice compounds into significant capability over months and years. Consistency matters more than intensity.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Energy Management",
+                            "body": "Pay attention to activities that energize versus drain you. Schedule purpose-aligned activities when your energy is highest. Protect your vitality for what matters most rather than depleting it on meaningless tasks.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Gratitude Practice",
+                            "body": "Regularly acknowledge what you appreciate about your current situation and progress toward ikigai. Gratitude maintains positive perspective during challenges and recognizes growth that might otherwise go unnoticed.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p8",
+                            "pageType": "question",
+                            "headline": "What's more important for skill building?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Consistency over intensity",
+                                    "Intensity over consistency",
+                                    "Natural talent over practice",
+                                    "Speed over quality"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p9",
+                            "pageType": "question",
+                            "headline": "Why is energy management important for ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all work challenges",
+                                    "It protects vitality for what matters most",
+                                    "It guarantees immediate success",
+                                    "It prevents any effort or struggle"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Learning Integration",
+                            "body": "Constantly seek ways to learn and grow in areas related to your ikigai. Read, listen to podcasts, attend workshops, or find mentors. Continuous learning keeps your capabilities and perspectives fresh and expanding.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Progress Tracking",
+                            "body": "Keep a simple record of your ikigai-aligned actions and their outcomes. Tracking creates awareness, motivation, and evidence of progress. Regular review helps you adjust course and celebrate achievements.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Evening Reflection",
+                            "body": "End each day by reflecting on how well your actions aligned with your ikigai. What went well? What could improve tomorrow? This practice maintains conscious connection to your purpose and guides continuous improvement.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-14",
+                    "title": "Building Sustainable Routines",
+                    "order": 14,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Routine Foundation",
+                            "body": "Sustainable routines provide the foundation for consistent ikigai practice. Well-designed routines reduce decision fatigue and create automatic progress toward your purpose. Structure supports rather than restricts freedom.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Start Small",
+                            "body": "Begin with tiny, easily achievable routine elements. Five minutes of morning reflection or one small purpose-aligned action daily. Small consistent practices build momentum and confidence for larger commitments.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Habit Stacking",
+                            "body": "Attach new ikigai practices to existing habits. If you always drink morning coffee, add purpose reflection to your coffee routine. Habit stacking leverages established patterns to support new behaviors.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p4",
+                            "pageType": "question",
+                            "headline": "How should you begin building ikigai routines?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "With ambitious multi-hour practices",
+                                    "Start small with easily achievable elements",
+                                    "Only when you have perfect conditions",
+                                    "By copying others' routines exactly"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Time Block Protection",
+                            "body": "Protect specific time blocks for ikigai-aligned activities. Treat these appointments with yourself as seriously as meetings with others. Protected time ensures purpose doesn't get crowded out by urgent but less important demands.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p6",
+                            "pageType": "question",
+                            "headline": "How should you treat ikigai time blocks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As seriously as meetings with others",
+                                    "As flexible and easily cancelled",
+                                    "As less important than other tasks",
+                                    "As optional when busy"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p7",
+                            "pageType": "question",
+                            "headline": "What advantage does habit stacking provide?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates the need for discipline",
+                                    "It guarantees immediate success",
+                                    "It leverages existing patterns for new behaviors",
+                                    "It prevents any possible failure"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Flexibility Within Structure",
+                            "body": "Build flexibility into your routines to accommodate life's unpredictability. Have minimum viable versions of your practices for busy days. Flexible routines adapt to circumstances while maintaining consistency.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Environmental Design",
+                            "body": "Design your environment to support ikigai routines. Keep relevant books visible, prepare materials in advance, or create dedicated spaces for purpose work. Your environment should make good choices easier.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Routine Evolution",
+                            "body": "Expect your routines to evolve as your ikigai develops and circumstances change. What works now may need adjustment later. Regular evaluation and adaptation keep routines relevant and effective.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p11",
+                            "pageType": "question",
+                            "headline": "What should you expect about your routines?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They will evolve as circumstances change",
+                                    "They should remain fixed forever",
+                                    "They will become completely automatic",
+                                    "They will work for everyone equally"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Accountability Systems",
+                            "body": "Create accountability systems to support routine consistency. Share your commitments with others, track your progress, or find routine partners. External accountability helps maintain practices during motivation dips.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-15",
+                    "title": "Navigating Life Transitions",
+                    "order": 15,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Transition Opportunities",
+                            "body": "Life transitions - career changes, relationships, or geographic moves - offer valuable opportunities to realign with your evolving ikigai. Transitions naturally create space for reflection and new directions.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Uncertainty Navigation",
+                            "body": "Transitions involve uncertainty and discomfort. Your ikigai can provide stability and direction during unclear periods. Purpose serves as an anchor while external circumstances shift and settle.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p3",
+                            "pageType": "question",
+                            "headline": "How can ikigai help during transitions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It provides stability and direction",
+                                    "It eliminates all uncertainty",
+                                    "It prevents any change from occurring",
+                                    "It guarantees easy transitions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Forced Transitions",
+                            "body": "Sometimes transitions are forced by circumstances - job loss, health changes, or relationship endings. Even unwanted changes can redirect you toward better alignment with your authentic purpose if approached constructively.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p5",
+                            "pageType": "question",
+                            "headline": "How should you approach unwanted changes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Constructively as potential redirections",
+                                    "With complete resistance and denial",
+                                    "By immediately making dramatic changes",
+                                    "By avoiding all decision-making"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p6",
+                            "pageType": "question",
+                            "headline": "What role do transitions play in ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They offer opportunities to realign purpose",
+                                    "They should be avoided at all costs",
+                                    "They always damage ikigai development",
+                                    "They only occur during career changes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Gradual Versus Dramatic",
+                            "body": "Some transitions happen gradually while others are sudden and dramatic. Both types can serve your ikigai development. Gradual changes allow careful planning while dramatic changes can break old patterns quickly.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Support Systems",
+                            "body": "Maintain strong support systems during transitions. Connect with mentors, coaches, friends, or family who understand your ikigai journey. Support provides perspective, encouragement, and practical assistance during changes.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p9",
+                            "pageType": "question",
+                            "headline": "Why are support systems important during transitions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They make all decisions for you",
+                                    "They eliminate transition challenges",
+                                    "They provide perspective and encouragement",
+                                    "They guarantee successful outcomes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Identity Shifts",
+                            "body": "Major transitions often involve identity shifts as you move from one role or context to another. Allow your identity to evolve while maintaining connection to your core purpose and values. Growth requires letting go of outdated self-concepts.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Learning Opportunities",
+                            "body": "Transitions provide intensive learning opportunities about yourself, your resilience, and your priorities. Pay attention to what you discover about your authentic preferences and capabilities during transitional periods.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Patience and Trust",
+                            "body": "Transitions take time to resolve fully. Practice patience with the process and trust that clarity will emerge. Rushed decisions during transitions often lead to regret. Allow adequate time for adjustment and integration.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Integration Phase",
+                            "body": "After major transitions, focus on integrating new circumstances with your ikigai understanding. How do new roles, relationships, or locations align with or challenge your purpose? Integration creates stability in your new situation.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-16",
+                    "title": "Overcoming Purpose Blocks",
+                    "order": 16,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Common Obstacles",
+                            "body": "Most people encounter predictable obstacles on their ikigai journey - fear, perfectionism, comparison, or social pressure. Recognizing these blocks early helps you address them before they derail your progress.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Fear of Change",
+                            "body": "Fear of leaving familiar situations often prevents ikigai pursuit. This fear is natural but shouldn't be decisive. Start with small changes that reduce risk while building confidence for larger adjustments.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Perfectionism Trap",
+                            "body": "Perfectionism prevents action by demanding complete clarity before beginning. Perfect ikigai understanding isn't required for meaningful progress. Start with good enough knowledge and refine through experience.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p4",
+                            "pageType": "question",
+                            "headline": "How should you handle fear of change?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Start with small, lower-risk changes",
+                                    "Make dramatic changes immediately",
+                                    "Avoid all changes completely",
+                                    "Wait until fear disappears naturally"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Comparison Problem",
+                            "body": "Comparing your ikigai journey to others creates discouragement and misdirection. Everyone's path is unique with different timing, circumstances, and expressions. Focus on your authentic development rather than external benchmarks.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Social Pressure",
+                            "body": "Family, friends, and society may pressure you to choose conventional paths over authentic purpose. Their concerns often reflect their own fears and limitations. Honor feedback while ultimately trusting your inner guidance.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Financial Fears",
+                            "body": "Money concerns frequently block ikigai pursuit. While financial responsibility matters, many fears are exaggerated or based on limiting assumptions. Explore creative ways to pursue purpose while maintaining financial stability.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Age Limitations",
+                            "body": "People often believe they're too old or too young to pursue their ikigai. Purpose pursuit has no age limits. Whether you're 20 or 70, you can discover and live your authentic purpose. Age brings different advantages to the journey.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p9",
+                            "pageType": "question",
+                            "headline": "How should you approach social pressure against your purpose?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always follow others' advice completely",
+                                    "Honor feedback while trusting inner guidance",
+                                    "Ignore all external input entirely",
+                                    "Only pursue purposes others approve"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p10",
+                            "pageType": "question",
+                            "headline": "What's true about age and ikigai pursuit?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only young people can find purpose",
+                                    "Older people shouldn't change careers",
+                                    "Purpose pursuit has no age limits",
+                                    "Age determines your ikigai content"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Imposter Syndrome",
+                            "body": "Many people feel unqualified to pursue their authentic purpose. Imposter syndrome affects everyone, including highly successful individuals. Your unique combination of experiences and perspectives qualifies you for your specific ikigai contribution.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Resource Scarcity",
+                            "body": "Limited time, money, or energy seem to prevent ikigai pursuit. While resource constraints are real, creative solutions often exist. Start with what you have available rather than waiting for ideal conditions.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Block Navigation Strategy",
+                            "body": "Develop specific strategies for your most common blocks. Create support systems, build confidence gradually, or find accountability partners. Preparation helps you navigate obstacles without abandoning your purpose journey.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-17",
+                    "title": "Community and Connection",
+                    "order": 17,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Purpose in Relationship",
+                            "body": "Traditional ikigai emphasizes community connection and service to others. Your purpose isn't just personal fulfillment but contribution to the collective well-being. Community provides both support and opportunities for meaningful service.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Finding Your Tribe",
+                            "body": "Seek communities that share your values and support your purpose development. This might be professional networks, hobby groups, volunteer organizations, or online communities. Your tribe provides understanding and encouragement.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Mentorship Relationships",
+                            "body": "Both having mentors and becoming a mentor serve your ikigai development. Learn from those ahead of you on similar paths. Share your growing wisdom with those beginning their journey. Teaching deepens your own understanding.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p4",
+                            "pageType": "question",
+                            "headline": "How does community relate to traditional ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Community is irrelevant to purpose",
+                                    "Purpose is purely personal fulfillment",
+                                    "Community emphasizes service to others",
+                                    "Community prevents individual growth"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Collaborative Opportunities",
+                            "body": "Many ikigai expressions require collaboration with others. Partner with people whose skills complement yours. Shared projects often achieve more impact than individual efforts. Collaboration multiplies both reach and satisfaction.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Service Integration",
+                            "body": "Look for ways to integrate service to others into your daily routine. Small acts of kindness, knowledge sharing, or community contribution create meaning beyond personal achievement. Service connects your growth to collective benefit.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Accountability Partners",
+                            "body": "Share your ikigai goals with trusted friends who can provide accountability and support. Regular check-ins help maintain momentum during challenging periods. Mutual accountability creates stronger commitment than self-monitoring alone.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p8",
+                            "pageType": "question",
+                            "headline": "What advantage does collaboration provide for ikigai?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates personal responsibility",
+                                    "It multiplies both reach and satisfaction",
+                                    "It prevents individual expression",
+                                    "It guarantees financial success"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Network Building",
+                            "body": "Intentionally build networks that support your ikigai development. Attend relevant events, join professional associations, or participate in online forums. Networks provide opportunities, resources, and insights for purpose pursuit.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p10",
+                            "pageType": "question",
+                            "headline": "Why is mutual accountability stronger than self-monitoring?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates the need for personal commitment",
+                                    "It creates stronger commitment than monitoring alone",
+                                    "It removes all personal responsibility",
+                                    "It guarantees successful outcomes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Giving and Receiving",
+                            "body": "Healthy communities balance giving and receiving. Contribute your unique gifts while remaining open to others' support and wisdom. This reciprocal flow creates sustainable relationships that support everyone's growth and purpose development.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Legacy Creation",
+                            "body": "Consider how your ikigai can create lasting positive impact beyond your lifetime. What knowledge, systems, or contributions can you develop that will continue benefiting others? Legacy thinking expands the significance of your purpose work.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "ikigai_your_purpose-1-18",
+                    "title": "Your Ongoing Journey",
+                    "order": 18,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "ikigai_your_purpose-1-18-p1",
+                            "pageType": "content",
+                            "headline": "Continuous Discovery",
+                            "body": "Ikigai is not a destination but an ongoing journey of self-discovery and growth. Your purpose will evolve as you mature, gain experience, and face new life circumstances. Embrace this evolution as natural and beneficial.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p2",
+                            "pageType": "content",
+                            "headline": "Progress Over Perfection",
+                            "body": "Focus on progress rather than perfect alignment. Each step toward your ikigai creates value and learning, even if you haven't reached complete integration. Progress compounds over time to create significant transformation.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p3",
+                            "pageType": "question",
+                            "headline": "What should you focus on in your ikigai journey?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Achieving perfect alignment immediately",
+                                    "Progress rather than perfection",
+                                    "Comparing yourself to others constantly",
+                                    "Avoiding all mistakes and challenges"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p4",
+                            "pageType": "content",
+                            "headline": "Regular Reassessment",
+                            "body": "Schedule regular reviews of your ikigai alignment - perhaps quarterly or annually. Ask yourself if your current path still resonates with your evolving understanding of purpose. Adjust course as needed while maintaining forward momentum.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p5",
+                            "pageType": "content",
+                            "headline": "Celebrating Milestones",
+                            "body": "Acknowledge and celebrate progress toward your ikigai. Recognition of achievements, both large and small, maintains motivation and provides perspective on how far you've traveled. Celebration energizes continued effort.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p6",
+                            "pageType": "content",
+                            "headline": "Learning from Setbacks",
+                            "body": "Setbacks and failures provide valuable learning opportunities on your ikigai journey. Rather than viewing them as failures, consider what insights they offer about your path, preferences, or needed adjustments.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p7",
+                            "pageType": "content",
+                            "headline": "Supporting Others",
+                            "body": "As your ikigai becomes clearer, help others on their purpose journeys. Share your experiences, offer encouragement, and provide practical support. Teaching others deepens your own understanding and creates meaningful connections.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p8",
+                            "pageType": "question",
+                            "headline": "How should you view setbacks in your journey?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As complete failures to avoid",
+                                    "As valuable learning opportunities",
+                                    "As proof that ikigai doesn't work",
+                                    "As reasons to quit pursuing purpose"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p9",
+                            "pageType": "content",
+                            "headline": "Patience with Process",
+                            "body": "Ikigai development takes time and patience. Trust the process even when progress feels slow or unclear. Like physical fitness, purpose alignment improves gradually through consistent effort rather than dramatic overnight changes.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p10",
+                            "pageType": "question",
+                            "headline": "What's true about ikigai development timing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It happens instantly with insight",
+                                    "It takes time and requires patience",
+                                    "It only occurs during major life events",
+                                    "It must be completed by certain age"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p11",
+                            "pageType": "content",
+                            "headline": "Your Unique Expression",
+                            "body": "Remember that your ikigai expression will be uniquely yours. Don't worry if it doesn't match others' examples or expectations. Your combination of passion, mission, profession, and vocation creates something entirely original and valuable.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "ikigai_your_purpose-1-18-p12",
+                            "pageType": "content",
+                            "headline": "The Journey Continues",
+                            "body": "Your ikigai journey continues beyond this course. Use these frameworks and insights as tools for ongoing exploration. Trust yourself, remain curious, and keep taking steps toward a life that feels both meaningful and uniquely yours.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.4,
+    "tag": "Fan Favorite"
+}

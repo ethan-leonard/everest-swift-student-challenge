@@ -1,0 +1,2130 @@
+{
+    "id": "anxiety_antidote",
+    "title": "The Anxiety Antidote",
+    "description": "Understand what anxiety is and learn evidence-based techniques to manage it. Transform fear into focused energy.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/anxiety_antidote.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract tangled lines gradually becoming smooth and ordered, sage green calm resolution with charcoal initial chaos, anxiety to peace transformation aesthetic",
+    "altitude": 3800,
+    "durationMinutes": 101,
+    "whatsInside": [
+        "Understand the neuroscience behind anxiety and panic",
+        "Learn CBT techniques to challenge anxious thoughts",
+        "Master breathing and grounding exercises for immediate relief",
+        "Build a long-term anxiety management practice",
+        "Navigate social anxiety and performance pressure",
+        "Understand medication options and therapy approaches"
+    ],
+    "expertReview": {
+        "quote": "A comprehensive, science-backed approach to understanding and managing anxiety. Practical techniques that actually work.",
+        "name": "Dr. Judson Brewer",
+        "title": "Psychiatrist & Author, Unwinding Anxiety"
+    },
+    "chapters": [
+        {
+            "id": "anxiety_antidote-ch1",
+            "title": "The Anxiety Antidote",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "anxiety_antidote-1-1",
+                    "title": "Understanding Anxiety: The Body's Alarm System",
+                    "order": 1,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Built-In Security System",
+                            "body": "Anxiety isn't a flaw - it's your brain's ancient security system working overtime. This system evolved to keep our ancestors safe from real threats like predators. Today, it responds the same way to modern stressors like work deadlines or social situations.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Fight-Flight-Freeze Response",
+                            "body": "When your brain detects danger, it triggers three possible responses: fight, flight, or freeze. Your heart races, muscles tense, and breathing quickens to prepare for action. This happens automatically, often before you're consciously aware of the threat.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p3",
+                            "pageType": "content",
+                            "headline": "False Alarms Are Common",
+                            "body": "Your anxiety system can't distinguish between a charging tiger and a difficult conversation with your boss. Both trigger the same alarm bells in your brain. Understanding this helps you recognize when your system is overreacting to non-life-threatening situations.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Physical Symptoms Tell the Story",
+                            "body": "Anxiety shows up in your body first: racing heart, sweaty palms, tight chest, or upset stomach. These physical symptoms are your nervous system preparing for action. Recognizing these early signs gives you power to intervene before anxiety escalates.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Anxiety Serves a Purpose",
+                            "body": "Some anxiety is helpful - it motivates you to prepare for presentations, study for tests, or avoid real dangers. The problem arises when anxiety becomes excessive, persistent, or triggered by everyday situations. Balance is key.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Anxiety Spiral",
+                            "body": "Anxiety feeds on itself through a cycle of thoughts, feelings, and behaviors. Worried thoughts create physical tension, which reinforces anxious thoughts, leading to avoidance behaviors. Breaking this cycle at any point can reduce overall anxiety.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Different Types, Same System",
+                            "body": "Whether it's social anxiety, panic attacks, or generalized worry, all anxiety disorders involve the same basic alarm system. The triggers and intensity may vary, but the underlying mechanism remains consistent. This means similar techniques can help across different anxiety types.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p8",
+                            "pageType": "content",
+                            "headline": "You Can Rewire Your Response",
+                            "body": "Your brain is plastic, meaning it can form new neural pathways throughout your life. With practice, you can train your anxiety system to be less reactive. This takes time and consistent effort, but positive changes are absolutely possible.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p9",
+                            "pageType": "question",
+                            "headline": "What is the primary evolutionary purpose of anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To motivate better performance",
+                                    "To help us make good decisions",
+                                    "To improve social connections",
+                                    "To protect us from danger"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p10",
+                            "pageType": "question",
+                            "headline": "Which statement about the fight-flight-freeze response is most accurate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It only activates for real dangers",
+                                    "It happens after conscious thought",
+                                    "It triggers automatically before awareness",
+                                    "It requires physical threats to activate"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What makes anxiety spiral worse over time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The cycle of thoughts, feelings, and behaviors reinforcing each other",
+                                    "Increased exposure to stressful situations",
+                                    "Physical symptoms becoming more intense",
+                                    "Lack of professional treatment options"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Knowledge Is Your First Tool",
+                            "body": "Understanding how anxiety works is your first step toward managing it effectively. When you recognize that your racing heart is just your alarm system, not actual danger, you can begin to respond differently. This awareness alone can reduce anxiety's power over you.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-2",
+                    "title": "The Anxiety Brain: How Fear Takes Control",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Meet Your Amygdala",
+                            "body": "The amygdala is your brain's smoke detector, constantly scanning for threats. This almond-sized structure processes fear faster than your rational thinking brain. It can trigger anxiety responses in milliseconds, before your conscious mind even recognizes a potential problem.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Fast Track vs Slow Track",
+                            "body": "Your brain processes information through two pathways: the fast emotional track and the slower rational track. The amygdala gets information first and can hijack your response before your prefrontal cortex (rational brain) has a chance to evaluate the situation logically.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Stress Hormones Flood Your System",
+                            "body": "When anxiety strikes, your brain releases stress hormones like cortisol and adrenaline. These chemicals prime your body for action but also impair memory, concentration, and logical thinking. This is why you might feel scatter-brained during anxious moments.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Memory Gets Selective",
+                            "body": "Anxiety creates a negativity bias in your memory system. You're more likely to remember threatening or negative events than positive ones. This skewed recall reinforces anxious thinking patterns and makes situations seem more dangerous than they actually are.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Attention Becomes Laser-Focused",
+                            "body": "Anxious brains develop tunnel vision, zeroing in on potential threats while filtering out neutral or positive information. This hypervigilance keeps you alert to danger but prevents you from seeing the bigger picture or noticing safety cues.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What happens when the amygdala detects a potential threat?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It triggers anxiety before rational thought",
+                                    "It waits for conscious evaluation first",
+                                    "It only responds to real dangers",
+                                    "It requires prefrontal cortex approval"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p7",
+                            "pageType": "question",
+                            "headline": "How do stress hormones affect your thinking during anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They improve memory and concentration",
+                                    "They have no effect on cognitive function",
+                                    "They impair memory and logical thinking",
+                                    "They only affect physical responses"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p8",
+                            "pageType": "content",
+                            "headline": "The Prefrontal Cortex Fight Back",
+                            "body": "Your prefrontal cortex is the brain's CEO, responsible for rational thinking, planning, and emotional regulation. While it processes information more slowly than the amygdala, it can override fear responses when given the chance. Strengthening this connection is key to anxiety management.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Neural Pathways Become Highways",
+                            "body": "The more you experience anxiety in certain situations, the stronger those neural pathways become. Your brain creates mental shortcuts, making anxious responses more automatic over time. However, you can build new pathways through practice and repetition of calming techniques.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p10",
+                            "pageType": "question",
+                            "headline": "What role does the prefrontal cortex play in anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It triggers the initial fear response",
+                                    "It can override fear with rational thinking",
+                                    "It stores negative memories permanently",
+                                    "It releases stress hormones automatically"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p11",
+                            "pageType": "question",
+                            "headline": "Why do anxious responses become more automatic over time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The amygdala grows larger with practice",
+                                    "Neural pathways strengthen with repetition",
+                                    "Stress hormones become more concentrated",
+                                    "The prefrontal cortex stops functioning"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Your Brain Can Learn New Tricks",
+                            "body": "Understanding your brain's anxiety response empowers you to work with it, not against it. You can't stop the amygdala from doing its job, but you can train your prefrontal cortex to respond more quickly and effectively. This neuroplasticity gives you hope and a clear path forward.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-3",
+                    "title": "Physical Symptoms and Body Awareness",
+                    "order": 3,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Your Body Speaks First",
+                            "body": "Physical symptoms often appear before you're consciously aware of feeling anxious. Your body registers stress through changes in heart rate, breathing, muscle tension, and digestion. Learning to recognize these early warning signs gives you a head start on managing anxiety.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p2",
+                            "pageType": "content",
+                            "headline": "The Heart Rate Connection",
+                            "body": "A racing or pounding heart is often the first noticeable sign of anxiety. Your heart rate can increase from a normal 60-80 beats per minute to over 100 in seconds. This rapid response prepares your muscles for action but can feel frightening when no real danger exists.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Breathing Changes Everything",
+                            "body": "Anxious breathing becomes shallow, rapid, and focused in the chest rather than the belly. This hyperventilation can cause dizziness, tingling, and feelings of unreality. Paradoxically, trying to breathe more can worsen these symptoms if done incorrectly.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Muscle Tension Builds Silently",
+                            "body": "Chronic anxiety creates persistent muscle tension, particularly in the shoulders, neck, jaw, and stomach. This tension can develop so gradually that you don't notice it until it becomes painful. Regular body scans help you identify and release this hidden stress.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Digestive System Goes Haywire",
+                            "body": "Your gut contains more nerve cells than your spinal cord, making it highly sensitive to emotional states. Anxiety can cause nausea, stomach pain, diarrhea, or loss of appetite. This gut-brain connection explains why you might feel sick when nervous.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Temperature and Sweating Responses",
+                            "body": "Anxiety triggers your body's cooling system through sweating, particularly on palms, forehead, and underarms. You might also experience hot flashes or sudden chills. These temperature changes reflect your nervous system's attempt to regulate your body during stress.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p7",
+                            "pageType": "question",
+                            "headline": "What typically happens to breathing during anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Breathing becomes deeper and slower",
+                                    "Breathing remains completely unchanged",
+                                    "Breathing moves from chest to belly",
+                                    "Breathing becomes shallow and rapid"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p8",
+                            "pageType": "question",
+                            "headline": "Where does chronic anxiety typically create the most muscle tension?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Arms and legs primarily",
+                                    "Only in the back muscles",
+                                    "Throughout the entire body equally",
+                                    "Shoulders, neck, jaw, and stomach"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p9",
+                            "pageType": "question",
+                            "headline": "Why does anxiety often cause digestive problems?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Anxiety only affects the brain directly",
+                                    "The gut has many nerve cells sensitive to emotions",
+                                    "Digestive issues cause anxiety, not vice versa",
+                                    "There's no real connection between anxiety and digestion"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Sensory Changes and Perception",
+                            "body": "Anxiety can heighten or dull your senses unpredictably. Sounds might seem louder, lights brighter, or you might feel disconnected from your surroundings (derealization). These perceptual changes are temporary and reflect your nervous system's altered state, not permanent damage.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p11",
+                            "pageType": "content",
+                            "headline": "The Body Scan Technique",
+                            "body": "Regular body scans involve systematically checking in with each part of your body from head to toe. This practice increases awareness of physical tension and allows you to address symptoms before they intensify. Start with just 2-3 minutes daily to build this valuable skill.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Physical Symptoms Are Information",
+                            "body": "Your body's anxiety symptoms aren't the enemy - they're messengers providing valuable information about your emotional state. Instead of fighting these sensations, learn to interpret them as early warning signals. This shift in perspective transforms fear into awareness and control.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-4",
+                    "title": "Breathing Techniques for Instant Calm",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Breathing Is Your Remote Control",
+                            "body": "Your breath is the only part of your autonomic nervous system you can consciously control. While you can't directly slow your heart rate or stop sweating, you can use breathing techniques to activate your body's natural relaxation response within minutes.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Physiology of Calm Breathing",
+                            "body": "Slow, deep breathing activates the parasympathetic nervous system - your body's 'rest and digest' mode. This triggers the release of calming neurotransmitters and reduces stress hormones. The vagus nerve, which connects your brain to your heart and digestive system, plays a key role in this process.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p3",
+                            "pageType": "question",
+                            "headline": "What makes breathing unique in managing anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It's the only autonomic function you can consciously control",
+                                    "It directly stops all anxiety symptoms immediately",
+                                    "It requires no practice or technique to be effective",
+                                    "It only works for mild anxiety situations"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p4",
+                            "pageType": "question",
+                            "headline": "Which nervous system does slow, deep breathing activate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Central nervous system only",
+                                    "Sympathetic nervous system primarily",
+                                    "Neither system is affected by breathing",
+                                    "Parasympathetic 'rest and digest' system"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p5",
+                            "pageType": "content",
+                            "headline": "The 4-7-8 Technique",
+                            "body": "Inhale through your nose for 4 counts, hold your breath for 7 counts, then exhale through your mouth for 8 counts. This pattern creates a powerful relaxation response by extending the exhale phase. Practice this technique when calm so it's available during anxious moments.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Box Breathing for Balance",
+                            "body": "Inhale for 4 counts, hold for 4, exhale for 4, hold empty for 4 - creating a perfect 'box' pattern. This technique balances your nervous system and is used by Navy SEALs and emergency responders. The equal timing promotes both alertness and calm.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Belly Breathing Basics",
+                            "body": "Place one hand on your chest, one on your belly. When breathing correctly, only the bottom hand should move significantly. Anxious breathing happens in the chest and shoulders, while relaxed breathing engages the diaphragm and expands the belly.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p8",
+                            "pageType": "content",
+                            "headline": "The Power of Extended Exhales",
+                            "body": "Making your exhale longer than your inhale activates the relaxation response more effectively. Try inhaling for 3 counts and exhaling for 6, or inhaling for 4 and exhaling for 8. This simple adjustment can shift your nervous system from anxious to calm.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Breathing Mistakes to Avoid",
+                            "body": "Don't force deep breaths during panic attacks - this can worsen hyperventilation. Instead, focus on slowing your breathing rhythm. Avoid breathing through your mouth unnecessarily, as nasal breathing is more calming and efficient for your nervous system.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Practice Makes Permanent",
+                            "body": "Breathing techniques work best when practiced regularly during calm moments. Your nervous system needs repetition to recognize and respond to these patterns automatically. Even 5 minutes of daily practice can make these tools readily available during stressful situations.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Instant Techniques for Emergencies",
+                            "body": "When anxiety strikes suddenly, try the 'physiological sigh' - two quick inhales through the nose followed by a long exhale through the mouth. This technique, backed by neuroscience research, can calm your nervous system in real-time without looking obvious to others.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Integration Into Daily Life",
+                            "body": "Use breathing cues throughout your day - red lights, phone rings, or hourly reminders can trigger mini breathing sessions. This creates a foundation of calm that makes you less reactive to stressors. The goal is prevention as much as intervention.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Your Portable Anxiety Tool",
+                            "body": "Breathing techniques require no equipment, cost nothing, and work anywhere. Whether you're in a meeting, on a plane, or lying awake at night, your breath is always available as a path to calm. Master these techniques and you'll always have anxiety relief within reach.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Building Your Breathing Toolkit",
+                            "body": "Different situations call for different techniques. Use 4-7-8 for sleep, box breathing for focus, and physiological sighs for immediate relief. Experiment to find what works best for you, and remember that consistency matters more than perfection in building these essential skills.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-5",
+                    "title": "Challenging Anxious Thought Patterns",
+                    "order": 5,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Thoughts Aren't Always Facts",
+                            "body": "Your anxious thoughts feel completely real and urgent, but they're often distorted interpretations of reality. The anxious mind tends to catastrophize, overgeneralize, and focus on worst-case scenarios. Learning to question these automatic thoughts is essential for breaking anxiety cycles.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Common Thinking Traps",
+                            "body": "Anxious minds fall into predictable patterns: all-or-nothing thinking, mind reading, fortune telling, and catastrophizing. These cognitive distortions make situations seem more threatening than they actually are. Recognizing these patterns is the first step to changing them.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p3",
+                            "pageType": "content",
+                            "headline": "The Catastrophizing Spiral",
+                            "body": "Catastrophizing starts with a minor worry and quickly escalates to disaster scenarios. 'I made a mistake' becomes 'I'll be fired' becomes 'I'll lose my house.' This mental escalation creates intense anxiety about events that rarely occur. Breaking this chain early is crucial.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p4",
+                            "pageType": "content",
+                            "headline": "All-or-Nothing Creates Pressure",
+                            "body": "Black-and-white thinking eliminates middle ground and realistic outcomes. You're either perfect or a complete failure, totally safe or in extreme danger. This rigid thinking style increases anxiety by making normal situations feel high-stakes. Most of life exists in the gray areas between extremes.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p5",
+                            "pageType": "question",
+                            "headline": "What characterizes catastrophizing in anxious thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Taking minor worries and escalating them to disaster scenarios",
+                                    "Focusing only on positive possible outcomes",
+                                    "Thinking about multiple realistic possibilities equally",
+                                    "Avoiding thinking about future events entirely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Mind Reading and Fortune Telling",
+                            "body": "Anxiety convinces you that you know what others think ('They think I'm stupid') or what will happen ('This will definitely go wrong'). These predictions feel certain but are based on fear, not facts. Reality is usually far more neutral than your anxious predictions.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p7",
+                            "pageType": "question",
+                            "headline": "What makes all-or-nothing thinking particularly problematic for anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It helps make decisions more quickly",
+                                    "It eliminates middle ground and creates extreme pressure",
+                                    "It accurately reflects how most situations work",
+                                    "It reduces the number of things to worry about"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p8",
+                            "pageType": "content",
+                            "headline": "The Evidence Examination",
+                            "body": "Challenge anxious thoughts by asking: 'What evidence supports this thought? What evidence contradicts it?' Often you'll find that anxiety creates convictions based on feelings rather than facts. This simple questioning can reveal how distorted anxious thinking really is.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p9",
+                            "pageType": "content",
+                            "headline": "The Best Friend Test",
+                            "body": "Ask yourself: 'What would I tell my best friend if they had this exact worry?' You naturally offer others more balanced, compassionate perspectives than you give yourself. This technique helps you access your own wisdom and rationality during anxious moments.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Probability Reality Check",
+                            "body": "Anxiety makes unlikely events feel inevitable. Ask: 'What's the actual probability this will happen?' and 'How many times has my worst-case scenario actually occurred?' This reality testing helps your rational mind override your anxious predictions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Balanced Thinking Alternatives",
+                            "body": "Instead of fighting anxious thoughts, develop balanced alternatives. Replace 'This will be a disaster' with 'This might be challenging, but I can handle it.' This isn't positive thinking - it's realistic thinking that acknowledges both difficulties and your capabilities.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p12",
+                            "pageType": "content",
+                            "headline": "The Thought Record Technique",
+                            "body": "Write down your anxious thought, rate your anxiety level (1-10), list evidence for and against the thought, then create a balanced alternative. This systematic approach engages your rational brain and provides concrete evidence that challenges distorted thinking patterns.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Defusion From Thoughts",
+                            "body": "Practice seeing thoughts as mental events, not absolute truths. Try prefacing anxious thoughts with 'I'm having the thought that...' This simple phrase creates distance between you and your thoughts, reducing their emotional impact and power over your behavior.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Building New Neural Pathways",
+                            "body": "Every time you challenge an anxious thought successfully, you strengthen neural pathways associated with rational thinking. This process requires repetition and patience, but gradually your brain will default to more balanced perspectives rather than anxious catastrophizing.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-5-p15",
+                            "pageType": "content",
+                            "headline": "Progress Over Perfection",
+                            "body": "Changing thought patterns is a skill that improves with practice. You won't catch every anxious thought initially, and that's normal. Focus on progress, not perfection. Each time you successfully challenge a distorted thought, you're building stronger mental resilience for future challenges.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-6",
+                    "title": "Cognitive Restructuring Techniques",
+                    "order": 6,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Rebuilding Your Mental Framework",
+                            "body": "Cognitive restructuring is like renovating your mental house - you keep the solid foundation but replace faulty wiring and outdated fixtures. This systematic approach helps you identify, examine, and modify the thought patterns that fuel anxiety. The goal isn't to think positively, but to think accurately.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The ABC Model",
+                            "body": "A (Activating event) triggers B (Beliefs/thoughts) which create C (Consequences/feelings). Most people think A causes C directly, but it's actually your interpretation (B) that determines your emotional response. Changing B changes C, giving you control over your emotional reactions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Socratic Questioning Method",
+                            "body": "Use guided questions to examine your anxious thoughts systematically: 'What evidence supports this? What would I tell a friend? What's the worst/best/most realistic outcome?' This method, used by therapists worldwide, helps you become your own rational investigator.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Cost-Benefit Analysis for Thoughts",
+                            "body": "Examine what your anxious thoughts cost you versus what they provide. Worry about your presentation might motivate preparation (benefit) but also cause insomnia and stomach problems (cost). This analysis helps you keep helpful aspects while discarding harmful elements.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p5",
+                            "pageType": "question",
+                            "headline": "In the ABC model, what directly determines your emotional response?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The activating event itself",
+                                    "Your past experiences only",
+                                    "Other people's reactions to the event",
+                                    "Your beliefs and interpretations"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p6",
+                            "pageType": "question",
+                            "headline": "What is the primary goal of cognitive restructuring?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To eliminate all negative thoughts completely",
+                                    "To think more accurately, not just positively",
+                                    "To avoid challenging situations entirely",
+                                    "To suppress uncomfortable emotions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p7",
+                            "pageType": "content",
+                            "headline": "The Decatastrophizing Technique",
+                            "body": "When facing worst-case scenarios, ask: 'So what if this happens? How would I cope?' Often you'll discover that even 'terrible' outcomes are manageable. This technique reduces the emotional charge of anxious predictions by planning realistic responses to feared situations.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Perspective Shifting Exercises",
+                            "body": "View your situation from different angles: How will this matter in 10 years? What would an outside observer see? How would someone I admire handle this? These perspective shifts break you out of anxiety's narrow, threat-focused viewpoint.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p9",
+                            "pageType": "question",
+                            "headline": "What does the decatastrophizing technique help you realize?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Even feared outcomes are usually manageable",
+                                    "Worst-case scenarios never actually happen",
+                                    "You should avoid all potentially difficult situations",
+                                    "Catastrophic thinking is always completely accurate"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Building Coping Statements",
+                            "body": "Develop realistic, encouraging self-talk for difficult moments: 'I've handled challenges before and I can handle this one' or 'This feeling is uncomfortable but temporary.' Write these statements down and practice them when calm, so they're accessible during anxiety.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p11",
+                            "pageType": "question",
+                            "headline": "Why should coping statements be practiced when calm?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They only work when you're already relaxed",
+                                    "Practice makes them accessible during anxious moments",
+                                    "Calm states are the only time they're needed",
+                                    "Writing them down is only possible when calm"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p12",
+                            "pageType": "content",
+                            "headline": "The Double Standard Technique",
+                            "body": "Notice how you apply different standards to yourself versus others. You might excuse a friend's mistake while catastrophizing your own identical error. This double standard reveals how harsh and unrealistic your self-judgments can be during anxious moments.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Integration and Practice",
+                            "body": "Cognitive restructuring becomes most effective when you practice techniques regularly, not just during crises. Set aside time weekly to examine your thought patterns and challenge distortions. This proactive approach builds mental resilience before anxiety peaks.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-7",
+                    "title": "Grounding and Mindfulness Skills",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Anchoring in the Present Moment",
+                            "body": "Anxiety pulls your mind into future worries or past regrets, disconnecting you from the present moment where you actually have control. Grounding techniques literally ground you in your current reality through your five senses. This creates immediate relief from anxious spiraling.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The 5-4-3-2-1 Technique",
+                            "body": "Name 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This sensory inventory pulls your attention out of anxious thoughts and into your immediate environment. It works anywhere and requires no special equipment.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Physical Grounding Strategies",
+                            "body": "Feel your feet on the ground, press your palms together, or hold a textured object like a stress ball or smooth stone. Physical grounding reconnects you with your body and interrupts the mental loop of anxious thoughts. The key is engaging your sense of touch deliberately.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Mindful Observation Practice",
+                            "body": "Choose an object and study it with complete attention for 2-3 minutes. Notice its color, texture, weight, and details you normally miss. This focused observation trains your mind to concentrate on neutral stimuli rather than anxious thoughts.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Body Scan for Grounding",
+                            "body": "Starting from your toes, slowly move attention up through each part of your body, noticing sensations without trying to change them. This practice grounds you in physical reality and often reveals tension you can then consciously release.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Mindful Movement Techniques",
+                            "body": "Walking meditation, gentle stretching, or simple yoga poses can ground you through movement. Focus on how your body feels as it moves rather than where you're going or what you're doing. Movement engages different neural pathways than anxious thinking.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Thought Observation Without Judgment",
+                            "body": "Instead of fighting anxious thoughts, practice observing them like clouds passing through the sky. Notice them, acknowledge them ('I'm having the thought that...'), but don't engage or argue with them. This creates distance between you and your thoughts.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p8",
+                            "pageType": "question",
+                            "headline": "What is the primary purpose of grounding techniques?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To eliminate all anxious thoughts permanently",
+                                    "To make you feel happy and positive",
+                                    "To anchor your attention in the present moment",
+                                    "To solve the problems causing your anxiety"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p9",
+                            "pageType": "question",
+                            "headline": "How should you relate to anxious thoughts during mindfulness practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fight them aggressively until they stop",
+                                    "Analyze them thoroughly to find solutions",
+                                    "Ignore them completely and pretend they don't exist",
+                                    "Observe them without judgment, like clouds passing by"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Creating Mindful Moments Daily",
+                            "body": "Transform routine activities into mindfulness opportunities: eating breakfast, brushing teeth, or washing dishes. Pay complete attention to the sensory experience rather than multitasking or planning. These micro-practices build your grounding skills throughout the day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Emergency Grounding Kit",
+                            "body": "Prepare sensory tools for anxious moments: peppermint oil to smell, ice cubes to hold, sour candy to taste, or a playlist of calming sounds. Having physical grounding tools ready makes it easier to interrupt anxiety spirals when they begin.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p12",
+                            "pageType": "content",
+                            "headline": "The Space Between Thoughts",
+                            "body": "In mindfulness practice, you'll discover brief spaces of silence between thoughts. These gaps are where peace naturally exists. As you practice, these spaces tend to expand, giving you more moments of natural calm throughout your day.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Building Your Mindfulness Foundation",
+                            "body": "Start with just 5 minutes of daily practice when you're not anxious. Consistency matters more than duration. Regular practice makes grounding techniques more accessible during difficult moments, like having a fire extinguisher ready before you need it.",
+                            "imageURL": "home",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-8",
+                    "title": "Understanding and Managing Panic Attacks",
+                    "order": 8,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-8-p1",
+                            "pageType": "content",
+                            "headline": "False Alarms, Real Terror",
+                            "body": "Panic attacks are your body's alarm system firing at maximum intensity when there's no actual emergency. Though terrifying, they're not dangerous - no one has ever died from a panic attack itself. Understanding this fundamental truth is the first step in reducing their power over you.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Panic Attack Timeline",
+                            "body": "Panic attacks peak within 10 minutes and rarely last longer than 30 minutes. Your body simply cannot maintain that level of physiological arousal indefinitely. Knowing this helps you ride out the wave rather than fighting it, which often prolongs the experience.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Common Physical Symptoms",
+                            "body": "Racing heart, chest tightness, shortness of breath, dizziness, sweating, trembling, and nausea are all normal panic symptoms. These sensations feel dangerous but are simply your body preparing for a threat that doesn't exist. Your sympathetic nervous system is doing its job - just at the wrong time.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p4",
+                            "pageType": "content",
+                            "headline": "The Fear of Fear Cycle",
+                            "body": "Many people develop anxiety about having panic attacks, creating a secondary layer of fear. This anticipatory anxiety can actually trigger more panic attacks, creating a vicious cycle. Breaking this cycle requires accepting that panic attacks, while unpleasant, are not catastrophic.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p5",
+                            "pageType": "question",
+                            "headline": "What is the typical duration of a panic attack's peak intensity?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Several hours of sustained intensity",
+                                    "About 30-45 minutes at peak level",
+                                    "Peaks within 10 minutes, rarely lasts over 30",
+                                    "Can maintain peak intensity for days"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p6",
+                            "pageType": "question",
+                            "headline": "What often creates a secondary layer of anxiety about panic attacks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The physical symptoms becoming more severe over time",
+                                    "Other people's reactions to your panic attacks",
+                                    "Medical complications from repeated panic attacks",
+                                    "Developing fear of having future panic attacks"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p7",
+                            "pageType": "content",
+                            "headline": "The STOP Technique for Panic",
+                            "body": "S - Stop what you're doing. T - Take a breath (don't hyperventilate). O - Observe your thoughts and surroundings. P - Proceed with self-compassion. This acronym provides a simple framework for responding to panic instead of reacting with more fear.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Riding the Wave Metaphor",
+                            "body": "Think of panic attacks like ocean waves - they build, peak, and naturally recede. You can't stop a wave, but you can learn to surf it. Fighting the wave exhausts you and makes the experience worse. Accepting and riding it out requires less energy and ends sooner.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Grounding During Panic",
+                            "body": "Use the 5-4-3-2-1 technique: name 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste. This sensory grounding pulls your attention out of panic and into your immediate environment, providing an anchor in the storm.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Breathing Mistakes During Panic",
+                            "body": "Don't try to take deep breaths during a panic attack - this can worsen hyperventilation. Instead, focus on slowing your breathing rhythm and breathing through your nose when possible. The goal is to normalize breathing, not force deeper breaths.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Self-Talk for Panic Moments",
+                            "body": "Prepare calming phrases in advance: 'This will pass,' 'I am safe,' or 'This is uncomfortable but not dangerous.' Practice these statements when calm so they're available during panic. Your rational voice can coexist with panic sensations.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Post-Panic Recovery",
+                            "body": "After a panic attack, you may feel exhausted, embarrassed, or worried about the next one. This is normal. Practice self-compassion and avoid analyzing what triggered it immediately. Rest, hydrate, and return to normal activities when you feel ready.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Building Panic Resilience",
+                            "body": "Regular practice of breathing techniques, grounding skills, and stress management reduces panic frequency and intensity. Think of these practices as panic insurance - you invest in them during calm periods to have them available during storms.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-9",
+                    "title": "Social Anxiety and Performance Pressure",
+                    "order": 9,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-9-p1",
+                            "pageType": "content",
+                            "headline": "The Spotlight Effect Illusion",
+                            "body": "Social anxiety makes you feel like you're under a bright spotlight, with everyone scrutinizing your every move. In reality, people are mostly focused on themselves and their own concerns. This 'spotlight effect' greatly overestimates how much others notice or judge your behavior.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Mind Reading Trap",
+                            "body": "Social anxiety convinces you that you know what others are thinking: 'They think I'm boring,' 'Everyone can see I'm nervous.' This mind reading is almost always inaccurate. Most people are neutral toward you, not judgmental, and often dealing with their own insecurities.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p3",
+                            "pageType": "question",
+                            "headline": "What does the spotlight effect cause people with social anxiety to believe?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Others are too busy to notice them at all",
+                                    "People are generally supportive and kind",
+                                    "Everyone is closely watching and judging their behavior",
+                                    "Most social interactions are positive experiences"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Physical Symptoms in Social Settings",
+                            "body": "Blushing, sweating, trembling voice, and rapid heartbeat are common social anxiety symptoms. Ironically, worrying about these symptoms often makes them worse. Most people don't notice these signs as much as you think, and many are understanding if they do notice.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Perfectionism in Social Performance",
+                            "body": "Social anxiety often demands perfect performance: never stumbling over words, always being interesting, never having awkward moments. This impossible standard creates enormous pressure. Normal human imperfections actually make you more relatable, not less likeable.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Safety Behaviors That Backfire",
+                            "body": "Avoiding eye contact, staying silent, checking your phone, or leaving early are safety behaviors that temporarily reduce anxiety but reinforce social fears long-term. These behaviors prevent you from learning that social situations are generally safe and manageable.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p7",
+                            "pageType": "content",
+                            "headline": "The Audience Perspective Shift",
+                            "body": "Remember that your 'audience' consists of people who have their own worries, distractions, and social anxieties. They're not professional critics waiting to judge you - they're humans hoping for pleasant interactions. Most people want social encounters to go well for everyone involved.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Gradual Exposure Strategy",
+                            "body": "Start with low-stakes social interactions and gradually work up to more challenging ones. Say hello to a cashier, then ask a question, then make small talk. Each positive experience builds evidence that social situations are manageable and often pleasant.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p9",
+                            "pageType": "question",
+                            "headline": "Why do safety behaviors ultimately worsen social anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They prevent learning that social situations are generally safe",
+                                    "They make other people more likely to judge you negatively",
+                                    "They cause physical symptoms to become more severe",
+                                    "They attract unwanted attention from others"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What should you remember about the people you interact with socially?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They are professional critics trained to find flaws",
+                                    "They are mostly focused on their own concerns and worries",
+                                    "They are always paying close attention to your behavior",
+                                    "They have perfect social skills and never feel awkward"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Conversation Starters and Recovery",
+                            "body": "Prepare a few go-to conversation topics and questions. If conversations lag or you make a mistake, remember that awkward moments are normal. Most people have short memories for minor social missteps. A simple smile and redirect usually gets things back on track.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Redefining Social Success",
+                            "body": "Success isn't being the most charming person in the room - it's showing up authentically and making genuine connections. Even brief, pleasant exchanges count as social victories. Lower the bar for success and you'll find more opportunities to feel confident.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Building Social Confidence",
+                            "body": "Social confidence grows through practice, not perfection. Each interaction, whether smooth or awkward, provides valuable data about social reality. Most people are kind, distracted by their own lives, and hoping for positive connections just like you are.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Your Authentic Self Is Enough",
+                            "body": "You don't need to perform or pretend to be worthy of social connection. Your genuine, imperfect, learning self is what creates real relationships. The people worth knowing will appreciate authenticity over perfection, and those who don't probably aren't your people anyway.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-9-p15",
+                            "pageType": "content",
+                            "headline": "Social Anxiety Recovery Timeline",
+                            "body": "Overcoming social anxiety is a gradual process, not a quick fix. Expect progress to be nonlinear - some days will feel harder than others. Celebrate small victories and be patient with setbacks. Each brave social action builds your confidence foundation for the future.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-10",
+                    "title": "Worry and Future-Focused Anxiety",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-10-p1",
+                            "pageType": "content",
+                            "headline": "The Illusion of Productive Worry",
+                            "body": "Your anxious mind believes that worrying about future problems helps solve them or prevents bad outcomes. In reality, worry rarely leads to effective action or problem-solving. It's mental spinning that creates the feeling of doing something while actually accomplishing very little.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Worry vs Problem-Solving",
+                            "body": "Productive problem-solving focuses on specific, actionable steps toward solutions. Worry loops endlessly through 'what if' scenarios without clear action plans. Problem-solving asks 'What can I do?' while worry asks 'What if something bad happens?' The difference is crucial for your mental health.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p3",
+                            "pageType": "content",
+                            "headline": "The 90% Rule of Worry",
+                            "body": "Research shows that roughly 90% of what we worry about never actually happens. Your brain's threat-detection system errs on the side of caution, creating false alarms to keep you safe. Recognizing this helps you take worries less seriously and invest less emotional energy in unlikely scenarios.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Uncertainty Is Not Danger",
+                            "body": "Future-focused anxiety stems from discomfort with uncertainty and the need to know what will happen. However, uncertainty is the natural state of life, not a problem to be solved. Learning to tolerate uncertainty reduces the compulsive need to worry about unknown outcomes.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p5",
+                            "pageType": "question",
+                            "headline": "What percentage of worried-about events typically occur?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 50% happen as predicted",
+                                    "Only about 10% actually occur",
+                                    "Nearly 90% happen eventually",
+                                    "The percentage varies too much to predict"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Worry Time Boundaries",
+                            "body": "Set aside 15-20 minutes daily as designated 'worry time.' When anxious thoughts arise outside this window, write them down and postpone worrying until your scheduled time. This technique contains worry instead of letting it infiltrate your entire day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p7",
+                            "pageType": "question",
+                            "headline": "What distinguishes productive problem-solving from worry?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Problem-solving focuses on specific, actionable steps",
+                                    "Worry is always more thorough and comprehensive",
+                                    "Problem-solving only works for simple issues",
+                                    "Worry produces better long-term solutions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p8",
+                            "pageType": "content",
+                            "headline": "The Action Question",
+                            "body": "When worry strikes, ask: 'Is this something I can take action on right now?' If yes, take action. If no, practice letting go. This simple question separates productive concern from unproductive rumination and guides you toward effective responses.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Worst-Case Scenario Planning",
+                            "body": "Instead of endlessly worrying about worst-case outcomes, spend time actually planning how you would cope if they occurred. This practical preparation often reveals that even 'terrible' outcomes are manageable, reducing their emotional power over you.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Present Moment Anchoring",
+                            "body": "When future-focused anxiety pulls you away from the present, use grounding techniques to return. Ask yourself: 'What needs my attention right now?' Focus on current tasks, sensory experiences, or immediate relationships rather than hypothetical future problems.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p11",
+                            "pageType": "content",
+                            "headline": "The Worry Record Technique",
+                            "body": "Write down your worries, rate their likelihood (1-10), and track what actually happens. This concrete record provides evidence that most worries don't materialize, helping your rational brain override anxious predictions about the future.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Accepting Imperfect Outcomes",
+                            "body": "Much future-focused anxiety stems from needing everything to work out perfectly. Life rarely meets this standard. Learning to accept 'good enough' outcomes and your ability to adapt to imperfection reduces the pressure to control every future detail.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Building Future Confidence",
+                            "body": "Instead of worrying about your future ability to handle challenges, build confidence by recalling past resilience. Make a list of difficult situations you've already survived and problems you've successfully solved. This evidence supports your capacity to handle whatever comes.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-10-p14",
+                            "pageType": "content",
+                            "headline": "The Serenity Principle",
+                            "body": "Focus your energy on what you can control and practice accepting what you cannot. Future events often depend on factors beyond your influence. Channeling your efforts into controllable actions while releasing attachment to uncontrollable outcomes reduces future-focused anxiety significantly.",
+                            "imageURL": "minimal",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-11",
+                    "title": "Anxiety and Sleep Connection",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-11-p1",
+                            "pageType": "content",
+                            "headline": "The Vicious Sleep-Anxiety Cycle",
+                            "body": "Anxiety disrupts sleep, and poor sleep increases anxiety, creating a self-reinforcing cycle. When you're sleep-deprived, your brain's threat-detection system becomes hyperactive, making everything seem more stressful. Breaking this cycle is essential for both better sleep and reduced anxiety.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Racing Mind at Bedtime",
+                            "body": "The quiet of nighttime often amplifies anxious thoughts. Without daytime distractions, your mind reviews worries, plans for tomorrow, or replays the day's events. This mental activity keeps your nervous system alert when it should be winding down for rest.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Physical Anxiety Blocks Sleep",
+                            "body": "Racing heart, muscle tension, and digestive upset make it physically difficult to fall asleep. Your body interprets anxiety as a signal to stay alert for danger. Addressing these physical symptoms through relaxation techniques can help prepare your body for sleep.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Sleep Deprivation's Impact on Anxiety",
+                            "body": "Even one night of poor sleep can increase anxiety sensitivity by up to 30%. Sleep deprivation impairs the prefrontal cortex (your rational brain) while making the amygdala (fear center) more reactive. This makes you more likely to perceive threats and less able to think clearly about them.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p5",
+                            "pageType": "content",
+                            "headline": "The Worry Window",
+                            "body": "Bedtime isn't the time for problem-solving. Create a 'worry window' earlier in the evening to address concerns. Write down worries and either solve what you can or schedule them for tomorrow. This mental housekeeping clears your mind for sleep.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Progressive Muscle Relaxation",
+                            "body": "Starting from your toes, tense each muscle group for 5 seconds, then release and notice the relaxation. Work your way up to your head. This technique physically prepares your body for sleep while giving your mind a focused task instead of worrying.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Sleep Environment Optimization",
+                            "body": "Keep your bedroom cool (65-68\u00b0F), dark, and quiet. Remove clocks from view to avoid time anxiety. Consider blackout curtains, white noise machines, or eye masks. Your environment should signal safety and rest to your nervous system.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p8",
+                            "pageType": "question",
+                            "headline": "How does sleep deprivation affect anxiety levels?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It has no significant impact on anxiety",
+                                    "It slightly reduces anxiety through tiredness",
+                                    "It can increase anxiety sensitivity by up to 30%",
+                                    "It only affects anxiety in people with disorders"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p9",
+                            "pageType": "content",
+                            "headline": "The 4-7-8 Breathing for Sleep",
+                            "body": "Inhale for 4 counts, hold for 7, exhale for 8. This pattern activates your parasympathetic nervous system and naturally slows your heart rate. The extended exhale is particularly effective for shifting from an alert state to a restful one.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Screen Time and Anxiety",
+                            "body": "Blue light from screens suppresses melatonin production and can increase anxiety through stimulating content. Create a digital sunset 1-2 hours before bed. If you must use devices, use blue light filters and avoid anxiety-provoking content like news or social media.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Sleep Restriction for Anxiety",
+                            "body": "If anxiety keeps you awake, don't lie in bed worrying for hours. Get up after 20 minutes and do a quiet, non-stimulating activity until sleepy. This prevents your bed from becoming associated with anxiety and maintains your natural sleep drive.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p12",
+                            "pageType": "question",
+                            "headline": "What should you do if anxiety keeps you awake in bed?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stay in bed and try harder to fall asleep",
+                                    "Take medication immediately to force sleep",
+                                    "Get up after 20 minutes and do a quiet activity",
+                                    "Check your phone to distract from anxious thoughts"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Morning Anxiety Prevention",
+                            "body": "How you end your day affects how you start the next one. A consistent bedtime routine signals safety to your nervous system. Even if sleep isn't perfect, maintaining regular sleep and wake times helps regulate your circadian rhythm and reduces morning anxiety.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Sleep as Self-Care",
+                            "body": "Prioritizing sleep isn't selfish - it's essential for mental health. Good sleep improves emotional regulation, cognitive function, and stress resilience. Think of sleep as your daily reset button, allowing you to face tomorrow's challenges with a calmer, clearer mind.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-12",
+                    "title": "Progressive Muscle Relaxation",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Tension You Don't Know You Have",
+                            "body": "Chronic anxiety creates muscle tension that builds so gradually you stop noticing it. Your shoulders rise, jaw clenches, and stomach tightens without conscious awareness. Progressive Muscle Relaxation (PMR) helps you recognize and release this hidden physical stress.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The Tension-Release Principle",
+                            "body": "PMR works by deliberately creating tension in muscle groups, then releasing it completely. This contrast helps you recognize the difference between tension and relaxation. When you release deliberate tension, muscles often relax more deeply than their normal resting state.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Starting with Your Foundation",
+                            "body": "Begin PMR with your feet and toes. Curl your toes tightly for 5-7 seconds, notice the tension, then release and observe the relaxation for 10-15 seconds. This foundation work grounds you physically and mentally for the relaxation process ahead.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p4",
+                            "pageType": "question",
+                            "headline": "What is the primary principle behind Progressive Muscle Relaxation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creating then releasing tension to deepen relaxation",
+                                    "Stretching muscles to improve flexibility",
+                                    "Exercising muscles to tire them out",
+                                    "Massaging muscles to increase blood flow"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Moving Up Through Your Legs",
+                            "body": "Progress to your calves by pressing your heels down and pulling your toes toward your shins. Then tense your thighs by straightening your legs and pressing them down. Each muscle group gets its moment of deliberate tension followed by conscious relaxation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p6",
+                            "pageType": "question",
+                            "headline": "Why does PMR help you recognize hidden muscle tension?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It makes muscles stronger over time",
+                                    "The contrast between tension and release increases awareness",
+                                    "It removes all muscle tension permanently",
+                                    "It only works on muscles you can see"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Core and Back Relaxation",
+                            "body": "For your abdomen, tighten your stomach muscles as if preparing for a punch. For your back, arch slightly and squeeze your shoulder blades together. These core areas often hold significant anxiety-related tension and benefit greatly from deliberate relaxation.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p8",
+                            "pageType": "question",
+                            "headline": "How long should you hold muscle tension during PMR?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "About 5-7 seconds of deliberate tension",
+                                    "At least 30 seconds for maximum effect",
+                                    "As briefly as possible, then immediately release",
+                                    "Until the muscle begins to hurt or cramp"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p9",
+                            "pageType": "question",
+                            "headline": "Which areas commonly hold significant anxiety-related tension?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only the hands and arms",
+                                    "Primarily the legs and feet",
+                                    "Core, back, shoulders, and jaw areas",
+                                    "Just the muscles you can consciously control"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Arms and Hands Release",
+                            "body": "Make tight fists and bend your arms to tense your biceps simultaneously. Hold the tension, then release and let your arms drop naturally to your sides. Notice the warm, heavy feeling of relaxation flowing through your arms and hands.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Shoulders and Neck Focus",
+                            "body": "Raise your shoulders toward your ears and hold. The neck and shoulders are prime real estate for anxiety tension. When you release, let your shoulders drop completely and notice how much lower they can rest than where you normally carry them.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Face and Jaw Relaxation",
+                            "body": "Scrunch your entire face - close your eyes tightly, wrinkle your forehead, clench your jaw. The face holds tremendous tension from anxiety. When you release, let your jaw drop slightly open and notice your facial muscles settling into complete softness.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-13",
+                    "title": "Building Your Support System",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-13-p1",
+                            "pageType": "content",
+                            "headline": "You Don't Have to Go It Alone",
+                            "body": "Anxiety thrives in isolation and secrecy. When you keep your struggles private, anxiety can convince you that you're the only one experiencing these challenges. Building a support network provides reality checks, emotional comfort, and practical assistance during difficult times.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Different People, Different Support",
+                            "body": "Not everyone in your support network needs to provide the same type of help. Some people are great listeners, others offer practical solutions, and some provide fun distractions. Having variety ensures you can get different types of support depending on what you need.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p3",
+                            "pageType": "question",
+                            "headline": "Why does anxiety often worsen when kept completely private?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Private anxiety becomes more physically dangerous",
+                                    "Others can't provide medication or professional help",
+                                    "Secrecy prevents reality checks and emotional support",
+                                    "Isolation anxiety thrives in and secrecy"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p4",
+                            "pageType": "question",
+                            "headline": "What's important about having variety in your support network?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "More people means guaranteed better outcomes",
+                                    "Different people provide different types of needed support",
+                                    "Variety prevents any one person from learning too much",
+                                    "Multiple perspectives always create confusion"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p5",
+                            "pageType": "question",
+                            "headline": "What makes someone a good anxiety support person?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They must have experienced identical anxiety issues",
+                                    "They should always agree with your perspective",
+                                    "They listen without judgment and remain patient",
+                                    "They provide immediate solutions to all problems"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Qualities of Good Support People",
+                            "body": "Look for people who listen without immediately trying to fix you, remain patient during your difficult moments, and don't take your anxiety personally. Good support people validate your feelings while encouraging your coping efforts. They're consistent, trustworthy, and genuinely care about your wellbeing.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p7",
+                            "pageType": "content",
+                            "headline": "How to Ask for Support",
+                            "body": "Be specific about what you need: 'I'm feeling anxious and need someone to listen' or 'Can you help me think through this situation?' Many people want to help but don't know how. Clear communication prevents misunderstandings and ensures you get the type of support that's actually helpful.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Professional Support Options",
+                            "body": "Therapists, counselors, and support groups provide specialized help that friends and family cannot. They're trained to understand anxiety disorders and can teach specific coping techniques. Professional support complements, rather than replaces, your personal support network.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Online Communities and Resources",
+                            "body": "Anxiety support groups, both online and in-person, connect you with people who truly understand your experience. These communities provide 24/7 availability and can reduce the feeling of being alone with your anxiety. Choose moderated groups that focus on recovery and coping strategies.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Setting Boundaries with Support",
+                            "body": "Good support relationships have boundaries. You're not obligated to share every detail of your anxiety, and others aren't required to be available 24/7. Healthy boundaries protect both you and your support people from burnout while maintaining sustainable relationships.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Being a Support Person Too",
+                            "body": "Supporting others can be therapeutic for your own anxiety. It provides perspective on problems, builds your confidence in handling difficulties, and creates reciprocal relationships. However, balance is key - don't use helping others as a way to avoid addressing your own needs.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p12",
+                            "pageType": "content",
+                            "headline": "When Support Isn't Perfect",
+                            "body": "Sometimes well-meaning people say unhelpful things like 'just relax' or 'think positive.' Remember that most people mean well even when they don't understand anxiety. You can educate them about what helps you, or simply appreciate their caring intention while seeking better support elsewhere.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p13",
+                            "pageType": "question",
+                            "headline": "What should you remember when building your support system?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "You must share every detail with everyone",
+                                    "Professional and personal support work together",
+                                    "Online support is always better than in-person help",
+                                    "Support people should never have their own problems"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Maintaining Your Support Network",
+                            "body": "Support relationships require nurturing. Thank people who help you, check in during their difficult times, and maintain connections even when your anxiety is manageable. A strong support network is built over time through consistent, mutual care and understanding.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-14",
+                    "title": "Professional Help and Treatment Options",
+                    "order": 14,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-14-p1",
+                            "pageType": "content",
+                            "headline": "When Self-Help Isn't Enough",
+                            "body": "Self-help strategies are valuable, but sometimes professional intervention is necessary. If anxiety significantly impacts your daily functioning, relationships, or quality of life, professional help can provide specialized tools and support that accelerate your recovery process.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Types of Mental Health Professionals",
+                            "body": "Psychologists provide therapy and psychological testing. Psychiatrists are medical doctors who can prescribe medication. Licensed counselors and social workers offer therapy with different specializations. Each brings unique training and perspectives to anxiety treatment.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Cognitive Behavioral Therapy (CBT)",
+                            "body": "CBT is the gold-standard treatment for anxiety disorders. It focuses on identifying and changing thought patterns and behaviors that fuel anxiety. CBT is typically short-term (12-20 sessions) and provides concrete tools you can use independently after therapy ends.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Exposure and Response Prevention",
+                            "body": "This specialized therapy gradually exposes you to anxiety triggers in a controlled, supportive environment. By facing fears systematically, you learn that anxious feelings are manageable and that feared outcomes rarely occur. This builds real-world confidence in handling anxiety.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Acceptance and Commitment Therapy",
+                            "body": "ACT focuses on accepting anxious thoughts and feelings while committing to values-based actions. Instead of fighting anxiety, you learn to carry it with you while living meaningfully. This approach reduces the struggle against anxiety that often makes it worse.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Mindfulness-Based Approaches",
+                            "body": "MBSR (Mindfulness-Based Stress Reduction) and MBCT (Mindfulness-Based Cognitive Therapy) teach meditation and awareness practices. These approaches help you observe anxious thoughts without being overwhelmed by them, creating space between you and your anxiety.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Medication Options",
+                            "body": "SSRIs, SNRIs, and benzodiazepines are common anxiety medications. SSRIs and SNRIs work long-term to reduce overall anxiety levels. Benzodiazepines provide quick relief but aren't suitable for long-term use due to dependence risks. Medication decisions should involve thorough discussion with a psychiatrist.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Therapy Plus Medication",
+                            "body": "Research shows that combining therapy with medication often produces better results than either approach alone. Medication can reduce anxiety enough to make therapy more effective, while therapy provides long-term coping skills that reduce reliance on medication over time.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p9",
+                            "pageType": "question",
+                            "headline": "What is considered the gold-standard treatment for anxiety disorders?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Medication alone for quick results",
+                                    "Cognitive Behavioral Therapy (CBT)",
+                                    "Self-help books and online resources",
+                                    "Complete avoidance of anxiety triggers"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p10",
+                            "pageType": "question",
+                            "headline": "What do research findings suggest about combining therapy and medication?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The combination often produces better results than either alone",
+                                    "Medication always works better than therapy",
+                                    "Therapy should only be tried after medication fails",
+                                    "Combining treatments creates more side effects"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p11",
+                            "pageType": "question",
+                            "headline": "What should guide decisions about anxiety medication?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Online reviews and social media recommendations",
+                                    "What worked for friends or family members",
+                                    "Thorough discussion with a qualified psychiatrist",
+                                    "Trial and error with different medications"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Finding the Right Therapist",
+                            "body": "Look for therapists who specialize in anxiety and use evidence-based approaches. The therapeutic relationship matters as much as the techniques used. Don't hesitate to interview potential therapists or try a few sessions before committing to long-term work.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Insurance and Cost Considerations",
+                            "body": "Many insurance plans cover mental health treatment. Check your benefits for therapy coverage, copays, and approved providers. Some therapists offer sliding scale fees. Community mental health centers and university training clinics often provide lower-cost options with qualified supervision.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p14",
+                            "pageType": "question",
+                            "headline": "What's important to remember about finding professional help for anxiety?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The first therapist you try will always be perfect",
+                                    "Professional help should only be a last resort",
+                                    "The therapeutic relationship and evidence-based approaches both matter",
+                                    "Cost should be the primary factor in choosing treatment"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Taking the First Step",
+                            "body": "Seeking professional help is a sign of strength, not weakness. It takes courage to admit you need support and take action to get it. Remember that anxiety is highly treatable, and professional help can significantly improve your quality of life and long-term resilience.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "anxiety_antidote-1-15",
+                    "title": "Creating Your Personal Anxiety Action Plan",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "anxiety_antidote-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Your Personalized Toolkit",
+                            "body": "You've learned many anxiety management techniques throughout this course. Now it's time to create your personal action plan - a customized toolkit of strategies that work specifically for you. This plan will guide your response to anxiety and support your long-term recovery.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Identifying Your Anxiety Patterns",
+                            "body": "Review when, where, and how your anxiety typically shows up. Do you worry most at night? Feel anxious in social situations? Experience physical symptoms first? Understanding your patterns helps you anticipate and prepare for challenging moments with appropriate strategies.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Early Warning System",
+                            "body": "Create a list of your early anxiety signs: physical sensations, thought patterns, or behavioral changes. The earlier you catch anxiety, the easier it is to manage. Your early warning system allows you to intervene before anxiety reaches peak intensity.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p4",
+                            "pageType": "question",
+                            "headline": "Why is it important to identify your personal anxiety patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To prove that your anxiety is worse than others'",
+                                    "To anticipate and prepare for challenging moments",
+                                    "To eliminate all anxiety from your life completely",
+                                    "To blame specific situations for causing your anxiety"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Emergency Techniques for Acute Anxiety",
+                            "body": "Choose 2-3 techniques that work quickly when anxiety peaks: physiological sigh breathing, 5-4-3-2-1 grounding, or progressive muscle relaxation. Practice these regularly so they're automatic during crisis moments. Your emergency toolkit should be simple and accessible anywhere.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Daily Prevention Strategies",
+                            "body": "Build anxiety resilience through daily practices: regular sleep schedule, mindfulness moments, physical activity, and worry time boundaries. Prevention is often more effective than crisis intervention. These daily investments create a foundation of calm that makes you less reactive to stressors.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p7",
+                            "pageType": "question",
+                            "headline": "What should characterize your emergency anxiety techniques?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They should be complex and comprehensive",
+                                    "They should work quickly and be accessible anywhere",
+                                    "They should require special equipment or settings",
+                                    "They should only be used once per day maximum"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Thought Challenging Quick Reference",
+                            "body": "Create a written list of your most helpful challenging questions: 'What evidence supports this thought?' 'What would I tell a friend?' 'How likely is this worst-case scenario?' Having these questions readily available helps you shift from anxious thinking to rational evaluation quickly.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Support Network Activation Plan",
+                            "body": "Identify who to contact for different types of support: emotional support, practical help, or professional guidance. Know their contact information and have a plan for reaching out. Don't wait until crisis moments to organize your support system.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Progress Tracking Methods",
+                            "body": "Choose a simple way to track your anxiety levels and coping success: daily ratings, mood apps, or journal entries. Regular tracking helps you notice patterns, celebrate progress, and identify which techniques work best for different situations.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Setback Recovery Plan",
+                            "body": "Expect that anxiety will sometimes spike despite your best efforts. This doesn't mean your plan failed - it means you're human. Prepare compassionate self-talk and have a recovery routine ready: extra self-care, reaching out for support, or returning to basics with your techniques.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p12",
+                            "pageType": "question",
+                            "headline": "How should you view setbacks in your anxiety recovery?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As proof that nothing works for your anxiety",
+                                    "As normal parts of the human experience requiring compassion",
+                                    "As signs that you need to try completely different strategies",
+                                    "As indicators that professional help will never be effective"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Regular Plan Reviews",
+                            "body": "Schedule monthly reviews of your action plan. What's working well? What needs adjustment? Your needs and circumstances change over time, and your anxiety management plan should evolve accordingly. Flexibility and adaptation are signs of a mature approach to anxiety management.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Living Beyond Survival Mode",
+                            "body": "Your action plan should help you move from merely surviving anxiety to thriving despite it. Include goals for personal growth, meaningful activities, and relationship building. Anxiety management isn't just about reducing symptoms - it's about creating a life worth living.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "anxiety_antidote-1-15-p15",
+                            "pageType": "content",
+                            "headline": "Your Journey Continues",
+                            "body": "This course ends, but your anxiety management journey continues. You now have evidence-based tools, strategies, and understanding to face anxiety with confidence. Remember that recovery isn't linear, progress comes in waves, and every step forward counts. You have what it takes to transform your relationship with anxiety.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.6,
+    "tag": "Popular"
+}

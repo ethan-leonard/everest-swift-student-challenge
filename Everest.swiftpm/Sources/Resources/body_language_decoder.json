@@ -1,0 +1,2418 @@
+{
+    "id": "body_language_decoder",
+    "title": "Body Language Decoder",
+    "description": "Read people like a book. Learn to decode nonverbal communication and project confidence through your own body.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/body_language_decoder.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract human silhouette with symbolic gesture indicators and expression markers, sage green confident stance with charcoal subtle cue highlights, nonverbal mastery aesthetic",
+    "altitude": 2800,
+    "durationMinutes": 107,
+    "whatsInside": [
+        "Decode facial expressions, gestures, and posture",
+        "Spot signs of discomfort, deception, and attraction",
+        "Project confidence through your own body language",
+        "Improve communication in professional and personal settings",
+        "Master baseline observation techniques",
+        "Learn microexpression recognition"
+    ],
+    "expertReview": {
+        "quote": "Ninety-three percent of communication is nonverbal. Learning to read it is like learning a second language everyone speaks.",
+        "name": "Joe Navarro",
+        "title": "Former FBI Special Agent & Author"
+    },
+    "chapters": [
+        {
+            "id": "body_language_decoder-ch1",
+            "title": "Body Language Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "body_language_decoder-1-1",
+                    "title": "The Foundations of Nonverbal Communication",
+                    "order": 1,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Body Language Rules Everything",
+                            "body": "Your body communicates before you even speak. Research shows 55% of communication is body language, 38% is tone of voice, and only 7% is actual words. Mastering nonverbal signals gives you a massive advantage in every interaction.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Unconscious Mind Speaks",
+                            "body": "Your subconscious constantly broadcasts your true feelings through micro-expressions, posture shifts, and subtle gestures. These signals happen automatically, often contradicting what you say verbally. Learning to read them reveals what people really think.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p3",
+                            "pageType": "question",
+                            "headline": "What percentage of communication is body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "38% body language",
+                                    "55% body language",
+                                    "7% body language",
+                                    "85% body language"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Context Always Matters",
+                            "body": "A single gesture never tells the whole story. You must read body language in clusters of signals and consider the environment. Someone crossing their arms could be cold, defensive, or simply comfortable - context determines meaning.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p5",
+                            "pageType": "question",
+                            "headline": "How should you interpret body language signals?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on single gestures",
+                                    "Read signals in clusters",
+                                    "Ignore environmental factors",
+                                    "Trust your first impression"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Baseline Behavior Matters",
+                            "body": "Everyone has unique baseline behaviors - their normal way of moving, gesturing, and positioning. Deviations from this baseline indicate emotional shifts. Spend time observing someone's normal patterns before drawing conclusions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Universal vs Cultural Signals",
+                            "body": "Some body language is universal across cultures - fear, anger, and joy show similarly worldwide. Other signals vary dramatically between cultures. Eye contact that shows respect in one culture may be seen as aggressive in another.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p8",
+                            "pageType": "content",
+                            "headline": "The Power of Mirroring",
+                            "body": "Humans naturally mirror people they like and trust. When someone copies your posture, gestures, or breathing patterns, it signals rapport. You can also use intentional mirroring to build connection and influence.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p9",
+                            "pageType": "question",
+                            "headline": "What does mirroring body language indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Discomfort and tension",
+                                    "Aggressive intentions",
+                                    "Boredom and disinterest",
+                                    "Rapport and connection"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Reading Your Own Signals",
+                            "body": "Self-awareness is crucial for body language mastery. Notice how your posture changes when you feel confident versus nervous. Recognize your own stress signals and comfort gestures. This awareness helps you control the messages you send.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p11",
+                            "pageType": "question",
+                            "headline": "Why is self-awareness important for body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It makes you more attractive",
+                                    "It helps control your signals",
+                                    "It improves your memory",
+                                    "It reduces social anxiety"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Body language mastery requires constant practice and observation. Start by watching people in public spaces without sound - trains, cafes, or restaurants. Notice patterns and test your interpretations. The more you practice, the more accurate you become.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-2",
+                    "title": "Comfort and Discomfort Indicators",
+                    "order": 2,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Comfort Shows in Relaxation",
+                            "body": "When people feel comfortable, their bodies naturally relax. Shoulders drop, breathing deepens, and muscles release tension. Comfortable people take up space naturally and move with fluid, unhurried motions.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Open Postures Signal Safety",
+                            "body": "Comfort creates openness - uncrossed arms, visible palms, and exposed torso. When people feel safe, they don't need to protect their vital organs. Open postures invite interaction and show emotional availability.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Genuine Smiles Reach Eyes",
+                            "body": "True comfort produces authentic smiles that engage the entire face. The eyes crinkle, cheeks lift, and the smile appears effortless. These Duchenne smiles are difficult to fake and indicate genuine positive emotion.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p4",
+                            "pageType": "question",
+                            "headline": "What characterizes a genuine comfort smile?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only mouth movement",
+                                    "Eyes crinkle and engage",
+                                    "Very brief duration",
+                                    "Asymmetrical expression"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p5",
+                            "pageType": "question",
+                            "headline": "What does an open posture typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Aggressive intentions",
+                                    "Defensive positioning",
+                                    "Comfort and safety",
+                                    "Nervous energy"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Discomfort Creates Barriers",
+                            "body": "Uncomfortable people unconsciously create barriers between themselves and others. They cross arms, place objects between themselves and others, or angle their bodies away. These protective positions shield vulnerable areas.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Tension Manifests Physically",
+                            "body": "Stress and discomfort create visible physical tension. Shoulders rise toward ears, jaws clench, and breathing becomes shallow. Hands may form fists or grip objects tightly. The body prepares for threat even when none exists.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Self-Soothing Behaviors Emerge",
+                            "body": "When uncomfortable, people engage in self-soothing behaviors - touching their neck, rubbing their arms, or playing with jewelry. These adaptors help regulate stress and provide comfort during difficult moments.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p9",
+                            "pageType": "question",
+                            "headline": "What are self-soothing behaviors?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Stress regulation actions",
+                                    "Aggressive posturing",
+                                    "Attention-seeking moves",
+                                    "Dominance displays"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Distance Increases with Discomfort",
+                            "body": "Uncomfortable people create physical distance. They lean away, take steps back, or position themselves further from others. This spatial adjustment helps them feel safer and more in control of the situation.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Rapid Movements Signal Stress",
+                            "body": "Discomfort accelerates body language. Rapid blinking, quick gestures, and fidgeting increase under stress. The nervous system's arousal creates a sense of urgency that manifests in faster, more erratic movements.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Recognizing the Shift",
+                            "body": "Watch for transitions from comfort to discomfort. A relaxed person might suddenly cross their arms when an uncomfortable topic arises. These shifts happen quickly and reveal emotional reactions in real-time.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Creating Comfort for Others",
+                            "body": "Understanding comfort signals helps you create better environments. Use open postures, maintain appropriate distance, and speak in calm tones. When others feel comfortable, they're more likely to trust and cooperate.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Trust Your Observations",
+                            "body": "Your instincts about comfort and discomfort are often accurate. If someone seems uncomfortable despite saying they're fine, trust the body language over the words. The body doesn't lie as easily as the mouth.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-3",
+                    "title": "Decoding Facial Expressions",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Face Reveals Everything",
+                            "body": "Facial expressions are the most revealing form of body language. With over 40 facial muscles, your face can create thousands of expressions. Most happen unconsciously, making the face a direct window into emotional states.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Seven Universal Emotions",
+                            "body": "Paul Ekman identified seven universal facial expressions: happiness, sadness, anger, fear, surprise, disgust, and contempt. These expressions appear across all cultures and are hardwired into human nature from birth.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Micro-Expressions Flash Truth",
+                            "body": "Micro-expressions last only 1/25th of a second but reveal true emotions. These involuntary facial flashes occur before people can control their expressions. Train yourself to catch these brief, honest emotional leaks.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Eyes Are the Gateway",
+                            "body": "Eye behavior reveals emotional intensity and focus. Pupil dilation indicates interest or arousal. Rapid blinking suggests stress or deception. The direction of gaze shows where attention and interest lie.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Eyebrow Movements Matter",
+                            "body": "Eyebrows are highly expressive and hard to control consciously. A quick eyebrow flash shows recognition or greeting. Raised eyebrows indicate surprise or disbelief. Furrowed brows suggest concentration, confusion, or anger.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Mouth Movements Betray Feelings",
+                            "body": "The mouth area provides rich emotional information beyond smiles. Lip compression shows restraint or disagreement. Lip licking indicates nervousness. Asymmetrical mouth movements often signal mixed emotions or deception attempts.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p7",
+                            "pageType": "question",
+                            "headline": "How long do micro-expressions typically last?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "1/25th of a second",
+                                    "Half a second",
+                                    "2-3 seconds",
+                                    "5-10 seconds"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Nostril Flares Show Intensity",
+                            "body": "Nostril flares accompany strong emotions, especially anger or determination. This primitive response increases oxygen intake when the body prepares for action. It's an involuntary signal that's difficult to control or fake.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Chin Positions Communicate Status",
+                            "body": "Chin position reveals confidence levels and social dynamics. A raised chin suggests arrogance or defiance. A lowered chin indicates submission or insecurity. A neutral chin position shows confidence and openness to interaction.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Facial Color Changes",
+                            "body": "Blood flow changes create visible facial color shifts during emotional states. Blushing indicates embarrassment or attraction. Facial pallor suggests fear or shock. These involuntary changes are nearly impossible to fake convincingly.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p11",
+                            "pageType": "question",
+                            "headline": "What do raised eyebrows typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Anger or frustration",
+                                    "Surprise or disbelief",
+                                    "Sadness or grief",
+                                    "Concentration focus"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Reading Expression Clusters",
+                            "body": "Never rely on single facial features. True expressions engage multiple facial areas simultaneously. A genuine smile affects eyes, cheeks, and mouth together. Fake expressions often miss this coordination.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p13",
+                            "pageType": "question",
+                            "headline": "What makes facial expressions most reliable?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Reading multiple features together",
+                                    "Focusing on eye movement only",
+                                    "Watching mouth positions alone",
+                                    "Observing single muscle groups"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Cultural Facial Norms",
+                            "body": "While basic emotions are universal, expression rules vary by culture. Some cultures encourage emotional expression while others value restraint. Consider cultural background when interpreting facial expressions to avoid misunderstandings.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Practice Facial Recognition",
+                            "body": "Improve your facial reading skills through deliberate practice. Watch movies with the sound off and try to identify emotions. Study facial expression databases online. The more you practice, the faster you'll recognize emotional states.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-4",
+                    "title": "Hand and Gesture Analysis",
+                    "order": 4,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Hands Never Lie",
+                            "body": "Hands are among the most expressive parts of the body and hardest to control consciously. They reveal emotions, intentions, and thoughts through countless subtle movements. Master hand reading to gain deep insights into others.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Palm Direction Matters",
+                            "body": "Palm orientation reveals openness and intentions. Open palms facing up show honesty and submission. Palms facing down indicate authority and control. Hidden palms suggest concealment or discomfort.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Finger Pointing Power Play",
+                            "body": "Pointing is an aggressive gesture that creates dominance and distance. It triggers defensive responses and can escalate conflicts. Politicians and speakers use subtle pointing to direct attention without appearing confrontational.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Fist Formation Shows Aggression",
+                            "body": "Clenched fists indicate anger, determination, or preparation for conflict. This primitive gesture prepares the hands for fighting and signals strong emotional intensity. Even partial fist formation shows internal tension.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p5",
+                            "pageType": "question",
+                            "headline": "What do open palms facing up typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Aggressive intentions",
+                                    "Honesty and openness",
+                                    "Authority and control",
+                                    "Nervous energy"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p6",
+                            "pageType": "question",
+                            "headline": "What does finger pointing typically communicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Dominance and aggression",
+                                    "Friendly invitation",
+                                    "Casual conversation",
+                                    "Supportive gesture"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Steepling Shows Confidence",
+                            "body": "Fingertip steepling - pressing fingertips together - displays confidence and authority. It's common among executives, judges, and experts explaining their knowledge. The higher the steeple, the greater the confidence level.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p8",
+                            "pageType": "question",
+                            "headline": "What does fingertip steepling typically demonstrate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Confidence and authority",
+                                    "Nervousness and anxiety",
+                                    "Boredom and disinterest",
+                                    "Aggressive positioning"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Hand-to-Face Gestures",
+                            "body": "Touching the face with hands often indicates stress, deception, or deep thinking. Covering the mouth may signal dishonesty. Touching the nose can indicate discomfort. Rubbing the forehead shows concentration or frustration.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Handshake Analysis",
+                            "body": "Handshakes reveal personality and intentions instantly. Firm handshakes show confidence and reliability. Weak handshakes suggest insecurity or disinterest. Overly strong grips indicate dominance attempts or compensation for insecurity.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Fidgeting Reveals Anxiety",
+                            "body": "Nervous hand movements increase under stress - tapping fingers, playing with objects, or wringing hands. These self-soothing behaviors help regulate anxiety but also broadcast emotional states to observant readers.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Cultural Gesture Differences",
+                            "body": "Hand gestures vary dramatically across cultures. The OK sign is positive in America but offensive in some countries. The thumbs-up gesture has different meanings globally. Always consider cultural context when interpreting gestures.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Matching Gestures to Words",
+                            "body": "Congruent hand gestures support spoken words and appear natural. Incongruent gestures contradict speech and suggest deception or discomfort. Watch for mismatches between what someone says and how their hands move.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p14",
+                            "pageType": "question",
+                            "headline": "What do incongruent hand gestures often suggest?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Strong emotional connection",
+                                    "Clear communication intent",
+                                    "Deception or discomfort",
+                                    "Cultural misunderstanding"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-4-p15",
+                            "pageType": "content",
+                            "headline": "Practical Hand Reading",
+                            "body": "Start observing hands in every interaction. Notice how confident people use their hands differently than nervous individuals. Practice identifying emotions through hand positions alone before adding other body language cues.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-5",
+                    "title": "Torso and Posture Secrets",
+                    "order": 5,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Posture Reveals Inner State",
+                            "body": "Your posture is a direct reflection of your emotional and mental state. Confident people stand tall with shoulders back. Defeated individuals slouch with collapsed chests. Posture changes happen unconsciously as emotions shift.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Chest Position Shows Confidence",
+                            "body": "An open, expanded chest displays confidence and readiness for interaction. A collapsed or sunken chest suggests low self-esteem or defeat. Military bearing with chest out communicates authority and strength.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Shoulder Signals Stress",
+                            "body": "Shoulder position reveals stress levels instantly. Raised shoulders indicate tension and anxiety - the body prepares for threat. Relaxed, dropped shoulders show comfort and ease. Rolling shoulders backward demonstrates confidence.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Torso Direction Shows Interest",
+                            "body": "People angle their torso toward things they find interesting or attractive. This unconscious behavior reveals true feelings despite verbal claims. If someone's body faces away while talking, their attention lies elsewhere.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Arms Create Barriers",
+                            "body": "Crossed arms are the most common defensive posture, creating a barrier between self and others. This position protects the vital organs and signals disagreement, discomfort, or closed-mindedness. Open arms invite connection.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Leaning Patterns Matter",
+                            "body": "Forward leaning shows interest and engagement. Backward leaning indicates discomfort or desire to create distance. Side leaning suggests casual comfort or boredom. These subtle shifts reveal changing emotional states.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Breathing Reflects Emotion",
+                            "body": "Emotional states directly affect breathing patterns, which change posture. Anxiety creates shallow, rapid breathing and raised shoulders. Calm confidence produces deep, slow breathing and relaxed posture. Breathing is emotion made visible.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Spine Alignment Shows Status",
+                            "body": "Straight spine alignment projects authority and self-respect. Curved or hunched spines suggest low status or poor self-image. Leaders naturally maintain better posture, and good posture actually increases confidence chemically.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p9",
+                            "pageType": "question",
+                            "headline": "What does forward leaning typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Discomfort and anxiety",
+                                    "Boredom and disinterest",
+                                    "Aggressive positioning",
+                                    "Interest and engagement"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p10",
+                            "pageType": "question",
+                            "headline": "What do crossed arms typically communicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Defensive barrier",
+                                    "Casual comfort",
+                                    "Active engagement",
+                                    "Friendly openness"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p11",
+                            "pageType": "question",
+                            "headline": "How does posture affect confidence levels?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "No significant impact",
+                                    "Good posture increases confidence",
+                                    "Only affects others' perceptions",
+                                    "Confidence determines posture only"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Power Postures Work",
+                            "body": "Adopting confident postures actually increases testosterone and reduces cortisol levels. Standing tall with chest out and shoulders back for two minutes before important interactions boosts confidence and performance.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Reading Postural Changes",
+                            "body": "Watch for posture shifts during conversations. Someone might start open and relaxed, then close up when certain topics arise. These transitions reveal emotional reactions more honestly than facial expressions.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Environmental Posture Factors",
+                            "body": "Consider environmental factors affecting posture. Cold temperatures naturally make people hunch and close up. Uncomfortable furniture forces poor posture. Separate environmental influences from emotional states when reading others.",
+                            "imageURL": "home",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-6",
+                    "title": "Lower Body Language Secrets",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Legs Don't Lie",
+                            "body": "The lower body is the most honest part of body language because it's furthest from conscious control. While people monitor their facial expressions and gestures, they rarely think about their leg and foot positions.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Foot Direction Reveals Interest",
+                            "body": "Feet naturally point toward things and people we find interesting or want to approach. Even when someone's upper body faces you politely, their feet might point toward the exit, revealing their true desire to leave.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Stance Width Shows Confidence",
+                            "body": "Confident people take up space with wider stances, creating stability and presence. Insecure individuals often stand with feet close together or crossed, minimizing their footprint. Wide stance projects authority and comfort.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Leg Crossing Patterns",
+                            "body": "How people cross their legs reveals comfort levels and attitudes. Tight, defensive crossing suggests discomfort. Relaxed, open leg positions indicate ease. Ankle crossing while standing shows mild defensiveness.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Foot Tapping Shows Impatience",
+                            "body": "Rhythmic foot movements indicate internal energy that needs release. Rapid tapping suggests impatience, anxiety, or boredom. Slow, steady foot movement might indicate thinking or mild stress. The tempo reveals intensity.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p6",
+                            "pageType": "question",
+                            "headline": "What do feet naturally point toward?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The ground beneath them",
+                                    "Away from all stimuli",
+                                    "Random directions only",
+                                    "Objects of interest"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Weight Shifting Patterns",
+                            "body": "How people distribute their weight reveals emotional states. Shifting weight frequently shows nervousness or discomfort. Leaning weight forward indicates engagement. Shifting weight back suggests withdrawal or evaluation.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Knee Position Matters",
+                            "body": "Knee direction follows interest patterns like feet. Knees angled toward someone show engagement and attention. Knees pointed away suggest disinterest or desire to leave. This happens unconsciously and reveals true intentions.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p9",
+                            "pageType": "question",
+                            "headline": "What does frequent weight shifting typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Nervousness or discomfort",
+                                    "Confident stability",
+                                    "Deep concentration",
+                                    "Physical tiredness"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p10",
+                            "pageType": "question",
+                            "headline": "What does a wide stance typically project?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Insecurity and doubt",
+                                    "Defensive positioning",
+                                    "Authority and confidence",
+                                    "Nervous energy"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Foot Position Under Stress",
+                            "body": "Under stress or threat, feet naturally position for quick escape. One foot might point toward the nearest exit while the other remains planted. This fight-or-flight positioning happens unconsciously during uncomfortable situations.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p12",
+                            "pageType": "question",
+                            "headline": "How do feet position under stress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Point firmly forward",
+                                    "Position for quick escape",
+                                    "Turn completely inward",
+                                    "Remain perfectly still"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Practical Lower Body Reading",
+                            "body": "Start observing feet and legs in every interaction. Notice how people position themselves differently with friends versus strangers. Practice identifying comfort levels through lower body language before adding upper body cues.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-7",
+                    "title": "Voice and Vocal Patterns",
+                    "order": 7,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Voice Reveals Inner Truth",
+                            "body": "Paralanguage - how you say something rather than what you say - carries 38% of communication impact. Voice patterns reveal emotions, confidence levels, and intentions that words might try to hide.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Pitch Changes Show Emotion",
+                            "body": "Voice pitch rises with stress, excitement, or deception attempts. Lower pitch typically indicates calm confidence and authority. Sudden pitch changes during speech often signal emotional shifts or discomfort with specific topics.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p3",
+                            "pageType": "question",
+                            "headline": "What percentage of communication is paralanguage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "7% paralanguage",
+                                    "55% paralanguage",
+                                    "85% paralanguage",
+                                    "38% paralanguage"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p4",
+                            "pageType": "question",
+                            "headline": "What does rising voice pitch typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Calm confidence",
+                                    "Complete boredom",
+                                    "Deep concentration",
+                                    "Stress or excitement"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Speed Reveals Mental State",
+                            "body": "Speaking speed directly correlates with emotional arousal. Rapid speech indicates excitement, nervousness, or urgency. Slow speech suggests careful thought, sadness, or deliberate control. Changes in pace reveal shifting emotional states.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Volume Control Shows Confidence",
+                            "body": "Voice volume reflects confidence and emotional state. Strong, clear voices project authority and self-assurance. Quiet voices may indicate insecurity or respect for others. Sudden volume changes often signal emotional reactions.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Pauses Speak Volumes",
+                            "body": "Strategic pauses demonstrate confidence and control. Excessive pauses might indicate uncertainty or deception. Filled pauses with 'um' and 'uh' show nervousness. Comfortable silence reflects confidence and thoughtfulness.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Breathing Affects Voice Quality",
+                            "body": "Emotional states change breathing patterns, which directly impact voice quality. Anxiety creates shallow breathing and strained voice. Confidence produces deep breathing and rich vocal tone. Voice quality reflects inner emotional state.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p9",
+                            "pageType": "question",
+                            "headline": "What do excessive vocal pauses often indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Uncertainty or deception",
+                                    "Strong confidence",
+                                    "Deep expertise",
+                                    "Casual comfort"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p10",
+                            "pageType": "question",
+                            "headline": "How does anxiety typically affect voice quality?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates rich vocal tone",
+                                    "Produces deeper pitch",
+                                    "Creates strained voice",
+                                    "Enhances vocal clarity"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Vocal Matching and Rapport",
+                            "body": "People unconsciously match vocal patterns with those they like. Similar speech speed, volume, and tone indicate rapport and connection. Deliberate vocal matching can help build relationships and influence others positively.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Detecting Vocal Deception",
+                            "body": "Voice changes often accompany deception attempts. Higher pitch, increased speed, and vocal tension frequently occur during lies. However, these same changes can indicate nervousness, so consider context and baseline behavior.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Practical Voice Analysis",
+                            "body": "Practice listening to voice patterns in every conversation. Notice how your own voice changes with different emotions and stress levels. Record yourself speaking in various states to understand your vocal patterns better.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-8",
+                    "title": "Deception Detection Fundamentals",
+                    "order": 8,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Deception Creates Internal Conflict",
+                            "body": "Lying generates internal stress because it conflicts with natural truth-telling tendencies. This cognitive dissonance manifests through body language inconsistencies and involuntary stress responses that trained observers can detect.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Baseline Behavior is Critical",
+                            "body": "Effective deception detection requires knowing someone's normal behavior patterns. Everyone has unique stress responses and comfort gestures. Deviations from baseline behavior, not isolated signals, indicate potential deception.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p3",
+                            "pageType": "question",
+                            "headline": "What is essential for detecting deception?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Reading facial expressions only",
+                                    "Focusing on hand movements",
+                                    "Knowing baseline behavior",
+                                    "Watching eye contact patterns"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Micro-Expression Leakage",
+                            "body": "True emotions leak through micro-expressions before conscious control kicks in. During deception, brief flashes of stress, fear, or guilt may appear before being suppressed. These involuntary expressions last mere fractions of seconds.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Voice Changes Under Deception",
+                            "body": "Lying typically increases vocal stress, creating higher pitch, faster speech, and vocal tension. The voice may crack or become strained. However, some practiced liars learn to control these obvious tells.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Hand-to-Face Increases",
+                            "body": "Deceptive individuals often unconsciously touch their face more frequently. Covering the mouth, touching the nose, or rubbing the neck can indicate discomfort with spoken words. These self-soothing gestures help manage internal stress.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Eye Movement Patterns",
+                            "body": "Contrary to popular belief, liars don't always avoid eye contact. Some maintain intense eye contact to appear trustworthy. Instead, watch for irregular blinking patterns, rapid eye movements, or pupils that don't match lighting conditions.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p8",
+                            "pageType": "question",
+                            "headline": "How do vocal patterns typically change during deception?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Voice becomes deeper and slower",
+                                    "Pitch increases with tension",
+                                    "Volume decreases significantly",
+                                    "Speech becomes more articulate"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Body Positioning Changes",
+                            "body": "Deceptive people often create physical barriers or increase distance. They might cross arms, place objects between themselves and others, or angle their body away. These defensive positions help manage the discomfort of lying.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p10",
+                            "pageType": "question",
+                            "headline": "What do defensive body positions during conversation suggest?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complete comfort and openness",
+                                    "Strong emotional connection",
+                                    "Casual relaxed interaction",
+                                    "Discomfort or deception"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Timing Inconsistencies",
+                            "body": "Watch for timing mismatches between words and gestures. Honest expressions synchronize naturally with speech. During deception, gestures might lag behind words or appear forced and mechanical rather than fluid.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Cluster Reading is Essential",
+                            "body": "Never rely on single deception indicators. Look for clusters of stress signals appearing together - increased blinking, vocal tension, defensive posturing, and facial touching. Multiple simultaneous signals increase accuracy significantly.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Context and Stakes Matter",
+                            "body": "Consider what someone has to gain or lose by lying. High-stakes situations increase stress responses and deception signals. Low-stakes lies may produce fewer detectable changes. Always evaluate the motivation and consequences.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Avoiding False Accusations",
+                            "body": "Remember that stress signals don't always indicate deception. Nervousness, anxiety, and discomfort can produce similar body language. Always consider alternative explanations before concluding someone is lying.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-9",
+                    "title": "Projecting Confidence and Authority",
+                    "order": 9,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Confidence is Contagious",
+                            "body": "Confident body language influences both how others perceive you and how you feel about yourself. Research shows that adopting confident postures actually increases confidence hormones, creating a positive feedback loop.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Posture Powers Perception",
+                            "body": "Stand tall with shoulders back and chest open to project authority instantly. This expansive posture takes up space and signals dominance. It also improves breathing and energy levels, making you feel more confident naturally.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Eye Contact Commands Respect",
+                            "body": "Strong eye contact demonstrates confidence and trustworthiness. Maintain steady gaze without staring aggressively. Look people in the eye when speaking and listening. This shows you have nothing to hide and value their attention.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Slow Movements Show Control",
+                            "body": "Confident people move deliberately and purposefully. Rushed, jerky movements suggest nervousness or lack of control. Slow your gestures, speech, and movements to project calm authority and thoughtful consideration.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p5",
+                            "pageType": "question",
+                            "headline": "What do slow, deliberate movements typically project?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Calm authority and control",
+                                    "Nervous energy and anxiety",
+                                    "Boredom and disinterest",
+                                    "Aggressive intentions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Voice Tone Conveys Power",
+                            "body": "Lower your voice pitch to sound more authoritative and trustworthy. Speak clearly and at moderate volume. Use pauses strategically to emphasize points and show you're not rushing or nervous about responses.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Hand Gestures Enhance Authority",
+                            "body": "Use open palm gestures to show honesty and approachability. Steeple your fingers when making important points to display expertise. Avoid fidgeting, pointing, or defensive hand positions that undermine your authority.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Space Management Shows Status",
+                            "body": "Confident people take up appropriate space without invading others' territory. Stand with feet shoulder-width apart. Use your arms naturally. Don't shrink or apologize for your presence - you have a right to be there.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p9",
+                            "pageType": "question",
+                            "headline": "How should confident people manage space?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Take appropriate space naturally",
+                                    "Minimize their physical presence",
+                                    "Invade others' personal space",
+                                    "Constantly apologize for space"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What should you avoid to maintain authority?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Clear direct speech",
+                                    "Strategic pauses",
+                                    "Fidgeting and pointing",
+                                    "Open palm gestures"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Facial Expression Control",
+                            "body": "Maintain calm, composed facial expressions even under pressure. A slight smile shows approachability while relaxed features demonstrate confidence. Avoid excessive facial movements that suggest nervousness or insecurity.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Practice Power Poses",
+                            "body": "Before important interactions, spend two minutes in a power pose - arms raised, chest open, taking up space. This increases testosterone and reduces cortisol, chemically boosting your confidence and presence.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-10",
+                    "title": "Reading Situations and Contexts",
+                    "order": 10,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Context Changes Everything",
+                            "body": "The same gesture can mean completely different things in different situations. Crossed arms might indicate cold temperature, defensive attitude, or comfortable relaxation depending on context. Always consider the environment before interpreting signals.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Group Dynamics Affect Behavior",
+                            "body": "People behave differently in groups versus one-on-one interactions. Group settings may suppress natural expressions or create conformity pressure. Notice how someone's body language changes when others join or leave the conversation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Power Dynamics Shape Posture",
+                            "body": "Hierarchical relationships influence body language significantly. Subordinates often mirror superior's postures or adopt more closed positions. Authority figures tend to take up more space and use more expansive gestures.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Environmental Stressors Matter",
+                            "body": "Temperature, noise, crowding, and time pressure all affect body language. Someone might appear defensive due to environmental discomfort rather than interpersonal issues. Separate environmental influences from emotional states.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Cultural Context is Crucial",
+                            "body": "Body language varies dramatically across cultures. Direct eye contact shows respect in Western cultures but may be considered rude in others. Personal space preferences, gesture meanings, and touching norms differ globally.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Time Affects Body Language",
+                            "body": "Energy levels and stress change throughout the day, affecting posture and gestures. Morning meetings might show different body language than late afternoon interactions. Consider fatigue and energy levels when reading others.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p7",
+                            "pageType": "question",
+                            "headline": "Why do hierarchical relationships affect body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They create random behavior",
+                                    "They eliminate all patterns",
+                                    "They have no significant impact",
+                                    "They influence power dynamics"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p8",
+                            "pageType": "question",
+                            "headline": "How do group settings typically affect behavior?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Eliminate all social pressure",
+                                    "May suppress natural expressions",
+                                    "Always increase confidence",
+                                    "Remove cultural influences"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p9",
+                            "pageType": "question",
+                            "headline": "What should you consider before interpreting body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Environmental context",
+                                    "Only facial expressions",
+                                    "Single gesture meaning",
+                                    "Personal preferences"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p10",
+                            "pageType": "question",
+                            "headline": "How does fatigue typically affect body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Changes energy and posture",
+                                    "Has no visible impact",
+                                    "Only affects hand gestures",
+                                    "Improves all expressions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Professional Settings Create Constraints",
+                            "body": "Workplace environments often suppress natural body language expression. Professional norms require controlled, polite behavior that may mask true feelings. Look for subtle signals that break through professional facades.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Practical Context Reading",
+                            "body": "Before analyzing anyone's body language, spend a moment assessing the situation. Note the environment, relationships present, time of day, and any stressors. This contextual awareness dramatically improves your interpretation accuracy.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-11",
+                    "title": "Eye Contact Mastery",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Eyes Are Windows to Soul",
+                            "body": "Eyes reveal more than any other facial feature. They show interest, emotions, intentions, and honesty levels through countless micro-movements. Mastering eye reading gives you unprecedented insight into others' thoughts and feelings.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Pupil Size Shows Interest",
+                            "body": "Pupils dilate when viewing something attractive or interesting, and constrict when seeing something unpleasant. This involuntary response reveals true feelings despite verbal claims. Lighting conditions affect pupils, so consider environmental factors.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Blink Patterns Reveal Stress",
+                            "body": "Normal blinking occurs 15-20 times per minute. Stress, deception, or discomfort increase blink rate significantly. Conversely, intense concentration decreases blinking. These patterns change unconsciously with emotional states.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Gaze Direction Indicates Thinking",
+                            "body": "Eye movements during conversation reveal cognitive processes. Looking up often indicates visual thinking or memory recall. Looking down might suggest internal emotional processing. Side glances can indicate auditory thinking or discomfort.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Eye Contact Duration Matters",
+                            "body": "Appropriate eye contact builds trust and shows confidence. Too little suggests insecurity or deception. Too much becomes aggressive or uncomfortable. Aim for 60-70% eye contact during conversations for optimal rapport.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p6",
+                            "pageType": "question",
+                            "headline": "What is the optimal eye contact percentage in conversations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "30-40% eye contact",
+                                    "60-70% eye contact",
+                                    "90-100% eye contact",
+                                    "0-20% eye contact"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Squinting Patterns",
+                            "body": "Squinting can indicate concentration, skepticism, or visual strain. Slight squinting while listening suggests careful evaluation of information. Excessive squinting might show confusion or disagreement with what's being said.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Eye Blocking Behaviors",
+                            "body": "When people see something unpleasant, they unconsciously try to block their vision. This might involve closing eyes longer than normal blinks, looking away, or even covering eyes with hands. These behaviors show emotional discomfort.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p9",
+                            "pageType": "question",
+                            "headline": "What do eye blocking behaviors typically indicate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "High interest and engagement",
+                                    "Complete understanding",
+                                    "Strong agreement",
+                                    "Emotional discomfort"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Eye Accessing Cues",
+                            "body": "Different eye positions during thinking often correlate with different cognitive processes. While not universal, many people look up when visualizing, down when accessing emotions, and to sides when processing auditory information.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Cultural Eye Contact Norms",
+                            "body": "Eye contact rules vary dramatically across cultures. Western cultures value direct eye contact as showing honesty and confidence. Some Asian and African cultures consider prolonged eye contact disrespectful, especially with authority figures.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Eye Contact in Deception",
+                            "body": "Contrary to popular belief, many liars maintain more eye contact than truth-tellers to appear trustworthy. Instead of just duration, watch for intensity, timing, and naturalness of eye contact patterns during potentially deceptive statements.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Improving Your Eye Contact",
+                            "body": "Practice comfortable eye contact by looking at the triangle formed by someone's eyes and mouth. This creates the impression of eye contact without the intensity of staring directly into eyes constantly.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Reading Eye Clusters",
+                            "body": "Combine multiple eye behaviors for accurate interpretation. Dilated pupils with increased blinking and brief eye contact might indicate attraction combined with nervousness. Always read eye signals in combination for better accuracy.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-11-p15",
+                            "pageType": "content",
+                            "headline": "Eye Contact Practice",
+                            "body": "Start practicing eye contact awareness in every interaction. Notice how different people use eye contact and how it affects your perception of them. Practice maintaining comfortable eye contact while speaking and listening.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-12",
+                    "title": "Personal Space and Proximity",
+                    "order": 12,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Space Speaks Volumes",
+                            "body": "Personal space preferences reveal relationships, comfort levels, and cultural backgrounds. How people position themselves relative to others communicates as much as their facial expressions or gestures.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Four Zones of Interaction",
+                            "body": "Intimate distance (0-18 inches) is for close relationships. Personal distance (18 inches-4 feet) is for friends. Social distance (4-12 feet) is for business interactions. Public distance (12+ feet) is for presentations and performances.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p3",
+                            "pageType": "question",
+                            "headline": "What is the typical personal distance zone?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "0-18 inches from person",
+                                    "4-12 feet from person",
+                                    "12+ feet from person",
+                                    "18 inches-4 feet"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Invasion Triggers Discomfort",
+                            "body": "When someone enters your preferred space uninvited, it creates automatic discomfort and defensive responses. People step back, cross arms, or angle their bodies away when their space is invaded inappropriately.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Cultural Space Differences",
+                            "body": "Personal space preferences vary dramatically across cultures. Mediterranean and Latin cultures typically prefer closer interaction distances. Northern European and North American cultures value more personal space. These differences can create misunderstandings.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Power and Space Correlation",
+                            "body": "Higher status individuals typically command more personal space and feel comfortable taking up room. Lower status people often yield space and position themselves further away. Space usage reflects and reinforces power dynamics.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Approach Patterns Reveal Intentions",
+                            "body": "How someone approaches you reveals their intentions and emotional state. Direct approaches suggest confidence and clear purpose. Indirect approaches might indicate uncertainty or social politeness. Sudden approaches can signal urgency or aggression.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Creating Comfort with Distance",
+                            "body": "Respecting others' space preferences builds rapport and trust. Start interactions at appropriate distances and pay attention to their comfort signals. If they step back or create barriers, you may be too close.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Environmental Space Constraints",
+                            "body": "Crowded environments force closer proximity than people might prefer naturally. Elevators, public transport, and crowded rooms create unavoidable space invasion. People adapt by avoiding eye contact and minimizing movement.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Romantic Space Dynamics",
+                            "body": "Attraction often involves gradually decreasing personal space. Couples naturally stand and sit closer than friends. Unwelcome advances into intimate space are immediately uncomfortable and create defensive responses.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p11",
+                            "pageType": "question",
+                            "headline": "How do people typically adapt to crowded environments?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increase eye contact significantly",
+                                    "Avoid eye contact and minimize movement",
+                                    "Become more physically expressive",
+                                    "Speak louder to be heard"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Practical Space Reading",
+                            "body": "Observe how different people use space in various settings. Notice who commands more room, who yields space, and how relationships affect proximity preferences. This awareness helps you navigate social situations more effectively.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Respecting Space Boundaries",
+                            "body": "Always start interactions at respectful distances and let others indicate their comfort level with proximity. Respecting space boundaries shows social awareness and builds trust more effectively than aggressive space invasion.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-13",
+                    "title": "Mirroring and Rapport Building",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Mirroring Creates Connection",
+                            "body": "Humans naturally mirror people they like and feel connected to. This unconscious behavior builds rapport and shows empathy. Understanding and using mirroring strategically can dramatically improve your relationships and influence.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Automatic Mirroring Occurs",
+                            "body": "When people feel comfortable and connected, they unconsciously copy each other's posture, gestures, and breathing patterns. This happens naturally without conscious effort and indicates genuine rapport and mutual understanding.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Subtle Mirroring Works Best",
+                            "body": "Effective mirroring should be subtle and natural, not obvious copying. Match general energy levels, posture orientation, and speaking pace rather than mimicking exact gestures. People should feel the connection without noticing the technique.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Voice Mirroring Builds Rapport",
+                            "body": "Matching vocal patterns creates powerful connections. Mirror speaking speed, volume, and tone appropriately. If someone speaks slowly and softly, adjust your pace accordingly. This creates subconscious comfort and understanding.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p5",
+                            "pageType": "question",
+                            "headline": "What type of mirroring is most effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Exact gesture copying",
+                                    "Obvious behavioral mimicking",
+                                    "Exaggerated mirror movements",
+                                    "Subtle natural matching"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p6",
+                            "pageType": "question",
+                            "headline": "What should you match when voice mirroring?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only exact word choices",
+                                    "Speaking speed and tone",
+                                    "Accent and dialect",
+                                    "Volume alone"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Breathing Synchronization",
+                            "body": "Matching someone's breathing rhythm creates deep unconscious connection. This is the most subtle form of mirroring and often happens naturally during intimate conversations. Deliberate breathing sync can deepen rapport significantly.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Posture Matching Guidelines",
+                            "body": "Mirror general posture orientation rather than exact positions. If they lean forward, lean forward slightly. If they cross their legs, consider crossing yours after a brief delay. The key is natural-feeling synchronization.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p9",
+                            "pageType": "question",
+                            "headline": "What is the most subtle form of mirroring?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Breathing synchronization",
+                                    "Hand gesture copying",
+                                    "Exact posture matching",
+                                    "Voice volume matching"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Detecting Natural Mirroring",
+                            "body": "Watch for signs that someone is unconsciously mirroring you - this indicates growing rapport and comfort. When you notice natural mirroring occurring, it's a positive sign that connection is building successfully.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Cultural Mirroring Considerations",
+                            "body": "Mirroring must respect cultural norms and personal boundaries. Some behaviors appropriate in one culture may be uncomfortable in another. Always consider cultural context when using mirroring techniques.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Breaking Negative Patterns",
+                            "body": "If someone displays negative body language, don't mirror it. Instead, model positive, open postures to influence them toward more positive states. Your confident posture can help shift their emotional state.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Practice Natural Mirroring",
+                            "body": "Start practicing subtle mirroring in low-stakes social situations. Pay attention to how people respond when you match their energy and posture. Notice when mirroring feels natural versus forced or obvious.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-14",
+                    "title": "Cultural Body Language Variations",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Culture Shapes Expression",
+                            "body": "While basic emotions are universal, cultural norms heavily influence how those emotions are expressed and interpreted. What seems friendly in one culture may appear rude or aggressive in another.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Eye Contact Cultural Norms",
+                            "body": "Western cultures value direct eye contact as showing honesty and confidence. Many Asian, African, and Latin American cultures consider prolonged eye contact disrespectful, especially with elders or authority figures.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Personal Space Preferences",
+                            "body": "Nordic and North American cultures prefer larger personal space bubbles. Mediterranean, Latin American, and Middle Eastern cultures typically interact at closer distances. These differences can create misunderstandings about intentions.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p4",
+                            "pageType": "question",
+                            "headline": "How do Western cultures typically view direct eye contact?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As disrespectful behavior",
+                                    "As honesty and confidence",
+                                    "As inappropriate aggression",
+                                    "As cultural insensitivity"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Gesture Meanings Vary",
+                            "body": "Hand gestures have different meanings across cultures. The OK sign is positive in America but offensive in Brazil. Thumbs up is encouraging in the West but rude in parts of the Middle East. Always research local gesture meanings.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Touch and Physical Contact",
+                            "body": "Cultures vary dramatically in acceptable touching. Some cultures use frequent touch during conversation, while others maintain strict no-touch policies except with family. Professional handshakes may be the only acceptable contact in some cultures.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p7",
+                            "pageType": "question",
+                            "headline": "Why is it important to research local gesture meanings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Gestures are universal worldwide",
+                                    "To show cultural intelligence",
+                                    "All cultures use identical gestures",
+                                    "Gestures have same meanings everywhere"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Emotional Expression Rules",
+                            "body": "Some cultures encourage open emotional expression while others value emotional restraint. What appears as unfriendliness might actually be cultural training in emotional control. Consider cultural background when interpreting emotional displays.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Power Distance Affects Posture",
+                            "body": "Cultures with high power distance maintain formal postures and respectful body language toward authority. Low power distance cultures allow more relaxed, informal body language even with superiors. Understand these dynamics in multicultural settings.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Gender Expression Differences",
+                            "body": "Cultural norms around gender expression vary widely. Some cultures have strict rules about how men and women should use body language, while others are more flexible. These norms affect posture, gestures, and interaction patterns.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Adapting Your Approach",
+                            "body": "When interacting across cultures, start with more formal, restrained body language and observe local norms. Let others indicate comfort levels with eye contact, proximity, and touch. Adapt your style to match cultural expectations.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Learning Cultural Intelligence",
+                            "body": "Develop cultural body language awareness through observation, research, and respectful questions. Understanding these differences prevents miscommunication and shows respect for other cultures. Cultural fluency includes nonverbal communication mastery.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Universal vs Cultural Signals",
+                            "body": "Focus on universal emotional expressions while being sensitive to cultural display rules. Fear, joy, and anger show similarly worldwide, but cultural norms govern when and how these emotions can be expressed publicly.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Building Cross-Cultural Skills",
+                            "body": "Practice observing body language in diverse settings. Watch international films, attend multicultural events, and travel when possible. The more exposure you have to different cultural expressions, the better your interpretation skills become.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-15",
+                    "title": "Power Dynamics and Authority Signals",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Power Shows Through Posture",
+                            "body": "Authority figures naturally adopt expansive postures that take up space and project confidence. They stand tall, keep shoulders back, and use deliberate movements. These power postures both signal and create feelings of authority.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Space Dominance Patterns",
+                            "body": "Powerful people command and control space differently than those with less authority. They sit at the head of tables, stand in central positions, and feel comfortable taking up room. Others naturally yield space to authority figures.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Gesture Hierarchy Signals",
+                            "body": "Authority figures use broader, more expansive gestures that command attention. They point, use steepling gestures, and make sweeping motions. Subordinates often use smaller, more controlled gestures that don't compete for attention.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Eye Contact Power Dynamics",
+                            "body": "High-status individuals tend to look while speaking and look away while listening. Lower-status people do the opposite - looking while listening and looking away while speaking. This pattern reflects and reinforces power relationships.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Voice Authority Indicators",
+                            "body": "Powerful voices are typically lower in pitch, slower in pace, and more controlled. Authority figures use strategic pauses and speak with certainty. They don't seek approval through rising intonation at sentence endings.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Timing and Power",
+                            "body": "Authority figures control timing in interactions. They arrive when they choose, speak when ready, and end conversations on their terms. Others adapt to their timing preferences, demonstrating the power dynamic through schedule deference.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Physical Elevation Advantages",
+                            "body": "Height conveys authority, which is why platforms, raised seating, and standing positions increase perceived power. Judges sit elevated, executives have tall chairs, and speakers use stages. Physical elevation translates to psychological authority.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Touch and Power Relationships",
+                            "body": "Higher-status individuals typically initiate physical contact like handshakes, shoulder touches, or back pats. Lower-status people wait to be touched first. This pattern maintains and reinforces hierarchical relationships through physical interactions.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Interruption Patterns",
+                            "body": "Authority figures interrupt more frequently and are interrupted less often. They control conversation flow and topic changes. Lower-status individuals yield speaking time and wait for permission to speak or change subjects.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Relaxation and Power",
+                            "body": "Paradoxically, powerful people often appear more relaxed because they feel secure in their position. They can afford to be casual while others remain formal and alert. This relaxed confidence further reinforces their authority.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Mirroring Power Dynamics",
+                            "body": "Lower-status individuals typically mirror higher-status people, not the reverse. Bosses don't copy employee postures, but employees often unconsciously mirror their superiors. This mirroring reinforces the power hierarchy.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p12",
+                            "pageType": "question",
+                            "headline": "How do authority figures typically use space?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Minimize their physical presence",
+                                    "Avoid central positioning",
+                                    "Command and control space",
+                                    "Always yield to others"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p13",
+                            "pageType": "question",
+                            "headline": "Who typically initiates physical contact in power relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Higher-status individuals",
+                                    "Lower-status individuals",
+                                    "No one initiates contact",
+                                    "Both equally initiate"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Using Power Postures Ethically",
+                            "body": "Understanding power dynamics helps you navigate hierarchical situations more effectively. Use confident postures to project competence, but balance authority with approachability. Power should be used to inspire and lead, not intimidate or dominate.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-15-p15",
+                            "pageType": "content",
+                            "headline": "Practical Power Reading",
+                            "body": "Observe power dynamics in every group setting. Notice who controls space, timing, and conversation flow. Understanding these patterns helps you navigate workplace politics and social hierarchies more successfully.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-16",
+                    "title": "Reading Emotional States",
+                    "order": 16,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Emotions Create Physical Patterns",
+                            "body": "Each emotional state produces characteristic body language patterns. Fear creates tension and withdrawal, joy opens the body and increases animation, while anger generates tight muscles and aggressive postures.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Happiness Opens the Body",
+                            "body": "Genuine happiness creates open, expansive body language. Shoulders relax, arms uncross, and posture becomes more upright. Authentic smiles engage the entire face, creating crow's feet and lifted cheeks that fake smiles cannot replicate.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Sadness Creates Collapse",
+                            "body": "Sadness physically deflates the body. Shoulders slump, head drops, and the chest caves inward. Movement becomes slower and less energetic. The entire body appears to be pulled downward by emotional gravity.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Anger Tightens Everything",
+                            "body": "Anger creates visible physical tension throughout the body. Jaw muscles clench, fists form, and shoulders rise. The body prepares for conflict with increased muscle tension and aggressive posturing that signals potential threat.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Fear Triggers Protection Mode",
+                            "body": "Fear makes the body contract and protect vital organs. People cross arms, hunch shoulders, and may step backward. Facial expressions show widened eyes and raised eyebrows as the system prepares for potential danger.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p6",
+                            "pageType": "question",
+                            "headline": "How does genuine happiness typically affect body language?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates open, expansive posture",
+                                    "Causes physical collapse",
+                                    "Generates muscle tension",
+                                    "Triggers protective positions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Surprise Shows Suddenly",
+                            "body": "Surprise creates rapid, involuntary responses - raised eyebrows, widened eyes, and dropped jaw. The body freezes momentarily as the brain processes unexpected information. These reactions happen too quickly to control consciously.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Disgust Creates Distance",
+                            "body": "Disgust makes people physically recoil and create distance from the offensive stimulus. The nose wrinkles, upper lip raises, and the body leans or steps away. This primitive response protects from potentially harmful substances.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Anxiety Shows in Movement",
+                            "body": "Anxiety increases nervous movement and fidgeting. People tap fingers, shift weight, play with objects, or engage in self-soothing behaviors. The nervous system's arousal creates visible restlessness and repetitive movements.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Confidence Expands Presence",
+                            "body": "Confidence creates expansive, stable body language. People stand tall, use broad gestures, and maintain steady eye contact. Their movements appear deliberate and controlled rather than nervous or reactive.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Mixed Emotions Show Conflict",
+                            "body": "When people experience conflicting emotions, their body language may appear inconsistent or rapidly changing. Someone might smile while crossing their arms or laugh nervously while stepping backward - revealing internal emotional conflict.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Reading Emotional Transitions",
+                            "body": "Pay attention to emotional changes during conversations. Watch for shifts from open to closed postures, changes in facial expressions, or sudden movement patterns. These transitions reveal emotional reactions to specific topics or interactions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p13",
+                            "pageType": "question",
+                            "headline": "What characterizes body language during mixed emotions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfectly consistent patterns",
+                                    "Inconsistent or changing signals",
+                                    "Complete absence of signals",
+                                    "Only positive expressions"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-16-p14",
+                            "pageType": "content",
+                            "headline": "Practical Emotion Reading",
+                            "body": "Practice identifying emotional states in various settings. Watch people in different situations and try to identify their emotional states before hearing them speak. This skill improves with deliberate practice and careful observation.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "body_language_decoder-1-17",
+                    "title": "Integrating Body Language Mastery",
+                    "order": 17,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "body_language_decoder-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Synthesis Creates Mastery",
+                            "body": "True body language expertise comes from integrating all elements - facial expressions, posture, gestures, voice, and context. Individual signals provide clues, but combinations reveal the complete picture of someone's internal state.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Context Always Trumps Signals",
+                            "body": "Environmental factors, cultural background, and situational pressures heavily influence body language interpretation. A crossed-arms posture might indicate cold temperature, not defensiveness. Always consider context before drawing conclusions.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p3",
+                            "pageType": "question",
+                            "headline": "What is essential for true body language expertise?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focusing on single gestures",
+                                    "Ignoring environmental factors",
+                                    "Reading only facial expressions",
+                                    "Integrating all body language elements"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Baseline Behavior Matters Most",
+                            "body": "Effective body language reading requires establishing someone's normal behavioral patterns first. Deviations from baseline behavior are more significant than isolated gestures. Spend time observing before making interpretations.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Timing Reveals Authenticity",
+                            "body": "Authentic body language synchronizes naturally with speech and emotions. Forced or delayed gestures suggest deception or discomfort. Pay attention to timing between words, gestures, and facial expressions for accuracy.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Cultural Sensitivity Required",
+                            "body": "Apply body language knowledge with cultural awareness and respect. What seems rude in one culture may be perfectly polite in another. Adapt your interpretations and responses based on cultural context and individual preferences.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Ethical Reading Principles",
+                            "body": "Use body language skills ethically to improve relationships and communication, not to manipulate or harm others. Respect privacy, avoid making hasty judgments, and remember that everyone deserves dignity regardless of their nonverbal signals.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Continuous Learning Required",
+                            "body": "Body language mastery is an ongoing journey requiring constant practice and refinement. Keep observing, learning, and adjusting your interpretations. Stay curious and open to new insights about human nonverbal communication.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Self-Awareness Improves Skills",
+                            "body": "Understanding your own body language patterns makes you better at reading others. Notice how your nonverbal signals change with different emotions and situations. This self-knowledge enhances your overall interpretation abilities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Practice in Real Situations",
+                            "body": "Apply your body language skills in everyday interactions. Practice reading colleagues, friends, and family members in various contexts. Real-world application develops intuition and accuracy that theoretical knowledge alone cannot provide.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p11",
+                            "pageType": "question",
+                            "headline": "How does self-awareness improve body language skills?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It eliminates all interpretation errors",
+                                    "It enhances overall reading abilities",
+                                    "It makes you immune to deception",
+                                    "It removes cultural barriers"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Building Trust Through Understanding",
+                            "body": "Use your body language knowledge to create more comfortable, trustworthy interactions. Mirror appropriately, respect personal space, and project confidence while remaining approachable. These skills build stronger relationships.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "body_language_decoder-1-17-p13",
+                            "pageType": "content",
+                            "headline": "Your Journey Continues",
+                            "body": "You now have the foundation to read and project powerful body language. Continue practicing these skills daily, observing human behavior with new awareness, and refining your interpretation abilities. Mastery comes through consistent application.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 3.8,
+    "tag": "Popular"
+}

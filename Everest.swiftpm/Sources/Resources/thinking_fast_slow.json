@@ -1,0 +1,2610 @@
+{
+    "id": "thinking_fast_slow",
+    "title": "Thinking, Fast and Slow",
+    "description": "Master your decision-making by understanding the two systems that drive your mind. Recognize biases before they control you.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/thinking_fast_slow.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract brain split into two halves showing fast intuitive lightning and slow deliberate gears, sage green balanced integration with charcoal distinct systems, dual processing aesthetic",
+    "altitude": 6100,
+    "durationMinutes": 107,
+    "whatsInside": [
+        "Understand System 1 (fast, intuitive) and System 2 (slow, deliberate)",
+        "Recognize common cognitive biases that distort your judgment",
+        "Learn when to trust your gut and when to think harder",
+        "Make better decisions in business, investing, and life",
+        "Combat overconfidence and improve forecasting",
+        "Build decision-making systems that account for human error"
+    ],
+    "expertReview": {
+        "quote": "Perhaps the most important book on human psychology ever written. It reveals the machinery of thought itself.",
+        "name": "Daniel Kahneman",
+        "title": "Nobel Laureate in Economics"
+    },
+    "chapters": [
+        {
+            "id": "thinking_fast_slow-ch1",
+            "title": "Master Your Mind",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "thinking_fast_slow-1-1",
+                    "title": "The Two Systems of Thinking",
+                    "order": 1,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Your Brain Has Two Modes",
+                            "body": "Your mind operates using two distinct systems that shape every decision you make. Understanding these systems is the key to better choices and avoiding costly mistakes.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Meet System 1",
+                            "body": "System 1 is fast, automatic, and intuitive. It jumps to quick conclusions without much effort. This system helps you recognize faces, complete simple math like 2+2, and sense emotions.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Meet System 2",
+                            "body": "System 2 is slow, deliberate, and analytical. It requires mental effort and concentration. You use System 2 when solving complex problems, learning new skills, or making careful decisions.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p4",
+                            "pageType": "question",
+                            "headline": "Which system would you use to calculate 17 x 24?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "System 2 - requires deliberate calculation",
+                                    "System 1 - it's an automatic response",
+                                    "Both systems work together equally",
+                                    "Neither system handles math problems"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p5",
+                            "pageType": "question",
+                            "headline": "What characterizes System 1 thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fast, automatic, and effortless",
+                                    "Slow, deliberate, and analytical",
+                                    "Only used for complex problems",
+                                    "Requires significant mental energy"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Efficiency Trade-Off",
+                            "body": "System 1 is efficient but prone to errors and biases. System 2 is accurate but mentally exhausting. Your brain defaults to System 1 to conserve energy.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p7",
+                            "pageType": "content",
+                            "headline": "When Systems Clash",
+                            "body": "Sometimes your systems disagree. System 1 might feel something is right while System 2 calculates it's wrong. This internal conflict affects your decision-making daily.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p8",
+                            "pageType": "question",
+                            "headline": "Why does your brain prefer System 1?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It produces more accurate results",
+                                    "It handles complex problems better",
+                                    "It works faster than System 2",
+                                    "It conserves mental energy efficiently"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p9",
+                            "pageType": "content",
+                            "headline": "The Cognitive Miser",
+                            "body": "Your brain is a 'cognitive miser' - it avoids unnecessary mental work. This tendency keeps you efficient but can lead to shortcuts that compromise judgment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Financial Implications",
+                            "body": "These systems dramatically impact your financial decisions. System 1 drives impulse purchases while System 2 enables careful budgeting and investment analysis.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Recognizing System Dominance",
+                            "body": "Learn to identify which system is driving your decisions. Quick gut reactions signal System 1, while careful analysis indicates System 2 engagement.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p12",
+                            "pageType": "content",
+                            "headline": "The Awareness Advantage",
+                            "body": "Simply knowing about these systems improves your thinking. Awareness helps you pause System 1 reactions and engage System 2 when needed.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Building Better Habits",
+                            "body": "You can train yourself to recognize when important decisions require System 2 thinking. This skill becomes automatic with practice and attention.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p14",
+                            "pageType": "question",
+                            "headline": "What happens when you become aware of these two systems?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "System 1 becomes completely unreliable",
+                                    "System 2 starts working automatically",
+                                    "You eliminate all cognitive biases",
+                                    "You can choose when to engage each system"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Your Journey Begins",
+                            "body": "Understanding these systems is your foundation for better decision-making. Next, we'll explore how System 1's speed creates both opportunities and traps.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-2",
+                    "title": "System 1: Fast and Automatic",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The Speed of Intuition",
+                            "body": "System 1 processes information in milliseconds. It recognizes patterns, interprets facial expressions, and makes instant judgments without conscious effort.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Automatic Associations",
+                            "body": "Your mind constantly makes automatic connections. When you see 'bread and...', you instantly think 'butter'. These associations shape your immediate reactions to everything.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Emotional First Impressions",
+                            "body": "System 1 creates instant emotional reactions before you consciously process information. You like or dislike things within seconds of encountering them.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p4",
+                            "pageType": "question",
+                            "headline": "Which task relies primarily on System 1?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Calculating your monthly budget",
+                                    "Detecting anger in someone's voice",
+                                    "Solving a complex word problem",
+                                    "Learning a new language"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p5",
+                            "pageType": "content",
+                            "headline": "The Confidence Trap",
+                            "body": "System 1 generates strong feelings of confidence even when operating on limited information. This confidence can be misleading and lead to overconfident decisions.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Pattern Recognition Power",
+                            "body": "System 1 excels at recognizing patterns from your experience. Chess masters instantly see good moves, and doctors quickly spot symptoms through pattern matching.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p7",
+                            "pageType": "question",
+                            "headline": "What makes System 1 confident in its judgments?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It carefully analyzes all available data",
+                                    "It consults System 2 before deciding",
+                                    "It uses complex logical reasoning",
+                                    "It operates on limited but familiar information"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p8",
+                            "pageType": "question",
+                            "headline": "System 1 thinking is characterized by:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Slow, deliberate, and analytical",
+                                    "Fast, automatic, and associative",
+                                    "Complex, effortful, and rule-based",
+                                    "Careful, statistical, and logical"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Mental Shortcuts Everywhere",
+                            "body": "System 1 uses mental shortcuts called heuristics to make quick decisions. These shortcuts are usually helpful but can sometimes lead to systematic errors.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p10",
+                            "pageType": "content",
+                            "headline": "The Story Machine",
+                            "body": "System 1 automatically creates coherent stories from limited information. It fills in gaps and creates narratives even when evidence is incomplete or contradictory.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Jumping to Conclusions",
+                            "body": "System 1 jumps to conclusions based on limited evidence. This tendency helps you react quickly to danger but can cause errors in complex situations.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Financial Snap Judgments",
+                            "body": "In financial decisions, System 1 might make you buy stocks because company names sound familiar or avoid investments that seem too complicated to understand quickly.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p13",
+                            "pageType": "content",
+                            "headline": "When Speed Matters",
+                            "body": "System 1 shines in situations requiring quick responses and familiar patterns. Emergency reactions, social interactions, and routine decisions benefit from its speed.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p14",
+                            "pageType": "question",
+                            "headline": "System 1's biggest strength is also its weakness because:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Speed enables quick responses but reduces accuracy",
+                                    "It only works with familiar situations",
+                                    "It requires too much mental energy",
+                                    "It cannot process emotional information"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-2-p15",
+                            "pageType": "content",
+                            "headline": "Harnessing System 1",
+                            "body": "Understanding System 1 helps you leverage its strengths while guarding against its weaknesses. Recognize when its quick judgments serve you and when they don't.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-3",
+                    "title": "System 2: Slow and Deliberate",
+                    "order": 3,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Effort Engine",
+                            "body": "System 2 is your conscious, effortful thinking. It handles complex calculations, logical reasoning, and careful decision-making that requires sustained attention and mental energy.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Mental Resources Required",
+                            "body": "System 2 thinking drains mental energy like physical exercise drains stamina. After intensive thinking sessions, you feel mentally tired and need recovery time.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Attention and Focus",
+                            "body": "System 2 requires focused attention and can only handle one demanding task at a time. Multitasking complex problems reduces its effectiveness significantly.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Rule-Based Thinking",
+                            "body": "Unlike System 1's associative patterns, System 2 follows logical rules and procedures. It can override intuitive responses when they conflict with logic or evidence.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Statistical Reasoning",
+                            "body": "System 2 handles statistical thinking, probability assessments, and abstract reasoning. It can work with unfamiliar concepts and apply general principles to specific situations.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p6",
+                            "pageType": "content",
+                            "headline": "The Lazy Controller",
+                            "body": "System 2 is inherently 'lazy' - it avoids unnecessary effort. It often accepts System 1's quick suggestions rather than doing the hard work of verification.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p7",
+                            "pageType": "content",
+                            "headline": "When System 2 Activates",
+                            "body": "System 2 engages when you encounter surprising information, violations of expectations, or situations that clearly require careful analysis and systematic thinking.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p8",
+                            "pageType": "question",
+                            "headline": "Which situation would most likely activate System 2?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Recognizing a friend's face",
+                                    "Feeling angry at an insult",
+                                    "Detecting hostility in someone's voice",
+                                    "Comparing investment returns across multiple funds"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Self-Control and Override",
+                            "body": "System 2 provides self-control by overriding System 1's impulses. It helps you resist temptations, stick to diets, and make long-term beneficial decisions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Learning New Skills",
+                            "body": "System 2 drives deliberate learning and skill acquisition. When learning to drive or mastering a new software, System 2 carefully monitors and corrects performance.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p11",
+                            "pageType": "question",
+                            "headline": "What best describes System 2's approach to problems?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fast, automatic, and intuitive",
+                                    "Quick, confident, and associative",
+                                    "Systematic, effortful, and rule-based",
+                                    "Emotional, immediate, and reactive"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Financial Planning Mode",
+                            "body": "System 2 excels at financial planning, comparing options systematically, and calculating long-term consequences. It helps you resist impulse purchases and make reasoned investment decisions.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Engaging System 2",
+                            "body": "You can deliberately activate System 2 by asking specific questions, seeking disconfirming evidence, and forcing yourself to consider alternatives before important decisions.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-4",
+                    "title": "The Anchoring Effect",
+                    "order": 4,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-4-p1",
+                            "pageType": "content",
+                            "headline": "First Impressions Stick",
+                            "body": "The anchoring effect occurs when the first number you encounter influences all subsequent judgments. This initial value becomes an 'anchor' that pulls your estimates toward it.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Unconscious Influence",
+                            "body": "Anchoring happens automatically and unconsciously. Even when you know a number is random or irrelevant, it still influences your judgments in predictable ways.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p3",
+                            "pageType": "content",
+                            "headline": "The Adjustment Process",
+                            "body": "After encountering an anchor, you adjust away from it toward what seems reasonable. However, these adjustments are typically insufficient - you remain closer to the anchor than accuracy warrants.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Negotiation Anchors",
+                            "body": "In negotiations, the first offer creates a powerful anchor. Whether buying a car or negotiating salary, the initial number significantly influences the final agreed price.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Real Estate Prices",
+                            "body": "Real estate agents exploit anchoring by showing overpriced properties first. These high prices become anchors that make subsequent properties seem reasonably priced by comparison.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Restaurant Menu Strategy",
+                            "body": "Restaurants place expensive items at the top of menus to anchor high prices. This makes mid-range options appear moderate and increases average order values.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p7",
+                            "pageType": "question",
+                            "headline": "Why are insufficient adjustments from anchors so common?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "People lack basic math skills",
+                                    "System 2 gets tired and stops adjusting",
+                                    "Anchors are usually accurate estimates",
+                                    "Most people ignore anchor information"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Investment Anchoring",
+                            "body": "Investors anchor on purchase prices when deciding whether to sell stocks. They become reluctant to sell at losses, even when the investment's future prospects are poor.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Self-Generated Anchors",
+                            "body": "You create your own anchors by considering possibilities. Simply thinking 'Could this stock reach $100?' makes $100 an anchor for your valuation, even hypothetically.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Random Number Anchoring",
+                            "body": "Even completely random numbers create anchoring effects. People shown higher random numbers give higher estimates for everything from historical dates to product prices.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Breaking Free from Anchors",
+                            "body": "To reduce anchoring effects, deliberately consider why an anchor might be wrong. Generate alternative anchors and force yourself to think of reasons for very different values.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p12",
+                            "pageType": "question",
+                            "headline": "What strategy best reduces anchoring bias?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Ignoring all numerical information",
+                                    "Using only System 1 thinking",
+                                    "Considering extreme alternative values",
+                                    "Making decisions as quickly as possible"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p13",
+                            "pageType": "question",
+                            "headline": "Anchoring effects occur because:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "People are naturally bad at math",
+                                    "First numbers become reference points",
+                                    "System 1 ignores numerical information",
+                                    "Adjustments from anchors are typically excessive"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p14",
+                            "pageType": "content",
+                            "headline": "Strategic Anchoring",
+                            "body": "Understanding anchoring helps you set better negotiation starting points and recognize when others are trying to anchor your judgments. Awareness is your first defense.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-4-p15",
+                            "pageType": "content",
+                            "headline": "Beyond Numbers",
+                            "body": "Anchoring affects more than numerical estimates. First impressions of people, initial options presented, and early experiences create anchors for all subsequent judgments.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-5",
+                    "title": "Availability Heuristic",
+                    "order": 5,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Easy to Recall",
+                            "body": "The availability heuristic makes you judge probability by how easily examples come to mind. Events that are more memorable seem more likely to occur than they actually are.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Media Influence",
+                            "body": "Media coverage creates availability bias by making certain events more memorable. Plane crashes receive extensive coverage, making flying seem more dangerous than driving.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p3",
+                            "pageType": "question",
+                            "headline": "Why do people overestimate the likelihood of shark attacks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Shark attacks are actually very common",
+                                    "Most people live near the ocean",
+                                    "Shark attacks receive dramatic media coverage",
+                                    "People have poor statistical reasoning"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Recent Events Bias",
+                            "body": "Recent events feel more probable than distant ones. A recent market crash makes future crashes seem more likely, even when actual probability hasn't changed.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Personal Experience Weight",
+                            "body": "Your personal experiences create stronger availability than statistics or reports. One bad experience with a brand affects your judgment more than positive reviews from strangers.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Vivid vs Abstract",
+                            "body": "Vivid, concrete examples create stronger availability than abstract statistics. A single story about investment fraud affects judgment more than data about fraud rates.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p7",
+                            "pageType": "question",
+                            "headline": "Availability bias is strongest when:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Events are statistically common",
+                                    "You have detailed numerical data",
+                                    "Examples are abstract and theoretical",
+                                    "Examples are vivid and emotionally charged"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Investment Bubbles",
+                            "body": "Availability drives investment bubbles when success stories become widely known. Easy recall of people getting rich from tech stocks or real estate inflates probability estimates.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Insurance Decisions",
+                            "body": "People buy flood insurance after floods but not before. Recent disasters create availability that makes future similar events seem more likely and worth protecting against.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Social Proof Amplification",
+                            "body": "Social media amplifies availability by making certain experiences seem more common. Seeing multiple posts about bad customer service makes poor service seem more frequent.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Career Choice Bias",
+                            "body": "Career choices often reflect availability bias. Meeting successful entrepreneurs makes entrepreneurship seem more likely to succeed than stable employment statistics suggest.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p12",
+                            "pageType": "question",
+                            "headline": "To reduce availability bias, you should:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Rely primarily on personal experiences",
+                                    "Seek out statistical base rate information",
+                                    "Focus on the most memorable examples",
+                                    "Make decisions based on recent events"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Counter-Availability Strategy",
+                            "body": "Combat availability bias by actively seeking base rate statistics. Before judging likelihood, ask 'How often does this actually happen?' rather than 'Can I remember examples?'",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-6",
+                    "title": "Representativeness Heuristic",
+                    "order": 6,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Similarity Judgments",
+                            "body": "The representativeness heuristic makes you judge probability by similarity to mental prototypes. You assess likelihood by asking 'How much does this resemble what I expect?'",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Stereotyping Mechanism",
+                            "body": "This heuristic drives stereotyping by making you assume individuals match group characteristics. Meeting a quiet librarian reinforces the 'typical librarian' stereotype in memory.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Base Rate Neglect",
+                            "body": "Representativeness causes you to ignore base rates - the actual frequency of events. You focus on similarity rather than statistical likelihood.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p4",
+                            "pageType": "content",
+                            "headline": "The Linda Problem",
+                            "body": "People say feminist bank teller Linda is more likely than just bank teller Linda, violating basic probability. Representativeness overrides logical thinking about combined probabilities.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Small Sample Confidence",
+                            "body": "Representativeness makes small samples seem as reliable as large ones. A few good months of investment returns feel as meaningful as years of data.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Randomness Expectations",
+                            "body": "You expect random sequences to 'look random' with no patterns. Truly random coin flips seem less likely than alternating sequences that appear more representative of randomness.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Hot Hand Fallacy",
+                            "body": "In sports and investing, representativeness creates belief in 'hot streaks.' Success patterns seem to represent skill even when they're statistically normal random clusters.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p8",
+                            "pageType": "question",
+                            "headline": "Base rate neglect occurs when you:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on statistical frequencies",
+                                    "Use systematic probability calculations",
+                                    "Focus on similarity over actual frequency",
+                                    "Rely primarily on System 2 thinking"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Investment Stereotypes",
+                            "body": "Investors use representativeness to judge companies. A tech company with young leadership seems more likely to succeed because it matches the 'innovative startup' prototype.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Regression Ignorance",
+                            "body": "Representativeness ignores regression to the mean. Exceptional performance seems to represent true ability rather than temporary deviation from average performance levels.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p11",
+                            "pageType": "question",
+                            "headline": "Which best describes the representativeness heuristic?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Judging by how easily examples come to mind",
+                                    "Being influenced by initial anchor values",
+                                    "Overweighting losses compared to equivalent gains",
+                                    "Assessing probability by similarity to prototypes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p12",
+                            "pageType": "question",
+                            "headline": "To overcome representativeness bias, you should:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always consult base rate statistics first",
+                                    "Focus more on vivid personal examples",
+                                    "Trust your immediate intuitive judgments",
+                                    "Ignore all statistical information completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Statistical Thinking",
+                            "body": "Combat representativeness by thinking statistically. Ask about base rates, sample sizes, and regression effects before making judgments based on pattern similarity alone.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-7",
+                    "title": "Loss Aversion Basics",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Losses Hurt More",
+                            "body": "Loss aversion means losing something feels about twice as bad as gaining the same thing feels good. Your brain weighs losses more heavily than equivalent gains.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Evolutionary Origins",
+                            "body": "Loss aversion evolved as survival protection. In ancestral environments, losing resources could mean death, while gaining extra resources provided diminishing survival benefits.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p3",
+                            "pageType": "question",
+                            "headline": "Why do most people reject a 50-50 bet to win $110 or lose $100?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They can't calculate the expected value",
+                                    "The pain of losing $100 exceeds joy of winning $110",
+                                    "They prefer certain outcomes to uncertain ones",
+                                    "They don't understand probability theory"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Endowment Effect",
+                            "body": "Once you own something, losing it feels worse than not having it originally. This endowment effect makes people value items more highly simply because they possess them.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Status Quo Bias",
+                            "body": "Loss aversion creates status quo bias - resistance to change. Any change involves potential losses, so you stick with current situations even when alternatives might be better.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p6",
+                            "pageType": "question",
+                            "headline": "Status quo bias is strongest when:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Changes involve certain gains",
+                                    "Changes involve potential losses",
+                                    "Current situations are clearly suboptimal",
+                                    "Multiple alternatives are available"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Investment Paralysis",
+                            "body": "Loss aversion can prevent beneficial investing. Fear of portfolio losses keeps money in low-return savings accounts, missing long-term wealth building opportunities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p8",
+                            "pageType": "question",
+                            "headline": "Loss aversion affects financial decisions by:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making people overly optimistic about gains",
+                                    "Encouraging excessive risk-taking behavior",
+                                    "Making people avoid beneficial but risky investments",
+                                    "Helping people make perfectly rational choices"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Sunk Cost Trap",
+                            "body": "Loss aversion makes you throw good money after bad. Rather than accept losses from failed investments, you invest more hoping to break even.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Marketing Exploitation",
+                            "body": "Marketers exploit loss aversion with 'limited time offers' and 'last chance' messages. The fear of losing an opportunity motivates purchases more than gaining benefits.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p11",
+                            "pageType": "question",
+                            "headline": "Which marketing message exploits loss aversion?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "'Gain 20% more value with this product!'",
+                                    "'Don't miss out - sale ends tomorrow!'",
+                                    "'Improve your life with our solution!'",
+                                    "'Add this beneficial feature to your plan!'"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Overcoming Loss Aversion",
+                            "body": "Recognize when loss aversion limits beneficial decisions. Frame choices in terms of opportunity costs and long-term outcomes rather than immediate potential losses.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-8",
+                    "title": "Prospect Theory in Practice",
+                    "order": 8,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Expected Value",
+                            "body": "Prospect theory explains how people actually make decisions under uncertainty. It reveals why rational expected value calculations don't predict real human choices.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Reference Point Dependence",
+                            "body": "Your decisions depend on reference points - what you consider your current position. The same outcome feels like a gain or loss depending on your reference point.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Diminishing Sensitivity",
+                            "body": "The difference between $0 and $100 feels larger than between $1000 and $1100. Your sensitivity to changes decreases as amounts get larger from your reference point.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Framing Effects",
+                            "body": "How options are presented dramatically affects choices. '90% survival rate' and '10% mortality rate' describe identical outcomes but create different decisions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p5",
+                            "pageType": "question",
+                            "headline": "Which framing is more likely to encourage a medical procedure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "'5% of patients experience complications'",
+                                    "'95% of patients have no complications'",
+                                    "'1 in 20 patients will have problems'",
+                                    "'There is a small risk of complications'"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Risk Seeking in Losses",
+                            "body": "When facing losses, people become risk-seeking. They prefer gambling to accept certain losses, hoping to avoid any loss at all through risky choices.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p7",
+                            "pageType": "question",
+                            "headline": "When facing potential losses, people typically:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Become more risk-averse than normal",
+                                    "Make perfectly rational calculations",
+                                    "Ignore probability information completely",
+                                    "Become more risk-seeking than normal"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Risk Aversion in Gains",
+                            "body": "When facing potential gains, people become risk-averse. They prefer guaranteed gains over gambling for larger potential gains, even with favorable odds.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Investment Behavior",
+                            "body": "Prospect theory explains why investors sell winning stocks too early (risk aversion in gains) and hold losing stocks too long (risk seeking in losses).",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Insurance Paradox",
+                            "body": "People simultaneously buy insurance (risk aversion) and lottery tickets (risk seeking). These seemingly contradictory behaviors both fit prospect theory predictions.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p11",
+                            "pageType": "question",
+                            "headline": "Prospect theory predicts people will:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always maximize expected monetary value",
+                                    "Show consistent risk preferences across situations",
+                                    "Ignore framing effects in their decisions",
+                                    "Show different risk preferences for gains vs losses"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p12",
+                            "pageType": "question",
+                            "headline": "Reference points matter because:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They determine absolute wealth levels",
+                                    "Identical outcomes feel different relative to them",
+                                    "They eliminate all cognitive biases",
+                                    "They make calculations more accurate"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Practical Applications",
+                            "body": "Understanding prospect theory helps you recognize when framing affects your decisions. Consider how different presentations of the same information influence your choices.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Better Decision Framework",
+                            "body": "Use prospect theory insights to improve decisions. Consider multiple reference points, reframe options in different ways, and recognize when your risk preferences shift inappropriately.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-9",
+                    "title": "Overconfidence Bias",
+                    "order": 9,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Illusion of Knowledge",
+                            "body": "Overconfidence bias makes you believe you know more than you actually do. This false certainty leads to poor decisions and inadequate preparation for uncertainty.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Three Types of Overconfidence",
+                            "body": "Overconfidence appears in three forms: overestimating performance, overplacement relative to others, and overprecision about accuracy. All three create systematic decision errors.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Planning Fallacy Connection",
+                            "body": "Overconfidence drives the planning fallacy - underestimating time, costs, and risks while overestimating benefits. Projects consistently exceed budgets and timelines.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Investment Overtrading",
+                            "body": "Overconfident investors trade too frequently, believing they can beat the market. This excessive trading reduces returns through fees and poor timing decisions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Calibration Problems",
+                            "body": "People are poorly calibrated - when 90% confident, they're right only about 70% of the time. This miscalibration leads to insufficient contingency planning and risk management.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p6",
+                            "pageType": "content",
+                            "headline": "The Dunning-Kruger Effect",
+                            "body": "The least competent people often show the most overconfidence. Lack of skill prevents recognizing incompetence, creating dangerous combinations of ignorance and certainty.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Expert Overconfidence",
+                            "body": "Even experts suffer from overconfidence, especially outside their domains. Success in one area creates false confidence in unrelated areas requiring different skills.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p8",
+                            "pageType": "question",
+                            "headline": "Overconfidence bias is most dangerous when:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making routine, familiar decisions",
+                                    "Working in teams with diverse perspectives",
+                                    "Making high-stakes, complex decisions",
+                                    "Following established procedures and rules"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p9",
+                            "pageType": "question",
+                            "headline": "Which statement about overconfidence is most accurate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It only affects people with low intelligence",
+                                    "It decreases with expertise and experience",
+                                    "It's worse when people have some knowledge",
+                                    "It only occurs in high-pressure situations"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Entrepreneur Overconfidence",
+                            "body": "Most entrepreneurs exhibit extreme overconfidence about success probabilities. While this drives innovation, it also leads to inadequate planning and unrealistic expectations.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Reducing Overconfidence",
+                            "body": "Combat overconfidence by seeking disconfirming evidence, consulting diverse perspectives, and conducting pre-mortems. Consider what could go wrong before committing to decisions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Reference Class Forecasting",
+                            "body": "Reduce overconfidence by examining similar past situations. Before predicting your project timeline, look at how long similar projects actually took others to complete.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Confidence Intervals",
+                            "body": "Practice making wider confidence intervals for your estimates. Most people make intervals too narrow. Deliberately consider more extreme possibilities to improve accuracy.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Balanced Confidence",
+                            "body": "The goal isn't eliminating confidence but calibrating it accurately. Appropriate confidence enables action while excessive confidence creates unnecessary risks and poor planning.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-10",
+                    "title": "Planning Fallacy",
+                    "order": 10,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Optimistic Time Estimates",
+                            "body": "Planning fallacy makes you consistently underestimate time, costs, and risks while overestimating benefits. Nearly all projects exceed original estimates.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Inside vs Outside View",
+                            "body": "You focus on the specific details of your project (inside view) rather than similar projects' outcomes (outside view). This creates systematic underestimation.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p3",
+                            "pageType": "question",
+                            "headline": "Planning fallacy occurs because people:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on their specific project details",
+                                    "Always consider worst-case scenarios",
+                                    "Use statistical reference class data",
+                                    "Overestimate the probability of delays"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Best-Case Scenarios",
+                            "body": "Your planning typically assumes best-case scenarios where everything goes smoothly. You fail to account for inevitable obstacles, delays, and complications.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Memory Bias",
+                            "body": "You remember past projects' final outcomes more than the struggles during execution. This selective memory makes future projects seem easier than they'll actually be.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p6",
+                            "pageType": "question",
+                            "headline": "What's the most effective way to combat planning fallacy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus more intensely on project details",
+                                    "Ignore all historical comparison data",
+                                    "Add buffer time to initial estimates",
+                                    "Use reference class forecasting methods"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Large Project Disasters",
+                            "body": "Major infrastructure projects regularly exceed budgets by 50-200%. The Sydney Opera House took 14 years instead of 4, and cost 15 times the original estimate.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Personal Project Patterns",
+                            "body": "Planning fallacy affects personal projects too. Home renovations, career changes, and fitness goals consistently take longer and cost more than initially expected.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Startup Failure Rates",
+                            "body": "Most entrepreneurs dramatically underestimate startup risks and time to profitability. High failure rates reflect systematic planning optimism rather than random bad luck.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Reference Class Forecasting",
+                            "body": "Before planning your project, examine how long similar projects took others. Use this outside view as your starting point, then adjust for your specific circumstances.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p11",
+                            "pageType": "question",
+                            "headline": "Reference class forecasting involves:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focusing exclusively on your project's unique features",
+                                    "Starting with similar projects' actual outcomes",
+                                    "Assuming best-case scenario planning",
+                                    "Ignoring all statistical comparison data"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Pre-Mortem Analysis",
+                            "body": "Before starting projects, conduct pre-mortems. Imagine the project failed and identify potential causes. This mental exercise reveals overlooked risks and improves planning.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p13",
+                            "pageType": "question",
+                            "headline": "Pre-mortem analysis helps by:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Guaranteeing project success",
+                                    "Eliminating all possible risks",
+                                    "Revealing overlooked potential problems",
+                                    "Making planning completely unnecessary"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p14",
+                            "pageType": "content",
+                            "headline": "Buffer Time Strategy",
+                            "body": "Add meaningful buffers to your estimates. If something typically takes 2 hours, budget 3. These buffers aren't wasteful - they're realistic acknowledgment of uncertainty.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-10-p15",
+                            "pageType": "content",
+                            "headline": "Learning from Fallacy",
+                            "body": "Track your estimation accuracy over time. Record predictions and actual outcomes to calibrate your planning ability. This feedback improves future estimates significantly.",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-11",
+                    "title": "Confirmation Bias",
+                    "order": 11,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Seeking Supporting Evidence",
+                            "body": "Confirmation bias makes you seek information that confirms your existing beliefs while avoiding or dismissing contradictory evidence. This creates false confidence in your opinions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Selective Attention",
+                            "body": "You naturally notice information that supports your views while ignoring opposing data. This selective attention reinforces existing beliefs without balanced evaluation.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p3",
+                            "pageType": "question",
+                            "headline": "Confirmation bias is strongest when:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Examining unfamiliar topics objectively",
+                                    "Defending personally important beliefs",
+                                    "Following systematic scientific methods",
+                                    "Considering multiple contradictory sources"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p4",
+                            "pageType": "content",
+                            "headline": "Biased Information Search",
+                            "body": "When researching topics, you unconsciously search for sources likely to agree with your position. This creates an illusion of evidence while avoiding challenging perspectives.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Investment Confirmation",
+                            "body": "Investors seek news that supports their stock picks while avoiding negative analysis. This confirmation-seeking behavior prevents objective evaluation of investment decisions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Political Echo Chambers",
+                            "body": "Social media algorithms amplify confirmation bias by showing content that confirms your political views. This creates echo chambers that polarize opinions and reduce understanding.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Hypothesis Testing Bias",
+                            "body": "When testing ideas, you typically try to prove them right rather than prove them wrong. This positive test strategy fails to identify important disconfirming evidence.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Memory Reconstruction",
+                            "body": "Your memory reconstructs past events to be more consistent with current beliefs. You remember supporting evidence more clearly than contradictory information over time.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p9",
+                            "pageType": "question",
+                            "headline": "What's the best strategy to reduce confirmation bias?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Seek only information from trusted sources",
+                                    "Actively search for disconfirming evidence",
+                                    "Rely primarily on intuitive judgments",
+                                    "Avoid complex or contradictory information"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Business Decision Traps",
+                            "body": "Business leaders often surround themselves with yes-men who confirm their strategies. This creates dangerous blind spots and prevents necessary course corrections.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p11",
+                            "pageType": "question",
+                            "headline": "Scientific thinking reduces confirmation bias by:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Assuming all hypotheses are correct",
+                                    "Seeking only supporting evidence",
+                                    "Trying to falsify rather than confirm theories",
+                                    "Ignoring contradictory experimental results"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Devil's Advocate Approach",
+                            "body": "Actively argue against your own positions to identify weaknesses. This devil's advocate approach forces consideration of alternative viewpoints and strengthens decision-making.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Diverse Perspectives",
+                            "body": "Seek out people who disagree with you and understand their reasoning. Diverse perspectives reveal blind spots and improve the quality of your thinking.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Question Your Certainty",
+                            "body": "When you feel very confident about something, that's precisely when confirmation bias is most dangerous. Use high confidence as a signal to seek contradictory evidence.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-12",
+                    "title": "The Halo Effect",
+                    "order": 12,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-12-p1",
+                            "pageType": "content",
+                            "headline": "One Good Thing",
+                            "body": "The halo effect makes one positive characteristic influence your overall judgment. If someone is attractive, you assume they're also intelligent, kind, and successful.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Corporate Halos",
+                            "body": "Successful companies get halos that make all their practices seem brilliant. When Apple succeeds, analysts praise their design, culture, and strategy - ignoring luck and market timing.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p3",
+                            "pageType": "content",
+                            "headline": "CEO Attribution Error",
+                            "body": "Company performance gets attributed to CEO qualities when results are often beyond their control. Great results create leadership halos; poor results destroy reputations unfairly.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p4",
+                            "pageType": "question",
+                            "headline": "The halo effect occurs when:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "People ignore all available information",
+                                    "Multiple independent judgments are made",
+                                    "One characteristic influences overall impressions",
+                                    "Systematic data analysis is conducted"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p5",
+                            "pageType": "question",
+                            "headline": "Which scenario best illustrates the halo effect?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Analyzing each employee skill independently",
+                                    "Thinking attractive people are also smarter",
+                                    "Using statistical performance measures",
+                                    "Considering multiple sources of evidence"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Brand Extension Risks",
+                            "body": "Strong brands extend their halos to new products, sometimes inappropriately. A great phone company's halo doesn't guarantee their cars will be excellent too.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Interview Halos",
+                            "body": "Job interviews suffer from halo effects when early impressions color all subsequent evaluations. Good first answers create halos that boost ratings on unrelated skills.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Investment Halos",
+                            "body": "Successful investment track records create halos that make investors assume future success. Past performance halos often lead to overconfidence and poor future results.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p9",
+                            "pageType": "question",
+                            "headline": "To reduce halo effects in evaluations, you should:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on first impressions only",
+                                    "Evaluate each dimension independently",
+                                    "Rely on overall gut feelings",
+                                    "Consider only the most obvious characteristics"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Academic Halos",
+                            "body": "Students rated as intelligent in one subject get halo effects in unrelated subjects. Teachers unconsciously give higher grades across all areas to students with initial positive impressions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p11",
+                            "pageType": "question",
+                            "headline": "Structured evaluation processes help because they:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Amplify positive first impressions",
+                                    "Force independent assessment of different qualities",
+                                    "Eliminate the need for careful analysis",
+                                    "Rely primarily on intuitive judgments"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Breaking Down Judgments",
+                            "body": "Combat halo effects by evaluating different dimensions separately. Rate communication skills independently from technical knowledge rather than letting one influence the other.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-13",
+                    "title": "Sunk Cost Fallacy",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Throwing Good Money After Bad",
+                            "body": "The sunk cost fallacy makes you continue failing investments because you've already invested so much. Past costs, which can't be recovered, shouldn't influence future decisions.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Escalation of Commitment",
+                            "body": "The more you invest in something, the harder it becomes to quit. This escalation of commitment traps you in losing situations because stopping feels like waste.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p3",
+                            "pageType": "question",
+                            "headline": "The sunk cost fallacy occurs because people:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus only on future costs and benefits",
+                                    "Want to avoid feeling that past investments were wasted",
+                                    "Always make perfectly rational economic decisions",
+                                    "Ignore all financial considerations in decisions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Loss Aversion Connection",
+                            "body": "Sunk cost fallacy connects to loss aversion - abandoning projects feels like accepting losses. This emotional pain keeps you invested in failing ventures longer than logic suggests.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Business Project Traps",
+                            "body": "Companies continue failing projects because they've spent millions. The Concorde supersonic jet continued development despite clear economic problems because of massive sunk investments.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Stock Investment Errors",
+                            "body": "Investors hold losing stocks hoping to break even rather than cutting losses. They sell winners too early but keep losers too long, opposite of optimal investment strategy.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p7",
+                            "pageType": "question",
+                            "headline": "Which thinking pattern drives sunk cost fallacy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "'If I quit now, all my investment was wasted'",
+                                    "'Future prospects look very promising'",
+                                    "'The rational thing is to cut my losses'",
+                                    "'Past investments are irrelevant to future decisions'"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p8",
+                            "pageType": "question",
+                            "headline": "To avoid sunk cost fallacy, focus on:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "How much you've already invested",
+                                    "Avoiding any appearance of waste",
+                                    "Future costs and benefits only",
+                                    "Recovering all past investments"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p9",
+                            "pageType": "question",
+                            "headline": "Sunk cost fallacy is most dangerous when:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Investments are small and recent",
+                                    "Multiple people share decision responsibility",
+                                    "Large personal investments are at stake",
+                                    "Decisions can be easily reversed"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Relationship Sunk Costs",
+                            "body": "People stay in bad relationships partly due to sunk costs - years invested feel too valuable to waste. But future happiness matters more than time already spent.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Career Path Persistence",
+                            "body": "Professionals continue unsuitable careers because of education and experience investments. But career changes, though costly, might provide better long-term outcomes than persistence.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Decision Frameworks",
+                            "body": "Ask 'If I were starting fresh today, would I begin this investment?' This mental reset helps separate sunk costs from rational forward-looking decisions.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Opportunity Cost Focus",
+                            "body": "Consider opportunity costs - what else could you do with future time and money? The best alternative use of resources should drive decisions, not past investments.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Exit Strategy Planning",
+                            "body": "Set clear exit criteria before making investments. Predetermined stopping rules help you abandon failing projects before sunk cost emotions make quitting impossible.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-14",
+                    "title": "Regression to the Mean",
+                    "order": 14,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Extreme Becomes Average",
+                            "body": "Regression to the mean describes how extreme measurements tend to be less extreme on retesting. Outstanding performance usually becomes more ordinary over time.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Statistical Reality",
+                            "body": "Extreme results often contain random elements that don't repeat. A company's exceptional quarter might reflect luck as much as skill, making future performance more average.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Sports Performance Patterns",
+                            "body": "Athletes who perform exceptionally well usually perform closer to their average in subsequent games. 'Sophomore slumps' and 'comeback stories' often reflect regression, not ability changes.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Investment Fund Returns",
+                            "body": "Mutual funds with outstanding performance in one year typically perform closer to average the next year. Past performance warnings exist because of regression to the mean.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Test Score Improvements",
+                            "body": "Students with very low test scores often improve on retests, while high scorers often decline. This regression gets misattributed to teaching methods or student effort.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Business Magazine Curse",
+                            "body": "Companies featured on magazine covers for exceptional performance often struggle afterward. The 'curse' is really regression - extreme success rarely sustains at the same level.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Praise and Punishment",
+                            "body": "People often praise good performance and criticize poor performance. But improvement after criticism and decline after praise might be regression, not feedback effectiveness.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p8",
+                            "pageType": "question",
+                            "headline": "Regression to the mean occurs because:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "People always lose motivation after success",
+                                    "Extreme results often include random factors",
+                                    "Training effects wear off over time",
+                                    "Competition becomes more intense"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Medical Treatment Confusion",
+                            "body": "Patients often feel better after seeking treatment for pain, leading to false beliefs about remedy effectiveness. Natural fluctuations in symptoms create apparent treatment success.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Job Interview Errors",
+                            "body": "Candidates who interview exceptionally well often perform closer to average on the job. Interview skills don't perfectly predict work performance due to regression effects.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Stock Market Patterns",
+                            "body": "Stocks with extreme returns in one period tend toward average returns subsequently. This regression makes momentum investing strategies less reliable than they appear.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p12",
+                            "pageType": "question",
+                            "headline": "Understanding regression helps you:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoid overreacting to extreme performance",
+                                    "Predict exactly when success will end",
+                                    "Guarantee continued exceptional results",
+                                    "Eliminate all randomness from outcomes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p13",
+                            "pageType": "question",
+                            "headline": "Which statement about regression to the mean is most accurate?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It only affects sports performance",
+                                    "It means extreme performance indicates true ability",
+                                    "It suggests extreme results often become more moderate",
+                                    "It proves that luck doesn't influence outcomes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Practical Applications",
+                            "body": "When evaluating extreme performance, consider how much might be due to chance. Don't overreact to single exceptional results - look for consistent patterns over time.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-15",
+                    "title": "The Experiencing Self",
+                    "order": 15,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Living in the Moment",
+                            "body": "Your experiencing self lives in the present moment, feeling emotions and sensations as they occur. This self experiences the actual pleasure or pain of each moment.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Duration Neglect",
+                            "body": "The experiencing self doesn't distinguish between long and short experiences of the same intensity. An hour of moderate pleasure equals ten minutes of the same pleasure.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Moment-by-Moment Reality",
+                            "body": "Your experiencing self processes each moment independently. It doesn't consider how current experiences compare to past events or future expectations naturally.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p4",
+                            "pageType": "question",
+                            "headline": "The experiencing self is characterized by:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Focus on present moment sensations",
+                                    "Constant comparison to past experiences",
+                                    "Planning for future emotional states",
+                                    "Creating coherent life narratives"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Adaptation and Hedonic Treadmill",
+                            "body": "The experiencing self adapts to positive and negative changes. Initial joy from salary increases fades as new income levels become normal baseline experiences.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p6",
+                            "pageType": "question",
+                            "headline": "Duration neglect means that:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Longer experiences always feel better",
+                                    "Time perception is perfectly accurate",
+                                    "Experience length doesn't affect total utility",
+                                    "Short experiences are always preferred"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p7",
+                            "pageType": "question",
+                            "headline": "Which factor most influences the experiencing self?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Past achievements and failures",
+                                    "Current moment intensity and quality",
+                                    "Future goals and aspirations",
+                                    "Social comparisons with others"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Flow States",
+                            "body": "The experiencing self creates flow states when fully engaged in challenging activities. During flow, time perception alters and self-consciousness disappears completely.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Pain and Pleasure Processing",
+                            "body": "Physical and emotional pain register immediately in the experiencing self. Pleasure and pain intensity matter more than duration for this moment-focused perspective.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Mindfulness Connection",
+                            "body": "Mindfulness practices strengthen awareness of the experiencing self. Present-moment attention reveals how different this perspective is from memory-based judgments.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p11",
+                            "pageType": "question",
+                            "headline": "The experiencing self would prefer:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A painful hour followed by pleasant memories",
+                                    "Consistent moderate pleasure throughout an experience",
+                                    "Short intense pleasure followed by neutral time",
+                                    "Delayed gratification for future rewards"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Vacation Experiences",
+                            "body": "While on vacation, your experiencing self enjoys each pleasant moment equally. It doesn't weight the first day more than the last, unlike how memories later recall the trip.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-16",
+                    "title": "The Remembering Self",
+                    "order": 16,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Memory's Story",
+                            "body": "Your remembering self creates narratives from experience. It doesn't accurately record what happened but constructs stories that feel coherent and meaningful over time.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Peak-End Rule",
+                            "body": "Memory judges experiences primarily by their peak moment and how they ended. A painful medical procedure with a gentle ending is remembered more favorably than expected.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Duration Neglect in Memory",
+                            "body": "Your remembering self largely ignores experience duration. A two-week vacation isn't remembered as twice as good as a one-week vacation with identical peak experiences.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p4",
+                            "pageType": "question",
+                            "headline": "The peak-end rule means that:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "All moments of experience are remembered equally",
+                                    "Duration is the most important memory factor",
+                                    "Average experience quality determines memory",
+                                    "Peak moment and ending disproportionately affect memory"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p5",
+                            "pageType": "question",
+                            "headline": "The remembering self differs from the experiencing self because it:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lives entirely in the present moment",
+                                    "Creates stories and narratives from experiences",
+                                    "Accurately records all experiential details",
+                                    "Focuses only on pain and pleasure intensity"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Hindsight Bias",
+                            "body": "The remembering self revises memories to seem more predictable than they were. Past surprises appear obvious in hindsight, distorting learning from experience.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Vacation Paradox",
+                            "body": "People often choose shorter vacations with better endings over longer vacations with mediocre endings. The remembering self's preferences drive future decisions about experiences.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Life Satisfaction Judgments",
+                            "body": "When asked about life satisfaction, you rely on the remembering self's narratives rather than actually experienced well-being. This creates systematic distortions in self-assessment.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Investment Memory Bias",
+                            "body": "Investors remember their successes more vividly than failures, leading to overconfidence. The remembering self's selective recall distorts learning from investment experience.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Choosing for Memory",
+                            "body": "Understanding these two selves helps make better decisions. Consider whether you're optimizing for the experiencing self's moment-to-moment well-being or the remembering self's story.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Practical Implications",
+                            "body": "Design experiences with good endings when memory matters. But prioritize sustained well-being when the experiencing self is more important than future recollections.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Balanced Perspective",
+                            "body": "Both selves matter for different reasons. The experiencing self deserves present moment consideration while the remembering self influences future motivation and decision-making patterns.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-17",
+                    "title": "Financial Decision Making",
+                    "order": 17,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Money and Cognitive Biases",
+                            "body": "Financial decisions are especially vulnerable to cognitive biases. Money triggers emotions, social comparisons, and time pressure that amplify systematic thinking errors.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Investment Behavior Patterns",
+                            "body": "Investors consistently buy high and sell low due to availability bias and overconfidence. Recent market performance creates false impressions of future returns.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p3",
+                            "pageType": "content",
+                            "headline": "Mental Accounting Errors",
+                            "body": "You treat money differently based on its 'mental account' - treating tax refunds as windfall spending money while simultaneously carrying credit card debt at high interest rates.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p4",
+                            "pageType": "question",
+                            "headline": "Which bias most affects investment timing decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Anchoring bias from initial prices",
+                                    "Availability bias from recent market news",
+                                    "Confirmation bias about investment research",
+                                    "Planning fallacy in return expectations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Retirement Planning Failures",
+                            "body": "Planning fallacy and present bias cause systematic undersaving for retirement. Future needs seem less urgent than immediate desires, leading to insufficient long-term preparation.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p6",
+                            "pageType": "question",
+                            "headline": "Mental accounting leads people to:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Treat all money as completely fungible",
+                                    "Make perfectly rational spending decisions",
+                                    "Treat money differently based on its source",
+                                    "Always optimize total financial outcomes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Credit Card Spending",
+                            "body": "Credit cards reduce the pain of payment, leading to overspending through reduced loss aversion. Abstract electronic payments feel less real than physical cash transactions.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Home Buying Anchors",
+                            "body": "Real estate prices anchor heavily on listing prices and recent comparables. Buyers adjust insufficiently from these anchors, leading to systematic overpayment in hot markets.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p9",
+                            "pageType": "question",
+                            "headline": "To improve financial decision-making, focus on:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Following your immediate emotional reactions",
+                                    "Using systematic decision-making processes",
+                                    "Relying primarily on expert predictions",
+                                    "Making decisions as quickly as possible"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Automated Decision Systems",
+                            "body": "Automatic investing and saving systems bypass cognitive biases by removing active decision-making. Dollar-cost averaging reduces timing bias and emotional market reactions.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Diversification Failures",
+                            "body": "Investors often under-diversify due to familiarity bias, overconfidence, and availability heuristics. They overweight familiar companies and recent winners in their portfolios.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Financial Education Limits",
+                            "body": "Traditional financial education focuses on knowledge rather than bias reduction. Understanding compound interest doesn't prevent overconfidence or eliminate present bias in spending decisions.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p13",
+                            "pageType": "content",
+                            "headline": "Behavioral Interventions",
+                            "body": "Small changes in choice architecture significantly improve financial outcomes. Default enrollment in retirement plans and automatic savings increases dramatically boost participation rates.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p14",
+                            "pageType": "content",
+                            "headline": "System 2 Activation",
+                            "body": "For important financial decisions, deliberately engage System 2 thinking. Sleep on major purchases, seek diverse opinions, and use systematic evaluation criteria before committing.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-17-p15",
+                            "pageType": "content",
+                            "headline": "Long-Term Success",
+                            "body": "Successful financial planning requires recognizing and countering your natural biases. Build systems that work with human psychology rather than requiring perfect rationality.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "thinking_fast_slow-1-18",
+                    "title": "Mastering Your Mind",
+                    "order": 18,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "thinking_fast_slow-1-18-p1",
+                            "pageType": "content",
+                            "headline": "Integration and Mastery",
+                            "body": "Mastering your mind means understanding how cognitive biases interact and compound. Multiple biases often work together, making their combined effects more powerful than individual impacts.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p2",
+                            "pageType": "content",
+                            "headline": "Bias Awareness Paradox",
+                            "body": "Simply knowing about biases doesn't eliminate them. Awareness helps but doesn't automatically improve decisions - you need systematic approaches to counter bias effects.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p3",
+                            "pageType": "question",
+                            "headline": "The most effective approach to reducing cognitive biases is:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Learning about biases and trusting awareness alone",
+                                    "Trying to eliminate System 1 thinking completely",
+                                    "Building systematic decision-making processes",
+                                    "Making all decisions as quickly as possible"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p4",
+                            "pageType": "question",
+                            "headline": "Which strategy best helps overcome multiple biases simultaneously?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Relying entirely on intuitive judgments",
+                                    "Using structured decision-making frameworks",
+                                    "Making decisions under time pressure",
+                                    "Avoiding all complex information"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p5",
+                            "pageType": "content",
+                            "headline": "Decision Checklists",
+                            "body": "Create checklists for important decision categories. Include prompts to consider base rates, seek disconfirming evidence, and identify potential biases affecting your judgment.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p6",
+                            "pageType": "question",
+                            "headline": "Pre-mortem analysis is valuable because it:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Guarantees successful outcomes",
+                                    "Eliminates all possible risks",
+                                    "Forces consideration of potential failures",
+                                    "Replaces the need for careful planning"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p7",
+                            "pageType": "content",
+                            "headline": "Slow Down Important Decisions",
+                            "body": "Build delays into significant choices. Sleep on major purchases, set cooling-off periods for investments, and consult others before committing to life-changing decisions.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p8",
+                            "pageType": "question",
+                            "headline": "The key to better decision-making is:",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Knowing when to engage System 2 thinking deliberately",
+                                    "Always trusting your first instincts",
+                                    "Eliminating emotions from all decisions",
+                                    "Making decisions as quickly as possible"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p9",
+                            "pageType": "content",
+                            "headline": "Environmental Design",
+                            "body": "Shape your environment to support better decisions. Remove temptations, create helpful defaults, and build systems that make good choices easier than poor ones.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p10",
+                            "pageType": "content",
+                            "headline": "Diverse Perspectives",
+                            "body": "Seek out people who disagree with you and understand their reasoning. Diverse viewpoints reveal blind spots and counter confirmation bias in your thinking processes.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p11",
+                            "pageType": "content",
+                            "headline": "Track Your Accuracy",
+                            "body": "Keep records of your predictions and decisions. Regular feedback about your accuracy helps calibrate confidence and reveals systematic patterns in your judgment errors.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "thinking_fast_slow-1-18-p12",
+                            "pageType": "content",
+                            "headline": "Ongoing Practice",
+                            "body": "Improving decision-making requires consistent practice and attention. Like physical fitness, cognitive skills need regular exercise and maintenance to stay sharp and effective.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.4,
+    "tag": "Popular"
+}

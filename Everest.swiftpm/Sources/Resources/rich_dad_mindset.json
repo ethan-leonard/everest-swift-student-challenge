@@ -1,0 +1,2118 @@
+{
+    "id": "rich_dad_mindset",
+    "title": "Rich Dad Mindset",
+    "description": "Learn to think like the wealthy. Understand assets versus liabilities and build the foundation for financial freedom.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/rich_dad_mindset.png",
+    "coverImagePrompt": "Premium editorial flat vector art, two contrasting houses with one transforming into money flow, sage green asset side with charcoal liability side, wealth mindset duality aesthetic",
+    "altitude": 3700,
+    "durationMinutes": 94,
+    "whatsInside": [
+        "Understand the critical difference between assets and liabilities",
+        "Learn why the rich buy assets and the poor buy liabilities",
+        "Build the mindset that creates generational wealth",
+        "Escape the rat race through financial intelligence",
+        "Master the cashflow quadrant",
+        "Overcome psychological barriers to wealth"
+    ],
+    "expertReview": null,
+    "chapters": [
+        {
+            "id": "rich_dad_mindset-ch1",
+            "title": "Rich Dad Mindset",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "rich_dad_mindset-1-1",
+                    "title": "Assets vs Liabilities: The Foundation",
+                    "order": 1,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Rich vs Poor Thinking",
+                            "body": "The wealthy buy assets, while the poor buy liabilities thinking they're assets. This fundamental difference separates financial winners from losers. Understanding this distinction is your first step toward wealth.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p2",
+                            "pageType": "content",
+                            "headline": "What Are Assets?",
+                            "body": "Assets put money in your pocket every month without you working for it. Rental properties, dividend stocks, and businesses generate passive income. They make you richer while you sleep.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p3",
+                            "pageType": "content",
+                            "headline": "What Are Liabilities?",
+                            "body": "Liabilities take money out of your pocket every month. Your mortgage, car payments, and credit cards drain your wealth. Most people mistake these for assets and wonder why they stay poor.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Your Home Truth",
+                            "body": "Your primary residence is a liability, not an asset. It costs you mortgage payments, taxes, insurance, and maintenance. Until it generates rental income, it drains your wealth monthly.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p5",
+                            "pageType": "content",
+                            "headline": "The Car Trap",
+                            "body": "Cars are depreciating liabilities that lose value the moment you drive them off the lot. Monthly payments, insurance, gas, and maintenance make them wealth destroyers. The rich buy reliable transportation, not status symbols.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Income vs Wealth",
+                            "body": "High income doesn't equal wealth if you spend it all on liabilities. Many doctors and lawyers are broke because they buy expensive things that drain their cash flow. Focus on assets, not impressive purchases.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p7",
+                            "pageType": "content",
+                            "headline": "The Middle Class Trap",
+                            "body": "Middle-class families work harder to buy bigger liabilities. They upgrade homes, cars, and lifestyles, increasing their monthly expenses. This keeps them trapped in the rat race forever.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Real Estate Reality",
+                            "body": "Investment real estate becomes an asset when rental income exceeds all expenses. Positive cash flow properties build wealth while tenants pay down your mortgage. Location and cash flow analysis are crucial.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Business Assets",
+                            "body": "Businesses that run without your daily involvement are true assets. They generate profits while you focus on other ventures. McDonald's isn't in the burger business - they're in the real estate business.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Paper Assets Power",
+                            "body": "Stocks, bonds, and REITs can be powerful assets when chosen wisely. Dividend-paying stocks provide regular income while potentially appreciating in value. Build a diversified portfolio of income-generating investments.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p11",
+                            "pageType": "question",
+                            "headline": "Which of these is a true asset?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your primary residence",
+                                    "A new luxury car",
+                                    "Designer clothing",
+                                    "Rental property with positive cash flow"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p12",
+                            "pageType": "question",
+                            "headline": "What makes something a liability?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It appreciates in value",
+                                    "It generates passive income",
+                                    "It requires insurance coverage",
+                                    "It takes money from your pocket"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p13",
+                            "pageType": "content",
+                            "headline": "The Wealth Formula",
+                            "body": "Wealth equals assets minus liabilities. To build wealth, increase your assets while decreasing your liabilities. Every financial decision should move you closer to this goal.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p14",
+                            "pageType": "content",
+                            "headline": "Start Small, Think Big",
+                            "body": "Begin with small investments and reinvest the cash flow into more assets. Compound growth will accelerate your wealth building over time. The key is starting now, not waiting for the perfect opportunity.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Your Asset Mission",
+                            "body": "From today forward, ask yourself before any purchase: 'Is this an asset or liability?' Buy assets first, then use their cash flow to fund lifestyle purchases. This mindshift changes everything.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-2",
+                    "title": "Financial Intelligence: Your Money IQ",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Intelligence vs Education",
+                            "body": "Financial intelligence differs from academic education. Schools teach you to work for money, but not how to make money work for you. The wealthy develop different thinking patterns about money and investing.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Four Pillars",
+                            "body": "Financial intelligence rests on four pillars: accounting, investing, market understanding, and law. Mastering these areas gives you the tools to build and protect wealth effectively.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Accounting Basics Matter",
+                            "body": "Understanding financial statements is crucial for wealth building. Learn to read income statements, balance sheets, and cash flow statements. These documents reveal the true financial health of any investment.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p4",
+                            "pageType": "content",
+                            "headline": "Investing Knowledge",
+                            "body": "Investment education separates the wealthy from the poor. Study different asset classes, risk management, and market cycles. Knowledge reduces risk and increases your return potential significantly.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p5",
+                            "pageType": "question",
+                            "headline": "What separates the wealthy from the poor?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Higher income levels",
+                                    "Better family connections",
+                                    "Financial intelligence and education",
+                                    "Lucky investment timing"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Market Understanding",
+                            "body": "Markets move in cycles of boom and bust. Understanding these patterns helps you buy assets when prices are low and sell when high. Emotional investors buy high and sell low, losing money consistently.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Legal Advantages",
+                            "body": "The wealthy use legal structures like corporations and trusts to minimize taxes and protect assets. These tools are available to everyone but require financial education to use effectively.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Tax Wisdom",
+                            "body": "Employees pay taxes on earned income, then spend what's left. Business owners earn money, spend on business expenses, then pay taxes on profits. This difference creates massive wealth advantages.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Risk vs Security",
+                            "body": "Playing it safe is risky when inflation erodes your purchasing power. Job security is an illusion in today's economy. True security comes from financial intelligence and multiple income streams.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p10",
+                            "pageType": "question",
+                            "headline": "When do business owners pay taxes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Before any business expenses",
+                                    "On gross revenue immediately",
+                                    "After business expenses are deducted",
+                                    "Only when selling the business"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Learning Never Stops",
+                            "body": "Financial intelligence requires continuous learning. Markets evolve, laws change, and new opportunities emerge. Invest in your financial education through books, courses, and real-world experience.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Mistakes Are Teachers",
+                            "body": "Wealthy people make mistakes but learn from them quickly. Poor people avoid mistakes and never learn. Your financial mistakes are expensive lessons - make sure you extract maximum learning value.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p13",
+                            "pageType": "question",
+                            "headline": "What creates true financial security?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A stable corporate job",
+                                    "Government pension plans",
+                                    "Large savings account balance",
+                                    "Financial intelligence and multiple income streams"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Start Your Education",
+                            "body": "Begin developing your financial intelligence today. Read financial statements, study successful investors, and start small investments. Knowledge without action is worthless - apply what you learn immediately.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-3",
+                    "title": "The Cashflow Quadrant: Where You Stand",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Four Types of People",
+                            "body": "Everyone fits into one of four categories: Employee, Self-Employed, Business Owner, or Investor. Your quadrant determines your financial future and tax advantages. Most people are trapped in the left side.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Employee Mindset",
+                            "body": "Employees trade time for money and seek job security. They pay the highest tax rates and have limited income potential. Benefits seem attractive but create golden handcuffs that prevent wealth building.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Self-Employed Reality",
+                            "body": "Self-employed individuals own jobs, not businesses. If they stop working, income stops flowing. They work harder than employees but face the same tax disadvantages without job security benefits.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p4",
+                            "pageType": "question",
+                            "headline": "What happens when self-employed people stop working?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Their income stops flowing",
+                                    "Employees take over the work",
+                                    "Income continues from systems",
+                                    "Passive investments kick in"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Business Owner Power",
+                            "body": "Business owners create systems and hire people to run them. They earn money whether working or vacationing. True business owners focus on building scalable systems, not doing all the work themselves.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p6",
+                            "pageType": "content",
+                            "headline": "The McDonald's Model",
+                            "body": "Ray Kroc built McDonald's as a system that could be replicated worldwide. The business runs without him because of standardized processes and training. This is true business ownership versus self-employment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p7",
+                            "pageType": "question",
+                            "headline": "What makes someone a true business owner?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working 80 hours per week",
+                                    "Having the most technical skills",
+                                    "Creating systems that work without them",
+                                    "Doing all tasks personally"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p8",
+                            "pageType": "question",
+                            "headline": "Which quadrant pays the highest taxes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Employees and Self-Employed",
+                                    "Business Owners only",
+                                    "Investors exclusively",
+                                    "All quadrants pay equally"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Investor Advantages",
+                            "body": "Investors make money work for them through assets like real estate, stocks, and businesses. They enjoy the lowest tax rates and compound growth. Money becomes their employee, working 24/7 to generate wealth.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Moving Right Side",
+                            "body": "Wealth builders move from the left side to the right side of the quadrant. Start as an employee or self-employed, but build businesses and investments. The right side offers freedom and tax advantages.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p11",
+                            "pageType": "question",
+                            "headline": "What do right-side quadrants have in common?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They require advanced degrees",
+                                    "They generate passive income streams",
+                                    "They demand more working hours",
+                                    "They need large starting capital"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Tax Code Secrets",
+                            "body": "Tax laws favor business owners and investors because they create jobs and stimulate economic growth. Employees and self-employed individuals are taxed heavily because they primarily consume rather than produce.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Your Transition Strategy",
+                            "body": "Don't quit your job immediately - build right-side income while maintaining left-side security. Gradually shift more time and energy to business building and investing. Plan your transition carefully.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Multiple Quadrants",
+                            "body": "You can operate in multiple quadrants simultaneously. Use employee income to fund investments, build a business on weekends, or invest in other people's businesses. Diversify your income sources strategically.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-4",
+                    "title": "Building Your Asset Column",
+                    "order": 4,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Your Financial Statement",
+                            "body": "Your personal financial statement shows your true wealth. Assets generate income, liabilities create expenses. Focus on building the asset column while minimizing the liability column for long-term wealth.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Income Statement Basics",
+                            "body": "Your income statement shows money flowing in and out monthly. Salary comes in, expenses go out. The wealthy focus on creating multiple income streams from various assets.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Balance Sheet Power",
+                            "body": "Your balance sheet shows what you own versus what you owe. Assets should exceed liabilities, creating positive net worth. The wealthy continuously add appreciating assets while avoiding depreciating liabilities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Cash Flow Direction",
+                            "body": "Assets create positive cash flow - money flowing into your pocket. Liabilities create negative cash flow - money flowing out. Track every purchase's impact on your monthly cash flow.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p5",
+                            "pageType": "question",
+                            "headline": "What creates positive cash flow?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "High salary increases",
+                                    "Reduced living expenses",
+                                    "Assets generating income",
+                                    "Refinancing existing debts"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p6",
+                            "pageType": "content",
+                            "headline": "Real Estate Assets",
+                            "body": "Investment properties can be powerful wealth builders when cash flow positive. Rental income should exceed mortgage, taxes, insurance, and maintenance costs. Location and tenant quality determine success.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p7",
+                            "pageType": "question",
+                            "headline": "When is real estate a true asset?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "When rental income exceeds all expenses",
+                                    "When property values are appreciating",
+                                    "When located in desirable neighborhoods",
+                                    "When purchased with maximum leverage"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Stock Market Assets",
+                            "body": "Dividend-paying stocks provide regular income while potentially appreciating in value. Focus on companies with strong cash flows and consistent dividend payment histories. Reinvest dividends for compound growth.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p9",
+                            "pageType": "question",
+                            "headline": "What makes stocks good assets?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "High price appreciation potential",
+                                    "Regular dividend payments and growth",
+                                    "Easy buying and selling process",
+                                    "Government protection guarantees"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Business Ownership",
+                            "body": "Owning businesses or business interests creates multiple income streams. Invest in businesses you understand or partner with experienced operators. Business ownership offers tax advantages and scaling potential.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p11",
+                            "pageType": "question",
+                            "headline": "What's the key to successful business investing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Investing in trendy industries",
+                                    "Choosing businesses you understand",
+                                    "Finding the cheapest opportunities",
+                                    "Avoiding all business risks"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Start Small Today",
+                            "body": "Begin building assets with whatever money you have available. Small investments compound into significant wealth over time. The key is starting now and consistently adding to your asset column monthly.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-5",
+                    "title": "Overcoming Fear: Your Greatest Enemy",
+                    "order": 5,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Fear Paralyzes Dreams",
+                            "body": "Fear of losing money keeps most people from building wealth. This fear is so powerful that people choose poverty over the possibility of financial loss. The wealthy have learned to manage fear, not eliminate it.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Poor vs Rich Fear",
+                            "body": "Poor people avoid investments due to fear of loss. Rich people fear not investing and missing opportunities. This fundamental difference in perspective separates wealth builders from wealth avoiders.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p3",
+                            "pageType": "content",
+                            "headline": "The Safety Myth",
+                            "body": "Playing it safe is risky when inflation erodes purchasing power over time. Money sitting in savings accounts loses value to inflation. The wealthy understand that not investing is the biggest risk.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Education Reduces Risk",
+                            "body": "Knowledge and experience reduce investment risk significantly. Study markets, analyze deals, and start with small investments. The more you learn, the more confident and successful you become.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p5",
+                            "pageType": "question",
+                            "headline": "What reduces investment risk most effectively?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoiding all investments completely",
+                                    "Education and experience building",
+                                    "Following popular investment trends",
+                                    "Investing only in government bonds"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Failure as Teacher",
+                            "body": "Wealthy people learn from failures and adjust their strategies. Poor people avoid failure and never learn valuable lessons. Embrace small failures as expensive education that prevents larger losses later.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Analysis Paralysis",
+                            "body": "Some people study investments forever but never take action. Perfect information doesn't exist in investing. Gather enough data to make informed decisions, then act while continuing to learn.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Start Small Strategy",
+                            "body": "Begin with small investments to build confidence and experience. Small losses won't devastate your finances but will provide valuable learning. Gradually increase investment amounts as knowledge and confidence grow.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Emergency Fund First",
+                            "body": "Build an emergency fund covering 3-6 months of expenses before investing. This safety net reduces investment pressure and prevents panic selling during market downturns. Security enables better investment decisions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p10",
+                            "pageType": "question",
+                            "headline": "Why should you build an emergency fund first?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It reduces investment pressure and panic selling",
+                                    "Banks require it for investment accounts",
+                                    "It eliminates all investment risks completely",
+                                    "Government regulations mandate emergency funds"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p11",
+                            "pageType": "content",
+                            "headline": "Fear vs Greed",
+                            "body": "Fear and greed drive most investment decisions poorly. Fear causes selling at market bottoms, greed causes buying at market tops. Successful investors make rational decisions based on analysis, not emotions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Courage Through Action",
+                            "body": "Courage isn't the absence of fear - it's acting despite fear. Every successful investor started with fear and uncertainty. Take the first step today, even if it's small. Action builds confidence more than studying.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-6",
+                    "title": "Defeating Cynicism: Your Inner Critic",
+                    "order": 6,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Cynicism Kills Dreams",
+                            "body": "Cynical people find reasons why investments won't work instead of looking for opportunities. They protect themselves from disappointment but also from success. Cynicism is expensive doubt disguised as wisdom.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The Cynicism Trap",
+                            "body": "Cynical people say 'I can't afford it' or 'It won't work' without investigation. This closes their minds to possibilities. Wealthy people ask 'How can I afford it?' and 'How can I make it work?'",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p3",
+                            "pageType": "question",
+                            "headline": "What separates wealthy thinking from cynical thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoiding all financial risks",
+                                    "Having more starting capital",
+                                    "Asking 'how' instead of 'why not'",
+                                    "Following proven formulas only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Negative Friends",
+                            "body": "Cynical friends and family will discourage your wealth-building efforts. They mean well but project their fears onto you. Limit conversations about money with negative people and seek mentors who support your goals.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Media Negativity",
+                            "body": "Financial media focuses on crashes, scandals, and failures because fear sells. This constant negativity breeds cynicism about investing. Balance news consumption with success stories and educational content.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p6",
+                            "pageType": "question",
+                            "headline": "Why does financial media focus on negative stories?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Negative stories are more accurate",
+                                    "Positive news is illegal to report",
+                                    "Investors prefer bad news",
+                                    "Fear and drama attract more viewers"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Past vs Future",
+                            "body": "Cynics focus on past failures and extrapolate them to future opportunities. They remember every market crash but forget every recovery. Successful investors learn from the past but don't let it paralyze future action.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p8",
+                            "pageType": "question",
+                            "headline": "How do successful investors view market crashes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As buying opportunities during fear",
+                                    "As reasons to avoid all investments",
+                                    "As proof that markets are rigged",
+                                    "As signals to sell everything quickly"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Due Diligence vs Cynicism",
+                            "body": "Healthy skepticism involves careful analysis and due diligence. Cynicism involves dismissing opportunities without investigation. Learn to distinguish between prudent caution and destructive doubt.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Success Stories Matter",
+                            "body": "Study successful investors and entrepreneurs to counter cynical programming. Read biographies, attend seminars, and join investment groups. Surrounding yourself with success stories builds optimistic, wealth-building thinking patterns.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Start Despite Doubt",
+                            "body": "Don't wait until cynicism disappears completely - it may never happen. Start small investments despite inner doubt. Success experiences will gradually replace cynical thoughts with confident action.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Guard Your Mind",
+                            "body": "Protect your mind from excessive negativity like you protect your body from poison. Choose positive, educational content over fear-based media. Your mental diet determines your financial future.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-7",
+                    "title": "Developing Financial IQ: Smart Money Skills",
+                    "order": 7,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-7-p1",
+                            "pageType": "content",
+                            "headline": "IQ vs Financial IQ",
+                            "body": "High academic IQ doesn't guarantee financial success. Many highly educated people struggle financially while less educated individuals build wealth. Financial IQ involves specific money skills schools don't teach.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Making Money Work",
+                            "body": "Financial IQ means making money work for you instead of working for money. This involves understanding investments, cash flow, and compound growth. Smart money management accelerates wealth building significantly.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Reading Financial Statements",
+                            "body": "Understanding financial statements is fundamental to wealth building. Learn to analyze income statements, balance sheets, and cash flow statements. These skills help evaluate investment opportunities accurately.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Investment Analysis Skills",
+                            "body": "Develop skills to analyze different investment opportunities objectively. Compare risk-adjusted returns, cash flow potential, and growth prospects. Good analysis prevents emotional investment decisions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p5",
+                            "pageType": "question",
+                            "headline": "What prevents emotional investment decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Following popular investment trends",
+                                    "Objective analysis and research skills",
+                                    "Investing only with friends",
+                                    "Avoiding all risky investments"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Tax Strategy Intelligence",
+                            "body": "Understanding tax laws helps keep more of your money. Learn about business deductions, depreciation, and legal tax strategies. The wealthy pay less in taxes through legal structures and strategies.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p7",
+                            "pageType": "question",
+                            "headline": "How do wealthy people legally pay less taxes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They hide money offshore",
+                                    "They use legal structures and strategies",
+                                    "They earn less taxable income",
+                                    "They avoid paying taxes altogether"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Market Timing Reality",
+                            "body": "Perfect market timing is impossible, but understanding cycles helps. Learn to recognize when markets are overvalued or undervalued. Time in the market beats timing the market for long-term wealth building.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Risk Management",
+                            "body": "Smart investors manage risk through diversification, due diligence, and proper position sizing. Don't put all eggs in one basket, but don't over-diversify either. Balance risk and reward strategically.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Continuous Learning",
+                            "body": "Financial IQ requires lifelong learning as markets and laws change. Read financial books, attend seminars, and learn from successful investors. Knowledge compounds like investments over time.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Start applying financial concepts with small amounts of money. Practice analyzing deals, making investments, and tracking results. Real-world experience builds confidence and skills faster than theory alone.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Your Financial Education",
+                            "body": "Invest in your financial education like wealthy people invest in assets. Buy books, take courses, and attend seminars. The return on investment in financial knowledge is unlimited.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-8",
+                    "title": "Creating Generational Wealth: Legacy Building",
+                    "order": 8,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Personal Wealth",
+                            "body": "Generational wealth extends beyond your lifetime to benefit children and grandchildren. This requires different thinking than personal financial security. Build assets that appreciate and generate income for decades.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Education as Legacy",
+                            "body": "The most valuable inheritance is financial education, not just money. Teach your children about assets, liabilities, and investing. Knowledge enables them to build and preserve wealth throughout their lives.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Business Ownership",
+                            "body": "Businesses can generate wealth for multiple generations when properly structured. Build systems that survive beyond you and can be passed down. Business ownership provides ongoing income and tax advantages.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Real Estate Holdings",
+                            "body": "Quality real estate appreciates over decades and provides steady rental income. Prime properties in good locations become more valuable as populations grow. Real estate is tangible wealth future generations can understand.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Investment Portfolios",
+                            "body": "Diversified investment portfolios compound wealth over generations through reinvested dividends and appreciation. Blue-chip stocks with long dividend histories provide steady income streams for decades.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Trust Structures",
+                            "body": "Trusts protect assets from taxes and poor decisions by heirs. Work with attorneys to create structures that preserve wealth across generations. Proper estate planning prevents wealth destruction through taxes and disputes.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Teaching Money Values",
+                            "body": "Children learn money attitudes from parents' actions, not lectures. Demonstrate good financial habits, involve kids in investment decisions, and explain your reasoning. Model the behavior you want them to adopt.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Avoiding Spoiled Children",
+                            "body": "Balance providing for children with teaching them to work for goals. Give them opportunities, not everything handed to them. Wealthy families often have kids work in family businesses to learn work ethic.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p9",
+                            "pageType": "question",
+                            "headline": "What's the most valuable inheritance to leave children?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Large cash inheritance",
+                                    "Expensive material possessions",
+                                    "Real estate properties",
+                                    "Financial education and skills"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Family Investment Meetings",
+                            "body": "Hold regular family meetings to discuss investments and financial goals. Include older children in discussions about property purchases and business decisions. This builds their financial intelligence naturally.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Philanthropy and Values",
+                            "body": "Teaching children about giving back instills values beyond money accumulation. Wealthy families often involve children in charitable activities and decisions. This creates well-rounded individuals who understand social responsibility.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p12",
+                            "pageType": "question",
+                            "headline": "Why do wealthy families involve kids in philanthropy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To reduce their tax burden",
+                                    "To instill values beyond money accumulation",
+                                    "To improve their public image",
+                                    "To meet legal charity requirements"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Start Building Today",
+                            "body": "Generational wealth building starts with your first investment, not your last. Every asset you acquire today can benefit future generations. Think beyond your lifetime when making financial decisions.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p14",
+                            "pageType": "question",
+                            "headline": "When should you start building generational wealth?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After you retire completely",
+                                    "When your children are born",
+                                    "With your first investment today",
+                                    "After paying off all debts"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Your Legacy Plan",
+                            "body": "Create a written plan for building generational wealth including asset acquisition, education goals, and estate planning. Review and update annually as circumstances change. Your legacy starts with today's decisions.",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-9",
+                    "title": "Committing to Action: From Theory to Practice",
+                    "order": 9,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Knowledge Without Action",
+                            "body": "Financial knowledge is worthless without action. Many people read investment books but never invest a dollar. The gap between knowing and doing separates successful investors from dreamers.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Analysis Paralysis",
+                            "body": "Some people analyze opportunities endlessly but never take action. Perfect information doesn't exist in investing. Gather sufficient data to make informed decisions, then act while continuing to learn.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Start Small Today",
+                            "body": "Begin with small investments you can afford to lose. Small actions build confidence and experience for larger investments later. The key is starting now, not waiting for perfect conditions.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Set Specific Goals",
+                            "body": "Vague goals produce vague results. Set specific, measurable financial targets with deadlines. 'I will buy one rental property within 12 months' is better than 'I want to invest in real estate someday.'",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p5",
+                            "pageType": "question",
+                            "headline": "What makes financial goals more achievable?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making them easily attainable",
+                                    "Being specific and measurable with deadlines",
+                                    "Keeping them private and secret",
+                                    "Setting multiple goals simultaneously"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Create Investment Schedule",
+                            "body": "Schedule regular times for investment activities like researching opportunities, analyzing deals, and making purchases. Treat investing like an important appointment you never miss. Consistency builds wealth over time.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Track Your Progress",
+                            "body": "Monitor your asset growth and cash flow monthly. What gets measured gets managed. Tracking progress keeps you motivated and helps identify what's working and what needs adjustment.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Find Accountability Partners",
+                            "body": "Join investment groups or find partners who share your wealth-building goals. Accountability partners help you stay committed when motivation wanes. Share goals and progress with people who support your success.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Overcome Perfectionism",
+                            "body": "Perfectionism prevents action and progress. Accept that you'll make mistakes and learn from them. Imperfect action beats perfect inaction every time. Start before you feel completely ready.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Build Daily Habits",
+                            "body": "Create daily habits that support wealth building like reading financial news, analyzing one investment opportunity, or adding money to investment accounts. Small daily actions compound into significant results.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Celebrate Small Wins",
+                            "body": "Acknowledge progress and celebrate milestones along your wealth-building journey. Recognizing achievements keeps you motivated for long-term goals. Every successful investment deserves recognition.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Stay Committed Long-term",
+                            "body": "Wealth building is a marathon, not a sprint. Stay committed to your goals through market ups and downs. Consistent action over years creates more wealth than sporadic bursts of activity.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p13",
+                            "pageType": "question",
+                            "headline": "What builds more wealth over time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Large one-time investments",
+                                    "Consistent action over years",
+                                    "Perfect market timing",
+                                    "Following hot investment tips"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p14",
+                            "pageType": "question",
+                            "headline": "When is the best time to start investing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Today, with whatever amount you have",
+                                    "After saving $10,000 minimum",
+                                    "When market conditions are perfect",
+                                    "After paying off all debt completely"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-9-p15",
+                            "pageType": "content",
+                            "headline": "Your Action Plan",
+                            "body": "Write down three specific actions you'll take this week to start building wealth. Set deadlines and hold yourself accountable. Your financial future depends on the actions you take today, not tomorrow.",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-10",
+                    "title": "Understanding Leverage: OPM and OPT",
+                    "order": 10,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Leverage Accelerates Wealth",
+                            "body": "The wealthy use Other People's Money (OPM) and Other People's Time (OPT) to build wealth faster. Leverage multiplies your results beyond what your own resources could achieve alone.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Other People's Money",
+                            "body": "Banks, investors, and partners provide capital for your investments. Real estate investors use mortgages to buy properties with small down payments. The property's income pays the loan while you build equity.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Good Debt vs Bad Debt",
+                            "body": "Good debt helps you acquire income-producing assets. Bad debt pays for liabilities and consumption. Mortgages on rental properties are good debt; credit card debt for vacations is bad debt.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Other People's Time",
+                            "body": "Building a team allows you to accomplish more than working alone. Hire property managers, accountants, and contractors to handle tasks. Your time becomes available for finding new opportunities.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Business Systems",
+                            "body": "Systems allow businesses to run without your constant involvement. McDonald's succeeds because of standardized systems, not because Ray Kroc flips burgers. Build systems, not jobs for yourself.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Investment Partners",
+                            "body": "Partner with experienced investors to access deals you couldn't handle alone. They provide knowledge and capital while you contribute research and management. Joint ventures multiply opportunities and reduce individual risk.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p7",
+                            "pageType": "question",
+                            "headline": "What allows businesses to run without owner involvement?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Hiring the cheapest employees",
+                                    "Working longer hours personally",
+                                    "Creating standardized systems",
+                                    "Avoiding all business expansion"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p8",
+                            "pageType": "content",
+                            "headline": "Leverage Risks",
+                            "body": "Leverage amplifies both gains and losses. Borrowed money must be repaid regardless of investment performance. Use conservative leverage ratios and ensure positive cash flow covers debt service with margin for safety.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Building Credit Worthiness",
+                            "body": "Banks lend to people who demonstrate ability to repay. Build good credit, maintain steady income, and accumulate assets. Strong financial statements open doors to better financing terms and larger opportunities.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Compound Leverage Effects",
+                            "body": "Use rental income from leveraged properties to acquire more properties. Each property increases your borrowing capacity for the next purchase. This creates exponential wealth growth over time.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Time Leverage Value",
+                            "body": "Your time is your most valuable asset because it's limited and irreplaceable. Use money to buy other people's time through hiring and systems. This frees your time for high-value activities only you can do.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p12",
+                            "pageType": "question",
+                            "headline": "Why is time your most valuable asset?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It's limited and irreplaceable forever",
+                                    "It can be easily multiplied",
+                                    "It costs nothing to waste",
+                                    "Everyone has equal amounts available"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Start Leveraging Now",
+                            "body": "Begin using leverage with small, manageable amounts. Partner with experienced investors, use conservative financing, and build systems gradually. Start practicing leverage principles with your current investments and business activities.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-11",
+                    "title": "Tax Strategies: Keep More Money",
+                    "order": 11,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Taxes Are Expenses",
+                            "body": "The wealthy view taxes as controllable expenses, not fixed obligations. They use legal strategies to minimize tax burden and keep more money for investments. Tax planning is essential for wealth building.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Employee vs Business Owner",
+                            "body": "Employees pay taxes on gross income, then spend what's left. Business owners earn income, spend on legitimate business expenses, then pay taxes on profits. This fundamental difference creates significant savings.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Business Expense Benefits",
+                            "body": "Business owners can deduct legitimate expenses like office space, equipment, travel, and education. These reduce taxable income dollar-for-dollar. Home offices, business meals, and continuing education become tax deductions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p4",
+                            "pageType": "question",
+                            "headline": "When do business owners pay taxes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After deducting business expenses from income",
+                                    "Before any expenses are paid",
+                                    "Only when profits exceed $100,000",
+                                    "At the same rate as employees"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Real Estate Advantages",
+                            "body": "Real estate investors enjoy depreciation deductions even when properties appreciate in value. Cost segregation studies accelerate depreciation benefits. 1031 exchanges defer capital gains taxes indefinitely through property swapping.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p6",
+                            "pageType": "question",
+                            "headline": "What allows real estate investors to defer capital gains taxes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Depreciation deductions only",
+                                    "Cost segregation studies",
+                                    "Property management fees",
+                                    "1031 like-kind exchanges"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Retirement Account Strategies",
+                            "body": "Self-directed IRAs and 401(k)s allow investing in real estate, businesses, and alternative assets. These accounts grow tax-deferred or tax-free. Solo 401(k)s enable higher contribution limits for self-employed individuals.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Corporate Structures",
+                            "body": "Different business structures offer varying tax benefits. LLCs provide flexibility and pass-through taxation. S-Corps can reduce self-employment taxes. C-Corps offer deduction opportunities but potential double taxation.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Asset Protection Benefits",
+                            "body": "Proper business structures protect personal assets from business liabilities. LLCs and corporations create legal barriers between business and personal wealth. This protection is invaluable for wealth preservation.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Professional Guidance",
+                            "body": "Tax laws are complex and change frequently. Work with qualified CPAs and tax attorneys who understand investor strategies. Good tax professionals pay for themselves through savings and proper planning.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Record Keeping Importance",
+                            "body": "Maintain detailed records of all business expenses and investment activities. Use accounting software or hire bookkeepers to track deductible expenses. Good records support deductions and prevent IRS problems.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Legal vs Illegal",
+                            "body": "Use only legal tax strategies approved by tax professionals. Tax avoidance through legal means is smart business. Tax evasion through illegal means leads to penalties and criminal charges. Always stay within legal boundaries.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Start Tax Planning",
+                            "body": "Begin implementing tax strategies with your current investments and income. Consult qualified professionals to identify opportunities specific to your situation. Effective tax planning starts before you need it.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-12",
+                    "title": "Market Cycles: Timing Your Success",
+                    "order": 12,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Markets Move in Cycles",
+                            "body": "All markets experience cycles of expansion, peak, contraction, and trough. Understanding these patterns helps you buy assets during downturns and sell during peaks. Cycles create wealth transfer opportunities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Fear and Greed Drive Cycles",
+                            "body": "Market cycles are driven by human emotions of fear and greed. Greed pushes prices too high, fear drives them too low. Rational investors profit by doing the opposite of emotional crowds.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p3",
+                            "pageType": "content",
+                            "headline": "Buy When Others Sell",
+                            "body": "The best investment opportunities appear during market crashes when everyone is panicking. Wealthy investors buy quality assets at discount prices when fear dominates headlines. Courage during downturns creates fortunes.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p4",
+                            "pageType": "question",
+                            "headline": "When do the best investment opportunities typically appear?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During market peaks and euphoria",
+                                    "When economic news is positive",
+                                    "During market crashes and panic",
+                                    "When everyone is investing confidently"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Real Estate Cycles",
+                            "body": "Real estate markets experience longer cycles than stock markets due to their illiquid nature. Demographic shifts, interest rates, and economic conditions drive property values. Local markets can differ from national trends.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Stock Market Patterns",
+                            "body": "Stock markets typically recover from crashes within 2-3 years but can stay elevated for much longer periods. Dollar-cost averaging during downturns builds positions at lower average costs over time.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Economic Indicators",
+                            "body": "Learn to read economic indicators like employment rates, interest rates, and GDP growth. These signals help predict market direction changes. Leading indicators change before markets, lagging indicators confirm trends afterward.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p8",
+                            "pageType": "question",
+                            "headline": "What do leading economic indicators do?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Confirm trends after they happen",
+                                    "Change before market direction changes",
+                                    "Only measure stock market performance",
+                                    "Predict individual stock prices"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Prepare for Downturns",
+                            "body": "Maintain cash reserves during market peaks to take advantage of crash opportunities. Don't be fully invested when markets are overvalued. Cash provides flexibility to act when others are forced to sell.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Avoid Market Timing",
+                            "body": "Perfect market timing is impossible, but understanding cycles helps with general strategy. Focus on buying quality assets at reasonable prices rather than trying to time exact tops and bottoms.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p11",
+                            "pageType": "question",
+                            "headline": "What's more important than perfect market timing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Following investment trends closely",
+                                    "Buying quality assets at reasonable prices",
+                                    "Investing only during bull markets",
+                                    "Waiting for guaranteed opportunities"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Wealth building requires thinking beyond current market conditions. Temporary downturns become irrelevant over 10-20 year time horizons. Stay focused on long-term goals rather than short-term market noise.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-13",
+                    "title": "Network Building: Your Wealth Team",
+                    "order": 13,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Network Equals Net Worth",
+                            "body": "Your network directly impacts your net worth through opportunities, partnerships, and knowledge sharing. Wealthy people surround themselves with other successful individuals who challenge and inspire growth.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "Focus on building meaningful relationships with successful people rather than collecting contacts. A few deep relationships with accomplished individuals provide more value than hundreds of superficial connections.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Professional Team Members",
+                            "body": "Build a team of professionals including accountants, attorneys, real estate agents, and financial advisors. These experts provide specialized knowledge and handle tasks outside your expertise, saving time and preventing costly mistakes.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Mentorship Relationships",
+                            "body": "Find mentors who have achieved what you want to accomplish. Learn from their successes and mistakes to accelerate your progress. Offer value in return through assistance with their projects or goals.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Investment Groups",
+                            "body": "Join local real estate investment associations and investment clubs. These groups provide education, deal flow, and partnership opportunities. Learn from experienced investors and find potential business partners.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Give Before Receiving",
+                            "body": "Add value to others before asking for favors or opportunities. Share knowledge, make introductions, and help solve problems. People prefer doing business with those who contribute to their success.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p7",
+                            "pageType": "question",
+                            "headline": "What's the best approach to networking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Collect as many contacts as possible",
+                                    "Only network with wealthy people",
+                                    "Ask for favors immediately",
+                                    "Give value before expecting anything"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Online Communities",
+                            "body": "Participate in online forums and social media groups focused on investing and entrepreneurship. Share insights, ask questions, and build relationships virtually. Online connections can lead to real-world opportunities and partnerships.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p9",
+                            "pageType": "question",
+                            "headline": "Why should you join investment groups?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They provide education, deals, and partnerships",
+                                    "Membership guarantees investment success",
+                                    "They eliminate all investment risks",
+                                    "Groups handle all investment decisions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Conferences and Seminars",
+                            "body": "Attend real estate and investment conferences to meet like-minded individuals. These events concentrate successful people in one location, making networking efficient. Follow up with new contacts within 48 hours of meeting.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Mastermind Groups",
+                            "body": "Form or join mastermind groups with other serious investors. Regular meetings provide accountability, idea sharing, and problem-solving support. Members challenge each other to achieve bigger goals.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Maintain Relationships",
+                            "body": "Stay in regular contact with your network through updates, check-ins, and value-added communications. Relationships require ongoing nurturing to remain strong and productive. Don't only reach out when you need something.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Diverse Perspectives",
+                            "body": "Include people with different backgrounds, industries, and experiences in your network. Diverse perspectives lead to innovative solutions and unexpected opportunities. Avoid echo chambers that reinforce existing thinking patterns.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p14",
+                            "pageType": "question",
+                            "headline": "Why include diverse people in your network?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To meet social expectations",
+                                    "Different perspectives create innovative solutions",
+                                    "They work for lower fees",
+                                    "Diversity guarantees investment returns"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Start Building Today",
+                            "body": "Begin building your wealth network immediately by reaching out to one new person this week. Attend a local investment meeting, join an online group, or contact a potential mentor. Your network starts with one connection.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-14",
+                    "title": "Financial Discipline: Controlling Your Money",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Discipline Drives Wealth",
+                            "body": "Financial discipline separates those who build wealth from those who just dream about it. Consistent behaviors compounded over time create extraordinary results. Discipline means doing what's necessary even when you don't feel like it.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Pay Yourself First",
+                            "body": "Always pay yourself first by investing a percentage of every paycheck before paying bills. This ensures wealth building takes priority over consumption. Automate investments so the money is gone before you can spend it.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Delayed Gratification",
+                            "body": "Wealthy people delay gratification to build assets that provide future benefits. They drive reliable cars while building investment portfolios. Poor people seek immediate gratification and wonder why they never get ahead financially.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Budget Your Way Rich",
+                            "body": "Create and follow a monthly budget that prioritizes investing and asset building. Track every expense to identify money leaks. Budgets aren't restrictive - they're freedom plans that direct money toward your goals.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Avoid Lifestyle Inflation",
+                            "body": "Resist the temptation to upgrade your lifestyle every time your income increases. Instead, invest the additional income in wealth-building assets. Live below your means regardless of how much you earn.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p6",
+                            "pageType": "question",
+                            "headline": "What should you do when your income increases?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Upgrade your car immediately",
+                                    "Invest the additional income",
+                                    "Move to expensive neighborhood",
+                                    "Buy more luxury items"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Emergency Fund Discipline",
+                            "body": "Maintain an emergency fund covering 3-6 months of expenses for true emergencies only. This fund prevents you from selling investments during personal financial crises. Define what constitutes a real emergency beforehand.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p8",
+                            "pageType": "question",
+                            "headline": "What prevents selling investments during personal crises?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A properly funded emergency fund",
+                                    "High investment returns guaranteed",
+                                    "Family financial support promises",
+                                    "Government assistance programs"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p9",
+                            "pageType": "question",
+                            "headline": "What do budgets really provide?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Restrictions on spending freedom",
+                                    "Freedom plans directing money toward goals",
+                                    "Complicated mathematical calculations",
+                                    "Reasons to avoid all purchases"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Systematic Investing",
+                            "body": "Invest the same amount every month regardless of market conditions. This dollar-cost averaging strategy builds positions during market ups and downs. Consistent investing eliminates timing decisions and emotional mistakes.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Track Your Progress",
+                            "body": "Monitor your net worth monthly and celebrate progress toward your goals. What gets measured gets managed and improved. Tracking keeps you motivated during slow progress periods and accountable to your plan.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Automate Success",
+                            "body": "Automate as many wealth-building behaviors as possible through direct deposits and automatic transfers. Automation removes willpower from the equation and ensures consistency. Set up systems that work without your daily attention.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Review and Adjust",
+                            "body": "Review your financial progress quarterly and adjust strategies as needed. Life changes require plan modifications, but core wealth-building principles remain constant. Stay flexible in methods while remaining committed to goals.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p14",
+                            "pageType": "question",
+                            "headline": "How often should you review financial progress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Daily to catch every change",
+                                    "Quarterly with strategy adjustments",
+                                    "Only when major problems occur",
+                                    "Annually at tax time only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Discipline Becomes Habit",
+                            "body": "Financial discipline becomes automatic through consistent practice. Start with small, manageable changes and build momentum over time. Today's disciplined actions become tomorrow's wealth-building habits and eventual financial freedom.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "rich_dad_mindset-1-15",
+                    "title": "Your Rich Dad Journey: The Path Forward",
+                    "order": 15,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "rich_dad_mindset-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Your Journey Begins",
+                            "body": "Your Rich Dad journey starts with changing how you think about money, work, and wealth. This mindset shift is more important than any specific investment strategy. Think like the wealthy to become wealthy.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Progress Not Perfection",
+                            "body": "Focus on making progress rather than achieving perfection. Every small step toward building assets moves you closer to financial freedom. Consistent action over time produces remarkable results.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What's more important than specific investment strategies?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having large amounts of starting capital",
+                                    "Changing how you think about money",
+                                    "Finding guaranteed investment returns",
+                                    "Avoiding all financial risks completely"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Continuous Learning",
+                            "body": "Commit to lifelong financial education through books, courses, and real-world experience. Markets evolve and opportunities change, but learning accelerates wealth building in any environment. Never stop expanding your knowledge.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Take Action Today",
+                            "body": "Start applying Rich Dad principles immediately with whatever resources you have available. Perfect conditions never exist for investing. Begin building your asset column today, even if you start small.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Build Your Team",
+                            "body": "Surround yourself with people who support your wealth-building goals. Join investment groups, find mentors, and build professional relationships. Your network accelerates your journey to financial freedom.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Embrace Challenges",
+                            "body": "View financial setbacks as learning opportunities rather than failures. Every wealthy person has faced challenges and made mistakes. The key is learning from experiences and adjusting your approach accordingly.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Think Long-term",
+                            "body": "Wealth building requires patience and long-term thinking. Focus on decades rather than months when planning your financial future. Short-term sacrifices enable long-term abundance and freedom.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Measure What Matters",
+                            "body": "Track your progress through net worth and passive income growth rather than salary increases. Assets and cash flow determine real wealth, not job income. Focus on metrics that truly measure financial freedom.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Share Your Knowledge",
+                            "body": "Teach others what you learn about money and investing. Teaching reinforces your own learning and creates valuable relationships. Help others build wealth while building your own network and knowledge.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Stay Disciplined",
+                            "body": "Maintain financial discipline through market ups and downs. Consistent wealth-building behaviors produce consistent results over time. Don't let temporary setbacks derail your long-term plans.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Adapt and Evolve",
+                            "body": "Stay flexible in your methods while remaining committed to wealth-building goals. Markets change, opportunities evolve, and strategies must adapt. Keep learning and adjusting your approach as needed.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p13",
+                            "pageType": "question",
+                            "headline": "What determines real wealth?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "High salary and job title",
+                                    "Expensive possessions and lifestyle",
+                                    "Assets and passive income cash flow",
+                                    "Prestigious college degrees earned"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Legacy Mindset",
+                            "body": "Think beyond your own lifetime when building wealth. Create assets and systems that benefit future generations. Building generational wealth requires thinking and planning decades into the future.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "rich_dad_mindset-1-15-p15",
+                            "pageType": "content",
+                            "headline": "Your Rich Future",
+                            "body": "You now have the mindset and knowledge to begin building wealth like Rich Dad. The path forward requires action, discipline, and persistence. Your financial freedom journey starts with the next decision you make.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.8,
+    "tag": "Popular"
+}

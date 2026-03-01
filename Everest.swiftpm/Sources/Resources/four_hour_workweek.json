@@ -1,0 +1,2426 @@
+{
+    "id": "four_hour_workweek",
+    "title": "The 4-Hour Workweek",
+    "description": "Escape the 9-5 trap. Design a life of freedom through automation, outsourcing, and strategic lifestyle design.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/four_hour_workweek.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract clock breaking apart into freedom symbols like planes and palm trees, sage green liberation with charcoal corporate chains dissolving, lifestyle design aesthetic",
+    "altitude": 4900,
+    "durationMinutes": 96,
+    "whatsInside": [
+        "Challenge the deferred-life plan that keeps you trapped",
+        "Learn the 80/20 principle for eliminating busywork",
+        "Build systems that generate income without your presence",
+        "Design mini-retirements instead of waiting until 65",
+        "Master remote work negotiation",
+        "Create automated income streams"
+    ],
+    "expertReview": {
+        "quote": "This book redefines what is possible. It is not about working less, it is about living more.",
+        "name": "Tim Ferriss",
+        "title": "Author, The 4-Hour Workweek"
+    },
+    "chapters": [
+        {
+            "id": "four_hour_workweek-ch1",
+            "title": "The 4-Hour Workweek Mastery",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "four_hour_workweek-1-1",
+                    "title": "The New Rich Mindset",
+                    "order": 1,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Redefining Success",
+                            "body": "Traditional wealth means working 40 years to retire at 65. The New Rich reject this model entirely. They create luxury and freedom now, not later.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Time Over Money",
+                            "body": "Money multiplies options, but time multiplies freedom. The New Rich prioritize time as the ultimate currency. They design systems to buy back their hours.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Location Independence",
+                            "body": "Your office can be anywhere with WiFi. Geographic arbitrage lets you earn first-world income while living in lower-cost locations. Work becomes untethered from place.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p4",
+                            "pageType": "content",
+                            "headline": "The Mobility Advantage",
+                            "body": "Being mobile isn't about constant travel. It's about having the option to move when opportunities arise. Mobility creates negotiating power in all areas of life.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Automation First",
+                            "body": "The New Rich build systems that run without them. They create processes, delegate decisions, and eliminate their involvement in day-to-day operations. Automation creates freedom.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Mini-Retirements",
+                            "body": "Why wait until 65 to enjoy life? The New Rich take mini-retirements throughout their career. They distribute recovery and adventure across their entire lifespan.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p7",
+                            "pageType": "question",
+                            "headline": "What is the New Rich's primary currency?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Money and investments",
+                                    "Professional recognition",
+                                    "Social connections",
+                                    "Time and freedom"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p8",
+                            "pageType": "question",
+                            "headline": "What makes geographic arbitrage possible?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lower living standards",
+                                    "Remote work capability",
+                                    "Currency exchange rates",
+                                    "Travel expertise"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Fear as Fuel",
+                            "body": "Most people's fears are paper tigers - they look scary but dissolve under examination. The New Rich use fear setting to expose these illusions and move forward anyway.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Luxury Lifestyle",
+                            "body": "Luxury doesn't require millions. It requires the right systems and priorities. The New Rich create luxurious experiences through intelligent design, not endless earning.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p11",
+                            "pageType": "question",
+                            "headline": "How do the New Rich view retirement?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Save for age 65 retirement",
+                                    "Take mini-retirements now",
+                                    "Work until physically unable",
+                                    "Retire as early as possible"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Question Everything",
+                            "body": "The New Rich challenge every assumption about work and life. They question rules that others follow blindly. This questioning reveals opportunities that conformists miss.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Results Over Hours",
+                            "body": "Traditional employees are paid for time spent. The New Rich are rewarded for results achieved. This shift from time-based to results-based thinking changes everything.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p14",
+                            "pageType": "content",
+                            "headline": "The Freedom Formula",
+                            "body": "Freedom equals mobility plus the ability to choose. The New Rich design their lives to maximize both. They create options, then exercise them strategically.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Your New Identity",
+                            "body": "You're not bound by your current job title or industry. The New Rich identity is fluid and opportunity-focused. Your next chapter starts with changing how you see yourself.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-2",
+                    "title": "DEAL Framework Introduction",
+                    "order": 2,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-2-p1",
+                            "pageType": "content",
+                            "headline": "The DEAL System",
+                            "body": "DEAL stands for Definition, Elimination, Automation, and Liberation. This four-step process transforms overwhelmed workers into liberated lifestyle designers. Each step builds on the previous.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Definition Phase",
+                            "body": "Definition means clarifying your dreams and calculating their real cost. Most goals are cheaper than you think when you do the math properly.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Fear Setting Practice",
+                            "body": "Fear setting replaces goal setting for the New Rich. You define your worst-case scenarios, their likelihood, and recovery strategies. Most fears evaporate under examination.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p4",
+                            "pageType": "content",
+                            "headline": "The Cost Question",
+                            "body": "How much does your dream lifestyle actually cost per month? Break it down to specific numbers. You'll likely discover it's far less than you imagined.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p5",
+                            "pageType": "question",
+                            "headline": "What does the 'D' in DEAL represent?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Definition of goals",
+                                    "Delegation of tasks",
+                                    "Development of skills",
+                                    "Distribution of wealth"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p6",
+                            "pageType": "question",
+                            "headline": "What replaces goal setting for the New Rich?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fear setting exercises",
+                                    "Vision boarding",
+                                    "Positive affirmations",
+                                    "Strategic planning"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Elimination Phase",
+                            "body": "Elimination removes time-wasting activities using the 80/20 principle. You identify the 20% of activities producing 80% of your results. Everything else gets eliminated or minimized.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p8",
+                            "pageType": "content",
+                            "headline": "The Information Diet",
+                            "body": "Information overload kills productivity. The New Rich go on selective information diets, consuming only what directly impacts their goals. News and social media are eliminated first.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p9",
+                            "pageType": "question",
+                            "headline": "What principle drives the Elimination phase?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Work-life balance",
+                                    "Time management",
+                                    "Energy conservation",
+                                    "The 80/20 rule"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Automation Phase",
+                            "body": "Automation creates passive income streams and removes you from daily operations. You build systems that work without your constant input. Technology and people handle routine tasks.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Virtual Assistance",
+                            "body": "Virtual assistants are your first step toward automation. Start by delegating one small task. Gradually increase their responsibilities as trust builds. This frees your time for high-value activities.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Liberation Phase",
+                            "body": "Liberation means breaking free from location and time constraints. You negotiate remote work arrangements or create location-independent income. Physical presence becomes optional.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p13",
+                            "pageType": "question",
+                            "headline": "What is the final phase of the DEAL system?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Leadership development",
+                                    "Legacy building",
+                                    "Learning acceleration",
+                                    "Liberation achievement"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p14",
+                            "pageType": "content",
+                            "headline": "The Sequential Process",
+                            "body": "DEAL must be followed in order. Definition clarifies the target. Elimination creates time. Automation generates income. Liberation provides freedom. Skipping steps leads to failure.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-2-p15",
+                            "pageType": "content",
+                            "headline": "Your Starting Point",
+                            "body": "Most people skip Definition and jump to tactics. This approach fails because without clear objectives, no amount of productivity hacks will create freedom. Start with Definition always.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-3",
+                    "title": "Time vs Income Reality",
+                    "order": 3,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Time Trap",
+                            "body": "Most people trade time for money in a linear relationship. Work more hours, earn more money. This model has a ceiling - you can't work infinite hours.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Income Without Time",
+                            "body": "The New Rich decouple income from time invested. They create systems that generate money while they sleep, travel, or pursue other interests. This breaks the linear relationship.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p3",
+                            "pageType": "question",
+                            "headline": "What limits the traditional time-for-money model?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Market competition",
+                                    "Finite hours available",
+                                    "Skill limitations",
+                                    "Economic cycles"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Relative Income Concept",
+                            "body": "Absolute income doesn't matter - relative income does. Making $40,000 working 10 hours per week is better than $100,000 working 80 hours. Calculate your true hourly value.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p5",
+                            "pageType": "content",
+                            "headline": "The Mobility Factor",
+                            "body": "Geographic arbitrage multiplies your income's purchasing power. $3,000 per month goes much further in Thailand than Manhattan. Location flexibility creates instant wealth multiplication.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Productivity vs Hours",
+                            "body": "Working longer doesn't mean working better. The New Rich focus on productivity per hour, not hours worked. They optimize for results, not activity.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p7",
+                            "pageType": "content",
+                            "headline": "The Retirement Illusion",
+                            "body": "Traditional retirement planning assumes you'll be happy being idle after 40 years of work. The New Rich know that purposeful activity, not idleness, creates fulfillment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Lifestyle Design Math",
+                            "body": "Calculate your target monthly expense, then work backward to required income. Factor in geographic arbitrage, taxes, and automation costs. The number is usually lower than expected.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p9",
+                            "pageType": "content",
+                            "headline": "The Freedom Number",
+                            "body": "Your freedom number is the monthly income that covers your desired lifestyle. Once you reach it through automated systems, additional income becomes optional rather than necessary.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p10",
+                            "pageType": "question",
+                            "headline": "What does relative income prioritize over absolute income?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Total yearly salary",
+                                    "Career advancement",
+                                    "Benefits packages",
+                                    "Income per hour worked"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Passive Income Streams",
+                            "body": "Passive income requires upfront work but pays ongoing dividends. Examples include rental properties, royalties, automated businesses, and investment dividends. Build multiple streams for security.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p12",
+                            "pageType": "content",
+                            "headline": "The Scaling Challenge",
+                            "body": "Personal service businesses don't scale - you're still trading time for money. Product businesses and automated services scale infinitely without proportional time increases.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Investment vs Creation",
+                            "body": "The New Rich create assets, not just buy them. Building a business that generates $5,000 monthly is often easier than accumulating enough investments for the same return.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Breaking the Pattern",
+                            "body": "Most people increase spending as income rises, staying trapped in the time-for-money cycle. The New Rich maintain low expenses while building automated income streams.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-4",
+                    "title": "Fear Setting Exercise",
+                    "order": 4,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Fear vs Goals",
+                            "body": "Goal setting focuses on desired outcomes. Fear setting examines what you're afraid of losing or experiencing. Addressing fears is often more powerful than chasing goals.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Three-Column Exercise",
+                            "body": "Column 1: Define your worst-case scenarios. Column 2: List strategies to prevent these outcomes. Column 3: Plan your recovery if they happen anyway.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Defining Fears Specifically",
+                            "body": "Vague fears are paralyzing. Specific fears are manageable. Instead of 'failure,' write 'losing $10,000 and having to move back with parents for 6 months.'",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Prevention Strategies",
+                            "body": "For each fear, identify 2-3 preventive measures. These are actions you can take now to reduce the likelihood of the worst-case scenario occurring.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Recovery Planning",
+                            "body": "If the worst happens, how would you recover? Who could you call for help? What resources do you have? Most worst-case scenarios are survivable and temporary.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p6",
+                            "pageType": "content",
+                            "headline": "The Cost of Inaction",
+                            "body": "What happens if you don't take the risk? Calculate the physical, emotional, and financial costs of staying in your current situation for 1, 5, and 10 years.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Probability Assessment",
+                            "body": "Rate each fear's likelihood on a 1-10 scale. Most people overestimate low-probability events. Your worst fears are usually less likely than you think.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p8",
+                            "pageType": "question",
+                            "headline": "How many columns does the fear setting exercise use?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Two columns",
+                                    "Four columns",
+                                    "Three columns",
+                                    "Five columns"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Reversible Decisions",
+                            "body": "Most decisions are reversible. You can quit a job you don't like, move back from another country, or restart a paused career. Irreversible decisions are rarer than you think.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p10",
+                            "pageType": "content",
+                            "headline": "The Worst-Case Reality",
+                            "body": "When you actually experience 'worst-case' scenarios, they're usually inconvenient rather than catastrophic. You adapt, learn, and move forward. Resilience develops through experience.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Taking the First Step",
+                            "body": "After completing fear setting, identify the smallest possible first step. Make it so small that not taking it would be embarrassing. Action builds momentum.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p12",
+                            "pageType": "question",
+                            "headline": "What should you assess about each fear?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Its emotional impact",
+                                    "Its probability rating",
+                                    "Its social consequences",
+                                    "Its financial implications"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Fear as Compass",
+                            "body": "Your greatest fears often point toward your most important growth opportunities. The things you're most afraid of doing are frequently what you most need to do.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-5",
+                    "title": "The 80/20 Rule Mastery",
+                    "order": 5,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-5-p1",
+                            "pageType": "content",
+                            "headline": "The Pareto Principle",
+                            "body": "80% of results come from 20% of efforts. This principle applies everywhere: customers, products, activities, and relationships. Identifying your 20% is the key to freedom.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Customer Analysis",
+                            "body": "Which 20% of your customers generate 80% of your revenue? Focus on serving these high-value clients better. Fire or ignore customers who consume time without generating profit.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Product Prioritization",
+                            "body": "Most businesses have too many products or services. Identify which offerings generate the most profit with the least effort. Eliminate or automate the rest.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Task Elimination",
+                            "body": "List all your weekly activities. Identify which 20% produce 80% of your desired outcomes. Stop doing everything else. This creates massive time savings immediately.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p5",
+                            "pageType": "content",
+                            "headline": "The 80/20 Mindset",
+                            "body": "Most people try to improve at everything equally. The New Rich identify their highest-leverage activities and become exceptional at those while ignoring the rest.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Revenue Multiplication",
+                            "body": "Instead of acquiring more customers, focus on getting your best customers to buy more. This approach requires less effort and generates higher profits per hour invested.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p7",
+                            "pageType": "question",
+                            "headline": "What percentage of efforts typically produce 80% of results?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "10% of efforts",
+                                    "30% of efforts",
+                                    "50% of efforts",
+                                    "20% of efforts"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p8",
+                            "pageType": "question",
+                            "headline": "How should you treat unprofitable customers?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Invest more time to convert them",
+                                    "Fire or ignore them completely",
+                                    "Offer them discounts",
+                                    "Refer them to competitors"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p9",
+                            "pageType": "content",
+                            "headline": "The Elimination Process",
+                            "body": "First identify your 20%. Then gradually eliminate or delegate the 80%. Don't try to eliminate everything at once - this creates chaos. Make systematic reductions.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Time Audit Exercise",
+                            "body": "Track how you spend every hour for one week. Then categorize activities as essential or non-essential based on results produced. Most people are shocked by the waste.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p11",
+                            "pageType": "question",
+                            "headline": "What should you do after identifying your 20%?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Work harder on everything",
+                                    "Gradually eliminate the 80%",
+                                    "Balance all activities equally",
+                                    "Hire more staff immediately"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "The New Rich choose fewer, higher-quality clients over many mediocre ones. This approach reduces complexity while increasing profitability and satisfaction for everyone involved.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p13",
+                            "pageType": "content",
+                            "headline": "The Multiplication Effect",
+                            "body": "When you eliminate low-value activities, you don't just save time - you multiply the impact of your remaining activities. Focus creates exponential rather than linear improvements.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p14",
+                            "pageType": "question",
+                            "headline": "What happens when you eliminate the 80%?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Results decrease proportionally",
+                                    "You multiply remaining impact",
+                                    "Workload becomes unmanageable",
+                                    "Income drops significantly"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-5-p15",
+                            "pageType": "content",
+                            "headline": "Your Personal 80/20",
+                            "body": "Apply this principle to every area of life. Which relationships energize you? Which activities produce the best outcomes? Which possessions do you actually use? Eliminate ruthlessly.",
+                            "imageURL": null,
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-6",
+                    "title": "Productivity vs Busyness",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Busyness Trap",
+                            "body": "Being busy is not the same as being productive. Busy people fill time with activity. Productive people focus on results that matter. The New Rich choose effectiveness over efficiency.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Efficiency vs Effectiveness",
+                            "body": "Efficiency means doing things right. Effectiveness means doing the right things. You can efficiently complete tasks that don't matter. Always ask if the task needs doing at all.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p3",
+                            "pageType": "content",
+                            "headline": "The Activity Illusion",
+                            "body": "Motion creates the illusion of progress. Many people stay busy to avoid confronting whether their activities produce meaningful results. Busy-ness becomes a form of procrastination.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What should you prioritize over efficiency?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Speed of execution",
+                                    "Number of tasks completed",
+                                    "Effectiveness of outcomes",
+                                    "Hours worked daily"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p5",
+                            "pageType": "content",
+                            "headline": "The Output Question",
+                            "body": "Before starting any task, ask: 'What output will this produce?' If you can't identify a specific, valuable outcome, don't do the task. Eliminate activities without clear purposes.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Single-Tasking Power",
+                            "body": "Multitasking reduces effectiveness by up to 40%. The New Rich focus on one important task at a time until completion. This produces better results in less time.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p7",
+                            "pageType": "content",
+                            "headline": "The Two-Minute Rule",
+                            "body": "If a task takes less than two minutes, do it immediately. If it takes longer, either delegate it, defer it to a specific time, or delete it entirely. Don't let small tasks accumulate.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Batching Similar Tasks",
+                            "body": "Group similar activities together and complete them in dedicated blocks. Check email twice daily, not continuously. Make all phone calls in one session. Batching reduces transition time.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p9",
+                            "pageType": "content",
+                            "headline": "The 4-Hour Minimum",
+                            "body": "Allocate minimum 4-hour blocks for important projects. Shorter periods get consumed by setup time and interruptions. Deep work requires extended, uninterrupted focus periods.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Results Measurement",
+                            "body": "Track outputs, not inputs. Don't measure hours worked or emails sent. Measure revenue generated, problems solved, or goals achieved. Results are the only metrics that matter.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p11",
+                            "pageType": "question",
+                            "headline": "What reduces effectiveness by up to 40%?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working too many hours",
+                                    "Multitasking behavior",
+                                    "Taking frequent breaks",
+                                    "Using outdated technology"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-6-p12",
+                            "pageType": "content",
+                            "headline": "The Productivity Paradox",
+                            "body": "The busiest people often produce the least valuable work. They mistake activity for achievement. The New Rich work fewer hours but create more value per hour invested.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-7",
+                    "title": "Email and Interruptions",
+                    "order": 7,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Email Slavery",
+                            "body": "Email has become a productivity killer rather than a productivity tool. Most people check email every 6 minutes, destroying focus and creating artificial urgency. Break the addiction.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Batch Processing",
+                            "body": "Check email only twice per day: once at 12 PM and once at 4 PM. Process all messages at once instead of constantly monitoring your inbox. This saves hours daily.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p3",
+                            "pageType": "question",
+                            "headline": "How often do most people check email?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Once per hour",
+                                    "Every 6 minutes",
+                                    "Three times daily",
+                                    "Every 30 minutes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p4",
+                            "pageType": "question",
+                            "headline": "When should you check email according to the New Rich approach?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "12 PM and 4 PM only",
+                                    "First thing each morning",
+                                    "Continuously throughout the day",
+                                    "Every few hours"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p5",
+                            "pageType": "content",
+                            "headline": "The Auto-Responder Strategy",
+                            "body": "Set up auto-responders explaining your email schedule. Let people know you check email twice daily and provide alternative contact methods for genuine emergencies. Most people adapt quickly.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Emergency Protocols",
+                            "body": "Define what constitutes a real emergency. Provide a phone number for true urgencies. Most 'urgent' emails can wait several hours without consequences. Train people to respect your boundaries.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p7",
+                            "pageType": "content",
+                            "headline": "The Four D's",
+                            "body": "For each email, either Delete, Delegate, Defer, or Do. If it takes less than 2 minutes, do it immediately. Otherwise, delegate or schedule for later. Delete anything non-essential.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Phone Boundaries",
+                            "body": "Don't answer your phone unless it's scheduled. Let calls go to voicemail, then batch return calls during designated times. Phone interruptions destroy deep work sessions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Office Interruptions",
+                            "body": "Physical interruptions are the worst productivity killers. Work from home when possible, or create 'do not disturb' signals. A closed door and headphones communicate unavailability without words.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What are the Four D's for email processing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Delete, Delegate, Defer, Do",
+                                    "Draft, Deliver, Discuss, Decide",
+                                    "Develop, Deploy, Document, Deliver",
+                                    "Design, Distribute, Discuss, Dispose"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p11",
+                            "pageType": "content",
+                            "headline": "The Notification Fast",
+                            "body": "Turn off all non-essential notifications on every device. No email alerts, social media pings, or news updates. Check these platforms on your schedule, not when they demand attention.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Training Others",
+                            "body": "People will respect your boundaries if you consistently enforce them. Don't respond immediately to non-urgent requests. Train colleagues and clients to batch their requests and plan ahead.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-8",
+                    "title": "Decision Fatigue Combat",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-8-p1",
+                            "pageType": "content",
+                            "headline": "The Decision Drain",
+                            "body": "Every decision depletes your mental energy, regardless of importance. Choosing what to wear drains the same mental resource as choosing business strategies. Conserve decision power for what matters.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Automation First",
+                            "body": "Automate recurring decisions through systems and routines. Wear the same style of clothes daily. Eat similar meals. Take identical routes. Save decision energy for high-impact choices.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p3",
+                            "pageType": "content",
+                            "headline": "The Two-Option Rule",
+                            "body": "Limit choices to two options whenever possible. Instead of 'What should I do?' ask 'Should I do A or B?' Binary decisions are faster and less draining than multiple-choice decisions.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Decision Batching",
+                            "body": "Group similar decisions together and make them all at once. Plan your week's meals on Sunday. Choose your week's outfits in advance. Batch decisions to minimize mental switching costs.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p5",
+                            "pageType": "content",
+                            "headline": "The 10-10-10 Rule",
+                            "body": "For difficult decisions, ask: 'How will I feel about this in 10 minutes, 10 months, and 10 years?' This provides perspective and prevents overthinking minor choices.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p6",
+                            "pageType": "question",
+                            "headline": "What happens to mental energy with each decision?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It gets depleted regardless",
+                                    "It increases with practice",
+                                    "It remains constant",
+                                    "It depends on decision type"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Delegation of Choices",
+                            "body": "Let others make low-impact decisions for you. Give assistants decision-making authority within defined parameters. Trust their judgment on routine matters while focusing on strategic choices.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p8",
+                            "pageType": "question",
+                            "headline": "How many options should you limit choices to?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Two options maximum",
+                                    "Three to five options",
+                                    "As many as possible",
+                                    "Five to seven options"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Time Limits",
+                            "body": "Set strict time limits for decisions. Give yourself 5 minutes for minor choices, 30 minutes for moderate ones. Perfect decisions don't exist - good enough decisions made quickly beat perfect decisions made too late.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p10",
+                            "pageType": "content",
+                            "headline": "The Default Option",
+                            "body": "Establish default choices for recurring situations. Have a default restaurant, default travel route, default response to common requests. Defaults eliminate decision points entirely.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Morning Decision Power",
+                            "body": "Your decision-making ability is strongest in the morning. Schedule important choices early in the day when your mental energy is highest. Save routine decisions for when you're tired.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p12",
+                            "pageType": "content",
+                            "headline": "The Choice Architecture",
+                            "body": "Structure your environment to make good choices automatic and bad choices difficult. Remove decision points that lead to poor outcomes. Design your space to support your goals effortlessly.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Reversible vs Irreversible",
+                            "body": "Distinguish between reversible and irreversible decisions. Spend minimal time on reversible choices - you can always change course. Reserve deep analysis for irreversible decisions with lasting consequences.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Your Decision Diet",
+                            "body": "Just as you limit food intake, limit decision intake. Say no to unnecessary choices. Refuse to engage with decisions that don't require your personal judgment. Protect your mental resources.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Energy for Excellence",
+                            "body": "By eliminating trivial decisions, you preserve energy for choices that truly matter. Your best decisions will come when you're mentally fresh, not mentally exhausted from micro-choices.",
+                            "imageURL": "focus",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-9",
+                    "title": "Muse Business Model",
+                    "order": 9,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-9-p1",
+                            "pageType": "content",
+                            "headline": "What is a Muse?",
+                            "body": "A muse is a business designed to be automated and location-independent. It generates consistent income while requiring minimal daily management. The goal is freedom, not just money.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p2",
+                            "pageType": "content",
+                            "headline": "The Ideal Characteristics",
+                            "body": "Successful muses share common traits: low startup costs, minimal time investment, high profit margins, and easy automation. They solve specific problems for passionate niche markets.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p3",
+                            "pageType": "question",
+                            "headline": "What is the primary goal of a muse business?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximum revenue growth",
+                                    "Personal freedom creation",
+                                    "Market domination",
+                                    "Employee development"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Product vs Service",
+                            "body": "Products scale better than services because they don't require your personal time for each sale. Digital products, information products, and physical products all work better than hourly services.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p5",
+                            "pageType": "content",
+                            "headline": "The Niche Strategy",
+                            "body": "Target passionate niche markets rather than broad audiences. People with specific problems will pay premium prices for targeted solutions. Small markets can generate big profits.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p6",
+                            "pageType": "question",
+                            "headline": "Why do products scale better than services?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They don't require personal time",
+                                    "They cost less to develop",
+                                    "They have higher quality",
+                                    "They need less marketing"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Testing Before Building",
+                            "body": "Test market demand before creating your product. Use landing pages, surveys, or pre-orders to validate interest. Don't build anything until you know people will buy it.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p8",
+                            "pageType": "content",
+                            "headline": "The MVP Approach",
+                            "body": "Start with a Minimum Viable Product - the smallest version that solves the core problem. Launch quickly, gather feedback, then improve. Perfectionism kills momentum and wastes time.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Pricing for Profit",
+                            "body": "Price your products high enough to support automation and virtual assistance. Low prices attract difficult customers and make automation impossible. Premium pricing enables freedom.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Distribution Channels",
+                            "body": "Choose distribution methods that don't require your constant involvement. Online sales, affiliate networks, and retail partnerships all work better than direct selling for muses.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p11",
+                            "pageType": "question",
+                            "headline": "When should you validate market demand?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Before creating your product",
+                                    "After product completion",
+                                    "During the development phase",
+                                    "After initial sales"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p12",
+                            "pageType": "question",
+                            "headline": "Why should muses use premium pricing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To maximize total revenue",
+                                    "To enable automation costs",
+                                    "To appear more prestigious",
+                                    "To limit customer volume"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-9-p13",
+                            "pageType": "content",
+                            "headline": "The 80/20 of Muses",
+                            "body": "Focus on the 20% of customers who generate 80% of profits and cause the fewest problems. Design your business model to attract and retain these high-value customers exclusively.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-10",
+                    "title": "Passive Income Systems",
+                    "order": 10,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-10-p1",
+                            "pageType": "content",
+                            "headline": "True Passive Income",
+                            "body": "Passive income requires initial work but generates ongoing revenue with minimal maintenance. It's not 'set and forget' - it's 'set and occasionally monitor.' The front-end effort enables back-end freedom.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Digital Products",
+                            "body": "Information products like ebooks, courses, and software have the highest profit margins. Once created, they can be sold infinitely without additional production costs. Digital is the ultimate scalable model.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Affiliate Marketing",
+                            "body": "Promote other people's products and earn commissions on sales. No inventory, customer service, or fulfillment required. Focus on products you genuinely use and recommend to your audience.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Rental Income",
+                            "body": "Physical assets like real estate generate monthly cash flow. Consider both traditional rentals and new models like Airbnb. Property management companies can handle day-to-day operations.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Licensing Deals",
+                            "body": "License your intellectual property to others who handle manufacturing and distribution. You receive royalties on every sale without operational involvement. This works for inventions, content, and processes.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p6",
+                            "pageType": "content",
+                            "headline": "Investment Dividends",
+                            "body": "Dividend-paying stocks and bonds provide regular income payments. While requiring significant capital upfront, they offer truly passive returns once established. Focus on stable, dividend-focused investments.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Automated Businesses",
+                            "body": "E-commerce stores with dropshipping, automated affiliate sites, and software-as-a-service products can run with minimal daily input. The key is building robust systems before stepping back.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p8",
+                            "pageType": "question",
+                            "headline": "What characterizes true passive income?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "No upfront work required",
+                                    "Initial work then minimal maintenance",
+                                    "Constant daily management",
+                                    "High ongoing time investment"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p9",
+                            "pageType": "content",
+                            "headline": "The Portfolio Approach",
+                            "body": "Don't rely on a single passive income stream. Build multiple streams to reduce risk and increase total income. Different streams perform well in different market conditions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Reinvestment Strategy",
+                            "body": "Reinvest passive income to grow your streams rather than spending it all. Use income from stream A to build stream B. Compound growth accelerates your path to financial freedom.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p11",
+                            "pageType": "question",
+                            "headline": "Why should you build multiple income streams?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To impress other people",
+                                    "To reduce risk and increase income",
+                                    "To stay busy and productive",
+                                    "To learn new skills"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Your Passive Blueprint",
+                            "body": "Start with one stream that matches your skills and interests. Focus intensively on building it to profitability before adding others. Quality beats quantity in the passive income game.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-11",
+                    "title": "Virtual Assistant Setup",
+                    "order": 11,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Your First VA",
+                            "body": "Hiring your first virtual assistant is a psychological breakthrough as much as a practical one. It forces you to systematize tasks and delegate control. Start small to build confidence.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Where to Find VAs",
+                            "body": "Popular platforms include Upwork, Fiverr, Belay, and specialized agencies. Philippine and Indian VAs offer excellent English skills at competitive rates. Eastern European VAs cost more but often require less training.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p3",
+                            "pageType": "question",
+                            "headline": "What is the biggest benefit of hiring your first VA?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediate cost savings",
+                                    "Psychological breakthrough",
+                                    "Improved work quality",
+                                    "Faster task completion"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p4",
+                            "pageType": "question",
+                            "headline": "How should you start with VA delegation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Delegate everything at once",
+                                    "Start small to build confidence",
+                                    "Only delegate urgent tasks",
+                                    "Wait until you're overwhelmed"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p5",
+                            "pageType": "content",
+                            "headline": "The Test Project",
+                            "body": "Start with a small, low-risk project to evaluate potential VAs. Give them a task that takes 2-3 hours and has clear success criteria. This reveals their communication style and work quality.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Creating Clear Instructions",
+                            "body": "Write detailed, step-by-step instructions for every task. Include screenshots, examples, and expected outcomes. Poor delegation usually stems from unclear instructions, not incompetent assistants.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Time Zone Considerations",
+                            "body": "Choose VAs in time zones that complement your schedule. Philippine VAs work during US nighttime, perfect for overnight task completion. European VAs overlap with US business hours for real-time communication.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Communication Protocols",
+                            "body": "Establish clear communication methods and schedules. Daily check-ins for complex projects, weekly updates for routine tasks. Use project management tools like Asana or Trello for task tracking.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Task Prioritization",
+                            "body": "Start by delegating tasks you hate doing but that don't require specialized skills. Research, data entry, scheduling, and email management are perfect starting points for VA delegation.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Payment Structures",
+                            "body": "Hourly rates work for variable tasks. Fixed project rates work for defined deliverables. Monthly retainers work for ongoing relationships. Start hourly, then move to fixed rates as tasks become routine.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Building Trust",
+                            "body": "Trust develops gradually through successful task completion. Start with non-sensitive tasks, then progressively delegate more important work. Monitor results closely at first, then give more autonomy.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Quality Control",
+                            "body": "Create checklists and quality standards for all delegated tasks. Review work samples regularly and provide feedback. Good VAs want to improve - give them the guidance they need.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p13",
+                            "pageType": "question",
+                            "headline": "What should you delegate to VAs first?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Most important strategic decisions",
+                                    "Tasks you hate but don't need skills",
+                                    "All customer service inquiries",
+                                    "Financial and accounting work"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Scaling Your VA Team",
+                            "body": "Once you've mastered working with one VA, consider adding specialists. Have different VAs for different functions: research, admin, marketing, customer service. Specialization improves efficiency.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-11-p15",
+                            "pageType": "content",
+                            "headline": "The Liberation Effect",
+                            "body": "Successful VA delegation creates a psychological shift from 'I must do everything' to 'I can focus on what matters most.' This mindset change is the first step toward true freedom.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-12",
+                    "title": "Delegation Strategies",
+                    "order": 12,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-12-p1",
+                            "pageType": "content",
+                            "headline": "The Delegation Mindset",
+                            "body": "Effective delegation isn't about giving away work you don't want to do. It's about freeing yourself to focus on activities that only you can do or that create the highest value.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The $10,000 Work Rule",
+                            "body": "Calculate your target hourly rate based on your income goals. Only do work that matches or exceeds this rate. Delegate everything else, even if you could do it faster yourself.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p3",
+                            "pageType": "question",
+                            "headline": "What is effective delegation really about?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Freeing time for high-value work",
+                                    "Getting rid of boring tasks",
+                                    "Saving money on labor costs",
+                                    "Teaching others new skills"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Task Documentation",
+                            "body": "Document every process before delegating it. Create step-by-step instructions, include screenshots, and note common pitfalls. Good documentation makes delegation successful and reduces future questions.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p5",
+                            "pageType": "content",
+                            "headline": "The Training Investment",
+                            "body": "Invest time upfront to train properly rather than rushing through explanations. Spend one hour training to save ten hours later. Proper training prevents mistakes and builds confidence.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Decision Authority",
+                            "body": "Give clear decision-making authority along with tasks. Define what decisions they can make independently and when they need your input. Ambiguous authority creates bottlenecks.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p7",
+                            "pageType": "content",
+                            "headline": "The Two-Week Rule",
+                            "body": "Most delegation attempts fail in the first two weeks due to communication issues or unclear expectations. Push through this initial period - success comes after establishing working rhythms.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p8",
+                            "pageType": "question",
+                            "headline": "How should you approach training for delegation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Keep it brief to save time",
+                                    "Let them figure it out",
+                                    "Invest time upfront properly",
+                                    "Only train when problems arise"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p9",
+                            "pageType": "question",
+                            "headline": "When do most delegation attempts fail?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After several months",
+                                    "In the first two weeks",
+                                    "During the training phase",
+                                    "When workload increases"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Feedback Systems",
+                            "body": "Create regular feedback loops to monitor progress and address issues early. Weekly check-ins for new delegations, monthly reviews for established tasks. Feedback improves performance over time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p11",
+                            "pageType": "question",
+                            "headline": "What should accompany clear task instructions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Detailed timelines",
+                                    "Performance bonuses",
+                                    "Decision-making authority",
+                                    "Additional resources"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p12",
+                            "pageType": "content",
+                            "headline": "The Progressive Approach",
+                            "body": "Start with small, low-risk tasks and gradually increase complexity and responsibility. This builds trust and competence systematically. Don't jump to mission-critical tasks immediately.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Cultural Considerations",
+                            "body": "Understand cultural communication styles when working with international team members. Some cultures are more direct, others more hierarchical. Adapt your communication style for maximum effectiveness.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-13",
+                    "title": "Remote Work Negotiation",
+                    "order": 13,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-13-p1",
+                            "pageType": "content",
+                            "headline": "The Remote Revolution",
+                            "body": "Remote work has shifted from unusual perk to business necessity. Companies now compete for talent with flexibility offerings. This gives you negotiating power you didn't have before.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Prove Your Value First",
+                            "body": "Establish yourself as a high performer before requesting remote work. Consistently exceed expectations, meet deadlines, and contribute meaningfully. Value gives you negotiating leverage.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Start with Testing",
+                            "body": "Propose a trial period rather than permanent remote work initially. Suggest working from home 1-2 days per week for a month. This reduces perceived risk for your employer.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Focus on Results",
+                            "body": "Frame your request around productivity and results, not personal convenience. Emphasize how remote work will help you deliver better outcomes, not how it will make your life easier.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Address Common Concerns",
+                            "body": "Anticipate objections about communication, collaboration, and accountability. Present solutions before problems are raised. Show you've thought through the challenges and have plans to address them.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p6",
+                            "pageType": "question",
+                            "headline": "How should you frame your remote work request?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Around productivity and results",
+                                    "Around personal convenience",
+                                    "Around cost savings",
+                                    "Around work-life balance"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p7",
+                            "pageType": "content",
+                            "headline": "The Communication Plan",
+                            "body": "Propose specific communication protocols: daily check-ins, weekly team meetings, monthly goal reviews. Overcommunicate initially to build trust, then gradually reduce frequency as confidence grows.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p8",
+                            "pageType": "content",
+                            "headline": "Technology Solutions",
+                            "body": "Present the tech stack that will support remote collaboration: video conferencing, project management tools, shared documents, and communication platforms. Remove technology as a barrier.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Measurable Outcomes",
+                            "body": "Define success metrics for your remote work trial. Track productivity indicators, project completion rates, and quality measures. Data beats opinions in business negotiations.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p10",
+                            "pageType": "content",
+                            "headline": "The Gradual Approach",
+                            "body": "Once you prove remote work effectiveness, gradually increase your remote days or propose full remote arrangements. Success builds on success in corporate environments.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Alternative Arrangements",
+                            "body": "If full remote work isn't possible, consider compressed work weeks, flexible hours, or seasonal remote periods. There are many ways to gain location independence beyond traditional remote work.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p12",
+                            "pageType": "content",
+                            "headline": "The Outside Offer",
+                            "body": "Having a competing job offer with remote work can strengthen your negotiating position. Don't threaten to quit, but do highlight market standards and competitive packages.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p13",
+                            "pageType": "question",
+                            "headline": "What strengthens remote work negotiations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Competing job offers",
+                                    "Personal family needs",
+                                    "Commute difficulties",
+                                    "Office distractions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Your Freedom Strategy",
+                            "body": "Remote work negotiation is your stepping stone to location independence. Master remote work first, then explore the New Rich lifestyle of working from anywhere while delivering exceptional results.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-14",
+                    "title": "Location Independence",
+                    "order": 14,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Remote Work",
+                            "body": "Location independence goes beyond working from home. It means your income source doesn't depend on being in a specific city, state, or country. Your office becomes anywhere with internet.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Geographic Arbitrage",
+                            "body": "Earn first-world income while living in developing countries with lower costs. Your dollars stretch further in Thailand than in Manhattan. This difference can fund your freedom lifestyle.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p3",
+                            "pageType": "question",
+                            "headline": "What is location independence?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Income not tied to specific location",
+                                    "Working only from home",
+                                    "Traveling constantly for work",
+                                    "Having multiple office locations"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Essential Infrastructure",
+                            "body": "Reliable internet, communication tools, and banking access are non-negotiables. Test these systems before committing to any location. Infrastructure failures can destroy productivity and income.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p5",
+                            "pageType": "question",
+                            "headline": "What enables geographic arbitrage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Speaking multiple languages",
+                                    "Having travel experience",
+                                    "Understanding local cultures",
+                                    "Earning in strong currencies"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Time Zone Management",
+                            "body": "Choose locations that align with your business needs or client schedules. Eastern European time zones work well for US business hours. Southeast Asian zones suit overnight automation tasks.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p7",
+                            "pageType": "content",
+                            "headline": "The Test Run",
+                            "body": "Before relocating permanently, spend 1-3 months in your target location. Test internet speeds, workspace options, cost of living, and quality of life. Make decisions based on experience, not imagination.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p8",
+                            "pageType": "question",
+                            "headline": "How should you choose work locations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Based on tourist attractions",
+                                    "Aligned with business time zones",
+                                    "By lowest cost of living",
+                                    "Where you have friends"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Legal and Tax Issues",
+                            "body": "Understand tax implications of location independence. Some countries tax worldwide income, others don't. Consult with tax professionals who specialize in location-independent income structures.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p10",
+                            "pageType": "question",
+                            "headline": "What should you do before relocating?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Book permanent housing",
+                                    "Learn the local language",
+                                    "Research tourist attractions",
+                                    "Do a 1-3 month test run"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Healthcare Considerations",
+                            "body": "Research healthcare quality and costs in potential locations. Consider international health insurance that covers you globally. Healthcare access can be a major quality-of-life factor.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Building Local Networks",
+                            "body": "Connect with other location-independent professionals and local business communities. Networking events, co-working spaces, and online communities help you establish roots quickly in new locations.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Your Independence Plan",
+                            "body": "Location independence isn't achieved overnight. Build remote income streams first, test different locations second, then gradually increase your mobility. Each step should strengthen your freedom foundation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-15",
+                    "title": "Mini-Retirement Planning",
+                    "order": 15,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Rethinking Retirement",
+                            "body": "Why wait until 65 to enjoy life when you could take multiple mini-retirements throughout your career? Distribute recovery and adventure across your entire lifespan instead of saving it all for the end.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p2",
+                            "pageType": "content",
+                            "headline": "The Energy Factor",
+                            "body": "You have more energy and health at 30 than 70. Adventures like hiking Machu Picchu or learning to surf are easier when you're younger. Don't postpone dreams until you're less capable of enjoying them.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Financial Requirements",
+                            "body": "Mini-retirements cost less than you think, especially with geographic arbitrage. Six months in Southeast Asia can cost less than two months of expenses in most US cities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p4",
+                            "pageType": "content",
+                            "headline": "The Sabbatical Request",
+                            "body": "Many employers will grant unpaid sabbaticals to valuable employees rather than lose them permanently. Frame your request as professional development or personal renewal that will make you more valuable upon return.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p5",
+                            "pageType": "question",
+                            "headline": "What makes mini-retirements more appealing than traditional retirement?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They cost much less money",
+                                    "You have more energy when younger",
+                                    "They require no planning",
+                                    "They're easier to afford"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p6",
+                            "pageType": "question",
+                            "headline": "How can mini-retirements be made affordable?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working part-time remotely",
+                                    "Borrowing money for travel",
+                                    "Staying in luxury hotels",
+                                    "Through geographic arbitrage"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p7",
+                            "pageType": "question",
+                            "headline": "How should you frame sabbatical requests to employers?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As personal development",
+                                    "As a vacation need",
+                                    "As a family obligation",
+                                    "As health requirements"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p8",
+                            "pageType": "content",
+                            "headline": "The Learning Experience",
+                            "body": "Mini-retirements aren't just vacations - they're intensive learning experiences. Study languages, develop skills, explore interests you can't pursue in your daily routine. Return with new perspectives and abilities.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Planning Timeline",
+                            "body": "Start planning your mini-retirement 6-12 months in advance. Save money, arrange work coverage, research destinations, and handle visa requirements. Proper planning ensures a smooth transition.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Maintaining Connections",
+                            "body": "Stay connected with important relationships and business opportunities during your mini-retirement. Schedule regular check-ins, maintain social media presence, and keep key contacts warm for your return.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p11",
+                            "pageType": "content",
+                            "headline": "The Reentry Strategy",
+                            "body": "Plan your return to work as carefully as your departure. Share experiences and insights with colleagues, apply new skills to current projects, and use the mini-retirement as a catalyst for positive changes.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Multiple Mini-Retirements",
+                            "body": "Don't make it a once-in-a-lifetime event. Plan multiple mini-retirements throughout your career. Each one becomes easier as you refine your approach and build systems to support extended absences.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Beyond Tourism",
+                            "body": "Mini-retirements let you live like a local rather than a tourist. Rent apartments, shop at local markets, develop routines, and form relationships. Experience cultures deeply instead of superficially.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Your First Mini-Retirement",
+                            "body": "Start planning your first mini-retirement now. Choose a destination, calculate costs, and begin the conversation with your employer. The hardest part is deciding to do it - everything else is logistics.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-16",
+                    "title": "Fear of Success",
+                    "order": 16,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-16-p1",
+                            "pageType": "content",
+                            "headline": "The Hidden Fear",
+                            "body": "Most people fear failure, but the New Rich often struggle with fear of success. Success brings responsibility, visibility, and change. Sometimes staying small feels safer than growing beyond your comfort zone.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p2",
+                            "pageType": "content",
+                            "headline": "Identity Shifts",
+                            "body": "Success requires becoming someone different than who you are today. This identity shift can feel threatening to your current sense of self. Growth means leaving familiar versions of yourself behind.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p3",
+                            "pageType": "question",
+                            "headline": "What do most New Rich struggle with beyond fear of failure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fear of success",
+                                    "Fear of change",
+                                    "Fear of responsibility",
+                                    "Fear of visibility"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p4",
+                            "pageType": "content",
+                            "headline": "The Impostor Syndrome",
+                            "body": "As you achieve more, you may feel like a fraud who doesn't deserve success. This impostor syndrome is normal and temporary. Your skills and results are real, even when your confidence lags behind.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Social Pressure",
+                            "body": "Friends and family might not understand your New Rich lifestyle. Their discomfort with your success can create guilt and pressure to return to conventional patterns. Choose your environment carefully.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p6",
+                            "pageType": "question",
+                            "headline": "Why might others feel uncomfortable with your success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They're genuinely concerned",
+                                    "They don't understand the lifestyle",
+                                    "They want to help you",
+                                    "They have better alternatives"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p7",
+                            "pageType": "content",
+                            "headline": "The Responsibility Weight",
+                            "body": "Success brings responsibility for others - employees, customers, family members who depend on your income. This weight can feel overwhelming and make you want to retreat to simpler times.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p8",
+                            "pageType": "content",
+                            "headline": "Perfectionism Trap",
+                            "body": "Fear of success often manifests as perfectionism - endlessly refining instead of shipping. You sabotage yourself by never feeling ready to move forward. Done is better than perfect.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p9",
+                            "pageType": "content",
+                            "headline": "The Comfort Zone",
+                            "body": "Your current situation, even if unsatisfying, is familiar and predictable. Success requires entering unknown territory with uncertain outcomes. The devil you know feels safer than the angel you don't.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p10",
+                            "pageType": "content",
+                            "headline": "Embracing Growth",
+                            "body": "Accept that growth involves temporary discomfort. Like physical exercise, expanding your capabilities initially feels awkward and challenging. The discomfort signals positive change happening.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p11",
+                            "pageType": "question",
+                            "headline": "What should success discomfort signal to you?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "You should quit immediately",
+                                    "Positive change is happening",
+                                    "You're on the wrong path",
+                                    "You need more preparation"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p12",
+                            "pageType": "content",
+                            "headline": "Support Systems",
+                            "body": "Surround yourself with others who understand and support your New Rich journey. Join mastermind groups, find mentors, and build relationships with like-minded entrepreneurs. Isolation amplifies fear.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Gradual Exposure",
+                            "body": "Expose yourself gradually to success rather than seeking dramatic overnight changes. Small wins build confidence and normalize higher levels of achievement. Success becomes comfortable through practice.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p14",
+                            "pageType": "content",
+                            "headline": "Redefining Success",
+                            "body": "Success doesn't mean becoming someone you don't recognize. It means becoming the fullest expression of who you already are. You're not changing your core identity - you're revealing your potential.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-16-p15",
+                            "pageType": "content",
+                            "headline": "Your Success Permission",
+                            "body": "Give yourself permission to succeed beyond your current circumstances. You deserve the freedom, income, and lifestyle you're working to create. Success isn't selfish - it enables you to help others more effectively.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "four_hour_workweek-1-17",
+                    "title": "Your Liberation Blueprint",
+                    "order": 17,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "four_hour_workweek-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Integration Time",
+                            "body": "You've learned the principles, strategies, and mindsets of the New Rich. Now it's time to integrate these concepts into a personalized action plan. Your liberation blueprint starts with your current situation.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Your Starting Point",
+                            "body": "Honestly assess where you are now: income, time freedom, location flexibility, and stress levels. Your blueprint must begin with reality, not where you wish you were. Accurate diagnosis enables effective treatment.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p3",
+                            "pageType": "content",
+                            "headline": "The 90-Day Plan",
+                            "body": "Break your transformation into 90-day phases. Each phase should have specific, measurable objectives. This timeframe is long enough for meaningful progress but short enough to maintain urgency and focus.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p4",
+                            "pageType": "question",
+                            "headline": "How should you break down your transformation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Into 30-day phases",
+                                    "Into yearly goals",
+                                    "Into 90-day phases",
+                                    "Into weekly targets"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Phase One: Foundation",
+                            "body": "Your first 90 days should focus on foundation building: time audit, 80/20 analysis, elimination of low-value activities, and basic automation setup. Don't try to do everything simultaneously.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p6",
+                            "pageType": "question",
+                            "headline": "What should your first 90 days focus on?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Income maximization",
+                                    "Foundation building",
+                                    "Location independence",
+                                    "Business automation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Phase Two: Automation",
+                            "body": "The second phase introduces delegation and automation: hiring your first virtual assistant, documenting processes, building passive income streams, and negotiating remote work arrangements.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Phase Three: Liberation",
+                            "body": "The third phase achieves location independence: testing remote work arrangements, exploring mini-retirements, building location-independent income, and creating your freedom lifestyle.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Your Daily Habits",
+                            "body": "Success requires consistent daily actions, not sporadic intense efforts. Identify 2-3 daily habits that support your New Rich transformation. Small consistent actions create massive long-term results.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Accountability Systems",
+                            "body": "Create systems to keep yourself accountable: weekly reviews, monthly assessments, accountability partners, or coaching relationships. External accountability dramatically increases follow-through rates.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p11",
+                            "pageType": "question",
+                            "headline": "What should you establish to improve follow-through?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "More detailed planning",
+                                    "Accountability systems",
+                                    "Higher motivation",
+                                    "Better goal setting"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "four_hour_workweek-1-17-p12",
+                            "pageType": "content",
+                            "headline": "Your First Action",
+                            "body": "Identify the single most important action you can take today to begin your transformation. Make it specific, small, and immediately actionable. Perfect plans without action create zero results.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.7,
+    "tag": "Popular"
+}

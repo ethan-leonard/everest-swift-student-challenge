@@ -1,0 +1,2434 @@
+{
+    "id": "art_of_happiness",
+    "title": "The Art of Happiness",
+    "description": "What the Dalai Lama knows about lasting joy. Combine ancient wisdom with modern psychology for genuine wellbeing.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/art_of_happiness.png",
+    "coverImagePrompt": "Premium editorial flat vector art, serene lotus opening with radiating light patterns, sage green peaceful center with charcoal surrounding stillness, inner peace aesthetic",
+    "altitude": 3200,
+    "durationMinutes": 98,
+    "whatsInside": [
+        "Understand the difference between pleasure and genuine happiness",
+        "Learn how compassion creates personal wellbeing",
+        "Develop practices for cultivating contentment",
+        "Shift from seeking happiness to creating the conditions for it",
+        "Master the art of letting go and acceptance",
+        "Build resilience through adversity"
+    ],
+    "expertReview": {
+        "quote": "Happiness is not something ready made. It comes from your own actions. This course explains how.",
+        "name": "His Holiness the Dalai Lama",
+        "title": "Spiritual Leader"
+    },
+    "chapters": [
+        {
+            "id": "art_of_happiness-ch1",
+            "title": "The Art of Happiness",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "art_of_happiness-1-1",
+                    "title": "What Happiness Really Is",
+                    "order": 1,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Fleeting Pleasures",
+                            "body": "True happiness differs from temporary pleasure or excitement. The Dalai Lama describes it as a deep sense of fulfillment and peace that remains stable even during difficult times. This authentic happiness comes from within, not from external circumstances.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Happiness Misconception",
+                            "body": "Many people chase happiness through wealth, status, or possessions. Research shows these external factors provide only brief satisfaction. Your brain adapts quickly to new circumstances, returning to baseline happiness levels regardless of achievements or acquisitions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Inner vs Outer Sources",
+                            "body": "Genuine happiness stems from cultivating positive mental states rather than changing your environment. You can develop contentment, compassion, and wisdom regardless of your circumstances. These inner qualities provide lasting satisfaction that external conditions cannot.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p4",
+                            "pageType": "content",
+                            "headline": "The Dalai Lama's Definition",
+                            "body": "According to His Holiness, happiness is characterized by inner peace, compassion for others, and freedom from destructive emotions. It's not about constant joy but about developing resilience and equanimity. This state allows you to face life's challenges with grace and wisdom.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p5",
+                            "pageType": "question",
+                            "headline": "What distinguishes true happiness from temporary pleasure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Intensity of the feeling",
+                                    "Duration of experience",
+                                    "Source from possessions",
+                                    "Stability during difficulties"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p6",
+                            "pageType": "content",
+                            "headline": "The Set Point Theory",
+                            "body": "Psychologists discovered that genetics account for about 50% of your happiness baseline. Life circumstances contribute only 10%, while intentional activities make up 40%. This means you have significant control over your wellbeing through conscious choices and practices.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Hedonic vs Eudaimonic",
+                            "body": "Hedonic happiness seeks pleasure and avoids pain. Eudaimonic happiness comes from meaning, personal growth, and contributing to something greater. The Dalai Lama emphasizes eudaimonic wellbeing as the path to lasting fulfillment rather than fleeting pleasure-seeking.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Conditional vs Unconditional",
+                            "body": "Conditional happiness depends on things going your way. Unconditional happiness exists regardless of circumstances. You can cultivate this unconditional state through meditation, compassion practice, and accepting life's impermanent nature with wisdom and grace.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p9",
+                            "pageType": "question",
+                            "headline": "According to research, what percentage of happiness comes from intentional activities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "40 percent",
+                                    "30 percent",
+                                    "50 percent",
+                                    "60 percent"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p10",
+                            "pageType": "content",
+                            "headline": "The Training Ground",
+                            "body": "Happiness is a skill that requires practice like any other ability. You wouldn't expect to play piano beautifully without training. Similarly, developing genuine happiness takes consistent effort, patience, and the right techniques guided by ancient wisdom and modern psychology.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p11",
+                            "pageType": "question",
+                            "headline": "What type of happiness emphasizes meaning over pleasure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Eudaimonic happiness",
+                                    "Conditional happiness",
+                                    "Hedonic happiness",
+                                    "Temporary happiness"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Your Happiness Journey",
+                            "body": "Understanding true happiness is just the beginning. The following lessons will teach you practical methods to cultivate lasting joy, overcome obstacles to wellbeing, and develop the inner resources that create genuine fulfillment regardless of life's ups and downs.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-2",
+                    "title": "The Science of Joy",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Neuroscience Meets Ancient Wisdom",
+                            "body": "Modern brain research validates many teachings from Buddhist psychology about happiness. Scientists can now observe how meditation changes brain structure, increasing areas associated with wellbeing while reducing regions linked to stress and negative emotions.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Plastic Brain",
+                            "body": "Your brain remains changeable throughout life through neuroplasticity. Regular meditation literally rewires neural pathways, strengthening connections that support happiness and weakening those that generate suffering. This process continues as long as you maintain consistent practice.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Happy Brain Chemistry",
+                            "body": "Four key neurotransmitters influence your happiness: dopamine drives motivation, serotonin creates contentment, endorphins provide natural highs, and oxytocin builds connection. You can naturally boost these chemicals through specific activities like exercise, meditation, acts of kindness, and social bonding.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p4",
+                            "pageType": "content",
+                            "headline": "The Default Mode Network",
+                            "body": "When your mind wanders, it often activates the default mode network associated with rumination and self-criticism. Meditation training helps you disengage from this network, reducing anxiety and depression while increasing present-moment awareness and emotional balance.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Positive Emotions Broaden Perspective",
+                            "body": "Barbara Fredrickson's research shows positive emotions expand your awareness and build psychological resources. Joy, gratitude, love, and serenity help you see more possibilities, think more creatively, and develop resilience that serves you during challenging times.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p6",
+                            "pageType": "content",
+                            "headline": "The Stress Response System",
+                            "body": "Chronic stress floods your body with cortisol, which impairs memory, weakens immunity, and blocks happiness. Practices like mindfulness meditation activate your parasympathetic nervous system, promoting relaxation and creating optimal conditions for wellbeing and joy.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Mirror Neurons and Compassion",
+                            "body": "Mirror neurons help you understand others by simulating their experiences in your own brain. This biological basis of empathy explains why compassion practices feel natural and why spending time with happy people increases your own positive emotions.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p8",
+                            "pageType": "question",
+                            "headline": "What happens when positive emotions activate in the brain?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Awareness narrows significantly",
+                                    "Stress hormones increase rapidly",
+                                    "Memory formation is impaired",
+                                    "Perspective expands and broadens"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p9",
+                            "pageType": "question",
+                            "headline": "Which brain network is associated with rumination and self-criticism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Central executive network",
+                                    "Salience detection network",
+                                    "Sensory processing network",
+                                    "Default mode network"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p10",
+                            "pageType": "content",
+                            "headline": "The Social Brain",
+                            "body": "Humans evolved as social creatures with brains wired for connection. Loneliness triggers the same neural pathways as physical pain, while strong relationships activate reward centers. This explains why meaningful connections are essential for lasting happiness.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Attention Training Benefits",
+                            "body": "Focused attention meditation strengthens your prefrontal cortex, the brain region responsible for emotional regulation and decision-making. This enhanced control helps you respond wisely rather than react impulsively, creating space for more skillful and happiness-promoting choices.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Science Validates Wisdom",
+                            "body": "Research confirms what contemplatives have known for centuries: happiness is trainable, compassion is natural, and your mind shapes your reality. This convergence of ancient wisdom and modern science provides a solid foundation for your happiness journey.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-3",
+                    "title": "Compassion Creates Happiness",
+                    "order": 3,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Compassion Paradox",
+                            "body": "Focusing on others' wellbeing actually increases your own happiness. This counterintuitive truth forms the foundation of the Dalai Lama's teachings. When you genuinely care for others, you break free from the prison of self-centered thinking that often causes suffering.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Beyond Self-Interest",
+                            "body": "Excessive self-focus creates anxiety, depression, and isolation. Compassion shifts your attention outward, connecting you to something larger than yourself. This expanded perspective naturally reduces personal worries while creating a sense of meaning and purpose in life.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p3",
+                            "pageType": "content",
+                            "headline": "The Helper's High",
+                            "body": "Acts of kindness trigger the release of endorphins, creating what researchers call 'helper's high.' Your brain also produces oxytocin, strengthening social bonds and reducing stress. This neurochemical reward system evolved to encourage cooperation and mutual support.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Compassion vs Empathy",
+                            "body": "Empathy involves feeling others' pain, which can lead to emotional burnout. Compassion combines understanding with the intention to help, creating positive emotions instead of draining ones. This distinction allows you to care deeply while maintaining emotional balance.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Universal Human Connection",
+                            "body": "Recognizing that all beings want happiness and freedom from suffering creates immediate connection. This universal aspiration transcends differences in culture, beliefs, or circumstances. Feeling this kinship with others naturally generates warmth and reduces loneliness.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Loving-Kindness Practice",
+                            "body": "Traditional loving-kindness meditation systematically extends goodwill to yourself, loved ones, neutral people, difficult people, and all beings. This practice literally rewires your brain for greater happiness, reducing implicit bias and increasing positive emotions toward everyone.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p7",
+                            "pageType": "content",
+                            "headline": "The Interconnection Reality",
+                            "body": "No one exists in isolation. Your happiness depends on countless others who grow your food, build your shelter, and create the systems you rely on. Recognizing this interdependence naturally cultivates gratitude and compassion for the web of life supporting you.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p8",
+                            "pageType": "question",
+                            "headline": "How does compassion differ from empathy in its effects?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates identical responses",
+                                    "Generates more intensity",
+                                    "Produces positive emotions",
+                                    "Increases emotional pain"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p9",
+                            "pageType": "question",
+                            "headline": "What universal human desire creates connection between all beings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Achieving material success",
+                                    "Wanting happiness and freedom from suffering",
+                                    "Gaining recognition and status",
+                                    "Controlling life circumstances"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Compassion for Difficult People",
+                            "body": "Even challenging individuals act from their own confused attempts to find happiness. Seeing their behavior as misguided rather than evil allows you to respond with wisdom instead of anger. This perspective protects your peace while opening possibilities for positive change.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Self-Compassion Foundation",
+                            "body": "You cannot give what you don't have. Developing genuine compassion for others requires first cultivating kindness toward yourself. Treat your mistakes and struggles with the same understanding you'd offer a good friend facing similar challenges.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Small Acts, Big Impact",
+                            "body": "Compassion doesn't require grand gestures. Simple acts like truly listening, offering encouragement, or helping with small tasks create ripple effects of positivity. These moments of connection accumulate, building a happier world for yourself and others.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p13",
+                            "pageType": "content",
+                            "headline": "The Compassionate Life",
+                            "body": "Living compassionately transforms ordinary activities into opportunities for happiness. Every interaction becomes a chance to spread kindness, reduce suffering, and strengthen the human bonds that make life meaningful. This approach creates continuous fulfillment throughout each day.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Building Your Practice",
+                            "body": "Start with brief moments of sending goodwill to others throughout your day. Notice how this shifts your mood and relationships. Gradually extend compassion to more challenging people and situations, always returning to self-kindness as your foundation.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-4",
+                    "title": "Self-Compassion Foundations",
+                    "order": 4,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Inner Critic's Voice",
+                            "body": "Most people speak to themselves more harshly than they would to their worst enemy. This internal criticism creates chronic stress, undermines confidence, and blocks happiness. Self-compassion offers a radically different approach to personal growth and healing.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Three Components of Self-Compassion",
+                            "body": "Kristin Neff identifies three elements: self-kindness instead of self-judgment, common humanity instead of isolation, and mindfulness instead of over-identification. These components work together to create a supportive inner environment that fosters resilience and wellbeing.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Self-Kindness Breaks Cycles",
+                            "body": "Treating yourself with gentleness interrupts patterns of self-attack that fuel anxiety and depression. When you respond to mistakes with understanding rather than condemnation, you create space for learning and growth instead of shame and paralysis.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Common Humanity Heals Isolation",
+                            "body": "Suffering feels uniquely personal, but struggle is actually part of the shared human experience. Recognizing that everyone faces difficulties, makes mistakes, and experiences pain reduces the loneliness that intensifies emotional distress and creates connection with others.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Mindful Awareness of Pain",
+                            "body": "Mindfulness allows you to observe difficult emotions without drowning in them or pushing them away. This balanced awareness acknowledges your experience without exaggerating its significance or letting it define your entire identity.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p6",
+                            "pageType": "question",
+                            "headline": "What are the three components of self-compassion?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Self-kindness, common humanity, mindfulness",
+                                    "Self-esteem, positive thinking, confidence",
+                                    "Acceptance, forgiveness, understanding",
+                                    "Patience, tolerance, empathy"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p7",
+                            "pageType": "question",
+                            "headline": "How does self-compassion differ from self-criticism in promoting growth?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates space for learning instead of shame",
+                                    "Provides more intense motivation",
+                                    "Eliminates all negative emotions",
+                                    "Prevents making future mistakes"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p8",
+                            "pageType": "content",
+                            "headline": "The Self-Compassion Break",
+                            "body": "When facing difficulty, place your hand on your heart and acknowledge your pain with kindness. Remind yourself that suffering is part of human experience, then offer yourself the compassion you'd give a dear friend. This simple practice provides immediate emotional support.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Fierce Self-Compassion",
+                            "body": "Self-compassion isn't passive or weak. Sometimes it requires fierce action to protect your wellbeing, set boundaries, or pursue important goals. This protective aspect motivates healthy choices from love rather than fear, creating sustainable positive changes.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Neurological Benefits",
+                            "body": "Self-compassion activates your caregiving system, releasing oxytocin and reducing cortisol. This neurochemical shift promotes emotional regulation, increases motivation, and strengthens resilience. Your brain literally rewards you for treating yourself kindly.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Common Resistance",
+                            "body": "Many people fear self-compassion will make them lazy or complacent. Research shows the opposite: self-compassionate individuals are more motivated, take greater personal responsibility, and show more resilience after failure than those who rely on self-criticism for motivation.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Writing Self-Compassionate Letters",
+                            "body": "Write yourself a letter about a current struggle from the perspective of an unconditionally loving friend. Express understanding for your pain, remind yourself of your shared humanity, and offer encouragement. This practice helps internalize a compassionate inner voice.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p13",
+                            "pageType": "question",
+                            "headline": "What neurochemical changes result from self-compassion practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increased adrenaline and alertness",
+                                    "Higher cortisol and stress response",
+                                    "Elevated dopamine and reward feelings",
+                                    "Increased oxytocin and reduced cortisol"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p14",
+                            "pageType": "question",
+                            "headline": "How does self-compassion affect motivation compared to self-criticism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Decreases effort significantly",
+                                    "Has no measurable effect",
+                                    "Increases motivation and resilience",
+                                    "Creates temporary improvements only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-4-p15",
+                            "pageType": "content",
+                            "headline": "Daily Self-Compassion",
+                            "body": "Make self-kindness a daily practice. Notice your inner dialogue and gently redirect harsh self-talk toward understanding. Remember that everyone struggles, everyone makes mistakes, and everyone deserves compassion - especially from themselves. This foundation supports all other happiness practices.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-5",
+                    "title": "Practices for Contentment",
+                    "order": 5,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Contentment vs Complacency",
+                            "body": "True contentment means appreciating what you have while still growing and contributing. It's not passive resignation but an active state of gratitude that provides stable happiness regardless of circumstances. This inner satisfaction becomes the foundation for wise action.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p2",
+                            "pageType": "content",
+                            "headline": "The Gratitude Practice",
+                            "body": "Daily gratitude rewires your brain to notice positive aspects of life rather than focusing on problems. Write down three things you're grateful for each evening, including why you appreciate them. This simple practice significantly increases life satisfaction over time.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What distinguishes contentment from complacency?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Level of personal ambition",
+                                    "Amount of material possessions",
+                                    "Active gratitude while still growing",
+                                    "Acceptance of current limitations"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Savoring Pleasant Moments",
+                            "body": "Most positive experiences pass unnoticed in our rush toward the next goal. Intentionally savoring good moments - a warm cup of coffee, a friend's laughter, or a beautiful sunset - extends their impact and builds a reservoir of positive memories.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Reducing Comparison",
+                            "body": "Constant comparison steals contentment by making your happiness dependent on relative position rather than absolute wellbeing. Social media amplifies this tendency. Practice appreciating your unique journey without measuring it against others' highlight reels.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Voluntary Simplicity",
+                            "body": "Reducing material desires creates space for appreciation of what you already have. This doesn't mean poverty but rather choosing quality over quantity and experiences over possessions. Simplicity clears mental clutter and reveals sources of genuine satisfaction.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p7",
+                            "pageType": "question",
+                            "headline": "What is the primary benefit of daily gratitude practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Rewires brain to notice positive aspects",
+                                    "Eliminates all negative thoughts",
+                                    "Guarantees material success",
+                                    "Prevents future difficulties"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p8",
+                            "pageType": "content",
+                            "headline": "Present Moment Awareness",
+                            "body": "Contentment exists only in the present moment. When your mind dwells in past regrets or future anxieties, satisfaction becomes impossible. Regular mindfulness practice trains your attention to rest in the here and now, where peace and happiness naturally arise.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Enough is Enough",
+                            "body": "Modern culture promotes endless wanting, but the Dalai Lama teaches that true wealth comes from appreciating sufficiency. Recognizing when you have enough creates immediate relief from the exhausting pursuit of more and allows genuine appreciation to flourish.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Body-Based Contentment",
+                            "body": "Your body provides constant opportunities for appreciation. Notice the miracle of breathing, the pleasure of stretching, or the satisfaction of nourishing yourself with good food. These simple experiences offer immediate access to contentment when your mind feels restless or dissatisfied.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p11",
+                            "pageType": "question",
+                            "headline": "Where does genuine contentment naturally arise?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "In the present moment",
+                                    "Through future planning",
+                                    "From past achievements",
+                                    "In social recognition"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Contentment as Foundation",
+                            "body": "When you develop genuine contentment, it becomes the stable ground from which you can pursue goals without desperation, help others without depletion, and face challenges without despair. This inner satisfaction supports all other aspects of a truly happy life.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Building Your Practice",
+                            "body": "Choose one contentment practice to focus on this week. Whether it's gratitude journaling, savoring pleasant moments, or mindful appreciation of simple experiences, consistency matters more than perfection. Let these practices gradually shift your baseline toward greater satisfaction.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-5-p14",
+                            "pageType": "content",
+                            "headline": "The Contentment Paradox",
+                            "body": "The more you chase happiness, the more elusive it becomes. The more you cultivate contentment with what is, the more happiness naturally arises. This paradox reveals that satisfaction comes from appreciation rather than acquisition, presence rather than pursuing.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-6",
+                    "title": "Mindfulness and Presence",
+                    "order": 6,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Power of Now",
+                            "body": "Happiness exists only in the present moment. Past experiences are memories, future possibilities are thoughts - neither can be directly experienced. Mindfulness training develops your capacity to rest attention in the immediacy of now, where life actually unfolds.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Autopilot Living",
+                            "body": "Most people spend their days on mental autopilot, missing the richness of immediate experience. You eat without tasting, walk without noticing your surroundings, and interact without truly listening. Mindfulness wakes you up to the vivid reality of each moment.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p3",
+                            "pageType": "question",
+                            "headline": "Where does happiness actually exist according to mindfulness teachings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "In future achievements",
+                                    "Only in the present moment",
+                                    "Through past memories",
+                                    "In mental planning"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p4",
+                            "pageType": "content",
+                            "headline": "The Breath as Anchor",
+                            "body": "Your breath provides a reliable anchor for present-moment awareness. It's always available, happening now, and connects mind with body. When thoughts pull you away from the present, gently return attention to breathing as a way back to mindful awareness.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Observing Without Judging",
+                            "body": "Mindfulness involves observing thoughts and emotions without immediately judging them as good or bad. This neutral awareness creates space between you and your mental content, reducing reactivity and allowing wiser responses to emerge naturally.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Body Awareness Practice",
+                            "body": "Your body exists entirely in the present moment and provides rich sensory information for mindfulness practice. Notice physical sensations, posture, and tension patterns throughout the day. This embodied awareness grounds you in immediate reality.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Mindful Daily Activities",
+                            "body": "Transform routine activities into mindfulness opportunities. Brush your teeth with full attention, eat your first three bites slowly, or listen completely when someone speaks. These micro-practices accumulate to create a more present and satisfying way of living.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Working with Difficult Emotions",
+                            "body": "Mindfulness teaches you to approach painful emotions with curiosity rather than resistance. When you observe anger, fear, or sadness without trying to escape, these states naturally arise and pass like weather patterns, losing their power to overwhelm you.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p9",
+                            "pageType": "content",
+                            "headline": "The Wandering Mind",
+                            "body": "Noticing when your mind wanders is actually a moment of mindfulness, not failure. Each time you catch distraction and return to present awareness, you're strengthening your attention muscle. This gentle redirection is the essence of meditation practice.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p10",
+                            "pageType": "question",
+                            "headline": "What is the appropriate response when difficult emotions arise during mindfulness practice?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediately suppress them",
+                                    "Observe them with curiosity",
+                                    "Analyze their causes deeply",
+                                    "Express them fully"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Beginner's Mind",
+                            "body": "Approach each moment with fresh eyes, as if experiencing it for the first time. This beginner's mind prevents experience from becoming stale and automatic. Even familiar situations offer new discoveries when met with curious, open awareness.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Formal vs Informal Practice",
+                            "body": "Formal meditation involves dedicated sitting practice, while informal mindfulness integrates awareness into daily activities. Both approaches support each other: formal practice strengthens attention, while informal practice brings that awareness into your lived experience.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p13",
+                            "pageType": "content",
+                            "headline": "The Mindful Life",
+                            "body": "Living mindfully doesn't require perfection but rather the intention to return repeatedly to present-moment awareness. Each return is a small victory that gradually transforms your relationship with thoughts, emotions, and experiences in profound ways.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-6-p14",
+                            "pageType": "content",
+                            "headline": "Starting Your Practice",
+                            "body": "Begin with just five minutes of mindful breathing daily, preferably at the same time each day. Set a gentle timer, sit comfortably, and simply notice your breath. When thoughts arise, acknowledge them kindly and return to breathing. Consistency builds the foundation for deeper awareness.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-7",
+                    "title": "Anger and Forgiveness",
+                    "order": 7,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-7-p1",
+                            "pageType": "content",
+                            "headline": "The Poison of Anger",
+                            "body": "Holding onto anger is like grasping a hot coal with the intent of throwing it at someone else - you're the one who burns. The Dalai Lama teaches that anger primarily harms the person experiencing it, creating stress, clouding judgment, and blocking happiness.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Understanding Anger's Function",
+                            "body": "Anger evolved as a protective response to threats, mobilizing energy for fight or flight. In modern life, most triggers aren't physical dangers but perceived slights or frustrations. Recognizing this mismatch helps you respond more skillfully to anger when it arises.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p3",
+                            "pageType": "content",
+                            "headline": "The Space Between Trigger and Response",
+                            "body": "Between provocation and reaction lies a moment of choice. Mindfulness training expands this space, allowing you to choose responses that align with your values rather than automatically reacting from anger. This pause is where freedom and wisdom emerge.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Patience as Antidote",
+                            "body": "Patience isn't passive endurance but active choice to remain composed when faced with difficulty. It requires strength and wisdom to pause rather than react. Developing patience gradually transforms your relationship with challenging people and situations.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p5",
+                            "pageType": "question",
+                            "headline": "What does mindfulness training primarily provide in response to anger?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Expanded space between trigger and response",
+                                    "Complete elimination of anger",
+                                    "Increased intensity of emotions",
+                                    "Automatic positive reactions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Forgiveness Frees You",
+                            "body": "Forgiveness doesn't condone harmful actions or require reconciliation. It's a decision to release resentment for your own peace of mind. When you forgive, you free yourself from the burden of carrying others' mistakes and reclaim your emotional energy.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p7",
+                            "pageType": "content",
+                            "headline": "The Process of Letting Go",
+                            "body": "Forgiveness is often a gradual process rather than a single event. Start by acknowledging your hurt without minimizing it. Understand that forgiveness serves your wellbeing, not the person who caused harm. Practice releasing resentment in small steps over time.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p8",
+                            "pageType": "question",
+                            "headline": "What is the primary beneficiary of forgiveness?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The person being forgiven",
+                                    "Yourself - the one who forgives",
+                                    "Society as a whole",
+                                    "Future generations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Compassion for the Angry Person",
+                            "body": "People who act from anger are usually suffering themselves. Their harmful behavior often stems from pain, fear, or confusion. Seeing anger as a symptom of inner turmoil rather than personal attack can help you respond with wisdom instead of retaliation.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Boundaries vs Walls",
+                            "body": "Forgiveness doesn't mean accepting continued mistreatment. You can release resentment while maintaining healthy boundaries to protect yourself. Compassionate boundaries come from wisdom rather than anger, creating safety without building walls around your heart.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Transforming Anger's Energy",
+                            "body": "Anger contains powerful energy that can be channeled constructively. Instead of suppressing or acting out from anger, use its motivational force to address injustice, protect the vulnerable, or create positive change. This transforms destructive emotion into compassionate action.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p12",
+                            "pageType": "question",
+                            "headline": "How can anger's energy be used constructively?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Suppress it completely",
+                                    "Express it immediately",
+                                    "Channel it into compassionate action",
+                                    "Ignore it entirely"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Self-Forgiveness Practice",
+                            "body": "Often the hardest person to forgive is yourself. Practice the same compassion toward your own mistakes that you'd offer a good friend. Remember that everyone makes errors, learn what you can, make amends where possible, and release the burden of self-condemnation.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Building Emotional Freedom",
+                            "body": "Each moment you choose patience over anger, forgiveness over resentment, you build emotional freedom. These skills require practice but gradually transform your inner landscape from a battlefield into a peaceful garden where happiness can grow naturally.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-7-p15",
+                            "pageType": "content",
+                            "headline": "Daily Anger Practice",
+                            "body": "When you notice anger arising, pause and take three deep breaths. Ask yourself what you really need in this moment and how you can respond from wisdom rather than reactivity. This simple practice gradually rewires your habitual anger responses toward greater peace.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-8",
+                    "title": "Letting Go of Resentment",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-8-p1",
+                            "pageType": "content",
+                            "headline": "The Weight of Grudges",
+                            "body": "Resentment is like carrying a heavy backpack filled with stones from past hurts. Each grudge adds weight, making it harder to move forward with lightness and joy. The person who hurt you may have forgotten, but you continue carrying their burden daily.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Resentment's Hidden Costs",
+                            "body": "Holding onto resentment damages your physical health, creating chronic stress that weakens immunity and increases inflammation. It also clouds your judgment, colors new relationships with suspicion, and prevents you from fully experiencing present happiness.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p3",
+                            "pageType": "content",
+                            "headline": "The Illusion of Control",
+                            "body": "Resentment creates the illusion that your anger somehow punishes the other person or changes the past. In reality, you have no control over others' actions or what already happened. You only control your present responses and future choices.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Understanding vs Condoning",
+                            "body": "Trying to understand why someone acted harmfully doesn't mean approving their behavior. Understanding often reveals that hurt people hurt people - their actions stemmed from their own pain, ignorance, or difficult circumstances rather than malicious intent toward you specifically.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p5",
+                            "pageType": "content",
+                            "headline": "The Practice of Release",
+                            "body": "Letting go is an active process, not passive forgetting. It involves consciously choosing to release your grip on past hurts. Each time resentful thoughts arise, acknowledge them and choose to redirect your attention to present opportunities for happiness and growth.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p6",
+                            "pageType": "question",
+                            "headline": "What does resentment primarily control in your life?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Other people's future actions",
+                                    "Past events and outcomes",
+                                    "External circumstances completely",
+                                    "Your present responses and choices"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p7",
+                            "pageType": "question",
+                            "headline": "What often underlies harmful behavior according to Buddhist psychology?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Pure malicious intent",
+                                    "Genetic predisposition",
+                                    "Environmental factors alone",
+                                    "The person's own pain and ignorance"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p8",
+                            "pageType": "question",
+                            "headline": "How does chronic resentment affect physical health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates chronic stress and inflammation",
+                                    "Has no physical effects",
+                                    "Improves immune system function",
+                                    "Increases energy and vitality"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Writing Forgiveness Letters",
+                            "body": "Write a letter to someone who hurt you, expressing all your feelings honestly. You don't need to send it. Then write another letter from their perspective, imagining their struggles and motivations. This exercise often reveals new understanding and softens resentment naturally.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Finding the Lessons",
+                            "body": "Every difficult experience contains potential lessons about resilience, boundaries, or compassion. Ask yourself what strengths you developed, what you learned about yourself, or how the experience increased your empathy for others' struggles. This meaning-making transforms pain into wisdom.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Gradual Release Practice",
+                            "body": "Set aside a few minutes daily to consciously release one small resentment. Start with minor annoyances before addressing major hurts. Visualize dropping the burden, breathe out the tension, and choose to redirect that energy toward something positive in your current life.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p12",
+                            "pageType": "content",
+                            "headline": "The Freedom of Letting Go",
+                            "body": "When you release resentment, you don't lose anything valuable - you gain emotional freedom. The energy previously trapped in anger becomes available for creativity, love, and joy. This liberation benefits not only you but everyone in your life who no longer experiences your carried pain.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Protecting Future Happiness",
+                            "body": "Releasing past resentments protects your future happiness from being poisoned by old wounds. You develop the skill of addressing hurts quickly before they harden into grudges, maintaining emotional freedom as you navigate life's inevitable challenges.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Living Resentment-Free",
+                            "body": "A life free from resentment doesn't mean you become naive or defenseless. You simply refuse to let others' unskillful actions steal your peace. This emotional freedom allows you to respond to current situations with wisdom rather than reacting from past wounds.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Your Daily Release",
+                            "body": "Each evening, briefly scan your day for any new resentments forming. Consciously choose to release small annoyances before they accumulate. This daily practice of letting go prevents the buildup of emotional baggage that weighs down your natural capacity for happiness.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-9",
+                    "title": "Dealing with Suffering",
+                    "order": 9,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-9-p1",
+                            "pageType": "content",
+                            "headline": "The First Noble Truth",
+                            "body": "Buddhism begins with the recognition that suffering is an inevitable part of human existence. This isn't pessimistic but realistic. Accepting this truth paradoxically reduces suffering because you stop fighting against life's natural difficulties and can respond with wisdom instead.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Pain vs Suffering",
+                            "body": "The Dalai Lama distinguishes between pain and suffering. Pain is inevitable - physical discomfort, loss, disappointment happen to everyone. Suffering is optional - it comes from your resistance to pain, your stories about why it shouldn't be happening, your fight against reality.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p3",
+                            "pageType": "question",
+                            "headline": "According to Buddhist teaching, what is the difference between pain and suffering?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They are identical experiences",
+                                    "Pain is optional, suffering is inevitable",
+                                    "Pain is inevitable, suffering comes from resistance",
+                                    "Suffering is physical, pain is mental"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p4",
+                            "pageType": "content",
+                            "headline": "The Second Arrow",
+                            "body": "When struck by the first arrow of pain, you often shoot yourself with a second arrow of mental suffering. The first arrow is the event itself. The second arrow is your judgment, resistance, and stories about the situation that multiply the original pain unnecessarily.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Acceptance Without Resignation",
+                            "body": "Accepting difficult circumstances doesn't mean passive resignation or approval. It means acknowledging reality as it is right now, which creates space for wise action. When you stop fighting what already happened, your energy becomes available for constructive responses.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Finding Meaning in Difficulty",
+                            "body": "Viktor Frankl discovered that suffering becomes bearable when it has meaning. Look for how challenges develop your strength, increase your compassion for others, or contribute to something greater than yourself. This meaning-making transforms victimhood into purposeful growth.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p7",
+                            "pageType": "content",
+                            "headline": "The Universality of Struggle",
+                            "body": "Remembering that everyone faces difficulties reduces the isolation that amplifies suffering. Your pain connects you to the universal human experience rather than separating you from it. This shared condition awakens compassion for yourself and others.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Impermanence as Teacher",
+                            "body": "All experiences, both pleasant and painful, are temporary. Remembering this impermanence during difficult times provides hope and perspective. The intensity of current suffering will pass, just as previous difficulties have passed before. This too shall pass.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p9",
+                            "pageType": "question",
+                            "headline": "What makes suffering more bearable according to Viktor Frankl's research?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Avoiding it completely",
+                                    "Finding meaning in it",
+                                    "Comparing it to others",
+                                    "Expressing it loudly"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Compassionate Self-Talk",
+                            "body": "During difficult times, speak to yourself with the kindness you'd offer a dear friend in similar pain. Replace harsh self-criticism with gentle understanding. This compassionate inner voice provides comfort and strength when external circumstances feel overwhelming or unfair.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p11",
+                            "pageType": "content",
+                            "headline": "The Growth Invitation",
+                            "body": "Every difficulty carries an invitation to develop qualities like patience, courage, wisdom, or compassion. While you wouldn't choose suffering, you can choose how to respond to it. This response often becomes more significant than the original challenge itself.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Building Resilience",
+                            "body": "Each time you navigate difficulty skillfully, you build resilience for future challenges. Like a muscle that strengthens with use, your capacity to handle life's difficulties grows through practice. Previous struggles become sources of confidence rather than trauma.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-10",
+                    "title": "Finding Meaning in Pain",
+                    "order": 10,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Pain as Teacher",
+                            "body": "Physical and emotional pain often carry important messages about what needs attention in your life. Instead of immediately numbing or escaping discomfort, pause to listen. Pain might be signaling the need for rest, boundaries, healing, or change in direction.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p2",
+                            "pageType": "content",
+                            "headline": "The Alchemy of Transformation",
+                            "body": "Like pressure transforms coal into diamonds, life's difficulties can transform you into a stronger, wiser, more compassionate person. This transformation isn't automatic - it requires conscious choice to grow from challenges rather than become bitter or hardened by them.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Developing Empathy Through Experience",
+                            "body": "Your own pain increases your capacity to understand and help others facing similar struggles. The mother who lost a child can uniquely comfort other grieving parents. The person who overcame addiction can guide others toward recovery. Pain becomes a bridge to deeper connection.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Breaking Open vs Breaking Down",
+                            "body": "Crisis can break you open to greater love and wisdom, or it can break you down into bitterness and despair. The choice lies in how you interpret and respond to difficulty. Breaking open reveals inner strength you didn't know existed.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Post-Traumatic Growth",
+                            "body": "Psychologists document that many people experience genuine growth following traumatic events. They develop stronger relationships, deeper appreciation for life, increased personal strength, spiritual development, and new priorities. Trauma can catalyze positive transformation.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p6",
+                            "pageType": "question",
+                            "headline": "What determines whether crisis breaks you open or breaks you down?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The severity of the crisis",
+                                    "Your age when it happens",
+                                    "How you interpret and respond",
+                                    "External support available"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p7",
+                            "pageType": "question",
+                            "headline": "According to research, what can traumatic events potentially catalyze?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Inevitable depression",
+                                    "Permanent damage",
+                                    "Complete emotional numbness",
+                                    "Positive transformation and growth"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p8",
+                            "pageType": "content",
+                            "headline": "The Hero's Journey",
+                            "body": "Every meaningful story involves a hero who faces challenges, suffers setbacks, and ultimately grows stronger through the journey. Your life follows this same pattern. Current difficulties may be preparing you for future service, wisdom, or accomplishment you can't yet imagine.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Meaning-Making Questions",
+                            "body": "When facing difficulty, ask yourself: What might this experience be teaching me? How could this develop my character? What strengths am I discovering? How might this experience help me serve others? These questions transform suffering into purposeful growth.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p10",
+                            "pageType": "content",
+                            "headline": "The Wounded Healer",
+                            "body": "Many great teachers, therapists, and leaders were forged in the fire of their own struggles. Their wounds became sources of wisdom and compassion. Your pain might be preparing you to help others in ways that only someone who truly understands could provide.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Sacred Activism",
+                            "body": "Personal pain often awakens social consciousness. The person who experiences discrimination fights for justice. The patient with rare disease advocates for research funding. Individual suffering can become fuel for collective healing and positive change in the world.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Gratitude for the Difficult",
+                            "body": "While you wouldn't choose painful experiences, you can eventually feel grateful for the growth they catalyzed. This gratitude doesn't minimize the difficulty but acknowledges how challenges contributed to your wisdom, strength, and capacity to help others.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Writing Your Story",
+                            "body": "Journal about a past difficulty and identify how it contributed to your growth. What strengths did you develop? How did it increase your compassion? What would you tell someone facing similar challenges? This narrative reshaping transforms victimhood into victory.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p14",
+                            "pageType": "content",
+                            "headline": "The Meaningful Life",
+                            "body": "A meaningful life isn't one without suffering but one that finds purpose in difficulty. When you can transform your pain into wisdom that serves others, your struggles contribute to something greater than individual happiness - they become part of healing the world.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-10-p15",
+                            "pageType": "content",
+                            "headline": "Your Unique Contribution",
+                            "body": "No one else has faced your exact combination of challenges or developed your specific insights through struggle. Your unique perspective, born from your particular journey through difficulty, is your special gift to offer others walking similar paths.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-11",
+                    "title": "Cultivating Inner Peace",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Peace Beyond Circumstances",
+                            "body": "True inner peace doesn't depend on external conditions being perfect. It's a deep tranquility that remains stable even during life's storms. The Dalai Lama maintains this peace despite facing exile and the destruction of his homeland, demonstrating that peace comes from within.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p2",
+                            "pageType": "content",
+                            "headline": "The Restless Mind",
+                            "body": "Your untrained mind constantly jumps between past regrets and future worries, creating internal turbulence. Like a monkey swinging from branch to branch, thoughts rarely rest in peaceful presence. Meditation training gradually calms this mental restlessness.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p3",
+                            "pageType": "content",
+                            "headline": "Stillness Meditation Practice",
+                            "body": "Set aside time daily to sit quietly without agenda. Don't try to empty your mind or achieve special states. Simply rest in aware stillness, noticing thoughts and sensations without engaging them. This practice gradually reveals the peace that already exists beneath mental activity.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p4",
+                            "pageType": "question",
+                            "headline": "What characterizes true inner peace according to the Dalai Lama's example?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Remains stable despite external circumstances",
+                                    "Requires perfect life conditions",
+                                    "Only exists during meditation",
+                                    "Depends on avoiding all difficulties"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Non-Resistance to What Is",
+                            "body": "Peace emerges when you stop fighting against present reality. This doesn't mean passive acceptance of everything, but rather acknowledging what is actually happening right now without adding mental resistance. Fighting reality creates internal tension and blocks natural peace.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p6",
+                            "pageType": "content",
+                            "headline": "The Space of Awareness",
+                            "body": "You are not your thoughts and emotions but the aware space in which they arise and pass. Recognizing this fundamental spaciousness creates distance from mental content and reveals your essential peaceful nature. This awareness remains constant while experiences change.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Simplifying Your Life",
+                            "body": "External complexity often reflects and creates internal complexity. Simplifying possessions, commitments, and relationships creates space for peace to emerge naturally. This doesn't mean poverty but rather conscious choices about what truly matters for your wellbeing.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Peaceful Communication",
+                            "body": "Your words and tone either create peace or disturbance in yourself and others. Speaking slowly, listening fully, and choosing words that heal rather than harm cultivates peaceful interactions. This conscious communication becomes a form of peace practice.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Nature as Peace Teacher",
+                            "body": "Spending time in natural settings reconnects you with fundamental peace and rhythm. Trees don't struggle against seasons, rivers don't resist their banks, and mountains remain unshaken by passing storms. Nature demonstrates effortless acceptance and peaceful presence.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p10",
+                            "pageType": "question",
+                            "headline": "What relationship do you have to thoughts and emotions according to awareness teaching?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "You are your thoughts",
+                                    "You are the aware space containing them",
+                                    "You must control them",
+                                    "You should eliminate them"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Peaceful Responses to Conflict",
+                            "body": "When conflict arises, your first choice is whether to respond from peace or reactivity. Taking a breath before speaking, seeking to understand before being understood, and choosing responses that don't escalate tension maintains inner peace even during disagreements.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p12",
+                            "pageType": "question",
+                            "headline": "How does non-resistance contribute to inner peace?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By changing external circumstances",
+                                    "By eliminating all problems",
+                                    "By stopping mental fighting against reality",
+                                    "By avoiding difficult situations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-11-p13",
+                            "pageType": "content",
+                            "headline": "The Ripple Effect of Peace",
+                            "body": "Your inner peace affects everyone around you. Peaceful presence is contagious, calming anxious people and diffusing tense situations. By cultivating your own inner tranquility, you contribute to greater peace in your family, community, and world.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-12",
+                    "title": "Meditation and Stillness",
+                    "order": 12,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-12-p1",
+                            "pageType": "content",
+                            "headline": "The Ancient Practice",
+                            "body": "Meditation has been practiced for thousands of years across many cultures as a path to inner peace and wisdom. Modern neuroscience confirms what contemplatives have long known: regular meditation literally rewires your brain for greater happiness, focus, and emotional balance.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Simplicity Over Complexity",
+                            "body": "Effective meditation doesn't require special positions, mantras, or elaborate techniques. The essence is simply resting attention in present-moment awareness without forcing anything to happen. This simplicity makes meditation accessible to anyone, anywhere, at any time.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p3",
+                            "pageType": "content",
+                            "headline": "The Breath as Anchor",
+                            "body": "Your breath provides a perfect object for meditation because it's always available, happens in the present moment, and connects mind with body. When thoughts pull you away, gently return attention to breathing. This simple practice develops concentration and calm.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Working with Thoughts",
+                            "body": "The goal isn't to stop thinking but to change your relationship with thoughts. Instead of getting caught in mental stories, observe thoughts like clouds passing through sky. Notice them arising, acknowledge them kindly, and let them pass without engagement.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p5",
+                            "pageType": "question",
+                            "headline": "What is the primary goal when working with thoughts during meditation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Change your relationship with them",
+                                    "Stop all thinking completely",
+                                    "Analyze their content deeply",
+                                    "Replace negative with positive thoughts"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Starting Small",
+                            "body": "Begin with just five minutes daily rather than attempting long sessions that create resistance. Consistency matters more than duration. Set a gentle timer, sit comfortably, and simply notice your breath. This modest beginning builds the foundation for deeper practice.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p7",
+                            "pageType": "content",
+                            "headline": "The Wandering Mind",
+                            "body": "Noticing that your mind has wandered is actually a moment of awareness, not failure. Each time you catch distraction and gently return to your breath, you're training attention like strengthening a muscle. This redirection is the core of meditation practice.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p8",
+                            "pageType": "question",
+                            "headline": "How should you view a wandering mind during meditation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As failure requiring punishment",
+                                    "As a moment of awareness to celebrate",
+                                    "As something to fight against",
+                                    "As a sign to quit practicing"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Body-Based Meditation",
+                            "body": "Your body exists entirely in the present moment and provides rich sensory information for meditation. Try focusing on physical sensations, systematically relaxing different body parts, or simply noticing the feeling of sitting. Embodied awareness grounds you in immediate reality.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Walking Meditation",
+                            "body": "Meditation doesn't require sitting still. Walking meditation involves moving slowly and deliberately while maintaining full attention on the sensations of walking. This practice bridges formal sitting meditation with mindful movement throughout your day.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p11",
+                            "pageType": "content",
+                            "headline": "Loving-Kindness Meditation",
+                            "body": "This practice involves systematically sending goodwill to yourself, loved ones, neutral people, difficult people, and all beings. Start with phrases like 'May I be happy, may I be peaceful' and gradually extend these wishes outward. This meditation cultivates compassion and emotional warmth.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p12",
+                            "pageType": "content",
+                            "headline": "The Fruits of Practice",
+                            "body": "Regular meditation gradually transforms your baseline state of consciousness toward greater peace, clarity, and compassion. These benefits extend far beyond formal sitting sessions, influencing how you respond to stress, relate to others, and experience daily life.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Building Your Practice",
+                            "body": "Choose a consistent time and place for meditation, even if just five minutes daily. Start tomorrow morning or this evening. Let your practice be gentle but regular, like water gradually carving a riverbed through consistent flow rather than forceful flooding.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-12-p14",
+                            "pageType": "content",
+                            "headline": "Meditation in Daily Life",
+                            "body": "The ultimate goal is bringing meditative awareness into ordinary activities. Washing dishes mindfully, listening to others completely, or walking with full attention transforms routine activities into opportunities for presence and peace. This integration makes meditation a way of living.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-13",
+                    "title": "Relationships and Connection",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-13-p1",
+                            "pageType": "content",
+                            "headline": "The Social Nature of Happiness",
+                            "body": "Humans evolved as social creatures, and your wellbeing depends fundamentally on relationships. The Harvard Study of Adult Development, spanning 80 years, found that good relationships keep people happier and healthier than anything else, including wealth or fame.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "You don't need hundreds of friends to be happy. Research shows that having just a few close, supportive relationships provides more wellbeing benefits than many superficial connections. Deep bonds where you feel truly known and accepted are what nourish the soul.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p3",
+                            "pageType": "content",
+                            "headline": "The Art of Listening",
+                            "body": "True listening means giving someone your complete attention without planning your response or offering immediate solutions. This gift of presence makes people feel valued and understood. Deep listening strengthens bonds and often provides exactly what someone needs most.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Vulnerability Creates Connection",
+                            "body": "Sharing your authentic self, including struggles and imperfections, deepens relationships more than projecting perfection. When you're vulnerable, you give others permission to be real too. This mutual authenticity creates the intimacy that makes relationships meaningful.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Compassionate Communication",
+                            "body": "Speaking from compassion rather than judgment transforms relationship dynamics. Express your feelings and needs clearly without attacking or blaming others. When conflicts arise, focus on understanding rather than winning. This approach builds trust and resolves issues constructively.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p6",
+                            "pageType": "question",
+                            "headline": "According to the Harvard Study, what contributes most to happiness and health?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Wealth and material success",
+                                    "Career achievements",
+                                    "Good relationships",
+                                    "Physical fitness"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Forgiveness in Relationships",
+                            "body": "All close relationships involve hurt feelings and misunderstandings. Learning to forgive doesn't mean accepting harmful behavior but choosing to release resentment for your own peace. Forgiveness allows relationships to deepen through working through difficulties together.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p8",
+                            "pageType": "content",
+                            "headline": "The Five Love Languages",
+                            "body": "People express and receive love differently through words of affirmation, quality time, physical touch, acts of service, or receiving gifts. Understanding your loved ones' primary love language helps you show care in ways they most appreciate and feel valued.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p9",
+                            "pageType": "question",
+                            "headline": "What effect does vulnerability have on relationships?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates distance and discomfort",
+                                    "Deepens connection and intimacy",
+                                    "Shows weakness and dependence",
+                                    "Leads to judgment from others"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p10",
+                            "pageType": "question",
+                            "headline": "What should be the focus during relationship conflicts?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Understanding rather than winning",
+                                    "Proving you are right",
+                                    "Avoiding the issue completely",
+                                    "Getting others to change"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Boundaries with Love",
+                            "body": "Healthy relationships require clear boundaries that protect your wellbeing while maintaining connection. You can say no to requests that drain you, limit time with toxic people, and communicate your needs directly. Boundaries express self-care, not selfishness.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Gratitude in Relationships",
+                            "body": "Regularly expressing appreciation for people in your life strengthens bonds and increases mutual satisfaction. Notice and acknowledge the small things others do, express specific thanks for their qualities, and celebrate their successes. Gratitude multiplies love.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Creating New Connections",
+                            "body": "Building new friendships as an adult requires intentional effort. Join activities aligned with your interests, be the one to initiate plans, and be patient as trust develops over time. Meaningful connections often start with small gestures of kindness and genuine interest in others.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p14",
+                            "pageType": "content",
+                            "headline": "The Ripple Effect of Love",
+                            "body": "Love and kindness in relationships create positive ripples that extend beyond immediate circles. When you treat family members with patience, friends with loyalty, and strangers with courtesy, you contribute to a more loving world. Your relationships become a form of service.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Nurturing Your Connections",
+                            "body": "Like gardens, relationships require ongoing attention to flourish. Schedule regular time with important people, remember significant dates, check in during difficult times, and celebrate joys together. This consistent care maintains the bonds that sustain happiness throughout life.",
+                            "imageURL": "calendar",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-14",
+                    "title": "Building Loving Bonds",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Love as Foundation",
+                            "body": "Love isn't just an emotion but a way of being that creates the foundation for all meaningful relationships. The Dalai Lama teaches that developing unconditional love - caring for others' wellbeing regardless of how they treat you - is the highest expression of human potential.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Starting with Self-Love",
+                            "body": "You cannot give what you don't have. Learning to love yourself with all your imperfections creates the capacity to love others authentically. This isn't narcissism but healthy self-regard that recognizes your inherent worth despite mistakes and limitations.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Seeing Beyond the Surface",
+                            "body": "Every person carries both wounds and wisdom from their life experiences. When someone acts unlovable, they're often expressing pain rather than their true nature. Looking beyond difficult behavior to see the struggling human underneath opens your heart to compassion.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p4",
+                            "pageType": "content",
+                            "headline": "The Practice of Tonglen",
+                            "body": "This Tibetan practice involves breathing in others' pain and breathing out relief and happiness. While counterintuitive, tonglen develops your capacity to transform suffering into compassion. Start with minor difficulties and gradually work with more challenging situations.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Active Kindness",
+                            "body": "Love becomes real through concrete actions of kindness. Small gestures like listening attentively, offering help, sending encouraging messages, or simply being present during difficult times translate abstract love into tangible support that strengthens relationships.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p6",
+                            "pageType": "question",
+                            "headline": "According to the Dalai Lama, what characterizes the highest form of love?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Romantic attachment",
+                                    "Family loyalty",
+                                    "Conditional approval",
+                                    "Unconditional caring for wellbeing"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Patience with Growth",
+                            "body": "Both you and others are constantly changing and growing. Patience with this process prevents relationships from becoming rigid expectations. Allow people space to evolve, make mistakes, and learn at their own pace while maintaining loving support throughout their journey.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p8",
+                            "pageType": "question",
+                            "headline": "What enables you to love others authentically according to this teaching?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having perfect relationships",
+                                    "Avoiding personal flaws",
+                                    "Learning to love yourself first",
+                                    "Following relationship rules"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Loving Through Disagreements",
+                            "body": "You can love someone while disagreeing with their choices or behavior. Love sees the person's essential goodness even when their actions are harmful. This distinction allows you to maintain care while still setting boundaries or expressing different opinions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p10",
+                            "pageType": "content",
+                            "headline": "The Mirror of Relationships",
+                            "body": "People often reflect back qualities you possess or need to develop. Those who irritate you might mirror your own hidden traits. Those you admire show potential within yourself. Relationships become teachers that help you understand and transform yourself.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Celebrating Others' Happiness",
+                            "body": "Mudita, or sympathetic joy, involves genuinely celebrating others' good fortune without jealousy or comparison. This practice transforms envy into appreciation and competition into collaboration. When you can rejoice in others' happiness, your own capacity for joy expands dramatically.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Love Without Attachment",
+                            "body": "Healthy love wants the best for others even if it doesn't serve your preferences. This means supporting their dreams even if it means separation, encouraging their growth even if they change, and loving them for who they are rather than who you want them to be.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Daily Love Practices",
+                            "body": "Incorporate small loving actions into daily routine: send appreciation texts, really listen when people speak, offer help without being asked, smile genuinely at strangers, or silently send goodwill to difficult people. These micro-practices accumulate into a loving way of being.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-14-p14",
+                            "pageType": "content",
+                            "headline": "The Expanding Circle",
+                            "body": "Start by cultivating love for those closest to you, then gradually extend that caring to acquaintances, difficult people, and eventually all beings. This expanding circle of love transforms not only your relationships but your entire experience of life as interconnected and meaningful.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-15",
+                    "title": "Work and Purpose",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Beyond the Paycheck",
+                            "body": "While work provides necessary income, approaching it solely as a transaction for money drains life energy and creates suffering. Finding meaning and purpose in your work - however humble - transforms daily labor into fulfilling contribution to the world.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Serving Others Through Work",
+                            "body": "Every job serves others in some way, from growing food to processing data to cleaning spaces. Recognizing how your work contributes to others' wellbeing creates meaning even in routine tasks. This service orientation transforms work from burden to blessing.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p3",
+                            "pageType": "question",
+                            "headline": "What transforms daily labor into fulfilling contribution?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Higher salary increases",
+                                    "Better working conditions",
+                                    "Finding meaning and purpose",
+                                    "Shorter working hours"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p4",
+                            "pageType": "question",
+                            "headline": "How does recognizing your work's service to others affect your experience?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increases stress and pressure",
+                                    "Creates meaning in routine tasks",
+                                    "Makes work more competitive",
+                                    "Reduces personal satisfaction"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p5",
+                            "pageType": "content",
+                            "headline": "Right Livelihood Principles",
+                            "body": "Buddhism teaches about right livelihood - earning money through work that doesn't harm others. While perfect ethical purity may be impossible, choosing work that aligns with your values as much as possible creates harmony between your actions and your conscience.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p6",
+                            "pageType": "question",
+                            "headline": "What characterizes 'right livelihood' in Buddhist teaching?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximum financial profit",
+                                    "Work that doesn't harm others",
+                                    "High social status positions",
+                                    "Easy and comfortable jobs"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p7",
+                            "pageType": "question",
+                            "headline": "How does aligning work with values affect wellbeing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Creates harmony between actions and conscience",
+                                    "Guarantees financial success",
+                                    "Eliminates all work stress",
+                                    "Ensures rapid career advancement"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p8",
+                            "pageType": "content",
+                            "headline": "Excellence as Spiritual Practice",
+                            "body": "Approaching work with excellence - doing your best regardless of external recognition - becomes a form of spiritual practice. This commitment to quality work develops discipline, pride, and inner satisfaction that transcends temporary workplace frustrations or politics.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Mindful Work Practices",
+                            "body": "Bringing mindfulness to work tasks increases both quality and satisfaction. Whether typing emails, attending meetings, or manual labor, full attention transforms routine activities into opportunities for presence and flow. This mindful approach reduces stress while improving performance.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Work-Life Integration",
+                            "body": "Rather than rigid separation between work and life, seek integration where your values and practices flow seamlessly between contexts. Bring compassion to workplace relationships, gratitude for employment opportunities, and purpose to professional tasks. This integration creates wholeness.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Growing Through Challenges",
+                            "body": "Workplace difficulties - demanding deadlines, difficult colleagues, complex problems - provide opportunities to develop patience, creativity, and resilience. Viewing these challenges as growth opportunities rather than pure obstacles transforms your relationship with work stress.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Your Unique Contribution",
+                            "body": "You bring a unique combination of skills, experiences, and perspectives to your work. Even in roles that feel replaceable, your specific way of approaching tasks and relating to people creates value that only you can provide. Recognizing this uniqueness builds confidence and purpose.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-16",
+                    "title": "Aging and Death",
+                    "order": 16,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Embracing Life's Stages",
+                            "body": "Each life stage offers unique gifts and challenges. Youth brings energy and possibility, middle age provides experience and stability, while aging offers wisdom and perspective. Rather than clinging to past stages, embracing your current phase allows appreciation of its particular treasures.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p2",
+                            "pageType": "content",
+                            "headline": "The Gift of Impermanence",
+                            "body": "Recognizing that everything changes - including your own life - can motivate deeper appreciation for present experiences. When you truly understand that this moment won't last forever, ordinary experiences become precious. Impermanence makes life poignant and beautiful.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Death as Teacher",
+                            "body": "Contemplating mortality isn't morbid but clarifying. Death awareness helps prioritize what truly matters, motivates you to express love while possible, and reduces anxiety about trivial concerns. This reflection brings wisdom about how to spend your precious time.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p4",
+                            "pageType": "content",
+                            "headline": "Legacy of Love",
+                            "body": "Your true legacy isn't achievements or possessions but the love you shared and kindness you offered. Every act of compassion ripples outward, touching lives in ways you may never know. This understanding makes each day an opportunity to contribute something meaningful.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p5",
+                            "pageType": "question",
+                            "headline": "According to this teaching, what makes ordinary experiences precious?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Their monetary value",
+                                    "Recognition that they won't last forever",
+                                    "Social media documentation",
+                                    "Comparison with others' experiences"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Graceful Aging Practices",
+                            "body": "Physical decline is natural, but mental and spiritual vitality can continue growing throughout life. Regular meditation, continued learning, meaningful relationships, and service to others maintain inner aliveness even as the body ages. Wisdom often peaks in later years.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p7",
+                            "pageType": "content",
+                            "headline": "Accepting Physical Changes",
+                            "body": "Fighting inevitable physical changes creates unnecessary suffering. While maintaining health through reasonable exercise and nutrition, accepting limitations with grace reduces frustration. Your worth isn't diminished by physical decline - it may actually increase through developed wisdom and compassion.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p8",
+                            "pageType": "question",
+                            "headline": "What maintains inner aliveness even as the body ages?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Meditation, learning, relationships, and service",
+                                    "Expensive anti-aging treatments",
+                                    "Avoiding all physical activity",
+                                    "Isolating from younger people"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p9",
+                            "pageType": "question",
+                            "headline": "What constitutes your true legacy according to this perspective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Financial wealth accumulated",
+                                    "Professional achievements earned",
+                                    "Property and possessions owned",
+                                    "Love shared and kindness offered"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p10",
+                            "pageType": "question",
+                            "headline": "How does death awareness affect daily priorities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Helps prioritize what truly matters",
+                                    "Creates constant anxiety about dying",
+                                    "Makes planning for future impossible",
+                                    "Leads to reckless behavior"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p11",
+                            "pageType": "content",
+                            "headline": "Letting Go with Love",
+                            "body": "Whether facing your own mortality or losing loved ones, learning to let go with love rather than desperate clinging reduces suffering for everyone involved. This doesn't mean giving up but rather loving so fully that you can release what you cannot control.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p12",
+                            "pageType": "question",
+                            "headline": "What approach to mortality reduces suffering according to Buddhist teaching?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Desperately clinging to life",
+                                    "Avoiding thoughts of death completely",
+                                    "Letting go with love rather than clinging",
+                                    "Becoming obsessed with death preparation"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-16-p13",
+                            "pageType": "question",
+                            "headline": "According to the text, when does wisdom often peak?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "During teenage years",
+                                    "In early career phase",
+                                    "In middle age only",
+                                    "In later years of life"
+                                ],
+                                "correctIndex": 3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "art_of_happiness-1-17",
+                    "title": "Daily Happiness Practice",
+                    "order": 17,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "art_of_happiness-1-17-p1",
+                            "pageType": "content",
+                            "headline": "Small Steps, Big Changes",
+                            "body": "Happiness isn't achieved through dramatic life overhauls but through consistent small practices that gradually shift your baseline wellbeing. Like drops of water eventually filling a bucket, daily micro-practices accumulate to create profound transformation over time.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p2",
+                            "pageType": "content",
+                            "headline": "The Power of Morning Intentions",
+                            "body": "How you start your day sets the tone for everything that follows. Spend the first few minutes upon waking setting positive intentions, expressing gratitude, or doing brief meditation. This morning practice creates a foundation of peace that supports happiness throughout the day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p3",
+                            "pageType": "question",
+                            "headline": "According to this teaching, how is lasting happiness achieved?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through dramatic life changes",
+                                    "Consistent small daily practices",
+                                    "Major one-time achievements",
+                                    "Avoiding all difficulties"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Three Good Things Practice",
+                            "body": "Each evening, write down three positive things that happened during your day and why you think they occurred. This simple practice rewires your brain to notice good experiences rather than focusing only on problems. Research shows significant mood improvements within one week.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Mindful Transitions",
+                            "body": "Use brief moments between activities as opportunities for mindful awareness. Take three conscious breaths before entering meetings, pause to notice your surroundings while walking, or spend a moment appreciating food before eating. These micro-meditations maintain presence throughout busy days.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p6",
+                            "pageType": "question",
+                            "headline": "What does setting morning intentions primarily create for the day?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A foundation of peace",
+                                    "Guaranteed success",
+                                    "Elimination of problems",
+                                    "Complete control over events"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p7",
+                            "pageType": "content",
+                            "headline": "Acts of Kindness",
+                            "body": "Perform one small act of kindness daily - hold a door, send an encouraging message, help with a task, or simply smile genuinely at strangers. These actions release happiness chemicals in your brain while contributing to a more positive world around you.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p8",
+                            "pageType": "content",
+                            "headline": "The Evening Review",
+                            "body": "Before sleep, briefly review your day with compassion. Notice moments you handled well and acknowledge areas for growth without harsh judgment. This loving reflection promotes learning while maintaining self-compassion, setting positive intentions for tomorrow's growth.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Building Your Happiness Routine",
+                            "body": "Choose 2-3 simple practices from this course to implement consistently rather than attempting everything at once. Start with practices that feel most natural and gradually add others. Consistency with fewer practices creates more lasting change than sporadic efforts with many techniques.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Progress Not Perfection",
+                            "body": "Expect setbacks and difficult days as normal parts of the happiness journey. The goal isn't constant bliss but gradual improvement in your baseline wellbeing and resilience during challenges. Each return to practice after falling away strengthens your commitment to genuine happiness.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p11",
+                            "pageType": "content",
+                            "headline": "Creating Supportive Environment",
+                            "body": "Surround yourself with people, books, music, and environments that support your happiness practices. Limit exposure to negative news, toxic relationships, and activities that drain your energy. Your environment either supports or undermines your wellbeing - choose consciously.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p12",
+                            "pageType": "question",
+                            "headline": "What is the recommended approach for implementing happiness practices?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Try everything simultaneously",
+                                    "Focus on dramatic changes only",
+                                    "Choose 2-3 simple practices consistently",
+                                    "Wait for perfect conditions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p13",
+                            "pageType": "question",
+                            "headline": "What is the realistic goal of happiness practice according to this teaching?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Constant bliss and joy",
+                                    "Elimination of all problems",
+                                    "Gradual baseline wellbeing improvement",
+                                    "Complete emotional invulnerability"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "art_of_happiness-1-17-p14",
+                            "pageType": "content",
+                            "headline": "Your Happiness Journey Continues",
+                            "body": "Completing this course is just the beginning of your happiness journey. The Dalai Lama's wisdom combined with modern psychology provides tools, but you must apply them consistently in daily life. Trust the process, be patient with yourself, and remember that genuine happiness is your birthright.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.9,
+    "tag": "Popular"
+}

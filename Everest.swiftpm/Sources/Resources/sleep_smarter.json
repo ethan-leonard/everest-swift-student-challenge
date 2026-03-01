@@ -1,0 +1,2106 @@
+{
+    "id": "sleep_smarter",
+    "title": "Sleep Smarter",
+    "description": "Optimize the third of your life spent asleep. Master the science of quality rest for peak daytime performance.",
+    "category": "Wellness",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/sleep_smarter.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract crescent moon merged with brain waves showing deep sleep patterns, sage green restful depth with charcoal night sky, restorative sleep aesthetic",
+    "altitude": 3300,
+    "durationMinutes": 86,
+    "whatsInside": [
+        "Understand sleep cycles and their impact on health",
+        "Optimize your sleep environment for maximum restoration",
+        "Build evening routines that promote deep sleep",
+        "Wake up refreshed without relying on alarms",
+        "Fix common sleep problems naturally",
+        "Track and improve sleep quality"
+    ],
+    "expertReview": {
+        "quote": "Sleep is the foundation of health. This course translates sleep science into actionable practices anyone can implement.",
+        "name": "Dr. Matthew Walker",
+        "title": "Professor of Neuroscience, UC Berkeley"
+    },
+    "chapters": [
+        {
+            "id": "sleep_smarter-ch1",
+            "title": "Sleep Smarter",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "sleep_smarter-1-1",
+                    "title": "Why Sleep Matters",
+                    "order": 1,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Sleep Powers Everything",
+                            "body": "Sleep isn't a luxury\u2014it's your body's most critical maintenance system. Every night, your brain clears toxins, consolidates memories, and repairs cellular damage. Without quality sleep, your cognitive performance, emotional regulation, and physical health rapidly deteriorate.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p2",
+                            "pageType": "content",
+                            "headline": "The Hidden Cost",
+                            "body": "Sleep debt accumulates faster than you realize. Missing just one hour of sleep for a week creates the same cognitive impairment as staying awake for 24 hours straight. Your reaction time slows, decision-making suffers, and creativity plummets.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p3",
+                            "pageType": "content",
+                            "headline": "Memory Consolidation Magic",
+                            "body": "During sleep, your brain transfers information from temporary storage to long-term memory. Deep sleep strengthens neural pathways while REM sleep integrates new knowledge with existing memories. Poor sleep literally makes you forget what you learned.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p4",
+                            "pageType": "content",
+                            "headline": "Physical Recovery Mode",
+                            "body": "Sleep triggers the release of growth hormone, which repairs muscles and tissues. Your immune system produces infection-fighting cells and antibodies. Blood pressure drops, giving your cardiovascular system essential rest.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Regulation Center",
+                            "body": "The prefrontal cortex, responsible for emotional control, becomes less active when sleep-deprived. Meanwhile, the amygdala, your brain's alarm system, becomes hyperactive. This combination creates emotional volatility and poor judgment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Metabolic Consequences",
+                            "body": "Poor sleep disrupts hormones that control hunger and satiety. Ghrelin increases, making you hungrier, while leptin decreases, reducing feelings of fullness. Sleep deprivation literally programs your body to gain weight.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p7",
+                            "pageType": "content",
+                            "headline": "Performance Impact",
+                            "body": "Elite athletes prioritize sleep as much as training. LeBron James sleeps 12 hours nightly, Roger Federer gets 12 hours plus naps. Professional performance depends on consistent, high-quality rest.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p8",
+                            "pageType": "content",
+                            "headline": "The Sleep Investment",
+                            "body": "Quality sleep isn't time lost\u2014it's time invested. Eight hours of good sleep can make your 16 waking hours dramatically more productive, creative, and fulfilling. Poor sleep makes every task harder and less rewarding.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p9",
+                            "pageType": "question",
+                            "headline": "What happens during deep sleep that's crucial for learning?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Brain temperature increases",
+                                    "Heart rate accelerates rapidly",
+                                    "Memory consolidation occurs",
+                                    "Muscle tension builds up"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p10",
+                            "pageType": "question",
+                            "headline": "Sleep deprivation most directly impacts which brain region?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Cerebellum coordination",
+                                    "Prefrontal cortex control",
+                                    "Brainstem reflexes",
+                                    "Occipital lobe vision"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Your Sleep Foundation",
+                            "body": "Understanding sleep's importance is the first step toward optimization. Every aspect of your health, performance, and well-being depends on consistent, quality rest. The following lessons will show you exactly how to achieve it.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Ready to Transform",
+                            "body": "You're about to learn the science-backed strategies that elite performers use to optimize their sleep. These aren't theories\u2014they're proven methods that will revolutionize how you rest and recover.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-2",
+                    "title": "The Science of Sleep Stages",
+                    "order": 2,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Four Distinct Stages",
+                            "body": "Your sleep follows a precise four-stage cycle that repeats 4-6 times nightly. Each stage serves unique biological functions, from light restoration to deep tissue repair. Understanding these stages helps you optimize timing and quality.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p2",
+                            "pageType": "content",
+                            "headline": "Stage 1: Transition",
+                            "body": "This lightest sleep stage lasts 5-10 minutes. Your brain waves shift from alpha to theta rhythms. You're easily awakened but starting to disconnect from your environment. Muscle activity begins to slow down.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Stage 2: Light Sleep",
+                            "body": "Comprising 45-55% of total sleep, this stage features sleep spindles and K-complexes on EEG readings. Your heart rate and breathing slow, body temperature drops. You're harder to wake but still in relatively light sleep.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p4",
+                            "pageType": "question",
+                            "headline": "What percentage of sleep is typically Stage 2?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "20-30% of total sleep",
+                                    "45-55% of total sleep",
+                                    "15-25% of total sleep",
+                                    "60-70% of total sleep"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p5",
+                            "pageType": "question",
+                            "headline": "Which brain waves characterize the transition into sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Beta to gamma waves",
+                                    "Delta to theta waves",
+                                    "Gamma to beta waves",
+                                    "Alpha to theta waves"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Stage 3: Deep Sleep",
+                            "body": "Deep sleep produces delta brain waves and comprises 15-20% of sleep. This stage is crucial for physical restoration, immune function, and memory consolidation. You're extremely difficult to wake and may feel groggy if awakened.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p7",
+                            "pageType": "content",
+                            "headline": "REM Sleep Magic",
+                            "body": "Rapid Eye Movement sleep is when most dreaming occurs. Your brain becomes highly active while your body remains paralyzed. REM sleep is essential for emotional processing, creativity, and learning integration.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p8",
+                            "pageType": "content",
+                            "headline": "The Sleep Cycle",
+                            "body": "A complete cycle lasts 90-110 minutes. You progress through stages 1, 2, 3, then back to stage 2 before entering REM. Early cycles contain more deep sleep, while later cycles emphasize REM sleep.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Age and Sleep Stages",
+                            "body": "Sleep architecture changes throughout life. Infants spend 50% of sleep in REM, while adults average 20-25%. Deep sleep decreases with age, explaining why older adults sleep more lightly and wake more frequently.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p10",
+                            "pageType": "content",
+                            "headline": "Hormonal Orchestration",
+                            "body": "Each sleep stage triggers specific hormone releases. Growth hormone peaks during deep sleep, promoting tissue repair. Cortisol drops to its lowest levels, allowing inflammation to decrease and healing to accelerate.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p11",
+                            "pageType": "content",
+                            "headline": "Sleep Fragmentation",
+                            "body": "Interruptions prevent you from completing full cycles. Even if you get 8 hours of broken sleep, you may miss crucial deep sleep and REM phases. Consistency and continuity matter more than total time.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Optimal Timing",
+                            "body": "Understanding sleep stages helps you time awakenings. Waking during light sleep feels refreshing, while interrupting deep sleep causes grogginess. Sleep apps can track your cycles to optimize wake-up timing.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p13",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "Seven hours of uninterrupted, cycle-complete sleep beats nine hours of fragmented rest. Focus on protecting your sleep continuity and creating conditions for natural cycle progression.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-2-p14",
+                            "pageType": "content",
+                            "headline": "Building Your Foundation",
+                            "body": "Now you understand sleep's intricate architecture. Each stage serves your body's recovery and performance needs. Next, we'll explore how to create the perfect environment for these natural processes to unfold.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-3",
+                    "title": "Your Sleep Architecture",
+                    "order": 3,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-3-p1",
+                            "pageType": "content",
+                            "headline": "Personal Sleep Patterns",
+                            "body": "Your unique sleep architecture reflects genetic predispositions, age, and lifestyle factors. Some people naturally experience longer deep sleep phases, while others have more REM sleep. Understanding your pattern helps optimize your schedule.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Chronotype Variations",
+                            "body": "Your chronotype determines when your body naturally wants to sleep and wake. Larks feel energized in the morning, owls peak at night, and most people fall somewhere between. Fighting your chronotype reduces sleep quality.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p3",
+                            "pageType": "content",
+                            "headline": "Age-Related Changes",
+                            "body": "Sleep architecture evolves throughout life. Teenagers naturally shift toward later bedtimes due to hormonal changes. Adults gradually lose deep sleep capacity, while seniors experience more sleep fragmentation and earlier wake times.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Gender Differences",
+                            "body": "Women typically experience more deep sleep and better sleep efficiency than men. However, hormonal fluctuations during menstruation, pregnancy, and menopause can significantly disrupt sleep patterns. Men are more prone to sleep apnea.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Sleep Debt Accumulation",
+                            "body": "Your brain tracks sleep debt with precision. Missing sleep doesn't just affect the next day\u2014it accumulates over time. Recovery requires multiple nights of adequate sleep, not just one \"catch-up\" session.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Individual Sleep Needs",
+                            "body": "While 7-9 hours works for most adults, your optimal amount depends on genetics, activity level, and stress. Elite athletes may need 9-10 hours, while some rare individuals function well on 6 hours due to genetic mutations.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p7",
+                            "pageType": "question",
+                            "headline": "What primarily determines your natural sleep timing preference?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Daily exercise routine",
+                                    "Caffeine consumption",
+                                    "Genetic chronotype",
+                                    "Work schedule demands"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Sleep Pressure Systems",
+                            "body": "Two biological systems control your sleep drive. The circadian rhythm follows a 24-hour cycle, while sleep pressure builds the longer you're awake. These systems work together to time your optimal sleep window.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p9",
+                            "pageType": "content",
+                            "headline": "Environmental Adaptations",
+                            "body": "Your sleep architecture adapts to consistent environmental cues. Regular bedtimes, light exposure patterns, and temperature changes train your body's internal clock. Disrupting these patterns confuses your sleep systems.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Seasonal Variations",
+                            "body": "Sleep patterns naturally shift with seasons due to changing light exposure. Many people need more sleep in winter and feel more energetic in summer. Seasonal Affective Disorder represents an extreme version of this natural variation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p11",
+                            "pageType": "question",
+                            "headline": "How long does it typically take to recover from sleep debt?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "One night of extra sleep",
+                                    "Multiple nights of adequate sleep",
+                                    "A single weekend of sleeping in",
+                                    "Taking afternoon naps only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Sleep Efficiency Factors",
+                            "body": "Sleep efficiency measures time asleep versus time in bed. Healthy adults achieve 85-95% efficiency. Poor efficiency indicates difficulty falling asleep, frequent awakenings, or early morning arousal\u2014all signs of sleep architecture disruption.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Stress and Architecture",
+                            "body": "Chronic stress dramatically alters sleep architecture. Cortisol elevation reduces deep sleep and fragments REM cycles. Stress management techniques directly improve sleep quality by allowing natural architecture to emerge.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Tracking Your Patterns",
+                            "body": "Understanding your personal sleep architecture requires observation and tracking. Sleep diaries, wearable devices, and smartphone apps can reveal your unique patterns and help identify optimization opportunities.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Architecture Optimization",
+                            "body": "Your sleep architecture is both fixed and flexible. While you can't change your chronotype, you can optimize timing, environment, and habits to work with your natural patterns for maximum restorative benefit.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-4",
+                    "title": "Creating the Perfect Sleep Environment",
+                    "order": 4,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-4-p1",
+                            "pageType": "content",
+                            "headline": "Your Sleep Sanctuary",
+                            "body": "Your bedroom environment directly impacts sleep quality and duration. Temperature, light, sound, and air quality all influence your ability to fall asleep quickly and stay asleep deeply. Small changes yield dramatic results.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p2",
+                            "pageType": "content",
+                            "headline": "The Temperature Sweet Spot",
+                            "body": "Your core body temperature naturally drops 2-3 degrees during sleep. A cool room temperature of 65-68\u00b0F facilitates this process. Being too warm disrupts sleep cycles and reduces deep sleep phases.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p3",
+                            "pageType": "content",
+                            "headline": "Complete Darkness Priority",
+                            "body": "Even small amounts of light can suppress melatonin production. Blackout curtains, eye masks, and covering LED lights create the darkness your brain needs for optimal sleep hormone release.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Sound Management",
+                            "body": "Sudden noises can fragment sleep even without waking you. White noise machines or earplugs create consistent acoustic environments. The goal is eliminating disruptive sounds while maintaining safety awareness.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Air Quality Matters",
+                            "body": "Poor air quality reduces sleep efficiency and increases restlessness. Good ventilation, air purifiers, and maintaining humidity between 30-50% create optimal breathing conditions for deep, restorative sleep.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p6",
+                            "pageType": "question",
+                            "headline": "What's the optimal bedroom temperature for sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "65-68\u00b0F (18-20\u00b0C)",
+                                    "70-75\u00b0F (21-24\u00b0C)",
+                                    "60-63\u00b0F (15-17\u00b0C)",
+                                    "72-76\u00b0F (22-24\u00b0C)"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Mattress and Pillows",
+                            "body": "Your sleep surface affects spinal alignment and pressure point relief. Medium-firm mattresses work best for most people. Replace mattresses every 7-10 years and pillows every 1-2 years for optimal support.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Electronics-Free Zone",
+                            "body": "Blue light from screens suppresses melatonin for hours after exposure. Remove TVs, computers, and phones from the bedroom. If you must use devices, apply blue light filters after sunset.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Bedroom Colors",
+                            "body": "Cool, neutral colors promote relaxation and sleep readiness. Blues, greens, and soft grays create calming atmospheres. Avoid bright reds, oranges, and yellows which can increase alertness and energy.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Clutter and Sleep",
+                            "body": "Visual clutter creates mental stimulation that interferes with sleep preparation. A clean, organized bedroom signals to your brain that it's time to rest. Minimalism promotes psychological relaxation.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p11",
+                            "pageType": "question",
+                            "headline": "Why should electronics be removed from bedrooms?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They consume too much electricity",
+                                    "They create electromagnetic radiation",
+                                    "Blue light suppresses melatonin",
+                                    "They generate excessive heat"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p12",
+                            "pageType": "content",
+                            "headline": "Investment in Sleep",
+                            "body": "Quality sleep tools pay dividends in improved rest and daytime performance. Blackout curtains, a good mattress, and temperature control aren't expenses\u2014they're investments in your health and productivity.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Environment Transformation",
+                            "body": "Transform your bedroom into a sleep sanctuary tonight. Start with darkness, temperature, and removing electronics. These simple changes will immediately improve your sleep quality and help establish better sleep patterns.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-5",
+                    "title": "Light and Your Circadian Clock",
+                    "order": 5,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Light Controls Everything",
+                            "body": "Light is the master controller of your circadian rhythm. Your brain's suprachiasmatic nucleus responds to light exposure by regulating melatonin, cortisol, and body temperature. Proper light timing synchronizes your internal clock with the 24-hour day.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Morning Light Activation",
+                            "body": "Bright light exposure within 30 minutes of waking sets your circadian rhythm for the entire day. This light exposure suppresses residual melatonin and triggers cortisol release, promoting alertness and proper evening sleepiness.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Blue Light Benefits",
+                            "body": "Blue light wavelengths are most effective at regulating circadian rhythms. During the day, blue light exposure enhances alertness, mood, and cognitive performance. The same light becomes problematic when encountered after sunset.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Evening Light Problems",
+                            "body": "Light exposure after sunset confuses your circadian clock. Even dim light from phones, TVs, or LED bulbs can suppress melatonin production by 50% or more, making it harder to fall asleep.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p5",
+                            "pageType": "content",
+                            "headline": "Melatonin's Natural Rise",
+                            "body": "In darkness, your pineal gland releases melatonin starting around 9 PM. This hormone doesn't directly cause sleep but signals your body that bedtime is approaching. Light pollution disrupts this critical timing mechanism.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Seasonal Light Challenges",
+                            "body": "Shorter winter days can disrupt circadian rhythms, leading to seasonal mood changes and sleep difficulties. Light therapy using 10,000 lux bright light for 20-30 minutes each morning can counteract these seasonal effects.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Screen Time Strategy",
+                            "body": "If you must use screens after sunset, apply blue light filters or wear blue light blocking glasses. However, the best strategy is avoiding screens 1-2 hours before bedtime entirely.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p8",
+                            "pageType": "question",
+                            "headline": "When should you get bright light exposure for optimal sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2-3 hours before bedtime",
+                                    "During afternoon workouts",
+                                    "Just before going to sleep",
+                                    "Within 30 minutes of waking"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Artificial Light Sources",
+                            "body": "LED lights, fluorescent bulbs, and screens emit high amounts of blue light. In the evening, switch to warm-colored bulbs (2700K or lower) or use dimmer switches to reduce circadian disruption.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Light Sensitivity Variations",
+                            "body": "Individual light sensitivity varies significantly. Some people are extremely sensitive to even small amounts of evening light, while others can tolerate more. Pay attention to how different light exposures affect your sleep onset.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p11",
+                            "pageType": "question",
+                            "headline": "What effect does evening light have on melatonin?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increases production by 25%",
+                                    "Suppresses production by 50%+",
+                                    "Has no measurable effect",
+                                    "Delays release by 30 minutes"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Red Light Benefits",
+                            "body": "Red light wavelengths don't suppress melatonin production. Red bulbs or red-filtered lights can provide necessary illumination in the evening without disrupting circadian rhythms. Many people use red lights for late-night bathroom visits.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p13",
+                            "pageType": "content",
+                            "headline": "Travel and Light",
+                            "body": "Jet lag occurs when your circadian rhythm doesn't match your time zone. Strategic light exposure can help reset your internal clock. Get bright light in the morning at your destination and avoid light during what would be nighttime at home.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p14",
+                            "pageType": "content",
+                            "headline": "Light Hygiene Protocol",
+                            "body": "Practice good light hygiene by getting bright morning light, using blue light filters on devices, dimming lights after sunset, and sleeping in complete darkness. This simple protocol dramatically improves sleep quality.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-5-p15",
+                            "pageType": "content",
+                            "headline": "Natural Rhythm Restoration",
+                            "body": "Your circadian clock wants to sync with natural light patterns. By aligning your light exposure with sunrise and sunset, you restore the natural rhythm that promotes deep sleep and daytime alertness.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-6",
+                    "title": "Temperature and Sleep Quality",
+                    "order": 6,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Temperature Timing",
+                            "body": "Your core body temperature naturally fluctuates throughout the day, dropping 2-3 degrees before sleep. This temperature drop signals your brain to release melatonin and initiate sleep processes. Fighting this natural cooling disrupts sleep onset.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p2",
+                            "pageType": "content",
+                            "headline": "The Cooling Process",
+                            "body": "Your body cools itself by dilating blood vessels in your hands, feet, and face. This heat dissipation mechanism explains why some people stick their feet out from under covers. Helping this process accelerates sleep onset.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Room Temperature Impact",
+                            "body": "A bedroom that's too warm prevents natural body cooling and reduces deep sleep. Temperatures above 70\u00b0F significantly impair sleep quality. Even a few degrees can make the difference between restful and restless sleep.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Individual Variations",
+                            "body": "Optimal sleep temperature varies between individuals. Women tend to prefer slightly warmer environments due to different metabolic rates and hormonal influences. Age also affects temperature preferences, with older adults often needing warmer rooms.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Bedding Strategies",
+                            "body": "Choose breathable fabrics like cotton, bamboo, or moisture-wicking materials. Heavy comforters trap heat and prevent temperature regulation. Layer lighter blankets so you can adjust temperature throughout the night.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Pre-Sleep Warming",
+                            "body": "Paradoxically, warming your extremities before bed helps overall body cooling. A warm bath or shower 90 minutes before sleep dilates blood vessels and promotes heat loss once you get out.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p7",
+                            "pageType": "question",
+                            "headline": "Why does your body temperature naturally drop before sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To conserve energy overnight",
+                                    "To signal melatonin release",
+                                    "To slow down metabolism",
+                                    "To prevent overheating"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Technology Solutions",
+                            "body": "Cooling mattresses, weighted blankets, and smart thermostats can help optimize sleep temperature. Some people benefit from cooling pillows or mattress toppers that actively regulate temperature throughout the night.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p9",
+                            "pageType": "question",
+                            "headline": "What's the best timing for a warm bath to improve sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Right before getting in bed",
+                                    "2-3 hours before bedtime",
+                                    "90 minutes before bedtime",
+                                    "During the afternoon only"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p10",
+                            "pageType": "content",
+                            "headline": "Seasonal Adjustments",
+                            "body": "Sleep temperature needs change with seasons. Summer may require air conditioning or fans, while winter heating can make rooms too dry and warm. Maintain consistent bedroom temperature year-round for optimal sleep.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Temperature and Sleep Stages",
+                            "body": "Temperature regulation affects different sleep stages differently. REM sleep is when temperature regulation is most impaired, making you more sensitive to room temperature during these crucial dream phases.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Finding Your Sweet Spot",
+                            "body": "Experiment to find your optimal sleep temperature. Start with 65-68\u00b0F and adjust based on how you feel. Track your sleep quality at different temperatures to identify your personal comfort zone.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-7",
+                    "title": "Building Evening Routines",
+                    "order": 7,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Ritual Power",
+                            "body": "Evening routines signal to your brain that sleep is approaching. Consistent pre-sleep activities create psychological and physiological cues that trigger relaxation responses. Your brain learns to associate these rituals with sleep preparation.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Timing Matters",
+                            "body": "Start your wind-down routine 1-2 hours before your target bedtime. This gives your body sufficient time to shift from active mode to rest mode. Rushing bedtime preparation interferes with natural relaxation processes.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Digital Sunset",
+                            "body": "Create a \"digital sunset\" by turning off screens, notifications, and stimulating content. Replace screen time with relaxing activities like reading, gentle stretching, or meditation. This mental transition is crucial for sleep readiness.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p4",
+                            "pageType": "question",
+                            "headline": "When should you begin your evening wind-down routine?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Right when you feel tired",
+                                    "30 minutes before bedtime",
+                                    "1-2 hours before bedtime",
+                                    "3-4 hours before bedtime"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Progressive Relaxation",
+                            "body": "Use techniques like progressive muscle relaxation, where you systematically tense and release each muscle group. This practice reduces physical tension and creates bodily awareness that promotes deeper sleep.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Mind Clearing Activities",
+                            "body": "Write down tomorrow's tasks or journal about the day to clear mental clutter. This \"brain dump\" prevents racing thoughts from keeping you awake. Keep a notepad by your bed for middle-of-the-night worries.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p7",
+                            "pageType": "question",
+                            "headline": "What's the primary benefit of journaling before bed?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Improves writing skills",
+                                    "Clears mental clutter",
+                                    "Tracks daily activities",
+                                    "Processes emotions deeply"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Reading for Sleep",
+                            "body": "Light fiction or spiritual texts work best for bedtime reading. Avoid intense, stimulating content like thrillers, work materials, or news. Choose books that are engaging enough to distract from worries but not exciting enough to keep you awake.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p9",
+                            "pageType": "question",
+                            "headline": "Which type of bedtime reading promotes better sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Intense thriller novels",
+                                    "Work-related documents",
+                                    "Current news articles",
+                                    "Light fiction or spiritual texts"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Bath and Shower Benefits",
+                            "body": "Warm water relaxes muscles and helps initiate the body cooling process essential for sleep. The temperature drop after leaving the bath mimics your natural pre-sleep cooling, making you feel drowsy.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Breathing Techniques",
+                            "body": "Practice the 4-7-8 breathing technique: inhale for 4 counts, hold for 7, exhale for 8. This activates your parasympathetic nervous system and promotes relaxation. Repeat 4 cycles to calm both mind and body.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Consistency Is Key",
+                            "body": "Perform your routine at the same time each night, even on weekends. Consistency trains your circadian rhythm and creates strong sleep cues. Your body will begin preparing for sleep as soon as you start your routine.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Your Personal Protocol",
+                            "body": "Design a routine that fits your lifestyle and preferences. Whether it's 30 minutes or 2 hours, the key is consistency and including activities that genuinely relax you. Start tonight with just one calming pre-sleep ritual.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-8",
+                    "title": "Nutrition's Impact on Sleep",
+                    "order": 8,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Food as Sleep Medicine",
+                            "body": "What you eat and when you eat it directly affects sleep quality. Certain nutrients promote sleep-inducing neurotransmitters, while others can keep you alert for hours. Strategic nutrition timing optimizes both sleep onset and sleep depth.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Caffeine's Long Half-Life",
+                            "body": "Caffeine has a half-life of 6-8 hours, meaning half remains in your system long after consumption. Coffee at 3 PM still affects sleep at 11 PM. Sensitive individuals should avoid caffeine after noon for optimal sleep quality.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Alcohol's False Promise",
+                            "body": "While alcohol initially makes you drowsy, it severely disrupts sleep architecture. Alcohol reduces REM sleep, increases sleep fragmentation, and causes early morning awakenings. The sedation is not quality sleep.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p4",
+                            "pageType": "question",
+                            "headline": "What's caffeine's approximate half-life in the human body?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2-3 hours maximum",
+                                    "4-5 hours typically",
+                                    "6-8 hours average",
+                                    "10-12 hours extended"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p5",
+                            "pageType": "question",
+                            "headline": "How does alcohol primarily disrupt sleep quality?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increases deep sleep stages",
+                                    "Prevents falling asleep quickly",
+                                    "Improves REM sleep duration",
+                                    "Reduces REM and fragments sleep"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Dinner Timing Strategy",
+                            "body": "Finish eating 2-3 hours before bedtime to allow digestion to complete. Large meals close to bedtime force your body to work when it should be resting, raising core temperature and disrupting sleep onset.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Sleep-Promoting Nutrients",
+                            "body": "Tryptophan (found in turkey, milk, eggs) helps produce serotonin and melatonin. Magnesium relaxes muscles and nervous system. Complex carbohydrates boost tryptophan uptake. These nutrients naturally enhance sleep quality.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Evening Snack Guidelines",
+                            "body": "If you need an evening snack, choose small portions of foods that contain tryptophan and complex carbs. Examples include a small bowl of oatmeal, banana with almond butter, or chamomile tea with honey.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Hydration Balance",
+                            "body": "Stay well-hydrated during the day but reduce fluid intake 2-3 hours before bed to prevent middle-of-the-night bathroom trips. Dehydration can cause restlessness, but overhydration fragments sleep.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Sugar and Sleep",
+                            "body": "High sugar intake, especially in the evening, can cause blood sugar spikes and crashes that disrupt sleep. Sugar also increases inflammation and interferes with growth hormone release during deep sleep.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p11",
+                            "pageType": "question",
+                            "headline": "When should you finish eating before bedtime?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "2-3 hours before bedtime",
+                                    "30 minutes before bedtime",
+                                    "1 hour before bedtime",
+                                    "4-5 hours before bedtime"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Supplements Consideration",
+                            "body": "Melatonin supplements can help reset circadian rhythms but shouldn't be used long-term. Magnesium glycinate promotes relaxation without morning grogginess. Always consult healthcare providers before adding sleep supplements.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Your Nutrition Protocol",
+                            "body": "Create a sleep-supporting nutrition plan: limit caffeine after noon, avoid large evening meals, minimize alcohol, and choose foods rich in sleep-promoting nutrients. Small changes in eating patterns can dramatically improve sleep quality.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-9",
+                    "title": "Exercise and Sleep Connection",
+                    "order": 9,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Exercise as Sleep Medicine",
+                            "body": "Regular exercise is one of the most powerful tools for improving sleep quality. Physical activity increases deep sleep duration, reduces time to fall asleep, and decreases nighttime awakenings. Even light exercise provides measurable sleep benefits.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Timing Is Everything",
+                            "body": "Exercise timing dramatically affects its impact on sleep. Morning and afternoon workouts enhance sleep quality, while intense exercise within 3-4 hours of bedtime can be stimulating and delay sleep onset.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Temperature and Recovery",
+                            "body": "Exercise raises core body temperature for 4-6 hours post-workout. Since sleep requires body cooling, late evening exercise can interfere with this natural temperature drop. Plan intense workouts for earlier in the day.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Stress Hormone Regulation",
+                            "body": "Exercise reduces cortisol levels and increases production of endorphins and other mood-regulating hormones. Regular exercisers have lower baseline stress levels and recover more quickly from daily stressors that can disrupt sleep.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p5",
+                            "pageType": "content",
+                            "headline": "Deep Sleep Enhancement",
+                            "body": "Physical activity increases slow-wave sleep, the deepest and most restorative stage. This is when growth hormone is released, tissues are repaired, and the brain clears metabolic waste. More exercise equals more deep sleep.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Anxiety and Exercise",
+                            "body": "Regular exercise reduces anxiety levels that commonly interfere with sleep. Physical activity provides a healthy outlet for stress and worry while promoting the production of calming neurotransmitters like GABA.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Moderate vs Intense",
+                            "body": "You don't need intense workouts to improve sleep. Moderate exercise like brisk walking for 30 minutes provides significant sleep benefits. Consistency matters more than intensity for sleep enhancement.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Outdoor Exercise Benefits",
+                            "body": "Exercising outdoors provides additional sleep benefits through natural light exposure, which helps regulate circadian rhythms. Morning outdoor exercise is particularly effective for improving evening sleep quality.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Sleep and Recovery",
+                            "body": "Quality sleep enhances exercise performance and recovery. Poor sleep reduces strength, endurance, and motivation while increasing injury risk. Sleep and exercise create a positive feedback loop when properly timed.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Evening Movement Options",
+                            "body": "If you must exercise in the evening, choose gentle activities like yoga, stretching, or leisurely walking. These low-intensity movements can actually promote relaxation and improve sleep quality.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p11",
+                            "pageType": "question",
+                            "headline": "Which type of sleep does exercise primarily increase?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Deep slow-wave sleep",
+                                    "Light transitional sleep",
+                                    "REM dream sleep",
+                                    "Stage 2 sleep only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p12",
+                            "pageType": "question",
+                            "headline": "When should you avoid intense exercise for better sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Early morning hours only",
+                                    "During lunch breaks",
+                                    "Mid-afternoon sessions",
+                                    "3-4 hours before bedtime"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Your Exercise Protocol",
+                            "body": "Aim for at least 30 minutes of moderate exercise most days, preferably in the morning or afternoon. Even a 10-minute walk can improve sleep. Start small and build consistency before increasing intensity or duration.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-10",
+                    "title": "Managing Common Sleep Issues",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Sleep Challenges",
+                            "body": "Most people experience occasional sleep problems, but chronic issues require targeted solutions. Identifying the root cause of your sleep disruption is the first step toward effective treatment and lasting improvement.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Racing Mind Solutions",
+                            "body": "Mental hyperactivity at bedtime prevents sleep onset. Combat racing thoughts with the \"4-7-8\" breathing technique, progressive muscle relaxation, or keeping a worry journal by your bed to capture intrusive thoughts.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p3",
+                            "pageType": "content",
+                            "headline": "Middle-of-Night Awakenings",
+                            "body": "Waking between 2-4 AM is often related to blood sugar drops, stress hormones, or room temperature. Keep your room cool, avoid late meals, and practice stress management to reduce these disruptive awakenings.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p4",
+                            "pageType": "content",
+                            "headline": "The 20-Minute Rule",
+                            "body": "If you can't fall asleep within 20 minutes, leave your bedroom and do a quiet, non-stimulating activity until you feel sleepy. Lying awake in bed creates negative associations with your sleep environment.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p5",
+                            "pageType": "question",
+                            "headline": "What should you do if you can't fall asleep within 20 minutes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Turn on your phone screen",
+                                    "Stay in bed and keep trying",
+                                    "Leave bedroom for quiet activity",
+                                    "Do intense physical exercise"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p6",
+                            "pageType": "question",
+                            "headline": "When do most people experience middle-of-night awakenings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Between 2-4 AM typically",
+                                    "Immediately after falling asleep",
+                                    "During early evening hours",
+                                    "Between 5-6 AM only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Sleep Anxiety Cycle",
+                            "body": "Worrying about sleep creates a vicious cycle where anxiety about not sleeping prevents actual sleep. Break this pattern by accepting that some nights will be poor and focusing on good sleep habits rather than perfection.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p8",
+                            "pageType": "question",
+                            "headline": "What commonly causes middle-of-night awakenings?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Too much morning sunlight",
+                                    "Excessive afternoon exercise",
+                                    "Late evening screen usage",
+                                    "Blood sugar drops and stress"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Snoring and Sleep",
+                            "body": "Snoring disrupts both your sleep and your partner's rest. Sleep position, weight management, and avoiding alcohol before bed can reduce snoring. Persistent loud snoring may indicate sleep apnea requiring medical evaluation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Restless Leg Syndrome",
+                            "body": "RLS causes uncomfortable sensations and irresistible urges to move your legs, especially when lying down. Magnesium supplementation, iron level checks, and leg stretches before bed can provide relief.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Sleep Environment Audit",
+                            "body": "Systematically evaluate your sleep environment for disruptors: light leaks, noise sources, temperature fluctuations, or uncomfortable bedding. Address each issue individually to identify what most impacts your sleep quality.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p12",
+                            "pageType": "content",
+                            "headline": "When to Seek Help",
+                            "body": "Consult a healthcare provider if sleep problems persist despite good sleep hygiene, if you snore loudly, experience breathing interruptions, or feel exhausted despite adequate sleep time. Some issues require medical intervention.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Problem-Solving Approach",
+                            "body": "Address sleep issues systematically rather than trying everything at once. Change one variable at a time, track results for at least a week, and be patient. Most sleep problems have solutions when approached methodically.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-11",
+                    "title": "Sleep Disorders and Solutions",
+                    "order": 11,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Poor Sleep",
+                            "body": "Sleep disorders are medical conditions that significantly impact sleep quality and daytime functioning. Unlike occasional sleep problems, disorders require professional diagnosis and treatment. Early recognition and intervention prevent serious health consequences.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Sleep Apnea Recognition",
+                            "body": "Sleep apnea involves repeated breathing interruptions during sleep. Warning signs include loud snoring, gasping during sleep, morning headaches, and excessive daytime sleepiness despite adequate sleep time. This condition requires immediate medical attention.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p3",
+                            "pageType": "question",
+                            "headline": "What distinguishes sleep disorders from occasional sleep problems?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They only affect older adults",
+                                    "They happen during weekends",
+                                    "They resolve without treatment",
+                                    "They require professional diagnosis"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p4",
+                            "pageType": "question",
+                            "headline": "Which symptom most strongly suggests sleep apnea?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Difficulty falling asleep",
+                                    "Gasping during sleep",
+                                    "Vivid nighttime dreams",
+                                    "Early morning awakening"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p5",
+                            "pageType": "question",
+                            "headline": "What characterizes chronic insomnia disorder?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Occasional weekend sleep difficulties",
+                                    "Sleep problems 3+ nights weekly",
+                                    "Difficulty napping during daytime",
+                                    "Sleeping more than 9 hours"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Chronic Insomnia Disorder",
+                            "body": "Insomnia becomes a disorder when sleep difficulties occur at least three nights per week for three months or more. It involves trouble falling asleep, staying asleep, or early morning awakening with inability to return to sleep.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Restless Leg Syndrome",
+                            "body": "RLS causes uncomfortable sensations in the legs and an irresistible urge to move them, especially during rest. Symptoms worsen in the evening and can severely disrupt sleep onset. Iron deficiency and certain medications can trigger RLS.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p8",
+                            "pageType": "content",
+                            "headline": "Narcolepsy and Hypersomnia",
+                            "body": "Narcolepsy involves sudden, uncontrollable sleep episodes during the day. Hypersomnia is excessive daytime sleepiness despite adequate nighttime sleep. Both conditions significantly impact daily functioning and require medical management.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Circadian Rhythm Disorders",
+                            "body": "These disorders occur when your internal clock doesn't align with your desired sleep schedule. Shift work sleep disorder and delayed sleep phase disorder are common types. Light therapy and melatonin can help reset circadian rhythms.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Professional Sleep Studies",
+                            "body": "Sleep studies monitor brain waves, breathing, heart rate, and movement during sleep. These overnight tests help diagnose sleep apnea, periodic limb movement, and other disorders. Home sleep tests are available for certain conditions.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p11",
+                            "pageType": "question",
+                            "headline": "When should you consider seeking professional help for sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "After one bad night of sleep",
+                                    "Problems persist despite good hygiene",
+                                    "When feeling tired after 6 hours",
+                                    "During stressful life periods only"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Treatment Options",
+                            "body": "Treatment varies by disorder but may include CPAP machines for sleep apnea, medications for RLS, cognitive behavioral therapy for insomnia, or light therapy for circadian disorders. Many disorders are highly treatable when properly diagnosed.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Don't Suffer Unnecessarily",
+                            "body": "Sleep disorders are real medical conditions that respond to treatment. If good sleep hygiene doesn't resolve your sleep problems, seek professional help. Quality sleep is essential for health, and effective treatments are available.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-12",
+                    "title": "Stress and Sleep Management",
+                    "order": 12,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Stress Sleep Cycle",
+                            "body": "Stress and poor sleep create a vicious cycle. Stress elevates cortisol, making it harder to fall asleep and stay asleep. Poor sleep increases stress sensitivity and reduces coping abilities. Breaking this cycle requires targeted intervention.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Cortisol's Impact",
+                            "body": "Chronic stress keeps cortisol elevated when it should naturally decrease at bedtime. High cortisol blocks melatonin production, increases alertness, and prevents the relaxation necessary for sleep onset and maintenance.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p3",
+                            "pageType": "question",
+                            "headline": "How does chronic stress primarily disrupt sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Elevates cortisol levels",
+                                    "Reduces body temperature",
+                                    "Increases melatonin production",
+                                    "Slows heart rate significantly"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p4",
+                            "pageType": "question",
+                            "headline": "What happens when cortisol remains elevated at bedtime?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Melatonin production increases",
+                                    "Body temperature drops rapidly",
+                                    "Melatonin production is blocked",
+                                    "Deep sleep stages lengthen"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Daytime Stress Management",
+                            "body": "Managing stress during the day improves nighttime sleep. Regular exercise, meditation, deep breathing, and time management skills all reduce overall stress load. Address stress at its source rather than just treating sleep symptoms.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Worry Window Technique",
+                            "body": "Designate 15-20 minutes daily as your \"worry time\" to process concerns and plan solutions. When worries arise at bedtime, remind yourself you'll address them during tomorrow's worry window. This prevents rumination from disrupting sleep.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p7",
+                            "pageType": "content",
+                            "headline": "Progressive Muscle Relaxation",
+                            "body": "This technique involves systematically tensing and relaxing muscle groups. Start with your toes and work upward, holding tension for 5 seconds then releasing. This practice reduces physical tension and mental stress simultaneously.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p8",
+                            "pageType": "question",
+                            "headline": "What's the primary purpose of a \"worry window\"?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To increase daily stress levels",
+                                    "To prevent bedtime rumination",
+                                    "To eliminate all life concerns",
+                                    "To schedule more work tasks"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Mindfulness and Sleep",
+                            "body": "Mindfulness meditation reduces activation of the default mode network in the brain, which is responsible for rumination and worry. Just 10 minutes of daily mindfulness practice can significantly improve sleep quality and stress resilience.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Gratitude Practice",
+                            "body": "Focusing on positive aspects of your day before sleep shifts your mental state from stress to appreciation. Write down three things you're grateful for each night. This simple practice improves both mood and sleep quality.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p11",
+                            "pageType": "question",
+                            "headline": "How does mindfulness meditation help with sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Increases brain wave activity",
+                                    "Reduces rumination and worry",
+                                    "Elevates stress hormone levels",
+                                    "Speeds up thought processes"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Stress-Sleep Recovery",
+                            "body": "Recovery from the stress-sleep cycle takes time and consistency. Implement stress management techniques during the day and relaxation practices at night. Expect gradual improvement rather than immediate transformation.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-12-p13",
+                            "pageType": "content",
+                            "headline": "Building Resilience",
+                            "body": "Regular stress management practices build resilience against future sleep disruptions. Develop a toolkit of techniques that work for you, and use them consistently even when stress levels are low to maintain your sleep-stress balance.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-13",
+                    "title": "Sleep Tracking and Technology",
+                    "order": 13,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Data-Driven Sleep",
+                            "body": "Sleep tracking provides objective data about your sleep patterns, helping identify trends and optimization opportunities. However, the data is only valuable when interpreted correctly and used to guide evidence-based improvements.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Wearable Technology",
+                            "body": "Fitness trackers and smartwatches use heart rate, movement, and sometimes temperature to estimate sleep stages. While not as accurate as clinical sleep studies, they provide useful trends about sleep duration, consistency, and rough sleep quality patterns.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Smartphone Apps",
+                            "body": "Sleep apps use phone sensors or bedside placement to track movement and sound patterns. Many include features like smart alarms that wake you during lighter sleep phases, meditation guides, and sleep environment optimization tips.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Sleep Journals",
+                            "body": "Manual sleep tracking through journals captures subjective sleep quality, mood, energy levels, and potential correlations with daily activities. This qualitative data complements quantitative device measurements and helps identify personal patterns.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p5",
+                            "pageType": "content",
+                            "headline": "Key Metrics Explained",
+                            "body": "Focus on sleep efficiency (time asleep vs. time in bed), consistency of sleep schedule, and how you feel upon waking. Don't obsess over deep sleep percentages or REM cycles, as consumer devices aren't highly accurate for these measurements.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Avoiding Orthosomnia",
+                            "body": "Orthosomnia is the obsession with achieving \"perfect\" sleep scores, which can actually worsen sleep quality. Use tracking data as general guidance rather than rigid goals. Sleep quality is more important than meeting specific metrics.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Environmental Monitors",
+                            "body": "Smart home devices can track bedroom temperature, humidity, air quality, and noise levels. This environmental data helps optimize your sleep space and identify external factors that may be disrupting your rest.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p8",
+                            "pageType": "question",
+                            "headline": "What's the most important sleep metric to focus on?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Sleep efficiency and consistency",
+                                    "Exact deep sleep percentages",
+                                    "Perfect REM cycle timing",
+                                    "Matching ideal sleep scores"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p9",
+                            "pageType": "question",
+                            "headline": "What is orthosomnia?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "A type of sleep disorder",
+                                    "Poor sleeping posture issues",
+                                    "Medical sleep study equipment",
+                                    "Obsession with perfect sleep scores"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p10",
+                            "pageType": "question",
+                            "headline": "How should you interpret sleep tracking data?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As rigid goals to achieve",
+                                    "As general guidance trends",
+                                    "As completely accurate measurements",
+                                    "As competitive scoring systems"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p11",
+                            "pageType": "question",
+                            "headline": "What data do environmental monitors provide?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Heart rate and breathing patterns",
+                                    "Dream content and brain waves",
+                                    "Sleep stage durations only",
+                                    "Temperature, humidity, and air quality"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Smart Alarms",
+                            "body": "Smart alarm clocks and apps can wake you during lighter sleep phases within a specified time window. This can reduce sleep inertia and help you feel more refreshed upon waking, though the effect varies between individuals.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Technology Limits",
+                            "body": "Remember that technology is a tool, not a solution. The most advanced sleep tracker won't improve your sleep if you ignore basic sleep hygiene. Use technology to support good habits, not replace them.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Finding Your System",
+                            "body": "Choose tracking methods that motivate rather than stress you. Some people benefit from detailed data, others from simple sleep logs. The best tracking system is one you'll use consistently without becoming obsessive.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-13-p15",
+                            "pageType": "content",
+                            "headline": "Actionable Insights",
+                            "body": "Transform tracking data into actionable changes. If data shows you sleep better on days you exercise, prioritize movement. If consistency improves your scores, focus on regular bedtimes. Let data guide practical improvements.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-14",
+                    "title": "Morning Routines for Better Sleep",
+                    "order": 14,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Morning Sets Evening",
+                            "body": "Your morning routine directly impacts your evening sleep quality. Morning light exposure, exercise timing, and caffeine consumption all influence your circadian rhythm and sleep drive throughout the day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Light Exposure Priority",
+                            "body": "Get bright light within 30 minutes of waking to set your circadian clock. Open curtains immediately, step outside, or use a light therapy device. This morning light exposure helps you feel alert now and sleepy later.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Consistent Wake Times",
+                            "body": "Wake up at the same time every day, including weekends. This consistency strengthens your circadian rhythm and improves sleep quality over time. Your body will naturally start preparing for sleep at the appropriate evening hour.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Strategic Caffeine Timing",
+                            "body": "Delay your first caffeine intake 90-120 minutes after waking when possible. This allows natural cortisol and adenosine levels to provide morning alertness, preventing afternoon crashes that can disrupt evening sleep timing.",
+                            "imageURL": "focus",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p5",
+                            "pageType": "question",
+                            "headline": "When should you get bright light for optimal sleep?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Only during winter months",
+                                    "Within 30 minutes of waking",
+                                    "2-3 hours after waking",
+                                    "Just before evening bedtime"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Morning Movement",
+                            "body": "Light morning exercise or stretching enhances alertness and improves evening sleep quality. Even 5-10 minutes of movement helps regulate circadian rhythms and increases deep sleep later that night.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p7",
+                            "pageType": "question",
+                            "headline": "Why should you maintain consistent wake times on weekends?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To maximize weekend productivity",
+                                    "To strengthen circadian rhythm",
+                                    "To avoid missing appointments",
+                                    "To reduce weekend social time"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Hydration and Sleep",
+                            "body": "Start your day with water to combat overnight dehydration, but balance morning hydration with evening reduction. Proper daytime hydration supports energy levels and reduces the need for excessive evening fluid intake.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Morning Meditation",
+                            "body": "Brief morning meditation or mindfulness practice reduces stress levels throughout the day. Lower daytime stress translates to easier sleep onset and fewer middle-of-the-night awakenings caused by racing thoughts.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Breakfast and Energy",
+                            "body": "Eating a protein-rich breakfast stabilizes blood sugar and energy levels throughout the day. Stable energy prevents afternoon crashes that can lead to excessive caffeine consumption or disrupt natural sleepiness timing.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Planning Your Day",
+                            "body": "Spend a few minutes reviewing your daily priorities and schedule. This mental preparation reduces anxiety about the day ahead and prevents work concerns from intruding on your evening relaxation time.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Temperature Regulation",
+                            "body": "Cool morning showers can enhance alertness and provide a temperature contrast that supports your body's natural rhythm. However, avoid extremely cold exposure if it causes stress that might affect evening relaxation.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Building Your Morning",
+                            "body": "Design a morning routine that energizes without overstimulating. Include light exposure, gentle movement, and purposeful activities that set a positive tone for the day while supporting your natural circadian rhythm.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-14-p14",
+                            "pageType": "content",
+                            "headline": "Morning Investment",
+                            "body": "A thoughtful morning routine is an investment in better evening sleep. The habits you establish in the first hour of your day create the foundation for restful sleep 16 hours later.",
+                            "imageURL": "target",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "sleep_smarter-1-15",
+                    "title": "Your Personal Sleep Protocol",
+                    "order": 15,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "sleep_smarter-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Creating Your System",
+                            "body": "Effective sleep optimization requires a personalized approach that fits your lifestyle, preferences, and unique sleep challenges. The best sleep protocol is one you can maintain consistently over the long term.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Start Small",
+                            "body": "Begin with 1-2 changes rather than overhauling everything at once. Choose interventions that feel manageable and build from there. Sustainable progress beats perfect execution that you can't maintain.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Core Foundation",
+                            "body": "Prioritize the fundamentals: consistent sleep schedule, optimized bedroom environment, strategic light exposure, and limiting screens before bed. These foundational elements provide the greatest return on investment.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p4",
+                            "pageType": "question",
+                            "headline": "What's the best approach when starting sleep optimization?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Change everything immediately",
+                                    "Start with 1-2 manageable changes",
+                                    "Focus only on supplements",
+                                    "Wait for perfect conditions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p5",
+                            "pageType": "question",
+                            "headline": "Which elements should you prioritize first?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Expensive sleep technology",
+                                    "Foundation habits like schedule",
+                                    "Advanced optimization techniques",
+                                    "Social media sleep advice"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Personalization Factors",
+                            "body": "Consider your chronotype, lifestyle constraints, family responsibilities, and work schedule when designing your protocol. What works for others may not work for you. Adapt general principles to your specific situation.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Track and Adjust",
+                            "body": "Monitor how changes affect your sleep quality and daytime energy. Use simple metrics like how you feel upon waking and your afternoon energy levels. Adjust your protocol based on results, not rigid rules.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p8",
+                            "pageType": "question",
+                            "headline": "How should you adapt sleep advice to your situation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Follow exactly without changes",
+                                    "Ignore your personal constraints",
+                                    "Copy someone else's routine",
+                                    "Adapt to your specific needs"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p9",
+                            "pageType": "question",
+                            "headline": "What's the best way to measure sleep protocol success?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Complex tracking devices only",
+                                    "Social media sleep scores",
+                                    "How you feel and function",
+                                    "Comparing to others' results"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Consistency Over Perfection",
+                            "body": "A simple routine followed consistently beats a perfect routine followed occasionally. Focus on building habits you can maintain even during busy or stressful periods. Consistency creates lasting improvement.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Troubleshooting Protocol",
+                            "body": "When sleep problems arise, systematically review your protocol rather than abandoning it entirely. Identify which elements might have changed and address them individually. Most disruptions have simple solutions.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Sleep optimization is a lifelong practice, not a quick fix. Your needs will change with age, life circumstances, and health status. Maintain flexibility while preserving core habits that consistently support your sleep quality.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Your Sleep Investment",
+                            "body": "Quality sleep is one of the highest-leverage investments you can make in your health, performance, and well-being. The time and effort you spend optimizing sleep pays dividends in every area of your life.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p14",
+                            "pageType": "content",
+                            "headline": "Implementation Plan",
+                            "body": "Choose your first three sleep improvements tonight. Pick one environmental change, one timing adjustment, and one new habit. Implement them gradually and track how you feel. Build momentum with small, consistent wins.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "sleep_smarter-1-15-p15",
+                            "pageType": "content",
+                            "headline": "Sleep Smarter",
+                            "body": "You now have the knowledge to transform your sleep and, consequently, your life. Apply these evidence-based strategies consistently, and you'll unlock the full power of restorative sleep. Your future self will thank you.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.4,
+    "tag": "Popular"
+}

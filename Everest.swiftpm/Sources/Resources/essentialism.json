@@ -1,0 +1,2354 @@
+{
+    "id": "essentialism",
+    "title": "Essentialism",
+    "description": "The disciplined pursuit of less but better. Learn to focus on what truly matters and eliminate everything else.",
+    "category": "Focus",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/essentialism.png",
+    "coverImagePrompt": "Premium editorial flat vector art, single perfect circle among scattered shapes that fade away, sage green essential element with charcoal dissolving clutter, less but better aesthetic",
+    "altitude": 4800,
+    "durationMinutes": 109,
+    "whatsInside": [
+        "Distinguish between the vital few and the trivial many",
+        "Master the art of saying no without damaging relationships",
+        "Create space for high-contribution activities",
+        "Build systems that protect your priorities automatically",
+        "Apply the 90% rule to all decisions",
+        "Design an essentialist lifestyle"
+    ],
+    "expertReview": {
+        "quote": "A powerful antidote to the overcommitment epidemic. Essentialism is not about doing less, it is about doing what matters most.",
+        "name": "Greg McKeown",
+        "title": "Author, Essentialism"
+    },
+    "chapters": [
+        {
+            "id": "essentialism-ch1",
+            "title": "The Essentialist Way",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "essentialism-1-1",
+                    "title": "Less But Better",
+                    "order": 1,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-1-p1",
+                            "pageType": "content",
+                            "headline": "The Paradox of Success",
+                            "body": "Success often becomes a catalyst for failure. As we achieve more, we get pulled in countless directions. We say yes to everything, diluting our focus and energy. The very success we sought becomes our biggest obstacle.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Two Different Approaches",
+                            "body": "Most people spread themselves thin, believing more activity equals more results. Essentialists do the opposite. They pursue fewer things but execute them at the highest level. This disciplined approach creates exponential returns.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p3",
+                            "pageType": "question",
+                            "headline": "What is the core principle of essentialism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Doing fewer things better",
+                                    "Working harder than others",
+                                    "Saying yes to all opportunities",
+                                    "Multitasking efficiently"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-1-p4",
+                            "pageType": "question",
+                            "headline": "Why does success often lead to scattered focus?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "People become lazy after success",
+                                    "Success requires constant innovation",
+                                    "Opportunities multiply faster than capacity",
+                                    "More options create better outcomes"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-1-p5",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "The non-essentialist thinks 'I have to do everything.' The essentialist asks 'What are the few things I can do that will make everything else easier?' This simple shift changes everything.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p6",
+                            "pageType": "question",
+                            "headline": "What question defines essentialist thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "What makes everything easier?",
+                                    "How can I do more things?",
+                                    "What will others think of me?",
+                                    "How can I avoid all mistakes?"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-1-p7",
+                            "pageType": "content",
+                            "headline": "The Power of Trade-offs",
+                            "body": "Every choice you make eliminates other possibilities. Essentialists embrace this reality instead of fighting it. They make deliberate trade-offs rather than trying to have it all.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Beyond Time Management",
+                            "body": "Essentialism isn't about managing your time better. It's about managing your energy, attention, and choices better. Time is finite, but how you use it is entirely within your control.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p9",
+                            "pageType": "content",
+                            "headline": "The Three Core Elements",
+                            "body": "Essentialism has three phases: Explore to discern the vital few, Eliminate the trivial many, and Execute by making what matters effortless. Each phase requires different skills and mindsets.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p10",
+                            "pageType": "content",
+                            "headline": "Your Current Reality Check",
+                            "body": "Look at your last week. How much time did you spend on activities that truly mattered? Most people are shocked to discover how little time they dedicate to their highest priorities.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p11",
+                            "pageType": "content",
+                            "headline": "The Essentialist Mindset",
+                            "body": "Essentialists see themselves as having choices. They separate the urgent from the important. They build systems that make the right behaviors automatic. This creates freedom through discipline.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Your Journey Begins",
+                            "body": "Becoming an essentialist is a lifelong practice, not a destination. It requires constant vigilance against the cultural pressure to do more. Start by questioning every commitment you currently have.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-2",
+                    "title": "The Power of No",
+                    "order": 2,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-2-p1",
+                            "pageType": "content",
+                            "headline": "No Is Your Superpower",
+                            "body": "Every yes to one thing is a no to something else. Most people struggle with saying no because they fear disappointing others. Essentialists understand that saying no to the non-essential means saying yes to what truly matters.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p2",
+                            "pageType": "content",
+                            "headline": "The Social Pressure Trap",
+                            "body": "Society rewards busy people and judges those who say no as selfish or lazy. This social conditioning makes us overcommit to avoid judgment. Breaking free requires courage and clear priorities.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p3",
+                            "pageType": "content",
+                            "headline": "Fear of Missing Out",
+                            "body": "FOMO drives poor decisions. We say yes to mediocre opportunities because we fear something better won't come along. Essentialists trust that better opportunities emerge when you create space for them.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p4",
+                            "pageType": "content",
+                            "headline": "The Popularity Contest",
+                            "body": "Many people equate being liked with being valuable. They say yes to maintain relationships and avoid conflict. True respect comes from having clear boundaries, not from being available to everyone.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Your Default Response",
+                            "body": "Make 'no' your default response to new requests. This gives you time to evaluate opportunities properly. You can always change your mind later, but you can't un-commit easily.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p6",
+                            "pageType": "question",
+                            "headline": "Why do most people struggle to say no?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They lack organizational skills",
+                                    "They don't understand priorities",
+                                    "They fear disappointing others",
+                                    "They want to earn more money"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Graceful No Techniques",
+                            "body": "Learn to say no without saying no. Use phrases like 'I'm not able to commit the time this deserves' or 'That sounds great, but I'm focused on other priorities right now.' Be kind but firm.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p8",
+                            "pageType": "question",
+                            "headline": "What should be your default response to new requests?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Immediately say yes to show enthusiasm",
+                                    "Ask for more money before deciding",
+                                    "Delegate the decision to someone else",
+                                    "Say no and evaluate opportunities properly"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-2-p9",
+                            "pageType": "content",
+                            "headline": "The Sunk Cost Fallacy",
+                            "body": "Just because you've invested time or money doesn't mean you should continue. Essentialists cut their losses quickly when something isn't working. Don't let past investment trap you in future mediocrity.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-2-p10",
+                            "pageType": "question",
+                            "headline": "What drives Fear of Missing Out (FOMO)?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having too much free time available",
+                                    "Believing better opportunities won't come",
+                                    "Lack of social media engagement",
+                                    "Poor financial planning skills"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-2-p11",
+                            "pageType": "question",
+                            "headline": "How do essentialists view trade-offs?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "As necessary compromises to accept",
+                                    "As failures in planning and execution",
+                                    "As opportunities to maximize everything",
+                                    "As deliberate choices they embrace"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-2-p12",
+                            "pageType": "content",
+                            "headline": "Practice Makes Perfect",
+                            "body": "Saying no gets easier with practice. Start with small, low-stakes situations to build your confidence. Each successful no reinforces your ability to protect what matters most.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-3",
+                    "title": "Creating Space to Think",
+                    "order": 3,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Busy Trap",
+                            "body": "Constant busyness prevents clear thinking. Your brain needs space to process information and make connections. When you're always doing, you never have time for strategic thinking about what you should be doing.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Solitude as Strategy",
+                            "body": "Great leaders throughout history have valued solitude. They understand that alone time isn't selfish\u2014it's essential for making better decisions. Schedule thinking time like you would any important meeting.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p3",
+                            "pageType": "question",
+                            "headline": "Why does constant busyness prevent clear thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It makes people too tired to focus",
+                                    "It creates too much social pressure",
+                                    "It increases stress hormone production",
+                                    "It prevents time for processing information"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-3-p4",
+                            "pageType": "content",
+                            "headline": "Digital Noise Pollution",
+                            "body": "Your devices constantly demand attention with notifications, updates, and alerts. This digital noise fragments your focus and prevents deep thinking. Create technology-free zones in your day.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p5",
+                            "pageType": "content",
+                            "headline": "The Power of Boredom",
+                            "body": "Boredom sparks creativity and self-reflection. When your mind isn't occupied with inputs, it naturally starts making connections and generating insights. Embrace moments of emptiness rather than filling them immediately.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Morning Clarity Ritual",
+                            "body": "Start each day with 15 minutes of quiet reflection before checking your phone or email. Use this time to set intentions and priorities. This small habit creates clarity that lasts all day.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Walking Meditation",
+                            "body": "Movement stimulates creative thinking. Take walks without podcasts, music, or phone calls. Let your mind wander freely. Many breakthrough insights happen during these unstructured moments.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Protecting Your Calendar",
+                            "body": "Block out thinking time on your calendar and treat it as sacred. Don't let meetings or urgent tasks consume these slots. Your future self will thank you for this investment in clarity.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p9",
+                            "pageType": "content",
+                            "headline": "The Journal Practice",
+                            "body": "Writing clarifies thinking. Spend 10 minutes each day writing about your priorities, challenges, and insights. The act of putting thoughts on paper helps you process and organize them.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Creating Physical Space",
+                            "body": "Your environment affects your thinking. Create a dedicated space for reflection\u2014even if it's just a corner of a room. Keep it simple and free from distractions.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Reading for Perspective",
+                            "body": "Read books that challenge your thinking and expand your perspective. Choose quality over quantity. One profound book provides more value than dozens of shallow articles or social media posts.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p12",
+                            "pageType": "question",
+                            "headline": "What is the primary benefit of scheduled thinking time?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It reduces work-related stress levels",
+                                    "It improves social relationships",
+                                    "It increases daily productivity metrics",
+                                    "It enables strategic decision-making"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-3-p13",
+                            "pageType": "content",
+                            "headline": "The Weekly Review",
+                            "body": "Set aside time each week to review your priorities and progress. Ask yourself what worked, what didn't, and what adjustments you need to make. This practice keeps you aligned with what matters most.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p14",
+                            "pageType": "content",
+                            "headline": "Saying No to Urgency",
+                            "body": "Urgent tasks often crowd out important thinking. Learn to distinguish between what feels urgent and what actually matters. Protect your thinking time from the tyranny of the immediate.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Space Creates Options",
+                            "body": "When you create space in your schedule and mind, new possibilities emerge. You see opportunities you missed when you were busy reacting. Space is where strategy is born.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-4",
+                    "title": "Explore: Discerning the Vital Few",
+                    "order": 4,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Art of Exploration",
+                            "body": "Before you can focus on the right things, you must explore what those things are. Most people skip this step and jump straight into action. Essentialists invest time upfront to identify what truly matters.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Beyond Surface Level",
+                            "body": "Exploration means digging deeper than the obvious. Ask second and third-level questions. What seems important at first glance often isn't upon closer examination. True priorities reveal themselves through careful investigation.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p3",
+                            "pageType": "question",
+                            "headline": "What is the first step in essentialist thinking?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Eliminating unnecessary commitments",
+                                    "Making execution more efficient",
+                                    "Saying no to all new requests",
+                                    "Exploring what truly matters"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-4-p4",
+                            "pageType": "content",
+                            "headline": "The 90 Percent Rule",
+                            "body": "Use a strict scoring system for opportunities. If something isn't a 90 out of 100, treat it as a zero. This prevents the 'good enough' trap that dilutes your focus on truly exceptional opportunities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Listening to Your Energy",
+                            "body": "Your energy levels provide valuable data about what truly matters to you. Notice what activities energize you and which ones drain you. Your body often knows what your mind hasn't figured out yet.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p6",
+                            "pageType": "question",
+                            "headline": "How should you score new opportunities?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Give everything a fair chance",
+                                    "Treat anything below 90% as zero",
+                                    "Focus on potential future value",
+                                    "Consider only financial returns"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-4-p7",
+                            "pageType": "content",
+                            "headline": "The Power of Questions",
+                            "body": "Great questions lead to great discoveries. Instead of asking 'How can I do this?' ask 'Should I do this?' Replace 'What are my options?' with 'What are the trade-offs?' Better questions lead to better choices.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Researching Before Committing",
+                            "body": "Do your homework before saying yes. Most people commit first and figure out the details later. This leads to poor decisions and wasted resources. Investigation prevents regret.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p9",
+                            "pageType": "content",
+                            "headline": "The Journalist Mindset",
+                            "body": "Approach decisions like a journalist investigating a story. Gather facts, interview stakeholders, and consider multiple perspectives. Separate facts from opinions and emotions from logic.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Testing Small",
+                            "body": "Before making big commitments, test small. Try pilot projects or limited engagements. This gives you real data about whether something deserves more of your time and energy.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p11",
+                            "pageType": "content",
+                            "headline": "Seeking Diverse Input",
+                            "body": "Get perspectives from people who see things differently than you do. Fresh eyes often spot what familiar ones miss. But remember\u2014input is data, not decisions. The final choice is still yours.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p12",
+                            "pageType": "content",
+                            "headline": "The Exploration Timeline",
+                            "body": "Set deadlines for your exploration phase. Without time limits, analysis becomes paralysis. Give yourself enough time to investigate thoroughly but not so much that you never move to action.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Documenting Your Findings",
+                            "body": "Keep records of what you discover during exploration. This helps you see patterns and makes future decisions easier. Your past investigations become valuable references for future choices.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-4-p14",
+                            "pageType": "content",
+                            "headline": "From Exploration to Action",
+                            "body": "Exploration without action is just sophisticated procrastination. Once you've identified what matters most, commit to it fully. The purpose of exploration is to enable better execution.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-5",
+                    "title": "Eliminate: Cutting Out the Trivial Many",
+                    "order": 5,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-5-p1",
+                            "pageType": "content",
+                            "headline": "The Courage to Cut",
+                            "body": "Elimination requires courage because it means disappointing people and abandoning good opportunities for great ones. The hardest eliminations aren't the obviously bad things\u2014they're the reasonably good things that prevent you from doing what's essential.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Start with Your Calendar",
+                            "body": "Look at your calendar from the past month. How much time did you spend on activities that truly advanced your most important goals? Be brutally honest about what deserves your time.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p3",
+                            "pageType": "question",
+                            "headline": "What makes elimination difficult for most people?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It requires courage to disappoint others",
+                                    "They lack organizational systems",
+                                    "It takes too much time to decide",
+                                    "They don't understand their priorities"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-5-p4",
+                            "pageType": "question",
+                            "headline": "What should you examine first when eliminating non-essentials?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your email subscription list",
+                                    "Your social media accounts",
+                                    "Your calendar and time usage",
+                                    "Your financial expenses"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-5-p5",
+                            "pageType": "content",
+                            "headline": "The Closet Test",
+                            "body": "Imagine going through your closet. You probably have clothes you never wear but keep 'just in case.' The same principle applies to commitments\u2014eliminate anything you wouldn't choose again if starting fresh.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p6",
+                            "pageType": "question",
+                            "headline": "Which commitments should you eliminate first?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "The most time-consuming ones",
+                                    "The least profitable ones",
+                                    "The most stressful ones",
+                                    "Ones you wouldn't choose again"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Graceful Exit Strategies",
+                            "body": "Plan how you'll exit commitments before you need to. Having exit strategies makes you more selective about what you enter. It's easier to say no upfront than to extract yourself later.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p8",
+                            "pageType": "content",
+                            "headline": "The Replacement Question",
+                            "body": "Before eliminating something, ask what you'll do with that freed-up time and energy. If you don't have a plan, you'll likely fill the space with more non-essentials. Elimination creates opportunity.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p9",
+                            "pageType": "content",
+                            "headline": "Digital Decluttering",
+                            "body": "Your digital life needs elimination too. Unsubscribe from newsletters you don't read. Delete apps you don't use. Turn off notifications that aren't essential. Digital clutter creates mental clutter.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Relationship Pruning",
+                            "body": "Some relationships drain more energy than they provide. This doesn't mean cutting people off harshly\u2014it means being more intentional about where you invest your relational energy. Quality over quantity applies to relationships too.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-5-p11",
+                            "pageType": "question",
+                            "headline": "What should you ask before eliminating something?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "How will others react to this change?",
+                                    "What will I do with the freed time?",
+                                    "Can I delegate this instead of eliminating?",
+                                    "How much money will this decision save?"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-5-p12",
+                            "pageType": "content",
+                            "headline": "Elimination as Liberation",
+                            "body": "Each elimination frees you to focus more deeply on what remains. You're not losing opportunities\u2014you're gaining focus. The goal isn't to have less for the sake of having less, but to make room for what matters most.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-6",
+                    "title": "Execute: Making It Effortless",
+                    "order": 6,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-6-p1",
+                            "pageType": "content",
+                            "headline": "The Effortless Execution",
+                            "body": "Once you've identified what matters and eliminated what doesn't, you need systems to execute effortlessly. The goal isn't to work harder on essential things\u2014it's to make essential things easier to do.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Buffer Against Chaos",
+                            "body": "Build buffers into your schedule and plans. Assume things will take longer than expected and problems will arise. Buffers turn potential stress into manageable challenges.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Remove the Obstacles",
+                            "body": "Identify what makes essential activities hard to do, then systematically remove those barriers. If you want to exercise daily, lay out your workout clothes the night before. Make the right choice the easy choice.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p4",
+                            "pageType": "content",
+                            "headline": "Routine as Freedom",
+                            "body": "Routines aren't restrictive\u2014they're liberating. When essential activities become automatic, you free up mental energy for creative and strategic thinking. Discipline in systems creates freedom in outcomes.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p5",
+                            "pageType": "question",
+                            "headline": "What is the primary goal of essentialist execution?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Working harder on important tasks",
+                                    "Completing more tasks per day",
+                                    "Impressing others with productivity",
+                                    "Making essential things easier"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-6-p6",
+                            "pageType": "content",
+                            "headline": "The Power of Constraints",
+                            "body": "Constraints force creativity and focus. Set artificial limits on time, resources, or options. When you have fewer resources, you naturally focus on what's most important. Abundance can lead to waste.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p7",
+                            "pageType": "content",
+                            "headline": "Minimum Viable Progress",
+                            "body": "Focus on the smallest meaningful progress you can make consistently. A little progress every day compounds into major achievements. Consistency beats intensity over the long term.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p8",
+                            "pageType": "content",
+                            "headline": "Automate the Non-Essential",
+                            "body": "Use technology and systems to handle routine tasks automatically. Pay bills automatically, use email templates for common responses, and create checklists for repeated processes. Automation preserves mental energy.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Progress Over Perfection",
+                            "body": "Perfectionism is a form of procrastination. Done is better than perfect when it comes to essential activities. You can always improve later, but you can't improve what doesn't exist.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-6-p10",
+                            "pageType": "question",
+                            "headline": "Why do buffers improve execution?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They make you look more professional",
+                                    "They turn stress into manageable challenges",
+                                    "They allow for more ambitious goals",
+                                    "They reduce the need for planning"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-6-p11",
+                            "pageType": "question",
+                            "headline": "How do routines create freedom?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They free up mental energy for creativity",
+                                    "They eliminate the need for decision-making",
+                                    "They reduce social obligations",
+                                    "They increase available time each day"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-6-p12",
+                            "pageType": "question",
+                            "headline": "What approach works best for long-term progress?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Consistency beats intensity",
+                                    "Intensity beats consistency",
+                                    "Perfect planning beats quick action",
+                                    "Large changes beat small improvements"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Measuring What Matters",
+                            "body": "Track progress on your essential activities, but keep metrics simple. Complex measurement systems often become distractions themselves. Choose one or two key indicators and monitor them consistently.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-7",
+                    "title": "Living Essentially",
+                    "order": 7,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Productivity Hacks",
+                            "body": "Essentialism isn't another productivity system\u2014it's a way of being. It's about aligning your actions with your deepest values and highest priorities. This creates a life of meaning, not just efficiency.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p2",
+                            "pageType": "content",
+                            "headline": "The Ripple Effect",
+                            "body": "When you live essentially, it affects everyone around you. Your clarity gives others permission to be clear about their priorities. Your boundaries help others establish theirs. Leadership by example is powerful.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p3",
+                            "pageType": "question",
+                            "headline": "What is essentialism fundamentally about?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Maximizing productivity metrics",
+                                    "Aligning actions with values",
+                                    "Earning more money efficiently",
+                                    "Impressing others with focus"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-7-p4",
+                            "pageType": "content",
+                            "headline": "Relationships as Priority",
+                            "body": "Essential living means being fully present with the people who matter most. Quality time isn't about quantity\u2014it's about attention. Put away devices and distractions when connecting with others.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Health as Foundation",
+                            "body": "Your physical and mental health enable everything else. An essentialist protects sleep, exercise, and nutrition like sacred commitments. You can't give what you don't have.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p6",
+                            "pageType": "content",
+                            "headline": "The Essence of Work",
+                            "body": "At work, focus on contributions that only you can make. Find your unique zone of genius and spend most of your time there. Delegate or eliminate everything else.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p7",
+                            "pageType": "question",
+                            "headline": "How does living essentially affect others?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It gives them permission to be clear",
+                                    "It makes them feel guilty about choices",
+                                    "It forces them to change their habits",
+                                    "It creates competitive pressure"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Money and Essentialism",
+                            "body": "More money doesn't solve the essentialism problem\u2014it often makes it worse by creating more options. Focus on having enough to support what's truly important, not on maximizing wealth for its own sake.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Learning and Growth",
+                            "body": "Choose learning opportunities that align with your essential path. Not every skill is worth developing. Focus deeply on capabilities that multiply your effectiveness in areas that matter most.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p10",
+                            "pageType": "content",
+                            "headline": "Leisure and Recovery",
+                            "body": "Rest isn't earned through busyness\u2014it's essential for sustained performance. Plan downtime like you plan work time. Recovery enables the energy you need for what matters most.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p11",
+                            "pageType": "content",
+                            "headline": "Dealing with Guilt",
+                            "body": "You'll feel guilty about saying no and disappointing people. This is normal. Remember that saying no to good things enables you to say yes to great things. Your guilt is temporary; your regrets could be permanent.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p12",
+                            "pageType": "content",
+                            "headline": "The Long View",
+                            "body": "Essential living requires long-term thinking. What seems urgent today might be irrelevant next year. Make decisions based on what you'll be glad you did when looking back from the future.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Celebrating Progress",
+                            "body": "Acknowledge when you make essentialist choices, even small ones. Each time you say no to the non-essential, you're investing in what matters most. These decisions compound over time.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-7-p14",
+                            "pageType": "question",
+                            "headline": "What enables sustained high performance?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Planned rest and recovery",
+                                    "Constant activity and busyness",
+                                    "Competitive pressure from others",
+                                    "Financial incentives and rewards"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-7-p15",
+                            "pageType": "content",
+                            "headline": "Your Essential Life",
+                            "body": "The essentialist life isn't about having less\u2014it's about having better. When you eliminate the trivial many, you create space for the vital few to flourish. This is how you design a life that matters.",
+                            "imageURL": "home",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-8",
+                    "title": "Your Essential Intent Statement",
+                    "order": 8,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Clarity of Purpose",
+                            "body": "An essential intent statement is a one-sentence declaration of what matters most to you. It serves as a filter for decisions and a compass for direction. Without clear intent, you'll drift toward whatever seems urgent.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p2",
+                            "pageType": "content",
+                            "headline": "Beyond Generic Goals",
+                            "body": "Most mission statements are too vague to be useful. 'Be successful' or 'make a difference' don't provide clear direction. Your essential intent must be specific, meaningful, and measurable.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p3",
+                            "pageType": "question",
+                            "headline": "What makes an essential intent statement effective?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It sounds impressive to others",
+                                    "It's specific, meaningful, and measurable",
+                                    "It covers all areas of life completely",
+                                    "It follows proven templates exactly"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-8-p4",
+                            "pageType": "content",
+                            "headline": "The Right Level",
+                            "body": "Your intent should be concrete enough to guide daily decisions but broad enough to remain relevant for years. Think of it as the bridge between your deepest values and your daily actions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p5",
+                            "pageType": "content",
+                            "headline": "Questions for Discovery",
+                            "body": "Ask yourself: What would you regret not doing if you only had one year to live? What legacy do you want to leave? What activities make you lose track of time? Your answers point toward your essential intent.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Testing Your Statement",
+                            "body": "A good essential intent statement helps you make difficult trade-offs. When faced with competing opportunities, your statement should make the right choice obvious. If it doesn't, refine it until it does.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Personal vs. Professional",
+                            "body": "You might need separate intent statements for different life domains, or one overarching statement that encompasses everything. Choose the approach that feels most authentic and useful for your situation.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p8",
+                            "pageType": "content",
+                            "headline": "Living Your Statement",
+                            "body": "Your essential intent statement only matters if you use it. Review it regularly, refer to it when making decisions, and adjust it as you grow and change. It's a living document, not a carved stone.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Examples of Intent",
+                            "body": "Good examples: 'To be fully present with my family every evening' or 'To create products that solve meaningful problems for small businesses.' Notice how these are specific and actionable.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p10",
+                            "pageType": "content",
+                            "headline": "When Others Disagree",
+                            "body": "Your essential intent might not align with others' expectations for your life. That's okay\u2014and often necessary. You can't live someone else's version of success and feel fulfilled.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p11",
+                            "pageType": "content",
+                            "headline": "Evolving Your Intent",
+                            "body": "Your essential intent may change as you grow and learn. Major life events often trigger revisions. Allow your statement to evolve while maintaining its core function as your decision-making filter.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p12",
+                            "pageType": "question",
+                            "headline": "How should you use your essential intent statement?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Share it publicly for accountability",
+                                    "Review it regularly and use for decisions",
+                                    "Keep it private and never modify it",
+                                    "Create multiple versions for different people"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-8-p13",
+                            "pageType": "content",
+                            "headline": "The Decision Filter",
+                            "body": "Every opportunity should pass through your essential intent filter. If something doesn't advance your core purpose, it's probably not worth your time. This simple test eliminates confusion and regret.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-8-p14",
+                            "pageType": "question",
+                            "headline": "What indicates a well-crafted essential intent statement?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It impresses others with its ambition",
+                                    "It covers every possible life scenario",
+                                    "It makes difficult trade-offs obvious",
+                                    "It matches popular success definitions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-8-p15",
+                            "pageType": "content",
+                            "headline": "Your North Star",
+                            "body": "Your essential intent statement becomes your north star\u2014a fixed point of reference in a chaotic world. When you're clear about where you're going, every step becomes more purposeful and powerful.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-9",
+                    "title": "Common Pitfalls and How to Avoid Them",
+                    "order": 9,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-9-p1",
+                            "pageType": "content",
+                            "headline": "The Success Trap",
+                            "body": "Success creates its own problems. As you achieve more, you get more opportunities and requests. Without discipline, success leads to scattered focus and declining performance. Protect your success by staying selective.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p2",
+                            "pageType": "content",
+                            "headline": "People-Pleasing Paralysis",
+                            "body": "The desire to be liked can override good judgment. You say yes to things you should decline because you fear disappointing others. Remember: disappointing some people is inevitable when you're focused on what matters most.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p3",
+                            "pageType": "question",
+                            "headline": "What problem does success often create?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It leads to scattered focus",
+                                    "It reduces motivation to work",
+                                    "It creates financial problems",
+                                    "It damages important relationships"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-9-p4",
+                            "pageType": "question",
+                            "headline": "Why do people struggle with disappointing others?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They lack communication skills",
+                                    "They fear losing social approval",
+                                    "They don't understand consequences",
+                                    "They have low self-confidence"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-9-p5",
+                            "pageType": "content",
+                            "headline": "The Planning Fallacy",
+                            "body": "We consistently underestimate how long things will take and overestimate our available time. This leads to overcommitment and stress. Build in buffers and assume everything will take longer than expected.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p6",
+                            "pageType": "content",
+                            "headline": "Perfectionism as Procrastination",
+                            "body": "Perfectionism often masks fear of judgment or failure. It prevents you from completing important work and shipping valuable contributions. Done well is better than perfect but never finished.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p7",
+                            "pageType": "content",
+                            "headline": "The Shiny Object Syndrome",
+                            "body": "New opportunities always seem more attractive than current commitments. This leads to constantly switching focus and never achieving depth in any area. Resist the urge to chase every interesting possibility.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Social Media Comparison",
+                            "body": "Social media makes everyone else's life look more exciting and successful than yours. This creates FOMO and makes you question your priorities. Limit exposure to these comparison triggers.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p9",
+                            "pageType": "content",
+                            "headline": "The Productivity Trap",
+                            "body": "Being busy isn't the same as being productive. Checking email every five minutes feels productive but advances nothing important. Focus on outcomes, not activity levels.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p10",
+                            "pageType": "question",
+                            "headline": "What drives Shiny Object Syndrome?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lack of financial resources",
+                                    "Poor time management skills",
+                                    "New opportunities seeming better",
+                                    "Pressure from family and friends"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Delegation Difficulties",
+                            "body": "Some people can't delegate because they believe no one else can do things as well as they can. This creates bottlenecks and prevents growth. Good enough by someone else is often better than perfect by you.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-9-p12",
+                            "pageType": "content",
+                            "headline": "Recovery from Mistakes",
+                            "body": "When you realize you've made a non-essential commitment, exit gracefully as soon as possible. Don't compound the mistake by continuing just because you've already invested time or energy.",
+                            "imageURL": "refresh",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-10",
+                    "title": "Decision-Making Frameworks",
+                    "order": 10,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Decision Fatigue Reality",
+                            "body": "Every decision depletes mental energy, even small ones. The more decisions you make, the worse your judgment becomes. Successful essentialists minimize trivial decisions to preserve energy for important ones.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p2",
+                            "pageType": "content",
+                            "headline": "The 90% Rule",
+                            "body": "Rate each opportunity from 0 to 100. If it's not a 90 or above, treat it as a 0. This prevents the 'good enough' trap and ensures you only commit to exceptional opportunities.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p3",
+                            "pageType": "question",
+                            "headline": "What causes decision quality to decline throughout the day?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Lack of available information",
+                                    "Increasing time pressure",
+                                    "Social influence from others",
+                                    "Mental energy depletion from choices"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-10-p4",
+                            "pageType": "content",
+                            "headline": "The Opportunity Cost Question",
+                            "body": "For every yes, ask 'What am I saying no to?' This makes trade-offs visible and helps you choose between good options. The true cost of any decision isn't just what you pay\u2014it's what you give up.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Sleep on Big Decisions",
+                            "body": "Important decisions deserve time for reflection. Your subconscious processes information while you sleep, often leading to clearer insights the next day. Urgency is rarely as urgent as it seems.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p6",
+                            "pageType": "content",
+                            "headline": "The Regret Minimization Framework",
+                            "body": "When facing tough choices, imagine yourself at age 80 looking back. What decision will you be least likely to regret? This long-term perspective cuts through short-term emotional noise.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p7",
+                            "pageType": "content",
+                            "headline": "Pre-Commitment Strategies",
+                            "body": "Make decisions once and apply them automatically. If you decide to exercise every morning, you don't re-decide each day\u2014you just do it. Pre-commitment reduces decision fatigue.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p8",
+                            "pageType": "content",
+                            "headline": "The Reversibility Test",
+                            "body": "Some decisions are reversible, others aren't. Spend more time on irreversible decisions and move quickly on reversible ones. Don't let small reversible decisions slow down important progress.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p9",
+                            "pageType": "content",
+                            "headline": "Values-Based Filtering",
+                            "body": "Create a short list of your core values and use them as decision filters. If an opportunity aligns with your values and advances your essential intent, it passes the first test. If not, it's an automatic no.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p10",
+                            "pageType": "content",
+                            "headline": "The Energy Audit",
+                            "body": "Consider not just time requirements but energy requirements. Some activities energize you while others drain you, even if they take the same amount of time. Choose energy-giving activities when possible.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p11",
+                            "pageType": "question",
+                            "headline": "What question reveals the true cost of decisions?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "How much will this cost me?",
+                                    "What will others think about this?",
+                                    "What am I saying no to?",
+                                    "How long will this take me?"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Decision Templates",
+                            "body": "Create templates for common decision types. For meetings: Does this advance a key priority? For purchases: Will I still value this in a year? Templates speed up routine choices and improve consistency.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-10-p13",
+                            "pageType": "content",
+                            "headline": "The Power of Default Options",
+                            "body": "Set up your environment so the right choice is the default choice. If you want to read more, place books by your bed and keep your phone in another room. Good defaults create good outcomes.",
+                            "imageURL": "home",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-11",
+                    "title": "Energy Management Over Time Management",
+                    "order": 11,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Time Management",
+                            "body": "Time management assumes all hours are equal. They're not. Your energy levels fluctuate throughout the day, making some hours far more valuable than others. Manage your energy, not just your time.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Your Energy Rhythms",
+                            "body": "Most people have predictable energy patterns. Some are sharp in the morning, others peak in the afternoon. Track your energy for a week to identify your patterns, then protect your high-energy times.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p3",
+                            "pageType": "content",
+                            "headline": "The Four Types of Energy",
+                            "body": "Physical energy comes from sleep, nutrition, and exercise. Emotional energy comes from positive relationships and meaningful work. Mental energy comes from focus and learning. Spiritual energy comes from purpose and values.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p4",
+                            "pageType": "question",
+                            "headline": "What assumption does traditional time management make?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "All people work at the same pace",
+                                    "Technology can solve scheduling problems",
+                                    "More hours equals more productivity",
+                                    "All hours have equal value"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Protecting Peak Hours",
+                            "body": "Schedule your most important work during your highest-energy periods. Don't waste peak hours on email, meetings, or routine tasks. These golden hours are your most valuable resource.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p6",
+                            "pageType": "content",
+                            "headline": "Energy Drains vs. Gains",
+                            "body": "Certain activities consistently drain your energy while others restore it. Identify your personal energy drains and gains. Minimize drains and maximize gains to maintain higher baseline energy.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p7",
+                            "pageType": "question",
+                            "headline": "How should you use your peak energy hours?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "For your most important work",
+                                    "For responding to emails quickly",
+                                    "For routine administrative tasks",
+                                    "For social media and entertainment"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-11-p8",
+                            "pageType": "content",
+                            "headline": "The Power of Breaks",
+                            "body": "Regular breaks aren't time wasted\u2014they're energy invested. Short breaks throughout the day maintain performance levels. Longer breaks on weekends and vacations restore depleted reserves.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Sleep as Investment",
+                            "body": "Sleep isn't time lost\u2014it's performance gained. Quality sleep improves decision-making, creativity, and emotional regulation. Prioritize sleep like you would any other essential investment.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p10",
+                            "pageType": "content",
+                            "headline": "Nutrition for Focus",
+                            "body": "What you eat affects how you think. Stable blood sugar leads to stable energy and focus. Avoid energy spikes and crashes by eating balanced meals and healthy snacks.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Exercise as Fuel",
+                            "body": "Physical exercise creates mental energy. Regular movement improves cognitive function, mood, and stress resilience. Even short walks can restore mental clarity and creative thinking.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Emotional Energy Management",
+                            "body": "Positive emotions create energy while negative emotions drain it. Spend time with people who energize you. Engage in work that feels meaningful. Celebrate small wins to maintain motivation.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-12",
+                    "title": "The Art of Subtraction",
+                    "order": 12,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-12-p1",
+                            "pageType": "content",
+                            "headline": "Addition vs. Subtraction",
+                            "body": "Most people default to addition\u2014adding more activities, commitments, and possessions. Essentialists master subtraction\u2014removing what doesn't serve them. Subtraction often creates more value than addition.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p2",
+                            "pageType": "content",
+                            "headline": "The Paradox of Choice",
+                            "body": "More options don't always lead to better outcomes. Too many choices can paralyze decision-making and reduce satisfaction with chosen options. Sometimes the best choice is to have fewer choices.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p3",
+                            "pageType": "question",
+                            "headline": "What do most people default to when trying to improve?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Subtracting unnecessary elements",
+                                    "Reorganizing existing commitments",
+                                    "Seeking advice from experts",
+                                    "Adding more activities"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-12-p4",
+                            "pageType": "question",
+                            "headline": "What often creates more value than addition?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Strategic subtraction",
+                                    "Careful planning",
+                                    "Working harder",
+                                    "Better organization"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Digital Minimalism",
+                            "body": "Your digital life needs curation just like your physical life. Uninstall apps you don't use regularly. Unsubscribe from newsletters that don't add value. Turn off non-essential notifications.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p6",
+                            "pageType": "question",
+                            "headline": "How do too many choices affect decision-making?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They improve outcome satisfaction",
+                                    "They can paralyze decisions",
+                                    "They reduce time requirements",
+                                    "They increase confidence levels"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-12-p7",
+                            "pageType": "content",
+                            "headline": "The 80/20 Principle",
+                            "body": "Roughly 80% of your results come from 20% of your efforts. Identify which activities produce the most value, then eliminate or minimize everything else. Focus on your vital few.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Physical Space Matters",
+                            "body": "Cluttered spaces create cluttered minds. Your environment affects your ability to focus and think clearly. Remove physical clutter to create mental clarity and reduce decision fatigue.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p9",
+                            "pageType": "content",
+                            "headline": "The One-Touch Rule",
+                            "body": "Handle each item only once when possible. When you pick up an email, either respond, delete, or file it immediately. Don't just move things around\u2014make decisions and take action.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Subtracting Relationships",
+                            "body": "Some relationships drain more energy than they provide. This doesn't mean cutting people off harshly, but being more intentional about where you invest your social energy. Quality over quantity applies here too.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p11",
+                            "pageType": "question",
+                            "headline": "According to the 80/20 principle, what should you focus on?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Completing all tasks efficiently",
+                                    "The vital few high-value activities",
+                                    "Improving your weakest skills",
+                                    "Meeting everyone's expectations"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Saying No to Good Things",
+                            "body": "The hardest subtractions aren't obviously bad things\u2014they're good things that prevent you from doing great things. Learn to say no to good opportunities so you can say yes to exceptional ones.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p13",
+                            "pageType": "content",
+                            "headline": "The Editing Mindset",
+                            "body": "Think like an editor of your own life. Editors don't just add content\u2014they cut ruthlessly to make the remaining content stronger. What would your life look like if you edited it like a masterpiece?",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p14",
+                            "pageType": "content",
+                            "headline": "Creating Space for Serendipity",
+                            "body": "When you subtract non-essentials, you create space for unexpected opportunities and insights to emerge. These serendipitous moments often provide the most value but require open space to occur.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-12-p15",
+                            "pageType": "content",
+                            "headline": "Less but Better",
+                            "body": "Subtraction isn't about having less for the sake of having less\u2014it's about making room for what matters most to flourish. When you remove the trivial many, the vital few can reach their full potential.",
+                            "imageURL": "minimal",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-13",
+                    "title": "Boundaries and Buffer Time",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Boundaries as Protection",
+                            "body": "Boundaries aren't walls to keep people out\u2014they're filters to let the right things in. Without clear boundaries, your time and energy get consumed by whatever seems most urgent or demanding.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p2",
+                            "pageType": "content",
+                            "headline": "The Cost of Availability",
+                            "body": "Being constantly available to everyone means being truly available to no one, including yourself. Constant interruptions fragment your focus and prevent deep work on what matters most.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Time Boundaries",
+                            "body": "Protect specific times for your most important work. This might mean not checking email before 10 AM or blocking out afternoons for creative projects. Communicate these boundaries clearly to others.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Communication Boundaries",
+                            "body": "Choose when and how you're available for communication. Set expectations about response times. Not every email needs an immediate reply, and not every phone call needs to be answered.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p5",
+                            "pageType": "question",
+                            "headline": "What is the purpose of healthy boundaries?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To avoid all social interactions",
+                                    "To filter and let right things in",
+                                    "To appear more important to others",
+                                    "To reduce workload completely"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-13-p6",
+                            "pageType": "content",
+                            "headline": "The Buffer Zone",
+                            "body": "Build buffers into your schedule\u2014empty spaces between commitments. Buffers absorb unexpected delays and give you time to transition between activities. They turn potential stress into manageable challenges.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p7",
+                            "pageType": "content",
+                            "headline": "Energy Boundaries",
+                            "body": "Protect your energy like you protect your money. Some people and activities consistently drain your energy while others restore it. Be intentional about where you invest your emotional resources.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p8",
+                            "pageType": "content",
+                            "headline": "The Planning Buffer",
+                            "body": "Always assume things will take longer than expected. Add 25-50% extra time to your estimates. This buffer prevents the cascade effect where one delay ruins your entire day.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Physical Space Boundaries",
+                            "body": "Create physical spaces that support your essential work. This might be a dedicated workspace, a reading corner, or even just keeping your phone in another room. Your environment shapes your behavior.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p10",
+                            "pageType": "content",
+                            "headline": "Saying No Without Guilt",
+                            "body": "Boundaries require saying no, and saying no can trigger guilt. Remember that every yes to something non-essential is a no to something essential. Your guilt about boundaries is temporary; your regret about lack of boundaries is permanent.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-13-p11",
+                            "pageType": "question",
+                            "headline": "How much extra time should you add to estimates?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "10-15% for small delays",
+                                    "25-50% for unexpected issues",
+                                    "Double the time for safety",
+                                    "No buffer needed with good planning"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Gradual Boundary Implementation",
+                            "body": "Don't try to implement all boundaries at once. Start with small, manageable changes and gradually expand them. People need time to adjust to your new boundaries, and so do you.",
+                            "imageURL": "chart",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-14",
+                    "title": "Essentialist Leadership",
+                    "order": 14,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Leading by Example",
+                            "body": "The best way to influence others toward essentialism is through your own behavior. When people see the calm focus and clear priorities that come from essentialist thinking, they naturally become curious about your approach.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Creating Team Clarity",
+                            "body": "Help your team identify their essential priorities and eliminate non-essential activities. Most teams are overwhelmed because they try to do everything. Great leaders help teams focus on what matters most.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p3",
+                            "pageType": "question",
+                            "headline": "How do you best influence others toward essentialism?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By telling them what to do",
+                                    "Through your own behavior",
+                                    "By giving them books to read",
+                                    "Through formal training programs"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-14-p4",
+                            "pageType": "question",
+                            "headline": "Why are most teams overwhelmed?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They lack proper tools and resources",
+                                    "They try to do everything",
+                                    "They don't communicate well",
+                                    "They have unrealistic deadlines"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Permission to Say No",
+                            "body": "Give your team explicit permission to say no to non-essential requests. Create psychological safety around declining activities that don't advance key priorities. Model this behavior yourself.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p6",
+                            "pageType": "content",
+                            "headline": "The One-Thing Question",
+                            "body": "In meetings and planning sessions, ask 'If we could only do one thing, what would it be?' This forces prioritization and prevents the common trap of trying to accomplish too much at once.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p7",
+                            "pageType": "content",
+                            "headline": "Protecting Team Energy",
+                            "body": "Shield your team from unnecessary meetings, emails, and interruptions. Your job as a leader is to create space for your team to do their best work, not to fill their calendars with activities.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p8",
+                            "pageType": "content",
+                            "headline": "Celebrating Subtraction",
+                            "body": "Recognize and celebrate when team members eliminate non-essential activities or say no to good but non-essential opportunities. What gets rewarded gets repeated.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p9",
+                            "pageType": "content",
+                            "headline": "Systems Over Heroes",
+                            "body": "Don't rely on individuals working heroic hours to get things done. Build systems that make essential work easier and eliminate the need for constant crisis management. Sustainable performance beats heroic efforts.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p10",
+                            "pageType": "content",
+                            "headline": "Long-term Thinking",
+                            "body": "Help your team think beyond immediate pressures and deadlines. What capabilities need to be built for long-term success? What investments in essential areas will pay dividends later?",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p11",
+                            "pageType": "content",
+                            "headline": "The Courage to Disappoint",
+                            "body": "Leaders often face pressure to say yes to everything and please everyone. Essentialist leaders have the courage to disappoint some people in service of what matters most to the organization.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-14-p12",
+                            "pageType": "content",
+                            "headline": "Leading Through Questions",
+                            "body": "Instead of providing all the answers, ask questions that help people discover essentialist principles themselves. 'What would this look like if it were easy?' 'What's the one thing that would make everything else easier?'",
+                            "imageURL": "notes",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-15",
+                    "title": "Relationships and Essentialism",
+                    "order": 15,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Quality Over Quantity",
+                            "body": "Essentialist relationships prioritize depth over breadth. Instead of trying to maintain hundreds of superficial connections, focus on cultivating meaningful relationships with people who truly matter to you.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Presence as a Gift",
+                            "body": "The most valuable thing you can give someone is your full attention. When you're with people you care about, be fully present. Put away devices and distractions. This kind of presence is increasingly rare and precious.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Energy Vampires",
+                            "body": "Some people consistently drain your energy through negativity, drama, or endless demands. While you can't cut everyone off, you can limit your exposure and protect your energy for relationships that give back.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p4",
+                            "pageType": "content",
+                            "headline": "Saying No to Social Pressure",
+                            "body": "You don't have to attend every social gathering or respond to every invitation. Choose social activities that align with your values and energize you. It's better to be fully present at fewer events.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p5",
+                            "pageType": "question",
+                            "headline": "What should essentialist relationships prioritize?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Having many casual acquaintances",
+                                    "Depth over breadth of connections",
+                                    "Professional networking opportunities",
+                                    "Social media follower counts"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Difficult Conversations",
+                            "body": "Essentialist relationships require honest communication about boundaries and priorities. Have difficult conversations early before resentment builds. Most people respect honesty more than they resent boundaries.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p7",
+                            "pageType": "content",
+                            "headline": "Family as Priority",
+                            "body": "Family relationships often get shortchanged because we take them for granted. Apply essentialist principles to family time\u2014be fully present, create meaningful traditions, and protect family time from other demands.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p8",
+                            "pageType": "question",
+                            "headline": "What is the most valuable gift you can give someone?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your full attention and presence",
+                                    "Expensive gifts and experiences",
+                                    "Professional advice and guidance",
+                                    "Social media engagement"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-15-p9",
+                            "pageType": "question",
+                            "headline": "How should you handle people who drain your energy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Limit exposure and protect your energy",
+                                    "Try to change their negative behavior",
+                                    "Avoid them completely in all situations",
+                                    "Increase time with them to help"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-15-p10",
+                            "pageType": "content",
+                            "headline": "The Investment Mindset",
+                            "body": "Think of relationships as investments, not transactions. Invest time and energy in relationships that compound over time. These deep connections provide support, joy, and meaning that surface-level interactions never can.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Mutual Benefit",
+                            "body": "The best relationships benefit both people. Look for relationships where you can give and receive value. One-sided relationships eventually become unsustainable and resentful.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Creating Relationship Boundaries",
+                            "body": "Healthy relationships have healthy boundaries. Be clear about your availability, priorities, and limits. This actually strengthens relationships by preventing burnout and resentment.",
+                            "imageURL": "shield",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-16",
+                    "title": "Technology and Digital Essentialism",
+                    "order": 16,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-16-p1",
+                            "pageType": "content",
+                            "headline": "Technology as Tool",
+                            "body": "Technology should serve your essential priorities, not determine them. Most people let their devices and apps dictate how they spend their time. Essentialists choose technologies that support their most important goals.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p2",
+                            "pageType": "content",
+                            "headline": "The Attention Economy",
+                            "body": "Tech companies profit from your attention. Apps are designed to be addictive, using psychological triggers to keep you engaged. Recognizing these manipulation tactics is the first step to resisting them.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p3",
+                            "pageType": "content",
+                            "headline": "Notification Bankruptcy",
+                            "body": "Turn off all non-essential notifications. Every ping, buzz, or pop-up fragments your attention and breaks your flow. Most notifications can wait\u2014true emergencies will find another way to reach you.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p4",
+                            "pageType": "question",
+                            "headline": "What should determine how you use technology?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your essential priorities",
+                                    "Popular trends and features",
+                                    "What others expect from you",
+                                    "Available free time"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-16-p5",
+                            "pageType": "content",
+                            "headline": "Social Media Strategy",
+                            "body": "If you use social media, use it intentionally. Choose specific times to check it rather than scrolling mindlessly throughout the day. Unfollow accounts that don't add value to your life.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p6",
+                            "pageType": "content",
+                            "headline": "Email Boundaries",
+                            "body": "Don't check email first thing in the morning or last thing at night. Set specific times for email processing. Use filters and folders to automatically organize messages. Respond to emails in batches for efficiency.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p7",
+                            "pageType": "content",
+                            "headline": "The Phone-Free Zone",
+                            "body": "Create phone-free zones in your home and schedule. This might be the bedroom, dining room, or first hour of your morning. These spaces allow for deeper thinking, better sleep, and meaningful connections.",
+                            "imageURL": "home",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p8",
+                            "pageType": "content",
+                            "headline": "App Audit",
+                            "body": "Regularly review the apps on your devices. Delete ones you haven't used in a month. Keep only apps that serve a clear, essential purpose. Your phone should be a tool, not an entertainment center.",
+                            "imageURL": "trash",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p9",
+                            "pageType": "content",
+                            "headline": "Digital Sabbath",
+                            "body": "Consider taking regular breaks from technology\u2014perhaps one day per week or a few hours each day. These digital sabbaths restore your ability to focus and think deeply without constant digital stimulation.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-16-p10",
+                            "pageType": "question",
+                            "headline": "How do tech companies profit from users?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "By selling premium features",
+                                    "By charging monthly subscription fees",
+                                    "By collecting and selling data",
+                                    "By capturing and selling attention"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-16-p11",
+                            "pageType": "question",
+                            "headline": "What should you do with non-essential notifications?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Set them to vibrate only",
+                                    "Turn them off completely",
+                                    "Check them once per hour",
+                                    "Respond to them immediately"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-16-p12",
+                            "pageType": "question",
+                            "headline": "How often should you audit your apps?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Regularly, deleting unused ones",
+                                    "Only when storage is full",
+                                    "Once per year maximum",
+                                    "Never, since they're useful"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-16-p13",
+                            "pageType": "content",
+                            "headline": "Mindful Consumption",
+                            "body": "Be intentional about what digital content you consume. Choose high-quality books, articles, and videos that align with your goals. Avoid mindless consumption of low-value content that clutters your mind.",
+                            "imageURL": "brain",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "essentialism-1-17",
+                    "title": "Sustaining Your Essentialist Practice",
+                    "order": 17,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "essentialism-1-17-p1",
+                            "pageType": "content",
+                            "headline": "The Long Game",
+                            "body": "Essentialism is a lifelong practice, not a one-time fix. The benefits compound over time, but only if you consistently apply the principles. Think of it as a muscle that gets stronger with regular use.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p2",
+                            "pageType": "content",
+                            "headline": "Expect Resistance",
+                            "body": "Others may resist your essentialist choices. They might call you selfish for saying no or lazy for not staying busy. This resistance is normal and often indicates you're making progress.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p3",
+                            "pageType": "content",
+                            "headline": "The Drift Back",
+                            "body": "It's natural to drift back toward non-essential activities over time. Old habits and social pressures pull you toward your previous patterns. Regular review and course correction prevent this drift.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p4",
+                            "pageType": "content",
+                            "headline": "Weekly Review Ritual",
+                            "body": "Schedule a weekly review to assess your priorities and progress. What worked well? What didn't? What adjustments do you need to make? This regular checkup keeps you aligned with what matters most.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p5",
+                            "pageType": "content",
+                            "headline": "Finding Your Tribe",
+                            "body": "Surround yourself with people who support your essentialist choices. Find others who value depth over breadth, quality over quantity. Their support makes it easier to resist social pressure to be busy.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p6",
+                            "pageType": "content",
+                            "headline": "Celebrating Small Wins",
+                            "body": "Acknowledge every time you make an essentialist choice, no matter how small. Each 'no' to the non-essential is a 'yes' to what matters. These small decisions compound into major life changes.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p7",
+                            "pageType": "question",
+                            "headline": "What prevents drift back to old patterns?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Perfect initial implementation",
+                                    "Regular review and course correction",
+                                    "Avoiding all social pressures",
+                                    "Having a detailed master plan"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-17-p8",
+                            "pageType": "content",
+                            "headline": "Learning from Setbacks",
+                            "body": "When you slip back into non-essential activities, don't judge yourself harshly. Analyze what happened and why. Use setbacks as learning opportunities to strengthen your essentialist practice.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p9",
+                            "pageType": "content",
+                            "headline": "Evolving Your Practice",
+                            "body": "Your essential priorities will change as you grow and your circumstances change. What was essential in your twenties might not be essential in your forties. Allow your practice to evolve while maintaining the core principles.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p10",
+                            "pageType": "content",
+                            "headline": "Teaching Others",
+                            "body": "One of the best ways to reinforce your own learning is to teach others. Share essentialist principles with friends, family, or colleagues. Teaching deepens your understanding and creates accountability.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p11",
+                            "pageType": "question",
+                            "headline": "How should you handle resistance from others?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Argue with them about your choices",
+                                    "Recognize it as normal progress",
+                                    "Abandon essentialist principles",
+                                    "Cut off all resistant people"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "essentialism-1-17-p12",
+                            "pageType": "content",
+                            "headline": "The Compound Effect",
+                            "body": "Essentialist choices compound over time like interest in a savings account. Small, consistent choices to focus on what matters most create enormous long-term benefits that aren't immediately visible.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p13",
+                            "pageType": "content",
+                            "headline": "Your Essential Legacy",
+                            "body": "Ultimately, essentialism is about designing a life that matters. When you focus on the vital few instead of the trivial many, you create something meaningful\u2014both for yourself and for the world.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p14",
+                            "pageType": "content",
+                            "headline": "The Ripple Effect",
+                            "body": "Your essentialist choices create ripples that extend far beyond your own life. They give others permission to focus on what matters to them. You become a model of intentional living in a world that desperately needs it.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "essentialism-1-17-p15",
+                            "pageType": "content",
+                            "headline": "The Journey Continues",
+                            "body": "This course ends, but your essentialist journey continues. Keep exploring, eliminating, and executing. Keep asking what truly matters and having the courage to pursue it. The world needs your essential contribution.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.3,
+    "tag": "Popular"
+}

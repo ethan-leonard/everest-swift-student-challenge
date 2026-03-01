@@ -1,0 +1,2194 @@
+{
+    "id": "crypto_for_normies",
+    "title": "Crypto for Normies",
+    "description": "Blockchain explained in plain English. Understand Bitcoin, Ethereum, and the future of money without the jargon.",
+    "category": "Wealth",
+    "imageURL": "https://storage.googleapis.com/everest-prod-6e022.firebasestorage.app/covers/crypto_for_normies.png",
+    "coverImagePrompt": "Premium editorial flat vector art, abstract blockchain chain links transforming into accessible everyday objects, sage green modern finance with charcoal traditional elements, democratized technology aesthetic",
+    "altitude": 4200,
+    "durationMinutes": 96,
+    "whatsInside": [
+        "Understand what blockchain actually is without technical jargon",
+        "Learn why Bitcoin was created and the problem it solves",
+        "Explore smart contracts and decentralized applications",
+        "Make informed decisions about crypto without the hype",
+        "Master safe storage and security practices",
+        "Navigate market cycles and avoid scams"
+    ],
+    "expertReview": {
+        "quote": "Finally, a crypto explanation that does not require an engineering degree. Clear, balanced, and genuinely educational.",
+        "name": "Lex Fridman",
+        "title": "MIT Research Scientist & Podcaster"
+    },
+    "chapters": [
+        {
+            "id": "crypto_for_normies-ch1",
+            "title": "Understanding Cryptocurrency",
+            "order": 1,
+            "lessons": [
+                {
+                    "id": "crypto_for_normies-1-1",
+                    "title": "What is a Blockchain?",
+                    "order": 1,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-1-p1",
+                            "pageType": "content",
+                            "headline": "Digital Ledger Revolution",
+                            "body": "A blockchain is like a digital notebook that everyone can see but nobody can erase. Instead of one person keeping track of transactions, thousands of computers around the world maintain identical copies. This creates a system where cheating becomes nearly impossible.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p2",
+                            "pageType": "content",
+                            "headline": "Blocks of Information",
+                            "body": "Think of each 'block' as a page in this special notebook. Every page contains a list of transactions and a unique fingerprint called a hash. When a page fills up, it gets sealed forever and a new page begins.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p3",
+                            "pageType": "content",
+                            "headline": "The Chain Connection",
+                            "body": "Each new block references the previous one, creating an unbreakable chain. If someone tries to change an old transaction, the fingerprint changes and everyone notices. This makes fraud virtually impossible without controlling the majority of computers.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p4",
+                            "pageType": "content",
+                            "headline": "No Single Authority",
+                            "body": "Traditional banks control your account balance from one central location. Blockchain spreads this control across thousands of participants worldwide. No single entity can freeze accounts, create money out of thin air, or manipulate records.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p5",
+                            "pageType": "question",
+                            "headline": "What makes blockchain secure?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Distributed across many computers",
+                                    "Uses advanced encryption only",
+                                    "Controlled by governments",
+                                    "Backed by gold reserves"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p6",
+                            "pageType": "content",
+                            "headline": "Transparency and Privacy",
+                            "body": "Every transaction on a blockchain is visible to everyone, but personal identities remain hidden behind wallet addresses. You can see that 1ABC...XYZ sent 5 coins to 1DEF...UVW, but you don't know who owns these addresses.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p7",
+                            "pageType": "question",
+                            "headline": "How does blockchain handle privacy?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "All transactions are completely private",
+                                    "Names are public but amounts are hidden",
+                                    "Transactions are visible but identities hidden",
+                                    "Only banks can see transaction details"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p8",
+                            "pageType": "content",
+                            "headline": "Mining and Validation",
+                            "body": "Special participants called miners use powerful computers to validate transactions and create new blocks. They compete to solve complex puzzles, and the winner gets rewarded with new cryptocurrency. This process keeps the network secure and running.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p9",
+                            "pageType": "content",
+                            "headline": "Energy and Environmental Impact",
+                            "body": "Bitcoin's mining process consumes significant electricity, leading to environmental concerns. However, many newer blockchains use more efficient methods that require 99% less energy. The technology is rapidly evolving to become more sustainable.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p10",
+                            "pageType": "question",
+                            "headline": "What do miners receive for their work?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Physical gold coins",
+                                    "Government certificates",
+                                    "New cryptocurrency tokens",
+                                    "Bank account deposits"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p11",
+                            "pageType": "content",
+                            "headline": "Beyond Digital Money",
+                            "body": "While cryptocurrency was blockchain's first application, the technology enables much more. Smart contracts, digital identity, supply chain tracking, and voting systems all benefit from blockchain's transparency and immutability.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p12",
+                            "pageType": "content",
+                            "headline": "Different Types of Blockchains",
+                            "body": "Public blockchains like Bitcoin are open to everyone. Private blockchains restrict access to specific organizations. Consortium blockchains allow a group of organizations to share control while maintaining some restrictions.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p13",
+                            "pageType": "content",
+                            "headline": "Speed and Scalability Challenges",
+                            "body": "Traditional payment systems process thousands of transactions per second, while early blockchains handle far fewer. This creates delays and higher costs during busy periods. Newer solutions are addressing these limitations through various innovations.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p14",
+                            "pageType": "content",
+                            "headline": "The Trust Revolution",
+                            "body": "Blockchain replaces trust in institutions with trust in mathematics and code. Instead of believing a bank will honor your balance, you can verify it yourself on the blockchain. This shift could transform how we handle money, contracts, and digital ownership.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-1-p15",
+                            "pageType": "content",
+                            "headline": "Getting Started Understanding",
+                            "body": "You don't need to understand every technical detail to use blockchain technology. Focus on the core concept: it's a shared, unchangeable record that no single party controls. This foundation will help you navigate the crypto world with confidence.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-2",
+                    "title": "Digital Money Basics",
+                    "order": 2,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-2-p1",
+                            "pageType": "content",
+                            "headline": "Money Throughout History",
+                            "body": "Money has evolved from shells and stones to metal coins, then paper bills, and now digital entries in bank computers. Each evolution made transactions easier and more efficient. Cryptocurrency represents the next step in this progression.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p2",
+                            "pageType": "content",
+                            "headline": "What Makes Money Valuable",
+                            "body": "Money needs three key properties: it stores value over time, serves as a medium of exchange, and acts as a unit of account. Gold worked because it was scarce, durable, and divisible. Paper money worked because governments backed it.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p3",
+                            "pageType": "question",
+                            "headline": "What are the three properties of money?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Heavy, shiny, and expensive",
+                                    "Government issued, paper, and digital",
+                                    "Store value, exchange, unit account",
+                                    "Rare, beautiful, and transportable"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p4",
+                            "pageType": "content",
+                            "headline": "The Digital Money Problem",
+                            "body": "Digital files can be copied infinitely, making them poor money. If you could copy a digital dollar like copying a photo, it would become worthless. This 'double spending' problem prevented digital money until blockchain solved it.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p5",
+                            "pageType": "content",
+                            "headline": "Cryptocurrency's Innovation",
+                            "body": "Cryptocurrency solves double spending without requiring a central authority like a bank. The blockchain network collectively tracks who owns what, preventing anyone from spending the same coin twice. This creates digital scarcity for the first time.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p6",
+                            "pageType": "content",
+                            "headline": "Programmable Money Features",
+                            "body": "Unlike physical cash, cryptocurrency can be programmed with rules. You can create money that unlocks at a specific date, splits automatically between recipients, or requires multiple signatures to spend. This programmability opens new possibilities.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p7",
+                            "pageType": "content",
+                            "headline": "Global and Borderless",
+                            "body": "Traditional money transfers across countries involve banks, exchange rates, and waiting periods. Cryptocurrency moves globally as easily as sending an email. You can send value to anyone with internet access, regardless of banking infrastructure.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p8",
+                            "pageType": "content",
+                            "headline": "Always On System",
+                            "body": "Banks close on weekends and holidays, but cryptocurrency networks operate 24/7. Transactions process continuously without requiring human operators or business hours. This constant availability serves a global economy that never sleeps.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p9",
+                            "pageType": "content",
+                            "headline": "Inflation and Monetary Policy",
+                            "body": "Central banks can print more traditional money, potentially decreasing its value through inflation. Many cryptocurrencies have fixed supply limits built into their code. Bitcoin, for example, will never exceed 21 million coins.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p10",
+                            "pageType": "question",
+                            "headline": "How does cryptocurrency prevent inflation?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Government price controls",
+                                    "Bank interest rate adjustments",
+                                    "Gold backing requirements",
+                                    "Fixed supply limits in code"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p11",
+                            "pageType": "question",
+                            "headline": "What problem did blockchain solve for digital money?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Making it look more attractive",
+                                    "Reducing transaction processing time",
+                                    "Eliminating government oversight",
+                                    "Preventing double spending copies"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-2-p12",
+                            "pageType": "content",
+                            "headline": "The Future of Money",
+                            "body": "Digital money represents a fundamental shift toward programmable, global, and decentralized value transfer. While traditional money will likely persist, cryptocurrency offers new tools for financial innovation. Understanding both systems helps you navigate this transition.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-3",
+                    "title": "Bitcoin and Digital Gold",
+                    "order": 3,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-3-p1",
+                            "pageType": "content",
+                            "headline": "The Genesis of Bitcoin",
+                            "body": "Bitcoin launched in 2009 as the world's first successful cryptocurrency. Created by the mysterious Satoshi Nakamoto, it aimed to create peer-to-peer electronic cash without banks or governments. The first transaction bought two pizzas for 10,000 Bitcoin.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p2",
+                            "pageType": "content",
+                            "headline": "Why Digital Gold",
+                            "body": "Bitcoin shares key properties with gold: scarcity, durability, and independence from government control. However, Bitcoin improves on gold by being easily divisible, instantly transferable globally, and impossible to counterfeit. This earned it the 'digital gold' nickname.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p3",
+                            "pageType": "question",
+                            "headline": "Why is Bitcoin called digital gold?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "It's yellow and shiny on screen",
+                                    "Shares scarcity and value properties",
+                                    "Contains actual gold particles",
+                                    "Backed by gold reserves"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p4",
+                            "pageType": "content",
+                            "headline": "The 21 Million Limit",
+                            "body": "Bitcoin's code permanently caps the total supply at 21 million coins. No government, company, or individual can create more Bitcoin beyond this limit. This mathematical scarcity mimics precious metals and contrasts sharply with fiat currencies that can be printed endlessly.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p5",
+                            "pageType": "content",
+                            "headline": "Halving Events",
+                            "body": "Every four years, Bitcoin mining rewards cut in half through programmed 'halving' events. This gradually reduces new Bitcoin creation, making it increasingly scarce over time. The next halving occurs around 2028, further constraining supply.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p6",
+                            "pageType": "content",
+                            "headline": "Store of Value Debate",
+                            "body": "Bitcoin's price volatility challenges its role as a stable store of value. However, over longer time periods, it has preserved and grown wealth despite short-term fluctuations. Many investors view this volatility as the price of early adoption.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p7",
+                            "pageType": "content",
+                            "headline": "Institutional Adoption",
+                            "body": "Major corporations like Tesla, MicroStrategy, and Square have added Bitcoin to their balance sheets. Investment firms offer Bitcoin funds, and some countries accept it as legal tender. This institutional adoption validates Bitcoin's role as a legitimate asset.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p8",
+                            "pageType": "content",
+                            "headline": "Bitcoin as Hedge",
+                            "body": "Some investors use Bitcoin to hedge against inflation and currency debasement. When governments print more money, Bitcoin's fixed supply could theoretically preserve purchasing power. However, this relationship remains unproven during various economic conditions.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p9",
+                            "pageType": "question",
+                            "headline": "What happens during Bitcoin halving events?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Mining rewards reduce by half",
+                                    "Transaction fees double",
+                                    "Network speed increases",
+                                    "New features get added"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p10",
+                            "pageType": "content",
+                            "headline": "Energy Consumption Concerns",
+                            "body": "Bitcoin mining consumes substantial electricity, generating environmental criticism. However, mining increasingly uses renewable energy sources, and the network's security justifies this energy use according to supporters. The debate continues as the technology evolves.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p11",
+                            "pageType": "content",
+                            "headline": "Bitcoin's Network Effects",
+                            "body": "As more people adopt Bitcoin, it becomes more valuable and useful. This creates a positive feedback loop where adoption drives value, which attracts more adoption. Network effects make Bitcoin increasingly difficult to replace or compete against.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p12",
+                            "pageType": "content",
+                            "headline": "Divisibility and Satoshis",
+                            "body": "Each Bitcoin divides into 100 million smaller units called satoshis, named after Bitcoin's creator. This extreme divisibility means Bitcoin can function as currency even if individual Bitcoin become very valuable. You can buy coffee with a few thousand satoshis.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p13",
+                            "pageType": "content",
+                            "headline": "Global Settlement Layer",
+                            "body": "Bitcoin functions as a global settlement layer, similar to how central banks settle payments between countries. While daily purchases might use faster payment systems, large value transfers can settle on Bitcoin's secure, neutral network.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p14",
+                            "pageType": "question",
+                            "headline": "What are satoshis in Bitcoin?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Special mining computers",
+                                    "Smallest Bitcoin units (1/100M)",
+                                    "Bitcoin wallet addresses",
+                                    "Transaction confirmation times"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-3-p15",
+                            "pageType": "content",
+                            "headline": "Bitcoin's Long-term Vision",
+                            "body": "Bitcoin represents more than digital money\u2014it's an experiment in decentralized value storage and transfer. Whether it ultimately succeeds as digital gold, global currency, or something entirely new, Bitcoin has already transformed how we think about money and sovereignty.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-4",
+                    "title": "How Bitcoin Mining Works",
+                    "order": 4,
+                    "durationMinutes": 4,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-4-p1",
+                            "pageType": "content",
+                            "headline": "The Mining Metaphor",
+                            "body": "Bitcoin 'mining' doesn't involve digging or physical extraction. Instead, powerful computers compete to solve complex mathematical puzzles. The winner gets to add the next block of transactions to the blockchain and receives new Bitcoin as reward.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p2",
+                            "pageType": "content",
+                            "headline": "Proof of Work System",
+                            "body": "Miners must prove they've done computational work by finding a specific number that makes the block's hash start with zeros. This requires billions of guesses but is easy to verify. This 'proof of work' secures the network against attacks.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p3",
+                            "pageType": "content",
+                            "headline": "The 10-Minute Target",
+                            "body": "Bitcoin automatically adjusts mining difficulty to maintain approximately 10-minute intervals between blocks. If miners get too fast, the puzzle becomes harder. If they slow down, it gets easier. This keeps the network running smoothly regardless of mining power.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p4",
+                            "pageType": "content",
+                            "headline": "Mining Hardware Evolution",
+                            "body": "Early Bitcoin miners used regular computers, then graphics cards, and now specialized ASIC chips. Each generation became more efficient at Bitcoin mining but useless for other tasks. This evolution reflects Bitcoin's growing value and competition.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p5",
+                            "pageType": "content",
+                            "headline": "Mining Pool Cooperation",
+                            "body": "Individual miners rarely solve blocks alone anymore due to intense competition. Mining pools combine many miners' computing power and share rewards proportionally. This provides more predictable income than solo mining's feast-or-famine approach.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p6",
+                            "pageType": "question",
+                            "headline": "Why do miners join mining pools?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To reduce electricity costs",
+                                    "For more predictable income",
+                                    "To avoid buying equipment",
+                                    "To get government subsidies"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p7",
+                            "pageType": "content",
+                            "headline": "Economic Incentives",
+                            "body": "Miners invest in expensive equipment and electricity costs because they expect Bitcoin rewards to exceed expenses. This economic incentive aligns miners' self-interest with network security. As long as Bitcoin has value, miners will secure the network.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p8",
+                            "pageType": "content",
+                            "headline": "Transaction Fee Revenue",
+                            "body": "Besides block rewards, miners earn transaction fees from users wanting faster confirmation. As block rewards decrease over time through halving events, transaction fees will become miners' primary revenue source, maintaining their incentive to secure the network.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p9",
+                            "pageType": "content",
+                            "headline": "Geographic Distribution",
+                            "body": "Bitcoin mining occurs globally wherever electricity is cheap and regulations allow. This geographic distribution prevents any single country from controlling the network. China once dominated mining but crackdowns led to redistribution across many countries.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p10",
+                            "pageType": "content",
+                            "headline": "Environmental Considerations",
+                            "body": "Bitcoin mining's energy consumption sparks environmental debates. However, miners increasingly use renewable energy sources like hydroelectric, solar, and wind power because they offer the cheapest electricity. Some projects even use stranded or excess energy.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p11",
+                            "pageType": "question",
+                            "headline": "What adjusts to maintain 10-minute blocks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Mining difficulty level",
+                                    "Number of active miners",
+                                    "Transaction processing speed",
+                                    "Block size limitations"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p12",
+                            "pageType": "content",
+                            "headline": "The Security Trade-off",
+                            "body": "Bitcoin's energy consumption directly correlates with its security level. More computational power makes the network harder to attack but uses more electricity. This trade-off between security and efficiency defines Bitcoin's approach to decentralized money.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-4-p13",
+                            "pageType": "content",
+                            "headline": "Mining's Future Evolution",
+                            "body": "As Bitcoin matures, mining will likely consolidate among professional operators with access to cheap energy and efficient hardware. However, the network's decentralized nature ensures no single entity can control Bitcoin, maintaining its censorship-resistant properties.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-5",
+                    "title": "Ethereum and Smart Contracts",
+                    "order": 5,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-5-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Digital Money",
+                            "body": "While Bitcoin focuses on peer-to-peer payments, Ethereum created a 'world computer' that runs programs on the blockchain. These programs, called smart contracts, automatically execute agreements without intermediaries. Think of it as programmable money with superpowers.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p2",
+                            "pageType": "content",
+                            "headline": "Smart Contracts Explained",
+                            "body": "A smart contract is like a vending machine\u2014you insert coins, make a selection, and automatically receive your product. No human operator is needed because the machine follows programmed rules. Smart contracts work similarly but can handle complex financial agreements.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p3",
+                            "pageType": "content",
+                            "headline": "Ethereum's Native Currency",
+                            "body": "Ethereum's built-in currency, Ether (ETH), pays for computational resources needed to run smart contracts. Every operation costs 'gas' paid in ETH, preventing infinite loops and spam. This creates demand for ETH beyond simple value transfer.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p4",
+                            "pageType": "content",
+                            "headline": "Real-world Applications",
+                            "body": "Smart contracts power decentralized finance (DeFi), enabling lending, borrowing, and trading without banks. They create digital collectibles (NFTs), automate insurance payouts, and manage supply chains. The applications seem limitless as developers build new use cases.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p5",
+                            "pageType": "question",
+                            "headline": "What powers smart contract execution on Ethereum?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Bitcoin payments for processing",
+                                    "Gas fees paid in Ether (ETH)",
+                                    "Government authorization tokens",
+                                    "Free community computing power"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p6",
+                            "pageType": "content",
+                            "headline": "Programmable Money Benefits",
+                            "body": "Traditional contracts require lawyers, courts, and enforcement mechanisms. Smart contracts execute automatically when conditions are met, reducing costs and eliminating disputes about terms. Code becomes law, though this also creates new risks if the code has bugs.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p7",
+                            "pageType": "content",
+                            "headline": "Ethereum 2.0 Upgrade",
+                            "body": "Ethereum is transitioning from energy-intensive mining to a more efficient 'proof of stake' system. This upgrade dramatically reduces energy consumption while increasing transaction capacity. Validators replace miners, securing the network by staking their ETH as collateral.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p8",
+                            "pageType": "question",
+                            "headline": "How does proof of stake differ from mining?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Uses more electricity for security",
+                                    "Requires expensive mining hardware",
+                                    "Validators stake coins as collateral",
+                                    "Only governments can participate"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p9",
+                            "pageType": "question",
+                            "headline": "What makes smart contracts 'smart'?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They use artificial intelligence",
+                                    "They automatically execute when conditions are met",
+                                    "They can predict market movements",
+                                    "They learn from past transactions"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p10",
+                            "pageType": "content",
+                            "headline": "Development Platform",
+                            "body": "Ethereum provides tools and infrastructure for developers to build decentralized applications (dApps). These applications run on thousands of computers worldwide rather than centralized servers. This creates applications resistant to censorship and single points of failure.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p11",
+                            "pageType": "question",
+                            "headline": "What are decentralized applications (dApps)?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Mobile apps that work offline",
+                                    "Applications running on centralized servers",
+                                    "Apps distributed across blockchain networks",
+                                    "Software that requires special hardware"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-5-p12",
+                            "pageType": "content",
+                            "headline": "The Gas Fee Challenge",
+                            "body": "Popular dApps can cause network congestion, driving up gas fees to hundreds of dollars per transaction. This makes Ethereum expensive for small transactions. Layer 2 solutions and competing blockchains address this by offering cheaper alternatives.",
+                            "imageURL": "warning",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-6",
+                    "title": "DeFi and Decentralized Finance",
+                    "order": 6,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-6-p1",
+                            "pageType": "content",
+                            "headline": "Banking Without Banks",
+                            "body": "Decentralized Finance (DeFi) recreates traditional financial services using smart contracts instead of banks. You can lend, borrow, trade, and earn interest on cryptocurrency without intermediaries. Your funds remain under your control throughout these processes.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p2",
+                            "pageType": "content",
+                            "headline": "Automated Market Makers",
+                            "body": "Traditional exchanges match buyers with sellers through order books. DeFi uses automated market makers (AMMs) where algorithms set prices based on supply and demand. This enables 24/7 trading without human market makers or exchange operators.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p3",
+                            "pageType": "content",
+                            "headline": "Liquidity Providing",
+                            "body": "Anyone can become a market maker by depositing cryptocurrency pairs into liquidity pools. These pools enable trading while providers earn fees from each transaction. It's like earning interest by helping others trade rather than just holding assets.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p4",
+                            "pageType": "question",
+                            "headline": "What do liquidity providers earn?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Fixed government interest rates",
+                                    "Guaranteed principal protection",
+                                    "Mining rewards from validation",
+                                    "Trading fees from transactions"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p5",
+                            "pageType": "content",
+                            "headline": "Lending and Borrowing",
+                            "body": "DeFi lending platforms let you earn interest by depositing cryptocurrency or borrow against your holdings as collateral. Smart contracts automatically manage loans, calculate interest, and liquidate collateral if needed. No credit checks or bank approvals required.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p6",
+                            "pageType": "content",
+                            "headline": "Yield Farming Strategies",
+                            "body": "Yield farming involves moving funds between different DeFi protocols to maximize returns. Farmers chase the highest interest rates, often receiving additional rewards in governance tokens. This can be profitable but requires active management and carries significant risks.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p7",
+                            "pageType": "question",
+                            "headline": "How do DeFi loans work differently than banks?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Require better credit scores",
+                                    "Need government loan guarantees",
+                                    "Use crypto collateral instead of credit",
+                                    "Only available during business hours"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p8",
+                            "pageType": "question",
+                            "headline": "What is yield farming in DeFi?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Growing crops using blockchain",
+                                    "Mining cryptocurrency with computers",
+                                    "Moving funds to maximize returns",
+                                    "Creating new types of tokens"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p9",
+                            "pageType": "content",
+                            "headline": "Flash Loans Innovation",
+                            "body": "Flash loans let you borrow massive amounts of cryptocurrency without collateral, but you must repay everything within the same transaction. This enables complex arbitrage strategies and financial innovations impossible in traditional finance. Fail to repay and the entire transaction reverses.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p10",
+                            "pageType": "question",
+                            "headline": "What makes flash loans unique?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They process very quickly",
+                                    "Borrow and repay same transaction",
+                                    "Available only to institutions",
+                                    "Require physical asset collateral"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p11",
+                            "pageType": "content",
+                            "headline": "Governance Tokens",
+                            "body": "Many DeFi protocols issue governance tokens that let holders vote on protocol changes. Token holders can propose new features, adjust parameters, or direct treasury funds. This creates decentralized governance where users control the platforms they use.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p12",
+                            "pageType": "content",
+                            "headline": "Smart Contract Risks",
+                            "body": "DeFi's programmable nature creates new risks alongside opportunities. Smart contract bugs can drain funds, economic exploits can manipulate prices, and composability means failures can cascade across protocols. Due diligence becomes crucial in this experimental space.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p13",
+                            "pageType": "content",
+                            "headline": "Traditional Finance Integration",
+                            "body": "Banks and financial institutions increasingly explore DeFi integration. Some offer crypto custody services, others invest in DeFi protocols directly. This convergence could bring DeFi's innovation to mainstream finance while providing traditional finance's stability.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-6-p14",
+                            "pageType": "content",
+                            "headline": "The DeFi Ecosystem",
+                            "body": "DeFi protocols often integrate with each other, creating a composable financial system. You might borrow on one platform, trade on another, and provide liquidity on a third\u2014all within minutes. This interconnectedness amplifies both opportunities and risks.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-7",
+                    "title": "Altcoins and Token Types",
+                    "order": 7,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-7-p1",
+                            "pageType": "content",
+                            "headline": "Beyond Bitcoin",
+                            "body": "Alternative cryptocurrencies, called 'altcoins,' serve different purposes than Bitcoin's digital gold approach. Some focus on faster payments, others on smart contracts, and many attempt to solve specific problems Bitcoin doesn't address. Each represents a different experiment in digital money.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p2",
+                            "pageType": "content",
+                            "headline": "Payment-Focused Coins",
+                            "body": "Cryptocurrencies like Litecoin and Bitcoin Cash prioritize fast, cheap payments over store-of-value properties. They modify Bitcoin's code to process transactions more quickly, making them better suited for daily purchases like coffee or groceries.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p3",
+                            "pageType": "content",
+                            "headline": "Platform Tokens",
+                            "body": "Platform tokens like Ethereum (ETH), Cardano (ADA), and Solana (SOL) power blockchain networks that run smart contracts and applications. Developers pay fees in these tokens to use the platform's computational resources, creating utility-driven demand.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p4",
+                            "pageType": "question",
+                            "headline": "What distinguishes platform tokens from payment coins?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They process payments faster",
+                                    "They're backed by gold reserves",
+                                    "They cost less to transfer",
+                                    "They power smart contract platforms"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p5",
+                            "pageType": "content",
+                            "headline": "Stablecoins Explained",
+                            "body": "Stablecoins maintain stable prices by pegging to external assets like the US dollar. USDC and Tether (USDT) back their tokens with dollar reserves, while algorithmic stablecoins use complex mechanisms to maintain stability. They combine crypto's benefits with fiat's stability.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p6",
+                            "pageType": "content",
+                            "headline": "Utility Tokens",
+                            "body": "Many projects create tokens that provide access to specific services or features. These utility tokens might grant voting rights, access to premium features, or discounts on services. Their value derives from the utility they provide rather than speculation.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p7",
+                            "pageType": "content",
+                            "headline": "Security Tokens",
+                            "body": "Security tokens represent ownership in real-world assets like stocks, bonds, or real estate. They bring traditional investments onto blockchains, potentially enabling 24/7 trading, fractional ownership, and global accessibility while maintaining regulatory compliance.",
+                            "imageURL": null,
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p8",
+                            "pageType": "content",
+                            "headline": "Governance Tokens",
+                            "body": "Governance tokens give holders voting power over protocol decisions. They can propose changes, vote on upgrades, or direct treasury spending. This creates decentralized autonomous organizations (DAOs) where token holders collectively manage the project.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p9",
+                            "pageType": "content",
+                            "headline": "Meme Coins Phenomenon",
+                            "body": "Some cryptocurrencies gain value primarily through internet culture and community enthusiasm rather than technical innovation. Dogecoin started as a joke but gained mainstream adoption. These 'meme coins' demonstrate crypto's cultural and social dimensions beyond technology.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p10",
+                            "pageType": "question",
+                            "headline": "What drives meme coin value?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Community enthusiasm and culture",
+                                    "Advanced technical features",
+                                    "Government backing guarantees",
+                                    "Corporate partnership deals"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p11",
+                            "pageType": "question",
+                            "headline": "How do stablecoins maintain stable prices?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Government price controls",
+                                    "Pegging to external stable assets",
+                                    "Fixed mining reward schedules",
+                                    "Restricting trading volume"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p12",
+                            "pageType": "content",
+                            "headline": "Wrapped Tokens",
+                            "body": "Wrapped tokens bring cryptocurrencies from one blockchain to another. Wrapped Bitcoin (WBTC) represents Bitcoin on Ethereum, enabling Bitcoin holders to participate in DeFi applications. This cross-chain functionality increases interoperability between different blockchain networks.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p13",
+                            "pageType": "content",
+                            "headline": "Token Standards",
+                            "body": "Different blockchains use various token standards. Ethereum's ERC-20 standard ensures tokens work consistently across applications. Other standards like ERC-721 enable unique tokens (NFTs), while ERC-1155 combines fungible and non-fungible tokens in one contract.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p14",
+                            "pageType": "content",
+                            "headline": "Evaluating Altcoins",
+                            "body": "With thousands of cryptocurrencies available, evaluation becomes crucial. Consider the project's purpose, team experience, technology innovation, and real-world adoption. Many altcoins are experiments that may fail, while others could revolutionize specific industries.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-7-p15",
+                            "pageType": "content",
+                            "headline": "The Altcoin Landscape",
+                            "body": "The cryptocurrency ecosystem continues evolving as different projects compete and cooperate. Some altcoins will likely become major players, others will fade away, and new innovations will emerge. This diversity drives innovation while requiring careful evaluation from users.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-8",
+                    "title": "NFTs and Digital Assets",
+                    "order": 8,
+                    "durationMinutes": 7,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-8-p1",
+                            "pageType": "content",
+                            "headline": "Unique Digital Ownership",
+                            "body": "Non-Fungible Tokens (NFTs) represent unique digital items that cannot be replicated or divided. Unlike cryptocurrencies where each coin is identical, every NFT is distinct. Think of them as digital certificates of authenticity for images, music, videos, or virtual items.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p2",
+                            "pageType": "content",
+                            "headline": "The Fungibility Concept",
+                            "body": "Fungible items are interchangeable\u2014one dollar equals any other dollar. Non-fungible items are unique\u2014your house is different from your neighbor's house. NFTs bring this uniqueness to digital items, creating scarcity in an infinitely copyable digital world.",
+                            "imageURL": "minimal",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p3",
+                            "pageType": "content",
+                            "headline": "Digital Art Revolution",
+                            "body": "NFTs enabled artists to sell digital art with verifiable ownership and provenance. Collectors can prove they own the 'original' digital piece, even though others can view copies. This created new revenue streams for digital artists and changed how we think about digital ownership.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p4",
+                            "pageType": "content",
+                            "headline": "Beyond Digital Art",
+                            "body": "NFTs represent more than art\u2014they can be event tickets, game items, domain names, or membership passes. Musicians sell albums as NFTs, game developers create tradeable in-game assets, and brands offer exclusive digital experiences to NFT holders.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p5",
+                            "pageType": "question",
+                            "headline": "What makes NFTs different from cryptocurrencies?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They're stored on different blockchains",
+                                    "They process transactions faster",
+                                    "They cost more in transaction fees",
+                                    "Each NFT is unique and non-divisible"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p6",
+                            "pageType": "content",
+                            "headline": "Metadata and Storage",
+                            "body": "NFTs don't usually store images directly on blockchain due to cost and size limitations. Instead, they contain metadata pointing to where the actual content is stored. This creates potential issues if the storage service disappears or the links break.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p7",
+                            "pageType": "content",
+                            "headline": "Utility-Driven NFTs",
+                            "body": "The most valuable NFTs often provide utility beyond just ownership bragging rights. They might grant access to exclusive communities, special events, or future benefits. This utility creates ongoing value rather than purely speculative worth.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p8",
+                            "pageType": "question",
+                            "headline": "Where is NFT content usually stored?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Directly on the blockchain",
+                                    "In government databases",
+                                    "Off-chain storage with metadata links",
+                                    "On the creator's personal computer"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p9",
+                            "pageType": "content",
+                            "headline": "Gaming and Virtual Worlds",
+                            "body": "NFTs enable true ownership of digital game items that players can trade across different games and platforms. Virtual real estate, character skins, and weapons become portable assets rather than being locked in specific games. This could transform gaming economies.",
+                            "imageURL": "rocket",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p10",
+                            "pageType": "content",
+                            "headline": "Royalties and Creator Economy",
+                            "body": "Smart contracts can automatically pay royalties to creators whenever their NFTs resell on secondary markets. This provides ongoing revenue streams and aligns creator incentives with long-term value. Traditional art sales only benefit creators once.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p11",
+                            "pageType": "question",
+                            "headline": "How do NFT royalties work?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Paid monthly by blockchain networks",
+                                    "Collected through government taxes",
+                                    "Generated from mining rewards",
+                                    "Automatic payments on resales"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p12",
+                            "pageType": "content",
+                            "headline": "Environmental Concerns",
+                            "body": "Early NFTs on energy-intensive blockchains like Ethereum raised environmental concerns due to high electricity usage. However, newer platforms use more efficient consensus mechanisms, and Ethereum's transition to proof-of-stake dramatically reduced energy consumption.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p13",
+                            "pageType": "content",
+                            "headline": "Market Speculation",
+                            "body": "The NFT market experienced massive speculation, with some pieces selling for millions before prices crashed dramatically. This volatility highlights the difference between speculative assets and those with genuine utility or artistic merit. Long-term value requires more than hype.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-8-p14",
+                            "pageType": "content",
+                            "headline": "Future Applications",
+                            "body": "NFTs could revolutionize digital identity, academic credentials, supply chain verification, and intellectual property management. As the technology matures, expect more practical applications beyond digital art and collectibles. The underlying concept of unique digital ownership has broad implications.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-9",
+                    "title": "Crypto Wallets and Security",
+                    "order": 9,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-9-p1",
+                            "pageType": "content",
+                            "headline": "Your Digital Keys",
+                            "body": "A cryptocurrency wallet doesn't store coins like a physical wallet stores cash. Instead, it manages private keys that prove ownership of cryptocurrency addresses on the blockchain. Think of it as a keychain that controls access to your digital safe deposit boxes.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p2",
+                            "pageType": "content",
+                            "headline": "Public and Private Keys",
+                            "body": "Every wallet contains pairs of public and private keys. Public keys are like bank account numbers\u2014safe to share for receiving payments. Private keys are like passwords\u2014never share them because anyone with access can spend your cryptocurrency. Lose the private key, lose the coins.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p3",
+                            "pageType": "content",
+                            "headline": "Hot vs Cold Storage",
+                            "body": "Hot wallets connect to the internet for convenient transactions but face hacking risks. Cold wallets remain offline, providing maximum security but less convenience. Most users benefit from combining both\u2014hot wallets for small amounts, cold storage for long-term savings.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p4",
+                            "pageType": "content",
+                            "headline": "Hardware Wallet Benefits",
+                            "body": "Hardware wallets store private keys on dedicated devices that never connect directly to the internet. Even when plugged into infected computers, the keys remain secure. Popular brands like Ledger and Trezor offer bank-level security for personal use.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p5",
+                            "pageType": "question",
+                            "headline": "What's the main advantage of cold storage?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Faster transaction processing speeds",
+                                    "Lower transaction fees charged",
+                                    "Maximum security from offline storage",
+                                    "Better user interface design"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p6",
+                            "pageType": "question",
+                            "headline": "What should you never share?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Your public wallet address",
+                                    "Transaction confirmation numbers",
+                                    "Your private keys or seed phrase",
+                                    "The blockchain network you use"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p7",
+                            "pageType": "content",
+                            "headline": "Seed Phrase Recovery",
+                            "body": "When creating a wallet, you receive a seed phrase of 12-24 random words. This phrase can restore your entire wallet and all its keys if your device is lost or damaged. Write it down and store it securely\u2014digital storage risks hacking.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p8",
+                            "pageType": "content",
+                            "headline": "Multi-Signature Security",
+                            "body": "Multi-signature wallets require multiple private keys to authorize transactions, similar to requiring multiple bank signatories for large withdrawals. This prevents single points of failure and enables shared control over funds between multiple parties or devices.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p9",
+                            "pageType": "content",
+                            "headline": "Mobile Wallet Convenience",
+                            "body": "Smartphone apps provide convenient crypto wallets for daily use and small amounts. They balance security with usability, offering features like QR code scanning and merchant integration. However, mobile devices face more security risks than dedicated hardware wallets.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p10",
+                            "pageType": "content",
+                            "headline": "Exchange vs Personal Wallets",
+                            "body": "Cryptocurrency exchanges offer built-in wallets for trading convenience, but they control your private keys. Personal wallets give you full control but require more responsibility. The crypto saying 'not your keys, not your coins' highlights this important distinction.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p11",
+                            "pageType": "content",
+                            "headline": "Common Security Mistakes",
+                            "body": "Never enter your seed phrase on websites, share screenshots of private keys, or store credentials in cloud services. Phishing attacks often impersonate legitimate services to steal wallet information. Always verify URLs and use official apps from trusted sources.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p12",
+                            "pageType": "question",
+                            "headline": "What does 'not your keys, not your coins' mean?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Without private key control, you don't own coins",
+                                    "Physical keys unlock cryptocurrency vaults",
+                                    "Key manufacturing determines coin quality",
+                                    "Government keys validate all transactions"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p13",
+                            "pageType": "content",
+                            "headline": "Backup Strategies",
+                            "body": "Create multiple backups of your seed phrase and store them in different secure locations. Consider fireproof safes, bank safe deposit boxes, or metal seed phrase storage devices. Test your backup by recovering a small test wallet before trusting it with significant funds.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-9-p14",
+                            "pageType": "content",
+                            "headline": "Advanced Security Practices",
+                            "body": "Advanced users employ techniques like air-gapped computers for wallet generation, decoy wallets with small amounts, and geographic distribution of backup materials. While overkill for most users, these practices demonstrate the security possibilities in cryptocurrency storage.",
+                            "imageURL": "tools",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-10",
+                    "title": "Exchanges and Trading",
+                    "order": 10,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-10-p1",
+                            "pageType": "content",
+                            "headline": "Digital Trading Platforms",
+                            "body": "Cryptocurrency exchanges are digital marketplaces where people buy, sell, and trade cryptocurrencies. They function similarly to stock exchanges but operate 24/7 and handle digital assets. Major exchanges like Coinbase, Binance, and Kraken serve millions of users worldwide.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p2",
+                            "pageType": "content",
+                            "headline": "Centralized vs Decentralized",
+                            "body": "Centralized exchanges (CEX) operate like traditional companies with customer service, regulation compliance, and user-friendly interfaces. Decentralized exchanges (DEX) run on smart contracts without central authority, offering more privacy but requiring technical knowledge.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p3",
+                            "pageType": "question",
+                            "headline": "What's the main difference between CEX and DEX?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Centralized have company control, decentralized don't",
+                                    "Decentralized process transactions faster",
+                                    "Centralized have higher security",
+                                    "Decentralized charge lower fees"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p4",
+                            "pageType": "content",
+                            "headline": "Order Types Explained",
+                            "body": "Market orders buy or sell immediately at current prices, while limit orders wait for specific price targets. Stop-loss orders automatically sell if prices fall below set levels, protecting against major losses. Understanding these tools helps manage risk and timing.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p5",
+                            "pageType": "content",
+                            "headline": "Trading Fees Structure",
+                            "body": "Exchanges profit through trading fees, typically 0.1% to 1% per transaction. High-volume traders often get discounts, and some exchanges offer lower fees for using their native tokens. Withdrawal fees for moving cryptocurrency to personal wallets vary by coin and exchange.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p6",
+                            "pageType": "question",
+                            "headline": "How do exchanges typically make money?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Trading fees from transactions",
+                                    "Government subsidies for operations",
+                                    "Selling cryptocurrency at premiums",
+                                    "Monthly subscription charges"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p7",
+                            "pageType": "question",
+                            "headline": "What happens with a stop-loss order?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Automatically sells if price drops below limit",
+                                    "Prevents buying above certain prices",
+                                    "Stops trading during market volatility",
+                                    "Limits daily trading volume amounts"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p8",
+                            "pageType": "content",
+                            "headline": "KYC and AML Requirements",
+                            "body": "Know Your Customer (KYC) and Anti-Money Laundering (AML) regulations require exchanges to verify user identities and monitor suspicious activities. This involves uploading government IDs and proof of address. While reducing privacy, these requirements enable legal operation in most countries.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p9",
+                            "pageType": "question",
+                            "headline": "Why do exchanges require identity verification?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To improve customer service quality",
+                                    "For regulatory compliance and legal operation",
+                                    "To offer personalized trading recommendations",
+                                    "To prevent duplicate account creation"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p10",
+                            "pageType": "content",
+                            "headline": "Liquidity and Slippage",
+                            "body": "Liquidity refers to how easily you can buy or sell without affecting prices. High liquidity means stable prices and quick execution, while low liquidity can cause slippage\u2014getting worse prices than expected. Major cryptocurrencies typically have better liquidity than obscure altcoins.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p11",
+                            "pageType": "content",
+                            "headline": "Exchange Security Risks",
+                            "body": "Exchanges face constant hacking attempts and have suffered major breaches throughout crypto history. While security has improved significantly, exchanges remain attractive targets. Never store more cryptocurrency on exchanges than you're willing to lose, and enable all available security features.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p12",
+                            "pageType": "content",
+                            "headline": "Choosing an Exchange",
+                            "body": "Consider factors like supported cryptocurrencies, trading fees, security reputation, user interface, customer service, and regulatory compliance. Start with reputable, well-established exchanges before exploring smaller or specialized platforms. Research thoroughly before trusting any exchange with your funds.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-10-p13",
+                            "pageType": "content",
+                            "headline": "Advanced Trading Features",
+                            "body": "Professional traders use features like margin trading, futures contracts, and options to amplify returns or hedge positions. These instruments involve significant risks and can lead to losses exceeding initial investments. Beginners should master basic trading before attempting advanced strategies.",
+                            "imageURL": "warning",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-11",
+                    "title": "Market Dynamics and Volatility",
+                    "order": 11,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-11-p1",
+                            "pageType": "content",
+                            "headline": "Extreme Price Swings",
+                            "body": "Cryptocurrency markets experience volatility that makes traditional stocks look stable. Bitcoin can gain or lose 20% in a single day, while smaller cryptocurrencies can double or halve in value within hours. This volatility creates both opportunities and significant risks for investors.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p2",
+                            "pageType": "content",
+                            "headline": "Market Size and Maturity",
+                            "body": "The entire cryptocurrency market remains relatively small compared to traditional assets like stocks or gold. This smaller size means individual large trades can move prices dramatically. As markets mature and grow larger, volatility should theoretically decrease over time.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p3",
+                            "pageType": "content",
+                            "headline": "24/7 Trading Impact",
+                            "body": "Unlike stock markets that close on weekends and holidays, cryptocurrency markets never sleep. This constant trading can amplify volatility as news breaks during traditional market closures. Weekend price movements often surprise investors accustomed to traditional market hours.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p4",
+                            "pageType": "question",
+                            "headline": "What contributes most to crypto volatility?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Government price controls",
+                                    "Daily bank interest changes",
+                                    "Relatively small market size",
+                                    "Fixed supply limitations"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p5",
+                            "pageType": "content",
+                            "headline": "Emotional Trading Behavior",
+                            "body": "Cryptocurrency attracts many inexperienced investors prone to emotional decision-making. Fear of missing out (FOMO) drives buying at peaks, while panic selling occurs during crashes. This retail investor behavior amplifies price swings beyond what fundamentals would suggest.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p6",
+                            "pageType": "content",
+                            "headline": "News and Social Media",
+                            "body": "Cryptocurrency prices react strongly to news, social media sentiment, and celebrity endorsements. A single tweet from influential figures can move markets significantly. This news-driven volatility highlights the importance of staying informed and thinking critically about information sources.",
+                            "imageURL": "phone",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p7",
+                            "pageType": "content",
+                            "headline": "Regulatory Announcements",
+                            "body": "Government regulatory announcements create major price movements. Positive regulation news can trigger rallies, while crackdown threats cause sell-offs. The regulatory landscape remains uncertain in many countries, contributing to ongoing volatility as policies develop.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p8",
+                            "pageType": "question",
+                            "headline": "How do regulatory announcements affect prices?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They have no impact on markets",
+                                    "They create major price movements",
+                                    "They only affect small cryptocurrencies",
+                                    "They stabilize market volatility"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p9",
+                            "pageType": "content",
+                            "headline": "Whale Movements",
+                            "body": "Large holders called 'whales' can move markets through substantial buy or sell orders. When whales transfer cryptocurrencies between wallets, it often signals potential selling pressure and can trigger price drops even before actual sales occur.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p10",
+                            "pageType": "question",
+                            "headline": "What are 'whales' in cryptocurrency markets?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Automated trading algorithms",
+                                    "Large holders with market influence",
+                                    "Government regulatory agencies",
+                                    "Cryptocurrency exchange platforms"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p11",
+                            "pageType": "content",
+                            "headline": "Market Cycles",
+                            "body": "Cryptocurrency markets follow boom and bust cycles with periods of explosive growth followed by severe corrections. These cycles often align with technological developments, regulatory changes, and broader economic conditions. Understanding cycles helps set realistic expectations.",
+                            "imageURL": "refresh",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p12",
+                            "pageType": "content",
+                            "headline": "Correlation with Traditional Markets",
+                            "body": "Cryptocurrency prices increasingly correlate with traditional financial markets during times of economic stress. While initially seen as uncorrelated assets, major cryptocurrencies now often move in sync with stocks during market crashes, reducing their diversification benefits.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p13",
+                            "pageType": "content",
+                            "headline": "Volatility as Feature",
+                            "body": "Some argue that volatility is a feature, not a bug, in emerging cryptocurrency markets. Volatility enables price discovery, attracts traders providing liquidity, and reflects the genuine uncertainty about future adoption and value. As markets mature, volatility should moderate naturally.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p14",
+                            "pageType": "content",
+                            "headline": "Managing Volatility Risk",
+                            "body": "Investors can manage volatility through position sizing, dollar-cost averaging, and time diversification. Never invest more than you can afford to lose completely, and consider cryptocurrency as a small portion of a diversified investment portfolio.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-11-p15",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Despite extreme short-term volatility, major cryptocurrencies like Bitcoin have delivered strong returns over multi-year periods. Successful crypto investors often focus on long-term technological and adoption trends rather than daily price movements. Patience rewards those who can tolerate volatility.",
+                            "imageURL": "time",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-12",
+                    "title": "Avoiding Scams and Risks",
+                    "order": 12,
+                    "durationMinutes": 6,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-12-p1",
+                            "pageType": "content",
+                            "headline": "The Wild West Environment",
+                            "body": "Cryptocurrency's unregulated nature attracts legitimate innovation and criminal activity. The irreversible nature of crypto transactions makes them attractive to scammers because victims cannot reverse fraudulent payments. Staying vigilant protects your assets and financial future.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p2",
+                            "pageType": "content",
+                            "headline": "Ponzi Scheme Red Flags",
+                            "body": "Ponzi schemes promise unrealistic returns with little or no risk, often through 'guaranteed' daily or weekly payouts. They pay early investors with new investor money until they collapse. If something promises consistent high returns with no downside, it's likely a scam.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p3",
+                            "pageType": "question",
+                            "headline": "What's a major red flag for Ponzi schemes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Volatile price movements",
+                                    "Guaranteed high returns with no risk",
+                                    "Complex technical documentation",
+                                    "Limited trading on exchanges"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p4",
+                            "pageType": "content",
+                            "headline": "Phishing Attack Prevention",
+                            "body": "Scammers create fake websites that look identical to legitimate exchanges or wallets to steal login credentials. Always type URLs manually or use bookmarks rather than clicking links in emails. Enable two-factor authentication and verify website certificates before entering sensitive information.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p5",
+                            "pageType": "content",
+                            "headline": "Social Engineering Tactics",
+                            "body": "Scammers use social engineering to build trust before requesting cryptocurrency payments. They impersonate customer support, romantic interests, or authority figures. Legitimate businesses never demand cryptocurrency payments, especially with urgency or secrecy requirements.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p6",
+                            "pageType": "content",
+                            "headline": "Fake Cryptocurrency Projects",
+                            "body": "Thousands of fake cryptocurrencies exist with no real purpose beyond enriching their creators. They often copy names or branding from legitimate projects. Research teams, technology, use cases, and community support before investing in any cryptocurrency project.",
+                            "imageURL": "mirror",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p7",
+                            "pageType": "question",
+                            "headline": "How should legitimate customer support contact you?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Through direct messages on social media",
+                                    "Never demand cryptocurrency payments",
+                                    "Always request immediate wire transfers",
+                                    "Only communicate through email"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p8",
+                            "pageType": "content",
+                            "headline": "Romance and Dating Scams",
+                            "body": "Online romance scammers build relationships over weeks or months before introducing cryptocurrency investment opportunities or requesting financial help. They often claim to be traveling, in the military, or facing emergencies. Never send cryptocurrency to online romantic interests.",
+                            "imageURL": "heart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p9",
+                            "pageType": "content",
+                            "headline": "Giveaway and Doubling Scams",
+                            "body": "Scammers impersonate celebrities or companies offering to double any cryptocurrency sent to their addresses. They use fake social media accounts and fabricated testimonials. Remember: legitimate giveaways never require upfront payments. If it seems too good to be true, it is.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p10",
+                            "pageType": "content",
+                            "headline": "Investment Advisor Fraud",
+                            "body": "Fake investment advisors promise to manage your cryptocurrency for extraordinary returns. They often show fabricated trading results and use high-pressure sales tactics. Only work with registered, regulated financial advisors and never give anyone else control of your private keys.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p11",
+                            "pageType": "question",
+                            "headline": "What characterizes legitimate cryptocurrency giveaways?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Require sending crypto first",
+                                    "Never require upfront payments",
+                                    "Promise to double your money",
+                                    "Only last for limited time"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-12-p12",
+                            "pageType": "content",
+                            "headline": "Due Diligence Practices",
+                            "body": "Research any cryptocurrency project thoroughly before investing. Check team backgrounds, read whitepapers, examine code repositories, and assess community activity. Verify information through multiple independent sources and be skeptical of marketing claims without technical substance backing them.",
+                            "imageURL": "mirror",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-13",
+                    "title": "Regulation and Compliance",
+                    "order": 13,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-13-p1",
+                            "pageType": "content",
+                            "headline": "Evolving Regulatory Landscape",
+                            "body": "Cryptocurrency regulation varies dramatically between countries and continues evolving rapidly. Some nations embrace crypto innovation, others ban it entirely, and most fall somewhere between with developing frameworks. This regulatory uncertainty creates both opportunities and risks for users.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p2",
+                            "pageType": "content",
+                            "headline": "Securities Classification Debate",
+                            "body": "Regulators struggle to classify cryptocurrencies as currencies, commodities, or securities. This classification affects how they're regulated, taxed, and traded. Bitcoin is generally considered a commodity, while many altcoins face scrutiny as potential securities requiring different compliance measures.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p3",
+                            "pageType": "content",
+                            "headline": "Anti-Money Laundering Rules",
+                            "body": "Cryptocurrency exchanges must comply with Anti-Money Laundering (AML) and Know Your Customer (KYC) regulations. These rules require customer identity verification, transaction monitoring, and suspicious activity reporting. While reducing privacy, compliance enables legal operation in regulated markets.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p4",
+                            "pageType": "content",
+                            "headline": "Bank Secrecy Act Compliance",
+                            "body": "In the United States, cryptocurrency businesses must comply with Bank Secrecy Act requirements including registering as Money Service Businesses. They must maintain records, report large transactions, and implement compliance programs. These requirements legitimize crypto businesses but increase operational costs.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p5",
+                            "pageType": "content",
+                            "headline": "International Regulatory Cooperation",
+                            "body": "Countries increasingly coordinate cryptocurrency regulations through international organizations like the Financial Action Task Force (FATF). This coordination aims to prevent regulatory arbitrage while maintaining consistent global standards for cryptocurrency oversight and compliance.",
+                            "imageURL": "people",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p6",
+                            "pageType": "content",
+                            "headline": "Central Bank Digital Currencies",
+                            "body": "Many central banks develop their own digital currencies (CBDCs) as alternatives to private cryptocurrencies. CBDCs combine digital convenience with government control, potentially offering programmable money while maintaining monetary policy authority. Their impact on private cryptocurrencies remains uncertain.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p7",
+                            "pageType": "question",
+                            "headline": "What are CBDCs designed to do?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Replace all private cryptocurrencies",
+                                    "Eliminate traditional banking systems",
+                                    "Increase cryptocurrency market volatility",
+                                    "Combine digital convenience with government control"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p8",
+                            "pageType": "question",
+                            "headline": "Why do exchanges implement KYC procedures?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "To improve customer trading experience",
+                                    "For regulatory compliance and legal operation",
+                                    "To reduce server load and costs",
+                                    "To prevent cryptocurrency price volatility"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p9",
+                            "pageType": "content",
+                            "headline": "Privacy Coin Scrutiny",
+                            "body": "Privacy-focused cryptocurrencies like Monero and Zcash face increasing regulatory pressure due to their anonymous transaction features. Some exchanges delist these coins to avoid regulatory complications. The tension between financial privacy and regulatory transparency continues evolving.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p10",
+                            "pageType": "question",
+                            "headline": "Why do privacy coins face regulatory scrutiny?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "They process transactions too slowly",
+                                    "Their anonymous features complicate oversight",
+                                    "They consume excessive electricity",
+                                    "They compete with government currencies"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p11",
+                            "pageType": "content",
+                            "headline": "Compliance Technology Solutions",
+                            "body": "Blockchain analytics companies help businesses and regulators track cryptocurrency transactions for compliance purposes. These tools can identify transaction patterns, flag suspicious activities, and connect wallet addresses to real-world identities, making cryptocurrency less anonymous than commonly believed.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p12",
+                            "pageType": "content",
+                            "headline": "Regulatory Sandboxes",
+                            "body": "Some jurisdictions create regulatory sandboxes allowing cryptocurrency companies to operate under relaxed regulations while developing compliance frameworks. These programs enable innovation while protecting consumers, helping regulators understand the technology before implementing comprehensive rules.",
+                            "imageURL": "sparkle",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p13",
+                            "pageType": "content",
+                            "headline": "Cross-Border Compliance Challenges",
+                            "body": "Cryptocurrency's global nature creates complex compliance challenges when different countries have conflicting regulations. Companies must navigate multiple jurisdictions, potentially restricting services in certain regions or maintaining separate compliance programs for different markets.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-13-p14",
+                            "pageType": "content",
+                            "headline": "Future Regulatory Trends",
+                            "body": "Cryptocurrency regulation trends toward clearer frameworks that balance innovation with consumer protection. Expect more specific guidance on token classifications, clearer tax rules, and standardized compliance requirements. Regulatory clarity should ultimately benefit legitimate cryptocurrency adoption.",
+                            "imageURL": "rocket",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-14",
+                    "title": "Tax Implications and Reporting",
+                    "order": 14,
+                    "durationMinutes": 8,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-14-p1",
+                            "pageType": "content",
+                            "headline": "Cryptocurrency Tax Reality",
+                            "body": "Cryptocurrency transactions are taxable events in most countries, despite common misconceptions about tax-free crypto gains. Buying coffee with Bitcoin, trading altcoins, or receiving cryptocurrency as payment all potentially create tax obligations that must be properly reported and calculated.",
+                            "imageURL": "calendar",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p2",
+                            "pageType": "content",
+                            "headline": "Taxable Events Defined",
+                            "body": "Every crypto-to-crypto trade, sale for fiat currency, use for purchases, and receipt as income constitutes a taxable event. Even converting Bitcoin to Ethereum triggers tax calculations. Only holding cryptocurrency without transactions avoids immediate tax consequences.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p3",
+                            "pageType": "content",
+                            "headline": "Capital Gains Treatment",
+                            "body": "Most cryptocurrency trading receives capital gains tax treatment, similar to stocks or property. Short-term gains (held less than one year) face higher tax rates than long-term gains. The specific rates depend on your income level and country's tax code.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p4",
+                            "pageType": "content",
+                            "headline": "Income vs Capital Gains",
+                            "body": "Cryptocurrency received as payment for services, mining rewards, or staking income faces ordinary income tax rates at the time of receipt. Later selling this cryptocurrency for more than its received value creates additional capital gains. This double taxation catches many users unprepared.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p5",
+                            "pageType": "content",
+                            "headline": "Record Keeping Requirements",
+                            "body": "Proper tax reporting requires detailed records of every cryptocurrency transaction including dates, amounts, values, and purposes. Many exchanges provide transaction histories, but users must compile comprehensive records across multiple platforms and wallets for accurate reporting.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p6",
+                            "pageType": "content",
+                            "headline": "Cost Basis Calculations",
+                            "body": "Calculating gains and losses requires determining the cost basis of cryptocurrency holdings. Different accounting methods like FIFO (first-in, first-out) or LIFO (last-in, first-out) can significantly affect tax obligations. Choosing the right method requires professional guidance.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p7",
+                            "pageType": "content",
+                            "headline": "DeFi Tax Complications",
+                            "body": "Decentralized finance activities create complex tax situations. Liquidity provision, yield farming, and governance token rewards all have tax implications that existing regulations don't clearly address. This grey area requires conservative approaches and professional advice.",
+                            "imageURL": "warning",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p8",
+                            "pageType": "content",
+                            "headline": "International Tax Issues",
+                            "body": "Using cryptocurrency across international borders creates additional tax complexity. Different countries have varying rules, and users might face tax obligations in multiple jurisdictions. This is particularly challenging for digital nomads or those using global crypto services.",
+                            "imageURL": "compass",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p9",
+                            "pageType": "question",
+                            "headline": "What triggers cryptocurrency tax obligations?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Every transaction and conversion",
+                                    "Only when selling for cash",
+                                    "Annual holding regardless of transactions",
+                                    "Only profits above certain thresholds"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p10",
+                            "pageType": "question",
+                            "headline": "How is mining income typically taxed?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "No tax until sold",
+                                    "Capital gains rates only",
+                                    "Special mining tax rates",
+                                    "Ordinary income rates at receipt"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p11",
+                            "pageType": "content",
+                            "headline": "Tax Software Solutions",
+                            "body": "Specialized cryptocurrency tax software like TaxBit, Koinly, and CoinTracker help automate calculations and reporting. These tools import transaction data from exchanges and wallets, calculate gains and losses, and generate tax forms. However, complex situations still benefit from professional guidance.",
+                            "imageURL": "tools",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p12",
+                            "pageType": "question",
+                            "headline": "What's essential for accurate crypto tax reporting?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Detailed records of all transactions",
+                                    "Only year-end portfolio values",
+                                    "Estimates based on major trades",
+                                    "Exchange-provided annual summaries"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p13",
+                            "pageType": "content",
+                            "headline": "Penalty Avoidance",
+                            "body": "Cryptocurrency tax evasion carries severe penalties including fines, interest, and potential criminal charges. Tax authorities increasingly scrutinize cryptocurrency transactions and share information with exchanges. Honest reporting and professional guidance provide the best protection against penalties.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p14",
+                            "pageType": "question",
+                            "headline": "What's the safest approach to crypto taxes?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Honest reporting with professional help",
+                                    "Only reporting large transactions",
+                                    "Waiting for clearer regulations",
+                                    "Using anonymous privacy coins"
+                                ],
+                                "correctIndex": 0
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-14-p15",
+                            "pageType": "content",
+                            "headline": "Professional Help Benefits",
+                            "body": "Cryptocurrency taxation complexity often justifies professional tax preparation, especially for active traders or DeFi users. Tax professionals familiar with cryptocurrency can maximize deductions, ensure compliance, and provide peace of mind. The cost often pays for itself through proper optimization.",
+                            "imageURL": "people",
+                            "question": null
+                        }
+                    ]
+                },
+                {
+                    "id": "crypto_for_normies-1-15",
+                    "title": "Building Your Crypto Strategy",
+                    "order": 15,
+                    "durationMinutes": 5,
+                    "pages": [
+                        {
+                            "id": "crypto_for_normies-1-15-p1",
+                            "pageType": "content",
+                            "headline": "Strategic Investment Approach",
+                            "body": "Successful cryptocurrency investment requires strategy beyond buying random coins and hoping for gains. Define your goals, risk tolerance, and time horizon before making any purchases. Are you seeking quick profits, long-term wealth building, or technological experimentation? Your strategy should align with your objectives.",
+                            "imageURL": "target",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p2",
+                            "pageType": "content",
+                            "headline": "Portfolio Allocation",
+                            "body": "Most financial advisors recommend limiting cryptocurrency to 5-10% of your total investment portfolio due to its volatility and speculative nature. Within your crypto allocation, consider diversifying across different types: Bitcoin for store of value, Ethereum for smart contracts, and smaller altcoins for growth potential.",
+                            "imageURL": "chart",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p3",
+                            "pageType": "content",
+                            "headline": "Dollar-Cost Averaging",
+                            "body": "Rather than investing a lump sum, dollar-cost averaging involves making regular smaller purchases over time. This strategy reduces the impact of volatility by buying at various price points. Many successful crypto investors use DCA to build positions gradually while minimizing timing risk.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p4",
+                            "pageType": "question",
+                            "headline": "What's the main benefit of dollar-cost averaging?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Guarantees positive returns",
+                                    "Reduces impact of price volatility",
+                                    "Eliminates all investment risk",
+                                    "Provides instant portfolio growth"
+                                ],
+                                "correctIndex": 1
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p5",
+                            "pageType": "question",
+                            "headline": "What percentage of portfolio should crypto represent?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "100% for maximum returns",
+                                    "50% to balance risk and reward",
+                                    "5-10% due to high volatility",
+                                    "25% following traditional models"
+                                ],
+                                "correctIndex": 2
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p6",
+                            "pageType": "content",
+                            "headline": "Risk Management",
+                            "body": "Never invest more in cryptocurrency than you can afford to lose completely. The market's extreme volatility means even established cryptocurrencies can lose substantial value quickly. Consider your financial situation, debt levels, and emergency fund adequacy before allocating money to crypto investments.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p7",
+                            "pageType": "question",
+                            "headline": "What's the cardinal rule of crypto investing?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Always buy during market dips",
+                                    "Focus only on top cryptocurrencies",
+                                    "Never invest more than you can lose",
+                                    "Sell at first sign of profits"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p8",
+                            "pageType": "question",
+                            "headline": "How should beginners approach crypto research?",
+                            "body": "Select the best answer below.",
+                            "imageURL": null,
+                            "question": {
+                                "options": [
+                                    "Follow social media influencer tips",
+                                    "Buy whatever's trending currently",
+                                    "Study technology and fundamentals deeply",
+                                    "Copy other investors' portfolios"
+                                ],
+                                "correctIndex": 3
+                            }
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p9",
+                            "pageType": "content",
+                            "headline": "Long-term Perspective",
+                            "body": "Cryptocurrency's daily volatility can be mentally exhausting and lead to poor decisions. Successful investors often take multi-year perspectives, focusing on technology adoption and fundamental value rather than daily price movements. This long-term view helps avoid emotional trading mistakes.",
+                            "imageURL": "time",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p10",
+                            "pageType": "content",
+                            "headline": "Security First Mindset",
+                            "body": "Protecting your cryptocurrency investments requires ongoing security vigilance. Use reputable exchanges, enable two-factor authentication, consider hardware wallets for large amounts, and never share private keys. Security breaches can instantly eliminate years of investment gains.",
+                            "imageURL": "shield",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p11",
+                            "pageType": "content",
+                            "headline": "Staying Informed",
+                            "body": "The cryptocurrency space evolves rapidly with new technologies, regulations, and market developments. Follow reputable news sources, join educational communities, and continue learning about blockchain technology. However, filter out noise and focus on substantial developments rather than daily speculation.",
+                            "imageURL": "brain",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p12",
+                            "pageType": "content",
+                            "headline": "Tax Planning Integration",
+                            "body": "Factor tax implications into your cryptocurrency strategy from the beginning. Understand your jurisdiction's tax rules, maintain detailed records, and consider tax-efficient strategies like long-term holding for favorable capital gains treatment. Tax planning can significantly impact your net returns.",
+                            "imageURL": "notes",
+                            "question": null
+                        },
+                        {
+                            "id": "crypto_for_normies-1-15-p13",
+                            "pageType": "content",
+                            "headline": "Your Crypto Journey",
+                            "body": "Building cryptocurrency knowledge and experience takes time. Start small, learn continuously, and gradually increase involvement as you become more comfortable with the technology and risks. Everyone's crypto journey is different\u2014find an approach that matches your goals, risk tolerance, and lifestyle.",
+                            "imageURL": "compass",
+                            "question": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "rating": 4.4,
+    "tag": "Popular"
+}
