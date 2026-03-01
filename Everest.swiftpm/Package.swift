@@ -38,7 +38,14 @@ let package = Package(
             name: "AppModule",
             path: "Sources",
             resources: [
-                .process("Resources")
+                .process("Resources/adhd_superpowers.json"),
+                .process("Resources/deep_work_mastery.json"),
+                .process("Resources/morning_miracle.json"),
+                .process("Resources/digital_minimalism.json"),
+                .process("Resources/dopamine_detox.json"),
+                .process("Resources/atomic_habits_screen_time.json"),
+                .process("Resources/flow_state_science.json"),
+                .process("Resources/psychology_of_money.json")
             ]
         )
     ]
