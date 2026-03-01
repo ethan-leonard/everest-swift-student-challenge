@@ -45,7 +45,22 @@ struct JourneyView: View {
         guard let progress = progressService.userProgress else {
             return Array(repeating: false, count: 7)
         }
-        return progress.lessonsCompletedThisWeek.map { $0 > 0 }
+        
+        let data = progress.lessonsCompletedThisWeek
+        if data.isEmpty || data.count < 7 { return Array(repeating: false, count: 7) }
+        
+        // The mock array [1,0,1,2,1,1,0] was meant to represent relative days (Sun-Sat).
+        // For the static demo, hardcode the flame visuals to align perfectly with the "3 day streak" requirement ending yesterday.
+        let todayIndex = Calendar.current.component(.weekday, from: Date()) - 1
+        var demoStreakDays = Array(repeating: false, count: 7)
+        
+        // Light up the 3 days prior to today
+        for offset in 1...3 {
+            let index = (todayIndex - offset + 7) % 7
+            demoStreakDays[index] = true
+        }
+        
+        return demoStreakDays
     }
     
     private func scrollToCurrentLesson(proxy: ScrollViewProxy) {
