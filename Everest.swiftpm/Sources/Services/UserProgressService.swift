@@ -63,10 +63,20 @@ final class UserProgressService {
         if lastActivity < today {
             let daysMissed = calendar.dateComponents([.day], from: lastActivity, to: today).day ?? 1
             
-            for _ in 0..<min(daysMissed, 7) {
+            // Shift the dailyScreenTimeMinutes array and replenish with 0s
+            let shiftCount = min(daysMissed, 7)
+            for _ in 0..<shiftCount {
                 if !progress.dailyScreenTimeMinutes.isEmpty {
                     progress.dailyScreenTimeMinutes.removeFirst()
                 }
+                progress.dailyScreenTimeMinutes.append(0)
+            }
+            // Safety: ensure array is always exactly 7 elements
+            while progress.dailyScreenTimeMinutes.count < 7 {
+                progress.dailyScreenTimeMinutes.append(0)
+            }
+            if progress.dailyScreenTimeMinutes.count > 7 {
+                progress.dailyScreenTimeMinutes = Array(progress.dailyScreenTimeMinutes.suffix(7))
             }
             
             var isoCalendar = Calendar(identifier: .iso8601)
@@ -81,7 +91,8 @@ final class UserProgressService {
                 progress.lessonsCompletedThisWeek = [0, 0, 0, 0, 0, 0, 0]
             }
             
-            progress.lastActivityDate = Date()
+            // Do NOT update lastActivityDate here — let updateStreak handle the date tracking
+            // to prevent overwriting the "yesterday" anchor before the first lesson
             userProgress = progress
             
             Task {
