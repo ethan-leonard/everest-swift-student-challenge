@@ -19,11 +19,25 @@ struct ScreenTimePlaceholderView: View {
         VStack(alignment: .leading, spacing: 12) {
             headerView
             
-            // Empty chart area
-            ZStack {
-                Color.clear
+            // Static demo chart area
+            HStack(alignment: .bottom, spacing: 16) {
+                ForEach(0..<7, id: \.self) { index in
+                    VStack(spacing: 8) {
+                        let barHeight: CGFloat = [120, 110, 95, 105, 80, 70, 65][index]
+                        
+                        RoundedRectangle(cornerRadius: 6)
+                            .fill(index >= 5 ? brandColor : brandColor.opacity(0.4))
+                            .frame(width: 24, height: barHeight)
+                        
+                        Text(["M", "T", "W", "T", "F", "S", "S"][index])
+                            .font(.system(size: 12, weight: .medium))
+                            .foregroundStyle(textSecondary)
+                    }
+                }
             }
-            .frame(height: 160)
+            .frame(height: 160, alignment: .bottom)
+            .padding(.horizontal, 24)
+            .padding(.bottom, 12)
         }
         .background(
             ZStack {
@@ -59,9 +73,15 @@ struct ScreenTimePlaceholderView: View {
                     .font(.system(size: 16, weight: .medium))
                     .foregroundStyle(textPrimary)
                 
-                Text("Loading...")
-                    .font(.caption)
-                    .foregroundStyle(textSecondary)
+                HStack(alignment: .firstTextBaseline, spacing: 4) {
+                    Text("5h 12m")
+                        .font(.system(size: 24, weight: .bold))
+                        .foregroundStyle(textPrimary)
+                    
+                    Text("Daily Average")
+                        .font(.caption)
+                        .foregroundStyle(textSecondary)
+                }
             }
             
             Spacer()
